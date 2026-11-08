@@ -36,7 +36,7 @@ Four hosts: Chamath Palihapitiya, David Sacks, David Friedberg, Jason Calacanis.
    `gh secret set CLAUDE_CODE_OAUTH_TOKEN -R jerryliu851-lang/all-in-signal`
 3. Enable Pages with source "GitHub Actions" (Settings > Pages), or:
    `gh api -X POST repos/jerryliu851-lang/all-in-signal/pages -f build_type=workflow`
-4. Run the **verify-runner** workflow and read its summary (YouTube access, tooling, token present).
+4. Run the **verify-runner** workflow and read its summary (YouTube access, tooling, token present). Expect `transcript_api` to fail on a GitHub-hosted runner: see "YouTube blocks GitHub-hosted runners" below.
 5. Run the **backfill** workflow in `estimate` mode, read the summary, then run it in `run` mode.
 6. From then on the **pipeline** cron (`17 */6 * * *`) takes over.
 
@@ -106,6 +106,17 @@ resolutions:
     source: https://www.federalreserve.gov/newsevents/pressreleases.htm
     resolved_on: 2026-12-16
 ```
+
+## YouTube blocks GitHub-hosted runners (verified 2026-11-08)
+
+The `verify-runner` workflow, run from a real GitHub Actions IP, showed: playlist listing OK, Gamma OK, Claude Code OK, deno OK, but **youtube-transcript-api returned `RequestBlocked` and the yt-dlp fallback found no caption track**. YouTube blocks datacenter IPs for captions. Without a remedy, every new episode on the cron is recorded as `transcript_unavailable` with a retry counter (retried every tick up to 8 times, then weekly) and the dashboard simply stops gaining episodes. Nothing is skipped silently; the run log and `data/index.json` show the state.
+
+Two remedies, pick one:
+
+1. **Proxy (recommended, small cost).** Add a repository secret `ALLIN_YT_PROXY` with an HTTP(S) proxy URL (`http://user:pass@host:port`). Residential or rotating proxies work; plain datacenter proxies usually do not. The ingest step already passes the secret through to youtube-transcript-api's `GenericProxyConfig`. Re-run `verify-runner` to confirm `transcript_api` turns green.
+2. **Local caption fetch (free).** Run `uv run allin ingest` on a machine with a residential IP (a laptop on a schedule), commit `data/index.json` and `data/transcripts/`, and push. The next cron tick sees status `transcribed`, analyzes, matches, resolves and deploys as usual. The 10-episode backfill was ingested this way.
+
+Everything else in the pipeline runs on the runner unchanged.
 
 ## Known limitations
 - **Scheduled workflows pause after 60 days of repository inactivity.** GitHub disables cron triggers on repos with no activity for 60 days; commits made by the pipeline itself may not count. If the dashboard stops updating, open the Actions tab and re-enable the `pipeline` workflow or push any commit.
