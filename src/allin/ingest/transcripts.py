@@ -1,9 +1,12 @@
-"""Transcript retrieval: youtube-transcript-api first, yt-dlp json3 captions as fallback."""
+"""Transcript retrieval: youtube-transcript-api, then yt-dlp json3 captions, then podcast audio + Whisper."""
 
 from __future__ import annotations
 
 import sys
-from typing import Any
+import tempfile
+from pathlib import Path
+from typing import Any, NamedTuple
+from urllib.parse import urlparse
 
 import httpx
 
@@ -14,6 +17,13 @@ from ..util import youtube_url
 
 def _log(msg: str) -> None:
     print(f"[ingest] {msg}", file=sys.stderr, flush=True)
+
+
+class TranscriptResult(NamedTuple):
+    snippets: list[TranscriptSnippet]
+    source: str
+    is_generated: bool
+    source_detail: str | None = None
 
 
 class TranscriptUnavailable(Exception):
@@ -97,13 +107,54 @@ def _fetch_via_ytdlp(video_id: str, settings: Settings) -> tuple[list[Transcript
     raise RuntimeError("no English json3 caption track found")
 
 
-def fetch_transcript(video_id: str, settings: Settings) -> tuple[list[TranscriptSnippet], str, bool]:
-    """Return (snippets, source, is_generated); raise TranscriptUnavailable if both backends fail."""
+def _fetch_via_podcast(
+    title: str | None, duration_seconds: int | None, settings: Settings
+) -> tuple[list[TranscriptSnippet], str, str]:
+    """Podcast audio + faster-whisper. Returns (snippets, source, source_detail)."""
+    from . import podcast
+    from . import whisper_transcribe as W
+
+    if not title and duration_seconds is None:
+        raise RuntimeError("podcast fallback needs the episode title or duration")
+    items = podcast.load_feed(settings)
+    item = podcast.match_feed_item(items, title=title or "", duration_seconds=duration_seconds)
+    if item is None:
+        raise RuntimeError(f"no podcast feed item matches {title!r} ({duration_seconds}s)")
+    model = W.whisper_model_name()
+    compute = W.whisper_compute_type()
+    fname = Path(urlparse(item.enclosure_url).path).name or "episode.mp3"
+    with tempfile.TemporaryDirectory(prefix="allin-audio-") as tmp:
+        dest = podcast.download_enclosure(item.enclosure_url, Path(tmp) / fname)
+        _log(f"podcast: downloaded {fname} ({dest.stat().st_size // 1_000_000} MB), transcribing with {model}")
+        snippets, info = W.transcribe_file(
+            dest, model_name=model, compute_type=compute, beam_size=W.whisper_beam_size()
+        )
+    if not snippets:
+        raise RuntimeError("whisper produced no text")
+    yt = f"{duration_seconds}s" if duration_seconds is not None else "unknown"
+    detail = (
+        f"libsyn {fname}; podcast {item.duration_seconds}s vs youtube {yt}; "
+        f"{model} {compute} rtf={info['rtf']:.2f}"
+    )
+    return snippets, f"podcast-whisper:{model}", detail
+
+
+def fetch_transcript(
+    video_id: str,
+    settings: Settings,
+    *,
+    title: str | None = None,
+    duration_seconds: int | None = None,
+) -> TranscriptResult:
+    """Try youtube-transcript-api, yt-dlp captions, then podcast audio + Whisper.
+
+    Raises TranscriptUnavailable (all error messages joined) if every backend fails.
+    """
     errors: list[str] = []
     try:
         snippets, gen = _fetch_via_api(video_id, settings)
         if snippets:
-            return snippets, "youtube-transcript-api", gen
+            return TranscriptResult(snippets, "youtube-transcript-api", gen)
         errors.append("youtube-transcript-api: empty transcript")
     except Exception as exc:  # noqa: BLE001
         errors.append(f"youtube-transcript-api: {type(exc).__name__}: {str(exc).strip()[:300]}")
@@ -111,8 +162,14 @@ def fetch_transcript(video_id: str, settings: Settings) -> tuple[list[Transcript
     try:
         snippets, gen = _fetch_via_ytdlp(video_id, settings)
         if snippets:
-            return snippets, "yt-dlp", gen
+            return TranscriptResult(snippets, "yt-dlp", gen)
         errors.append("yt-dlp: empty transcript")
     except Exception as exc:  # noqa: BLE001
         errors.append(f"yt-dlp: {type(exc).__name__}: {str(exc).strip()[:300]}")
+    _log(f"{video_id}: yt-dlp failed, trying podcast audio + whisper")
+    try:
+        snippets, source, detail = _fetch_via_podcast(title, duration_seconds, settings)
+        return TranscriptResult(snippets, source, True, detail)
+    except Exception as exc:  # noqa: BLE001
+        errors.append(f"podcast-whisper: {type(exc).__name__}: {str(exc).strip()[:300]}")
     raise TranscriptUnavailable(" | ".join(errors))

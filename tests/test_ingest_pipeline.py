@@ -5,7 +5,7 @@ import dataclasses
 import pytest
 
 from allin.ingest import pipeline as P
-from allin.ingest.transcripts import TranscriptUnavailable
+from allin.ingest.transcripts import TranscriptResult, TranscriptUnavailable
 from allin.ingest.youtube import PlaylistEntry, VideoMeta
 from allin.models import IndexEntry, TranscriptSnippet
 from allin.util import now_iso
@@ -28,15 +28,20 @@ def env(monkeypatch):
         state["meta_calls"].append(vid)
         return VideoMeta(video_id=vid, title=f"T {vid}", published_at="2026-11-07", duration_seconds=5400, url=f"u/{vid}")
 
-    def tr(vid, settings):
+    def tr(vid, settings, **kw):
         if vid in state["fail"]:
             raise TranscriptUnavailable("blocked")
-        return SN, "youtube-transcript-api", True
+        return TranscriptResult(SN, "youtube-transcript-api", True)
 
     monkeypatch.setattr(P, "list_playlist_entries", lst)
     monkeypatch.setattr(P, "fetch_video_meta", meta)
     monkeypatch.setattr(P, "fetch_transcript", tr)
     monkeypatch.setattr(P, "rss_fast_path", lambda s: None)
+
+    def no_feed(settings):
+        raise RuntimeError("podcast feed offline in tests")
+
+    monkeypatch.setattr(P, "load_feed", no_feed)
     return state
 
 

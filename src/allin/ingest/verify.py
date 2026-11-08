@@ -67,6 +67,46 @@ def verify_runner(settings: Settings) -> dict:
     results["transcript_ytdlp_fallback"] = _check(ytdlp) if newest else {"ok": False, "detail": "no episode"}
     _log(f"transcript_ytdlp_fallback: {results['transcript_ytdlp_fallback']}")
 
+    def feed():
+        from .podcast import load_feed
+
+        items = load_feed(settings)
+        state["feed"] = items
+        top = items[0] if items else None
+        return bool(items), (
+            f"{len(items)} items; newest {top.title[:70]!r} {top.duration_seconds}s" if top else "no items"
+        )
+
+    results["podcast_feed"] = _check(feed)
+    _log(f"podcast_feed: {results['podcast_feed']}")
+
+    def audio_range():
+        item = (state.get("feed") or [None])[0]
+        if item is None or not item.enclosure_url:
+            return False, "no feed item with an enclosure"
+        from .podcast import USER_AGENT
+
+        r = httpx.get(
+            item.enclosure_url,
+            headers={"Range": "bytes=0-262143", "User-Agent": USER_AGENT},
+            timeout=30.0,
+            follow_redirects=True,
+        )
+        return r.status_code in (200, 206), f"HTTP {r.status_code}, {len(r.content)} bytes, {r.headers.get('content-type')}"
+
+    results["podcast_audio_range"] = _check(audio_range)
+    _log(f"podcast_audio_range: {results['podcast_audio_range']}")
+
+    def whisper():
+        import importlib.util
+
+        from .whisper_transcribe import whisper_model_name
+
+        ok = importlib.util.find_spec("faster_whisper") is not None
+        return ok, f"faster_whisper {'importable' if ok else 'NOT installed'}; model={whisper_model_name()}"
+
+    results["whisper_available"] = _check(whisper)
+
     def rss():
         r = httpx.get(settings.rss_url, timeout=5.0, follow_redirects=True)
         return r.status_code == 200, f"HTTP {r.status_code}"
@@ -96,8 +136,9 @@ def verify_runner(settings: Settings) -> dict:
     for name, r in results.items():
         _log(f"{'ok  ' if r['ok'] else 'FAIL'} {name}: {r['detail']}")
 
+    podcast_path = results["podcast_audio_range"]["ok"] and results["whisper_available"]["ok"]
     hard = (not results["playlist_listing"]["ok"]) or not (
-        results["transcript_api"]["ok"] or results["transcript_ytdlp_fallback"]["ok"]
+        results["transcript_api"]["ok"] or results["transcript_ytdlp_fallback"]["ok"] or podcast_path
     )
     if hard:
         print(__import__("json").dumps(results, indent=2), file=sys.stdout)

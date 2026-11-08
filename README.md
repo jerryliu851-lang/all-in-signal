@@ -111,7 +111,11 @@ resolutions:
 
 The `verify-runner` workflow, run from a real GitHub Actions IP, showed: playlist listing OK, Gamma OK, Claude Code OK, deno OK, but **youtube-transcript-api returned `RequestBlocked` and the yt-dlp fallback found no caption track**. YouTube blocks datacenter IPs for captions. Without a remedy, every new episode on the cron is recorded as `transcript_unavailable` with a retry counter (retried every tick up to 8 times, then weekly) and the dashboard simply stops gaining episodes. Nothing is skipped silently; the run log and `data/index.json` show the state.
 
-Two remedies, pick one:
+Remedy 0 is built in and needs no secret:
+
+0. **Podcast audio + faster-whisper on the runner (built in, free).** When YouTube metadata or captions are blocked, ingestion falls back to the show's podcast feed (`https://rss.libsyn.com/shows/254861/destinations/1928300.xml`; set `ALLIN_PODCAST_FEED` to another URL, or `auto` for an iTunes lookup). Metadata (date, duration, chapters from the description) comes from the matching feed item, and the transcript comes from downloading its mp3 and transcribing it on the runner with faster-whisper (CPU, PyAV decodes the mp3, no ffmpeg). Matching: the feed item whose duration is within 5 s of the YouTube duration (ties broken by rapidfuzz `token_set_ratio` on the title); with no duration match, a title match scoring at least 90; otherwise no match and the episode stays `transcript_unavailable`. The podcast cut is identical to the YouTube cut (e.g. 01:33:04 vs 5583 s), so Whisper timestamps line up with the video. Caveat: Whisper wording differs slightly from YouTube captions, so quote verification runs against the Whisper text (stored as `source: podcast-whisper:<model>`, with `source_detail` recording file, duration delta and rtf). Knobs: `ALLIN_WHISPER_MODEL` (default `small.en`), `ALLIN_WHISPER_COMPUTE` (default `int8`), `ALLIN_WHISPER_BEAM` (default `1`). The model is cached between runs under `~/.cache/huggingface`. Measured on a GitHub-hosted runner (2026-11-08, int8, beam 1, VAD on): `base.en` RTF 0.03 (a 90-minute episode in about 3 minutes), `small.en` RTF 0.08 (about 7 minutes), plus the 134 MB download and a one-time model fetch. Each run records its own `rtf=` in `source_detail`. Needs the `whisper` extra (`uv sync --extra whisper`, already used by the workflows).
+
+Other remedies:
 
 1. **Proxy (recommended, small cost).** Add a repository secret `ALLIN_YT_PROXY` with an HTTP(S) proxy URL (`http://user:pass@host:port`). Residential or rotating proxies work; plain datacenter proxies usually do not. The ingest step already passes the secret through to youtube-transcript-api's `GenericProxyConfig`. Re-run `verify-runner` to confirm `transcript_api` turns green.
 2. **Local caption fetch (free).** Run `uv run allin ingest` on a machine with a residential IP (a laptop on a schedule), commit `data/index.json` and `data/transcripts/`, and push. The next cron tick sees status `transcribed`, analyzes, matches, resolves and deploys as usual. The 10-episode backfill was ingested this way.
@@ -122,7 +126,7 @@ Everything else in the pipeline runs on the runner unchanged.
 - **Scheduled workflows pause after 60 days of repository inactivity.** GitHub disables cron triggers on repos with no activity for 60 days; commits made by the pipeline itself may not count. If the dashboard stops updating, open the Actions tab and re-enable the `pipeline` workflow or push any commit.
 
 - No speaker labels in captions, so attribution is inferred and can be wrong.
-- YouTube may block cloud IPs. Run verify-runner first; set `ALLIN_YT_PROXY` if blocked; a yt-dlp subtitle fallback exists. Failed episodes are marked `transcript_unavailable` with a retry counter, never silently skipped.
+- YouTube blocks cloud IPs; ingestion then falls back to podcast audio + faster-whisper (see remedy 0), whose text differs slightly from YouTube captions and costs runner minutes. `ALLIN_YT_PROXY` restores real captions. Run verify-runner to see which paths work. Failed episodes are marked `transcript_unavailable` with a retry counter, never silently skipped.
 - The YouTube RSS feed is dead (404), so polling uses yt-dlp.
 - Implied probabilities are model estimates, not market data.
 - Quote verification drops quotes that cannot be found in the transcript.

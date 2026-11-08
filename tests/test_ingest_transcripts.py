@@ -20,7 +20,7 @@ def test_parse_json3():
 def test_api_success(monkeypatch, settings):
     sn = [TranscriptSnippet(text="x", start=0, duration=1)]
     monkeypatch.setattr(T, "_fetch_via_api", lambda v, s: (sn, True))
-    assert T.fetch_transcript("v", settings) == (sn, "youtube-transcript-api", True)
+    assert T.fetch_transcript("v", settings) == T.TranscriptResult(sn, "youtube-transcript-api", True)
 
 
 def test_falls_through(monkeypatch, settings):

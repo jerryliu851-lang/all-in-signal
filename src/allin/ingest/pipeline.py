@@ -10,6 +10,7 @@ from ..models import ExcludedEntry, IndexEntry, IngestReport
 from ..store.base import Store
 from ..util import now_iso, youtube_url
 from .normalize import normalize
+from .podcast import load_feed, match_feed_item, meta_from_feed_item
 from .transcripts import TranscriptUnavailable, fetch_transcript
 from .youtube import PlaylistEntry, classify_episode, fetch_video_meta, list_playlist_entries, rss_fast_path
 
@@ -38,6 +39,16 @@ def _eligible(entry: IndexEntry, settings: Settings) -> bool:
         return True
     last = _parse_ts(entry.last_attempt_at)
     return last is None or datetime.now(UTC) - last > RETRY_AFTER
+
+
+def _meta_from_feed(entry: PlaylistEntry, settings: Settings):
+    """VideoMeta from the podcast feed, or None if the feed is unreachable or has no match."""
+    try:
+        item = match_feed_item(load_feed(settings), title=entry.title, duration_seconds=entry.duration_seconds)
+    except Exception as exc:  # noqa: BLE001
+        _log(f"{entry.video_id}: podcast feed unavailable ({type(exc).__name__}: {str(exc)[:120]})")
+        return None
+    return meta_from_feed_item(entry, item) if item is not None else None
 
 
 def run_ingest(store: Store, settings: Settings, *, limit: int | None = None, backfill: bool = False) -> IngestReport:
@@ -101,7 +112,14 @@ def run_ingest(store: Store, settings: Settings, *, limit: int | None = None, ba
             if entry.duration_seconds is not None and entry.duration_seconds < settings.min_full_episode_seconds:
                 ok, reason = classify_episode(entry, None, settings)
             else:
-                meta = fetch_video_meta(vid, settings)
+                try:
+                    meta = fetch_video_meta(vid, settings)
+                except Exception as exc:
+                    _log(f"{vid}: yt-dlp metadata failed ({type(exc).__name__}: {str(exc)[:120]}); trying podcast feed")
+                    meta = _meta_from_feed(entry, settings)
+                    if meta is None:
+                        raise
+                    report.notes.append(f"meta: podcast feed fallback for {vid}")
                 ok, reason = classify_episode(entry, meta, settings)
             if ok:
                 title = (meta.title if meta and meta.title else entry.title) or vid
@@ -140,8 +158,9 @@ def run_ingest(store: Store, settings: Settings, *, limit: int | None = None, ba
             report.retried.append(vid)
         _log(f"{vid}: fetching transcript (attempt {ep.transcript_attempts + 1})")
         try:
-            snippets, source, generated = fetch_transcript(vid, settings)
-            norm = normalize(vid, snippets, source, generated)
+            res = fetch_transcript(vid, settings, title=ep.title, duration_seconds=ep.duration_seconds)
+            snippets, source = res.snippets, res.source
+            norm = normalize(vid, snippets, source, res.is_generated, source_detail=res.source_detail)
             store.save_raw_transcript(vid, snippets, source)
             store.save_normalized_transcript(norm)
             ep.status = "transcribed"

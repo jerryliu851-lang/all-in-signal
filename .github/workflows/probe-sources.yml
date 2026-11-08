@@ -32,3 +32,24 @@ jobs:
             uv run python scripts/probe_sources.py | tee probe.json
           fi
           { echo "## Source probe"; echo '```json'; cat probe.json; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+      - name: End-to-end ingest of the newest episode via the fallback chain (scratch data dir)
+        # Proves the whole runner path: playlist listing -> podcast metadata -> podcast mp3 -> whisper -> normalize.
+        env:
+          ALLIN_DATA_DIR: /tmp/allin-probe-data
+        run: |
+          set -o pipefail
+          uv run allin ingest --limit 1 | tee ingest.json
+          uv run python - <<'PY' | tee e2e.txt
+          import json
+          idx = json.load(open("/tmp/allin-probe-data/index.json"))
+          for vid, e in idx["episodes"].items():
+              print(f"{vid}: status={e['status']} source={e.get('transcript_source')} published={e.get('published_at')} "
+                    f"duration={e.get('duration_seconds')} chapters={len(e.get('chapters') or [])} error={str(e.get('last_error'))[:160]}")
+              try:
+                  t = json.load(open(f"/tmp/allin-probe-data/transcripts/{vid}.normalized.json"))
+                  print(f"  words={t['word_count']} paragraphs={len(t['paragraphs'])} source_detail={t.get('source_detail')}")
+                  print("  first:", t["paragraphs"][0]["start"], t["paragraphs"][0]["text"][:160])
+              except FileNotFoundError:
+                  print("  (no normalized transcript)")
+          PY
+          { echo "## End-to-end ingest"; echo '```'; cat e2e.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"

@@ -31,6 +31,7 @@ def normalize(
     source: str,
     is_generated: bool,
     *,
+    source_detail: str | None = None,
     max_paragraph_seconds: int = 45,
     max_paragraph_words: int = 120,
 ) -> NormalizedTranscript:
@@ -68,5 +69,5 @@ def normalize(
     flush()
     total = sum(len(p.text.split()) for p in paragraphs)
     return NormalizedTranscript(
-        video_id=video_id, source=source, is_generated=is_generated, paragraphs=paragraphs, word_count=total
+        video_id=video_id, source=source, is_generated=is_generated, source_detail=source_detail, paragraphs=paragraphs, word_count=total
     )
