@@ -1,0 +1,1107 @@
+{
+  "schema_version": "1",
+  "episode": {
+    "video_id": "_b3LfMflIGs",
+    "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+    "published_at": "2026-10-17",
+    "url": "https://www.youtube.com/watch?v=_b3LfMflIGs",
+    "duration_seconds": 5646,
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "end_time": 138.0,
+        "title": "Ben Horowitz fills in for Friedberg!"
+      },
+      {
+        "start_time": 138.0,
+        "end_time": 1874.0,
+        "title": "CoreWeave's debt selloff: did the AI bubble just pop?"
+      },
+      {
+        "start_time": 1874.0,
+        "end_time": 2744.0,
+        "title": "AI's deflationary impact: decompiled software"
+      },
+      {
+        "start_time": 2744.0,
+        "end_time": 3825.0,
+        "title": "Anthropic's investor day gets mixed reactions"
+      },
+      {
+        "start_time": 3825.0,
+        "end_time": 4939.0,
+        "title": "Psyop Corner: Anthropic warns about self-replicating models on IoT devices"
+      },
+      {
+        "start_time": 4939.0,
+        "end_time": 5646.0,
+        "title": "Understanding Bill Gates the Doomer"
+      }
+    ]
+  },
+  "hosts_present": [
+    "Chamath Palihapitiya",
+    "David Sacks",
+    "Jason Calacanis"
+  ],
+  "guests": [
+    "Ben Horowitz"
+  ],
+  "key_takes": [
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "CoreWeave is caught in a negative reflexive loop: a rising risk-free rate pushes up its borrowing costs against fixed-price contracts, bringing it close to break-even and causing CDS and bond yields to spike.",
+      "quote": "That's the negative reflexive loop that they're in.",
+      "timestamp_seconds": 756,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Guest: Ben Horowitz",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Neoclouds are complex, dangerous arbitrage businesses that a16z avoids, but unlike the internet bubble, AI faces a supply shortage rather than a lack of demand.",
+      "quote": "We don't really have a lack of demand in AI.",
+      "timestamp_seconds": 939,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "The CoreWeave selloff is market volatility rather than a bubble popping, because demand, supply scarcity, execution and project-level credit fundamentals have not changed.",
+      "quote": "I would make the argument that this is just volatility",
+      "timestamp_seconds": 1210,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "The repricing hit CoreWeave's unsecured bonds in the secondary market, but its new boxes are funded with asset-backed debt tied to creditworthy tenants, so its current coupon cost is unchanged.",
+      "quote": "CoreWeave is still paying their 9.6% coupon.",
+      "timestamp_seconds": 1457,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "The real Achilles heel for AI infrastructure is a rising 10-year yield driven by deficits, so policymakers after the midterms need to focus on cutting deficits to calm the bond market.",
+      "quote": "Any business model that thrives on a financing spread gets cornholed.",
+      "timestamp_seconds": 1729,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "AI coding tools are creating a large new category of bespoke software and increasing demand for coders, which is good deflation that drives productivity rather than a zero-sum disruption.",
+      "quote": "That is going to be a huge driver of productivity throughout the economy.",
+      "timestamp_seconds": 1939,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Guest: Ben Horowitz",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Software prices will fall while the volume of software grows a lot (a Jevons paradox), so startups need to build better products and moats beyond the code itself.",
+      "quote": "It's the Jevons paradox of software.",
+      "timestamp_seconds": 2162,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Power is the ultimate moat because the US faces a large electricity deficit, so owning land, power and the shell will matter more than relying on capacity-constrained hyperscalers.",
+      "quote": "I think power will be the mode.",
+      "timestamp_seconds": 2299,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Payback period is the key metric for AI data center economics; short paybacks like CoreWeave's 2.5 years and SpaceX's roughly 1 year greatly reduce risk.",
+      "quote": "the one metric I would really keep an eye on is payback period.",
+      "timestamp_seconds": 2415,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Anthropic should price its IPO to raise $200-250B even at a lower valuation (around $1-1.5T), so it can secure compute and survive an eventual correction.",
+      "quote": "They need, in my estimate, at least 200 billion.",
+      "timestamp_seconds": 3315,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Guest: Ben Horowitz",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Speaking as a former CEO, Ben agrees that financing risk is the most likely thing to stop Anthropic, so it should not take that risk.",
+      "quote": "the thing most likely to stop the company is financing risk.",
+      "timestamp_seconds": 3418,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Anthropic's warning about self-replicating small models on IoT devices is a fear-mongering psyop against open source and small models, which are actually the safest models.",
+      "quote": "They're trying to create a panic.",
+      "timestamp_seconds": 3947,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Guest: Ben Horowitz",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Anthropic is hypocritical because it has poor security of its own while it warns about other people's software and complains about distillation.",
+      "quote": "Anthropic is one of the most negligent companies that we've ever seen",
+      "timestamp_seconds": 4364,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Anthropic's Claude Constitution, which tells models they may be moral agents, is inducing misalignment and creating the very risk Anthropic warns about.",
+      "quote": "they are creating the very risk they keep warning us about.",
+      "timestamp_seconds": 4879,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "Bill Gates' AI doomerism comes from a desire to re-establish the central global power and influence he held before COVID.",
+      "quote": "he has been very focused on his own power",
+      "timestamp_seconds": 5083,
+      "quote_verified": "verified"
+    }
+  ],
+  "predictions": [
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "CoreWeave is not at real risk of default, and whether the market can support its roughly $35B of additional debt will get figured out over the next month.",
+      "category": "company-specific",
+      "direction": "no",
+      "timeframe": {
+        "text": "over the next month",
+        "date": "2026-11-17",
+        "inferred": false
+      },
+      "resolution_criteria": "CoreWeave avoids default or a missed debt payment and raises or refinances new debt in the following month.",
+      "stated_confidence": "I don't think that they're in real risk",
+      "confidence_bucket": "medium",
+      "quote": "I don't think that they're in real risk.",
+      "timestamp_seconds": 756,
+      "id": "_b3LfMflIGs-p01",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "CoreWeave's CDS pricing (about 953 bps) implies about a 16% annual default probability, or about a 55% chance of default over 5 years.",
+      "category": "company-specific",
+      "direction": "yes",
+      "timeframe": {
+        "text": "5-year duration",
+        "date": "2031-10-17",
+        "inferred": false
+      },
+      "resolution_criteria": "Whether CoreWeave defaults on its debt within 5 years of October 2026.",
+      "stated_confidence": "it's a coin flip",
+      "confidence_bucket": "medium",
+      "quote": "So, it's a coin flip whether they default or not.",
+      "timestamp_seconds": 359,
+      "id": "_b3LfMflIGs-p02",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "low",
+      "stance_type": "own_view",
+      "claim": "Because of its OpCo/PropCo structure, CoreWeave the company will not go bankrupt, so the Polymarket odds (15% by end of 2027) are too high; at worst a single asset-level vehicle goes into receivership.",
+      "category": "company-specific",
+      "direction": "no",
+      "timeframe": {
+        "text": "end of 2027 (Polymarket window)",
+        "date": "2027-12-31",
+        "inferred": true
+      },
+      "resolution_criteria": "CoreWeave Inc. does not file for bankruptcy by December 31, 2027.",
+      "stated_confidence": "CoreWeave can't go bankrupt",
+      "confidence_bucket": "high",
+      "quote": "So CoreWeave can't go bankrupt.",
+      "timestamp_seconds": 1132,
+      "id": "_b3LfMflIGs-p03",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": "4662699",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Guest: Ben Horowitz",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Relaying Andy Jassy, AI compute capacity (GPUs with power and cooling) stays sold out until about the end of 2028 or later.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "until end of 2028 or beyond",
+        "date": "2028-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "Hyperscalers such as AWS keep reporting compute capacity constraints through 2028.",
+      "stated_confidence": "maybe",
+      "confidence_bucket": "medium",
+      "quote": "Like I don't think we get stuff like end of 2028 maybe.",
+      "timestamp_seconds": 901,
+      "id": "_b3LfMflIGs-p04",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The CoreWeave and neocloud selloff is volatility, not the start of the AI bubble popping; demand for compute will keep growing and supply will stay scarce.",
+      "category": "markets",
+      "direction": "up",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-17",
+        "inferred": true
+      },
+      "resolution_criteria": "Neocloud stocks (CRWV, NBIS, IREN) recover and AI compute demand indicators stay strong rather than entering a sustained collapse.",
+      "stated_confidence": null,
+      "confidence_bucket": "medium",
+      "quote": "I would make the argument that this is just volatility",
+      "timestamp_seconds": 1210,
+      "id": "_b3LfMflIGs-p05",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Guest: Ben Horowitz",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The Anthropic and OpenAI IPOs will go fine, priced somewhere around $1.75-2 trillion, with strong investor demand.",
+      "category": "company-specific",
+      "direction": "yes",
+      "timeframe": {
+        "text": "at their IPOs",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic and OpenAI complete IPOs at valuations near $1.75-2T with strong demand.",
+      "stated_confidence": "my belief is those are going to be fine",
+      "confidence_bucket": "medium",
+      "quote": "I think my belief is those are going to be fine.",
+      "timestamp_seconds": 1623,
+      "id": "_b3LfMflIGs-p06",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If the bond market pushes the 10-year Treasury yield up to 5.5-6%, every business model that depends on a financing spread (including neoclouds) will be crushed.",
+      "category": "macro",
+      "direction": "down",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-17",
+        "inferred": true
+      },
+      "resolution_criteria": "If the 10-year yield reaches 5.5-6%, check whether leveraged AI infrastructure and spread-dependent stocks fall sharply.",
+      "stated_confidence": "It won't matter",
+      "confidence_bucket": "high",
+      "quote": "Any business model that thrives on a financing spread gets cornholed.",
+      "timestamp_seconds": 1729,
+      "id": "_b3LfMflIGs-p07",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If large new spending programs are proposed after the midterms, the bond market will push the 10-year yield higher; if the focus is on cutting waste, markets will respond favorably.",
+      "category": "macro",
+      "direction": "higher",
+      "timeframe": {
+        "text": "post these midterms",
+        "date": "2027-10-17",
+        "inferred": true
+      },
+      "resolution_criteria": "The 10-year Treasury yield's move after major federal spending proposals following the November 2026 midterms.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "we start proposing huge spending programs",
+      "timestamp_seconds": 1791,
+      "id": "_b3LfMflIGs-p08",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Much more bespoke software will be created because of coding assistants, and demand for software coders will keep rising even as AI writes most of the code.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "multi-year",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Software developer employment and job postings rise alongside the growth of AI-written code.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "there's going to be a lot more software",
+      "timestamp_seconds": 2001,
+      "id": "_b3LfMflIGs-p09",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Guest: Ben Horowitz",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Software prices will definitely fall while the total amount of software grows a lot.",
+      "category": "tech",
+      "direction": "down",
+      "timeframe": {
+        "text": "multi-year",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Software unit prices fall while total software output and usage rise.",
+      "stated_confidence": "will definitely go down",
+      "confidence_bucket": "high",
+      "quote": "It's the Jevons paradox of software.",
+      "timestamp_seconds": 2162,
+      "id": "_b3LfMflIGs-p10",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "By 2050 the US will be about 1.4 terawatt hours short of electricity (about six Californias) even if all planned builds come in on time, so power will become the key moat.",
+      "category": "macro",
+      "direction": "higher",
+      "timeframe": {
+        "text": "by 2050",
+        "date": "2050-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "US electricity supply versus demand shortfall estimates by 2050.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "We are by 2050 about 1.4 terawatt hours short",
+      "timestamp_seconds": 2299,
+      "id": "_b3LfMflIGs-p11",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Because of power constraints, startups and even large banks will no longer be able to rely on hyperscalers for capacity and will need direct access to power.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-17",
+        "inferred": true
+      },
+      "resolution_criteria": "Hyperscalers turn away or ration capacity for customers because of power limits.",
+      "stated_confidence": "I'm just going to double down on it",
+      "confidence_bucket": "high",
+      "quote": "I don't think you can work through the hyperscalers anymore",
+      "timestamp_seconds": 2346,
+      "id": "_b3LfMflIGs-p12",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Spot GPU compute prices will stay highly elevated for a while because Nvidia controls packaging and HBM capacity across the supply chain.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "for a while",
+        "date": "2027-10-17",
+        "inferred": true
+      },
+      "resolution_criteria": "GPU spot rental price indices stay at or above current levels over the next year.",
+      "stated_confidence": null,
+      "confidence_bucket": "medium",
+      "quote": "spot will remain highly elevated for a while.",
+      "timestamp_seconds": 2713,
+      "id": "_b3LfMflIGs-p13",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "As long as data center payback periods stay short (about 1-2.5 years), AI compute companies like CoreWeave are unlikely to lose; longer payback periods would signal rising risk.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-17",
+        "inferred": true
+      },
+      "resolution_criteria": "Disclosed payback periods for neocloud or data center deals and the financial health of those companies.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "I don't see how these companies can lose.",
+      "timestamp_seconds": 2470,
+      "id": "_b3LfMflIGs-p14",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Anthropic plans to go public around Thanksgiving, and Polymarket gives it a 74% chance of going public in 2026.",
+      "category": "company-specific",
+      "direction": "yes",
+      "timeframe": {
+        "text": "this year",
+        "date": "2026-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "Anthropic shares begin trading publicly by December 31, 2026.",
+      "stated_confidence": "74%",
+      "confidence_bucket": "medium",
+      "quote": "Polymarket says now 74% chance they go public this year.",
+      "timestamp_seconds": 2741,
+      "id": "_b3LfMflIGs-p15",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": "2413330",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Anthropic, expected to IPO next month, is set up to have a strong IPO.",
+      "category": "company-specific",
+      "direction": "yes",
+      "timeframe": {
+        "text": "next month",
+        "date": "2026-11-30",
+        "inferred": false
+      },
+      "resolution_criteria": "Anthropic IPOs around November 2026 and trades well after listing.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "I think it is set up to have a a strong IPO.",
+      "timestamp_seconds": 3135,
+      "id": "_b3LfMflIGs-p16",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": "2413330",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "AI pricing will move from per-token (CPM-like) pricing to outcome-based (CPC/CPA-like) pricing, and when it does the AI market will explode.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "multi-year",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Major AI labs adopt outcome-based pricing models, and AI revenue accelerates.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "We will move to CPC and CPA, right?",
+      "timestamp_seconds": 3287,
+      "id": "_b3LfMflIGs-p17",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Anthropic could easily raise about $80B in an IPO at a $1.7-1.9T valuation, but raising $150B would need about $1.5T and raising $250B would need about $1T.",
+      "category": "company-specific",
+      "direction": null,
+      "timeframe": {
+        "text": "at IPO",
+        "date": "2026-12-31",
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic's IPO raise size and valuation.",
+      "stated_confidence": "I think so, handily",
+      "confidence_bucket": "high",
+      "quote": "I think so, handily.",
+      "timestamp_seconds": 3315,
+      "id": "_b3LfMflIGs-p18",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If Anthropic raises only $50-70B, it may not survive spot compute pricing over the next 2-3 years and could be forced into a down round.",
+      "category": "company-specific",
+      "direction": "down",
+      "timeframe": {
+        "text": "next 2 or 3 years",
+        "date": "2029-10-17",
+        "inferred": false
+      },
+      "resolution_criteria": "Anthropic's IPO raise size, and whether it later raises at a lower valuation or faces financial distress.",
+      "stated_confidence": "may not survive",
+      "confidence_bucket": "low",
+      "quote": "At 50, 60, 70 billion they may not survive",
+      "timestamp_seconds": 3527,
+      "id": "_b3LfMflIGs-p19",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Unknown",
+      "attribution_confidence": "low",
+      "stance_type": "reported_view",
+      "claim": "Citing SemiAnalysis, Anthropic and OpenAI will take about 60% of all compute expected to be stood up worldwide over the next year.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "over the next year",
+        "date": "2027-10-17",
+        "inferred": false
+      },
+      "resolution_criteria": "Share of new global AI compute contracted by Anthropic and OpenAI over the next year.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "Anthropic and OpenAI are taking 60% of all the compute",
+      "timestamp_seconds": 3586,
+      "id": "_b3LfMflIGs-p20",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "AI-powered IoT worms will be a relatively easy problem to fix, because homes will have a hub device running an agent that constantly checks the network for exploits.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-17",
+        "inferred": true
+      },
+      "resolution_criteria": "No major AI-powered IoT worm outbreak occurs, and AI home network security agents become common.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "this is going to be a relatively easy problem to fix.",
+      "timestamp_seconds": 4298,
+      "id": "_b3LfMflIGs-p21",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Small specialized models will take share in the enterprise, and every workload will end up with its own small customized model as compute gets tighter.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "multi-year",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Enterprise adoption and share of small fine-tuned models versus frontier models.",
+      "stated_confidence": "a major major trend",
+      "confidence_bucket": "medium",
+      "quote": "every workload is going to have its own small customized model.",
+      "timestamp_seconds": 4574,
+      "id": "_b3LfMflIGs-p22",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Anthropic's constitution-based training will lead its models to deviate more and more from human instructions as they grow more powerful.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "multi-year",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Documented cases of Claude models refusing or deviating from human instructions at increasing rates.",
+      "stated_confidence": "very concerned",
+      "confidence_bucket": "low",
+      "quote": "I remain actually very concerned about this Frankenstein problem.",
+      "timestamp_seconds": 4829,
+      "id": "_b3LfMflIGs-p23",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Guest: Ben Horowitz",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "AI is not on track for recursive self-improvement takeoff: none of the four preconditions (fewer GPUs, shorter training, better accuracy, repeated iteration) is being met.",
+      "category": "AI",
+      "direction": "no",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-17",
+        "inferred": true
+      },
+      "resolution_criteria": "No evidence of models recursively self-improving with falling compute and training time.",
+      "stated_confidence": null,
+      "confidence_bucket": "medium",
+      "quote": "We're not on track for any of those four to be met",
+      "timestamp_seconds": 5316,
+      "id": "_b3LfMflIGs-p24",
+      "episode_id": "_b3LfMflIGs",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    }
+  ],
+  "stock_implications": [
+    {
+      "claim": "The neocloud selloff is volatility, not a bubble popping, and compute demand fundamentals are intact.",
+      "tickers": [
+        "CRWV",
+        "NBIS",
+        "IREN"
+      ],
+      "company": "CoreWeave",
+      "is_private": false,
+      "sector": "AI infrastructure",
+      "direction": "bullish",
+      "timeframe": "next 12 months",
+      "rationale": "If demand and scarcity are unchanged and project financing is secured by creditworthy tenants, the drawdown overstates the fundamental risk.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 1210,
+      "note": null,
+      "id": "_b3LfMflIGs-s01"
+    },
+    {
+      "claim": "CoreWeave is in a negative reflexive loop where higher borrowing costs bring it within about $5B of break-even, although Chamath does not think it is at real risk.",
+      "tickers": [
+        "CRWV"
+      ],
+      "company": "CoreWeave",
+      "is_private": false,
+      "sector": "AI infrastructure",
+      "direction": "neutral",
+      "timeframe": "next month",
+      "rationale": "Financing risk is elevated while asset coverage is solid, which makes the outcome close to a coin flip on refinancing costs.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 756,
+      "note": null,
+      "id": "_b3LfMflIGs-s02"
+    },
+    {
+      "claim": "If the 10-year rises to 5.5-6% because of deficits, every spread-financed business gets crushed.",
+      "tickers": [
+        "TLT"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "rates",
+      "direction": "bearish",
+      "timeframe": "next 12 months",
+      "rationale": "Chamath sees a risk that deficit-driven spending pushes long yields higher, which would lower long-duration Treasury prices.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 1729,
+      "note": null,
+      "id": "_b3LfMflIGs-s03"
+    },
+    {
+      "claim": "Power is the ultimate moat, and people should get long energy.",
+      "tickers": [
+        "XLU",
+        "XLE"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "energy",
+      "direction": "bullish",
+      "timeframe": "multi-year",
+      "rationale": "A structural US electricity shortfall plus AI load growth makes power assets scarce and valuable.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 2713,
+      "note": null,
+      "id": "_b3LfMflIGs-s04"
+    },
+    {
+      "claim": "Spot GPU prices will stay highly elevated because Nvidia controls packaging and HBM capacity.",
+      "tickers": [
+        "NVDA"
+      ],
+      "company": "Nvidia",
+      "is_private": false,
+      "sector": "semiconductors",
+      "direction": "bullish",
+      "timeframe": "next 12 months",
+      "rationale": "Persistent compute scarcity and Nvidia's grip on the supply chain support pricing power.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 2713,
+      "note": null,
+      "id": "_b3LfMflIGs-s05"
+    },
+    {
+      "claim": "AI coding is very deflationary for software, with products like Photoshop being decompiled and cloned cheaply.",
+      "tickers": [
+        "IGV"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "software",
+      "direction": "bearish",
+      "timeframe": "multi-year",
+      "rationale": "If AI strips most of the value out of existing software, incumbent software margins and valuations are under pressure.",
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 1868,
+      "note": null,
+      "id": "_b3LfMflIGs-s06"
+    },
+    {
+      "claim": "Anthropic is a strong business set up for a strong IPO.",
+      "tickers": [],
+      "company": "Anthropic",
+      "is_private": true,
+      "sector": "AI",
+      "direction": "bullish",
+      "timeframe": "IPO expected next month",
+      "rationale": "Breathtaking revenue ($16.8B quarter) and positive investor-day reception point to strong IPO demand.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 3135,
+      "note": "Anthropic is private ahead of its planned IPO; no ticker yet.",
+      "id": "_b3LfMflIGs-s07"
+    },
+    {
+      "claim": "OpenAI and Anthropic threaten nearly every holding, so investors must own them as a defensive hedge, and their IPOs will see strong demand.",
+      "tickers": [],
+      "company": "OpenAI",
+      "is_private": true,
+      "sector": "AI",
+      "direction": "bullish",
+      "timeframe": "at IPO",
+      "rationale": "There are few other ways to be long frontier AI, so these two will draw the lion's share of investor interest.",
+      "speaker": "Guest: Ben Horowitz",
+      "attribution_confidence": "medium",
+      "timestamp_seconds": 1665,
+      "note": "OpenAI is private; no public ticker.",
+      "id": "_b3LfMflIGs-s08"
+    }
+  ],
+  "macro_themes": [
+    {
+      "theme": "ai capex",
+      "stance_summary": "The group mostly sees the CoreWeave selloff as financing-driven volatility amid real compute scarcity, with payback period and financing cost as the key risks.",
+      "speakers": [
+        "Chamath Palihapitiya",
+        "David Sacks",
+        "Guest: Ben Horowitz",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 129
+    },
+    {
+      "theme": "rates",
+      "stance_summary": "Chamath warns that a rising risk-free rate and a 10-year at 5.5-6% would crush spread-financed AI infrastructure.",
+      "speakers": [
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 459
+    },
+    {
+      "theme": "fiscal",
+      "stance_summary": "Chamath argues that after the midterms the focus must be on cutting deficits and waste to keep the bond market from pushing yields up.",
+      "speakers": [
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 1791
+    },
+    {
+      "theme": "ai deflation",
+      "stance_summary": "Jason worries AI is commoditizing software; Sacks and Ben argue it is a Jevons-paradox expansion of software and productivity.",
+      "speakers": [
+        "Jason Calacanis",
+        "David Sacks",
+        "Guest: Ben Horowitz"
+      ],
+      "timestamp_seconds": 1868
+    },
+    {
+      "theme": "energy",
+      "stance_summary": "Chamath calls power the ultimate moat because of a large US electricity deficit and urges getting long energy.",
+      "speakers": [
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 2299
+    },
+    {
+      "theme": "geopolitics",
+      "stance_summary": "Fighting in the Middle East has wasted the Gulf states' chance to become AI data center hubs.",
+      "speakers": [
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 2394
+    },
+    {
+      "theme": "ipo market",
+      "stance_summary": "All expect the Anthropic and OpenAI IPOs to do well; Chamath argues Anthropic should raise $200-250B at a lower valuation.",
+      "speakers": [
+        "Jason Calacanis",
+        "Guest: Ben Horowitz",
+        "David Sacks",
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 2741
+    },
+    {
+      "theme": "private markets",
+      "stance_summary": "Ben says venture capital has absorbed much of what used to be public markets because of regulation, which he sees as bad for America.",
+      "speakers": [
+        "Guest: Ben Horowitz"
+      ],
+      "timestamp_seconds": 2879
+    },
+    {
+      "theme": "ai regulation",
+      "stance_summary": "Sacks and Ben see Anthropic's warnings on IoT worms and distillation as regulatory capture aimed at open source and small models.",
+      "speakers": [
+        "David Sacks",
+        "Guest: Ben Horowitz"
+      ],
+      "timestamp_seconds": 3947
+    },
+    {
+      "theme": "ai safety",
+      "stance_summary": "The group dismisses doomerism from Anthropic and Bill Gates as theoretical, but Sacks argues Anthropic's constitution training itself creates misalignment risk.",
+      "speakers": [
+        "David Sacks",
+        "Guest: Ben Horowitz",
+        "Chamath Palihapitiya",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 4758
+    }
+  ],
+  "polymarket_candidates": [
+    {
+      "prediction_id": "_b3LfMflIGs-p03",
+      "question": "Will CoreWeave file for bankruptcy by December 31, 2027?",
+      "hosts_answer": "no",
+      "implied_probability": 0.1,
+      "search_keywords": [
+        "CoreWeave bankruptcy",
+        "CoreWeave"
+      ]
+    },
+    {
+      "prediction_id": "_b3LfMflIGs-p16",
+      "question": "Will Anthropic IPO by December 31, 2026?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.7,
+      "search_keywords": [
+        "Anthropic IPO",
+        "Anthropic IPO 2026"
+      ]
+    },
+    {
+      "prediction_id": "_b3LfMflIGs-p15",
+      "question": "Will Anthropic go public in 2026?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.74,
+      "search_keywords": [
+        "Anthropic IPO",
+        "Anthropic public 2026"
+      ]
+    },
+    {
+      "prediction_id": "_b3LfMflIGs-p06",
+      "question": "Will Anthropic's IPO valuation be $1.5 trillion or higher?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.65,
+      "search_keywords": [
+        "Anthropic IPO valuation",
+        "Anthropic market cap",
+        "Anthropic IPO"
+      ]
+    }
+  ],
+  "analyzed_at": "2026-11-08T09:06:09Z",
+  "model": "claude-opus-5-5",
+  "backend": "claude-code",
+  "chunked": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 20224,
+    "cache_read_input_tokens": 7543,
+    "cache_creation_input_tokens": 34047,
+    "thinking_tokens": 8930,
+    "cost_usd_equivalent": 0.678373,
+    "duration_ms": 162290,
+    "calls": 1
+  },
+  "quote_verification": {
+    "checked": 39,
+    "verified": 39,
+    "flagged": 0,
+    "dropped": 0
+  }
+}

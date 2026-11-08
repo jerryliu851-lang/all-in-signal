@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T08:35:18Z",
+  "updated_at": "2026-11-08T09:24:50Z",
   "episodes": {
     "2v8b062QzTI": {
       "video_id": "2v8b062QzTI",
@@ -49,13 +49,13 @@
       "published_at": "2026-10-30",
       "url": "https://www.youtube.com/watch?v=p1Dy4e4ff0s",
       "duration_seconds": 5146,
-      "status": "transcribed",
+      "status": "analyzed",
       "discovered_at": "2026-11-08T08:19:04Z",
       "transcript_attempts": 1,
       "last_attempt_at": "2026-11-08T08:19:37Z",
       "last_error": null,
       "transcript_source": "youtube-transcript-api",
-      "analyzed_at": null,
+      "analyzed_at": "2026-11-08T09:00:53Z",
       "matched_at": null,
       "chapters": [
         {
@@ -91,13 +91,13 @@
       "published_at": "2026-10-23",
       "url": "https://www.youtube.com/watch?v=6czo-C3FU7I",
       "duration_seconds": 6202,
-      "status": "transcribed",
+      "status": "analyzed",
       "discovered_at": "2026-11-08T08:19:08Z",
       "transcript_attempts": 1,
       "last_attempt_at": "2026-11-08T08:19:38Z",
       "last_error": null,
       "transcript_source": "youtube-transcript-api",
-      "analyzed_at": null,
+      "analyzed_at": "2026-11-08T09:03:23Z",
       "matched_at": null,
       "chapters": [
         {
@@ -138,13 +138,13 @@
       "published_at": "2026-10-17",
       "url": "https://www.youtube.com/watch?v=_b3LfMflIGs",
       "duration_seconds": 5646,
-      "status": "transcribed",
+      "status": "analyzed",
       "discovered_at": "2026-11-08T08:19:13Z",
       "transcript_attempts": 1,
       "last_attempt_at": "2026-11-08T08:19:40Z",
       "last_error": null,
       "transcript_source": "youtube-transcript-api",
-      "analyzed_at": null,
+      "analyzed_at": "2026-11-08T09:06:09Z",
       "matched_at": null,
       "chapters": [
         {
@@ -185,13 +185,13 @@
       "published_at": "2026-10-10",
       "url": "https://www.youtube.com/watch?v=TBLHdXABwAg",
       "duration_seconds": 5594,
-      "status": "transcribed",
+      "status": "analyzed",
       "discovered_at": "2026-11-08T08:19:15Z",
       "transcript_attempts": 1,
       "last_attempt_at": "2026-11-08T08:19:41Z",
       "last_error": null,
       "transcript_source": "youtube-transcript-api",
-      "analyzed_at": null,
+      "analyzed_at": "2026-11-08T09:09:14Z",
       "matched_at": null,
       "chapters": [
         {
@@ -227,13 +227,13 @@
       "published_at": "2026-10-02",
       "url": "https://www.youtube.com/watch?v=ZJKs08oU1zg",
       "duration_seconds": 4949,
-      "status": "transcribed",
+      "status": "analyzed",
       "discovered_at": "2026-11-08T08:19:20Z",
       "transcript_attempts": 1,
       "last_attempt_at": "2026-11-08T08:19:42Z",
       "last_error": null,
       "transcript_source": "youtube-transcript-api",
-      "analyzed_at": null,
+      "analyzed_at": "2026-11-08T09:12:45Z",
       "matched_at": null,
       "chapters": [
         {
@@ -274,13 +274,13 @@
       "published_at": "2026-09-26",
       "url": "https://www.youtube.com/watch?v=cvP_1jmnkmM",
       "duration_seconds": 5663,
-      "status": "transcribed",
+      "status": "analyzed",
       "discovered_at": "2026-11-08T08:19:24Z",
       "transcript_attempts": 1,
       "last_attempt_at": "2026-11-08T08:19:43Z",
       "last_error": null,
       "transcript_source": "youtube-transcript-api",
-      "analyzed_at": null,
+      "analyzed_at": "2026-11-08T09:15:57Z",
       "matched_at": null,
       "chapters": [
         {
@@ -326,13 +326,13 @@
       "published_at": "2026-09-12",
       "url": "https://www.youtube.com/watch?v=cvxjqbfLVk0",
       "duration_seconds": 5756,
-      "status": "transcribed",
+      "status": "analyzed",
       "discovered_at": "2026-11-08T08:19:26Z",
       "transcript_attempts": 1,
       "last_attempt_at": "2026-11-08T08:19:45Z",
       "last_error": null,
       "transcript_source": "youtube-transcript-api",
-      "analyzed_at": null,
+      "analyzed_at": "2026-11-08T09:18:05Z",
       "matched_at": null,
       "chapters": [
         {
@@ -368,13 +368,13 @@
       "published_at": "2026-09-04",
       "url": "https://www.youtube.com/watch?v=DvFe9bR2eHA",
       "duration_seconds": 5515,
-      "status": "transcribed",
+      "status": "analyzed",
       "discovered_at": "2026-11-08T08:19:30Z",
       "transcript_attempts": 1,
       "last_attempt_at": "2026-11-08T08:19:46Z",
       "last_error": null,
       "transcript_source": "youtube-transcript-api",
-      "analyzed_at": null,
+      "analyzed_at": "2026-11-08T09:21:58Z",
       "matched_at": null,
       "chapters": [
         {
@@ -420,13 +420,13 @@
       "published_at": "2026-08-29",
       "url": "https://www.youtube.com/watch?v=1u5dMAKl_ks",
       "duration_seconds": 5800,
-      "status": "transcribed",
+      "status": "analyzed",
       "discovered_at": "2026-11-08T08:19:34Z",
       "transcript_attempts": 1,
       "last_attempt_at": "2026-11-08T08:19:47Z",
       "last_error": null,
       "transcript_source": "youtube-transcript-api",
-      "analyzed_at": null,
+      "analyzed_at": "2026-11-08T09:24:50Z",
       "matched_at": null,
       "chapters": [
         {

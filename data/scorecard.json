@@ -1,82 +1,109 @@
 {
   "schema_version": "1",
-  "updated_at": "2026-11-08T08:38:10Z",
+  "updated_at": "2026-11-08T10:43:40Z",
   "counting_rule": "own_view predictions only; reported views and devil's advocate excluded",
   "hosts": {
     "Chamath Palihapitiya": {
       "host": "Chamath Palihapitiya",
       "overall": {
-        "total": 8,
-        "resolved": 0,
-        "correct": 0,
-        "incorrect": 0,
-        "pending": 8,
+        "total": 83,
+        "resolved": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "pending": 81,
         "unresolvable": 0,
-        "accuracy": null
+        "accuracy": 0.5
       },
       "by_category": {
         "politics": {
-          "total": 3,
-          "resolved": 0,
-          "correct": 0,
-          "incorrect": 0,
-          "pending": 3,
+          "total": 14,
+          "resolved": 2,
+          "correct": 1,
+          "incorrect": 1,
+          "pending": 12,
           "unresolvable": 0,
-          "accuracy": null
+          "accuracy": 0.5
         },
         "AI": {
-          "total": 3,
+          "total": 26,
           "resolved": 0,
           "correct": 0,
           "incorrect": 0,
-          "pending": 3,
+          "pending": 26,
           "unresolvable": 0,
           "accuracy": null
         },
         "markets": {
-          "total": 1,
+          "total": 7,
           "resolved": 0,
           "correct": 0,
           "incorrect": 0,
-          "pending": 1,
+          "pending": 7,
           "unresolvable": 0,
           "accuracy": null
         },
         "company-specific": {
-          "total": 1,
+          "total": 18,
           "resolved": 0,
           "correct": 0,
           "incorrect": 0,
-          "pending": 1,
+          "pending": 18,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "macro": {
+          "total": 13,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 13,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "tech": {
+          "total": 5,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 5,
           "unresolvable": 0,
           "accuracy": null
         }
       },
       "calibration": {
         "unstated": {
-          "total": 4,
+          "total": 32,
           "resolved": 0,
           "correct": 0,
           "incorrect": 0,
-          "pending": 4,
+          "pending": 32,
           "unresolvable": 0,
           "accuracy": null
         },
         "medium": {
-          "total": 3,
-          "resolved": 0,
-          "correct": 0,
+          "total": 29,
+          "resolved": 1,
+          "correct": 1,
           "incorrect": 0,
-          "pending": 3,
+          "pending": 28,
           "unresolvable": 0,
-          "accuracy": null
+          "accuracy": 1.0
         },
         "low": {
-          "total": 1,
+          "total": 13,
+          "resolved": 1,
+          "correct": 0,
+          "incorrect": 1,
+          "pending": 12,
+          "unresolvable": 0,
+          "accuracy": 0.0
+        },
+        "high": {
+          "total": 9,
           "resolved": 0,
           "correct": 0,
           "incorrect": 0,
-          "pending": 1,
+          "pending": 9,
           "unresolvable": 0,
           "accuracy": null
         }
@@ -85,16 +112,176 @@
     "David Sacks": {
       "host": "David Sacks",
       "overall": {
-        "total": 11,
+        "total": 68,
+        "resolved": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "pending": 66,
+        "unresolvable": 0,
+        "accuracy": 0.5
+      },
+      "by_category": {
+        "macro": {
+          "total": 7,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 7,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "markets": {
+          "total": 3,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 3,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "politics": {
+          "total": 24,
+          "resolved": 2,
+          "correct": 1,
+          "incorrect": 1,
+          "pending": 22,
+          "unresolvable": 0,
+          "accuracy": 0.5
+        },
+        "AI": {
+          "total": 26,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 26,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "company-specific": {
+          "total": 7,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 7,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "tech": {
+          "total": 1,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 1,
+          "unresolvable": 0,
+          "accuracy": null
+        }
+      },
+      "calibration": {
+        "unstated": {
+          "total": 27,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 27,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "low": {
+          "total": 8,
+          "resolved": 1,
+          "correct": 1,
+          "incorrect": 0,
+          "pending": 7,
+          "unresolvable": 0,
+          "accuracy": 1.0
+        },
+        "high": {
+          "total": 6,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 6,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "medium": {
+          "total": 27,
+          "resolved": 1,
+          "correct": 0,
+          "incorrect": 1,
+          "pending": 26,
+          "unresolvable": 0,
+          "accuracy": 0.0
+        }
+      }
+    },
+    "David Friedberg": {
+      "host": "David Friedberg",
+      "overall": {
+        "total": 44,
         "resolved": 0,
         "correct": 0,
         "incorrect": 0,
-        "pending": 11,
+        "pending": 44,
         "unresolvable": 0,
         "accuracy": null
       },
       "by_category": {
         "macro": {
+          "total": 12,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 12,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "AI": {
+          "total": 18,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 18,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "politics": {
+          "total": 4,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 4,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "company-specific": {
+          "total": 3,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 3,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "tech": {
+          "total": 3,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 3,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "crypto": {
+          "total": 1,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 1,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "markets": {
           "total": 2,
           "resolved": 0,
           "correct": 0,
@@ -103,7 +290,7 @@
           "unresolvable": 0,
           "accuracy": null
         },
-        "markets": {
+        "other": {
           "total": 1,
           "resolved": 0,
           "correct": 0,
@@ -111,17 +298,37 @@
           "pending": 1,
           "unresolvable": 0,
           "accuracy": null
-        },
-        "politics": {
-          "total": 5,
+        }
+      },
+      "calibration": {
+        "medium": {
+          "total": 21,
           "resolved": 0,
           "correct": 0,
           "incorrect": 0,
-          "pending": 5,
+          "pending": 21,
           "unresolvable": 0,
           "accuracy": null
         },
-        "AI": {
+        "low": {
+          "total": 4,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 4,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "unstated": {
+          "total": 16,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 16,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "high": {
           "total": 3,
           "resolved": 0,
           "correct": 0,
@@ -130,36 +337,104 @@
           "unresolvable": 0,
           "accuracy": null
         }
+      }
+    },
+    "Jason Calacanis": {
+      "host": "Jason Calacanis",
+      "overall": {
+        "total": 39,
+        "resolved": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "pending": 37,
+        "unresolvable": 0,
+        "accuracy": 1.0
       },
-      "calibration": {
-        "unstated": {
-          "total": 5,
+      "by_category": {
+        "politics": {
+          "total": 12,
+          "resolved": 2,
+          "correct": 2,
+          "incorrect": 0,
+          "pending": 10,
+          "unresolvable": 0,
+          "accuracy": 1.0
+        },
+        "AI": {
+          "total": 13,
           "resolved": 0,
           "correct": 0,
           "incorrect": 0,
-          "pending": 5,
+          "pending": 13,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "company-specific": {
+          "total": 7,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 7,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "markets": {
+          "total": 2,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 2,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "tech": {
+          "total": 2,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 2,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "other": {
+          "total": 1,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 1,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "macro": {
+          "total": 2,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 2,
+          "unresolvable": 0,
+          "accuracy": null
+        }
+      },
+      "calibration": {
+        "unstated": {
+          "total": 14,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 14,
           "unresolvable": 0,
           "accuracy": null
         },
         "low": {
-          "total": 1,
-          "resolved": 0,
-          "correct": 0,
+          "total": 8,
+          "resolved": 1,
+          "correct": 1,
           "incorrect": 0,
-          "pending": 1,
+          "pending": 7,
           "unresolvable": 0,
-          "accuracy": null
+          "accuracy": 1.0
         },
         "high": {
-          "total": 1,
-          "resolved": 0,
-          "correct": 0,
-          "incorrect": 0,
-          "pending": 1,
-          "unresolvable": 0,
-          "accuracy": null
-        },
-        "medium": {
           "total": 4,
           "resolved": 0,
           "correct": 0,
@@ -167,11 +442,92 @@
           "pending": 4,
           "unresolvable": 0,
           "accuracy": null
+        },
+        "medium": {
+          "total": 13,
+          "resolved": 1,
+          "correct": 1,
+          "incorrect": 0,
+          "pending": 12,
+          "unresolvable": 0,
+          "accuracy": 1.0
+        }
+      }
+    }
+  },
+  "others": {
+    "Unknown": {
+      "host": "Unknown",
+      "overall": {
+        "total": 5,
+        "resolved": 0,
+        "correct": 0,
+        "incorrect": 0,
+        "pending": 5,
+        "unresolvable": 0,
+        "accuracy": null
+      },
+      "by_category": {
+        "politics": {
+          "total": 1,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 1,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "AI": {
+          "total": 1,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 1,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "markets": {
+          "total": 2,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 2,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "other": {
+          "total": 1,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 1,
+          "unresolvable": 0,
+          "accuracy": null
+        }
+      },
+      "calibration": {
+        "low": {
+          "total": 2,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 2,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "medium": {
+          "total": 3,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 3,
+          "unresolvable": 0,
+          "accuracy": null
         }
       }
     },
-    "David Friedberg": {
-      "host": "David Friedberg",
+    "Guest: Nikesh Arora": {
+      "host": "Guest: Nikesh Arora",
       "overall": {
         "total": 4,
         "resolved": 0,
@@ -182,7 +538,18 @@
         "accuracy": null
       },
       "by_category": {
-        "macro": {
+        "AI": {
+          "total": 4,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 4,
+          "unresolvable": 0,
+          "accuracy": null
+        }
+      },
+      "calibration": {
+        "medium": {
           "total": 1,
           "resolved": 0,
           "correct": 0,
@@ -191,23 +558,12 @@
           "unresolvable": 0,
           "accuracy": null
         },
-        "AI": {
-          "total": 3,
+        "unstated": {
+          "total": 2,
           "resolved": 0,
           "correct": 0,
           "incorrect": 0,
-          "pending": 3,
-          "unresolvable": 0,
-          "accuracy": null
-        }
-      },
-      "calibration": {
-        "medium": {
-          "total": 3,
-          "resolved": 0,
-          "correct": 0,
-          "incorrect": 0,
-          "pending": 3,
+          "pending": 2,
           "unresolvable": 0,
           "accuracy": null
         },
@@ -222,62 +578,53 @@
         }
       }
     },
-    "Jason Calacanis": {
-      "host": "Jason Calacanis",
+    "Guest: Ben Horowitz": {
+      "host": "Guest: Ben Horowitz",
       "overall": {
-        "total": 9,
+        "total": 3,
         "resolved": 0,
         "correct": 0,
         "incorrect": 0,
-        "pending": 9,
+        "pending": 3,
         "unresolvable": 0,
         "accuracy": null
       },
       "by_category": {
-        "politics": {
-          "total": 2,
+        "company-specific": {
+          "total": 1,
           "resolved": 0,
           "correct": 0,
           "incorrect": 0,
-          "pending": 2,
+          "pending": 1,
+          "unresolvable": 0,
+          "accuracy": null
+        },
+        "tech": {
+          "total": 1,
+          "resolved": 0,
+          "correct": 0,
+          "incorrect": 0,
+          "pending": 1,
           "unresolvable": 0,
           "accuracy": null
         },
         "AI": {
-          "total": 5,
+          "total": 1,
           "resolved": 0,
           "correct": 0,
           "incorrect": 0,
-          "pending": 5,
-          "unresolvable": 0,
-          "accuracy": null
-        },
-        "company-specific": {
-          "total": 2,
-          "resolved": 0,
-          "correct": 0,
-          "incorrect": 0,
-          "pending": 2,
+          "pending": 1,
           "unresolvable": 0,
           "accuracy": null
         }
       },
       "calibration": {
-        "unstated": {
+        "medium": {
           "total": 2,
           "resolved": 0,
           "correct": 0,
           "incorrect": 0,
           "pending": 2,
-          "unresolvable": 0,
-          "accuracy": null
-        },
-        "low": {
-          "total": 3,
-          "resolved": 0,
-          "correct": 0,
-          "incorrect": 0,
-          "pending": 3,
           "unresolvable": 0,
           "accuracy": null
         },
@@ -289,18 +636,8 @@
           "pending": 1,
           "unresolvable": 0,
           "accuracy": null
-        },
-        "medium": {
-          "total": 3,
-          "resolved": 0,
-          "correct": 0,
-          "incorrect": 0,
-          "pending": 3,
-          "unresolvable": 0,
-          "accuracy": null
         }
       }
     }
-  },
-  "others": {}
+  }
 }

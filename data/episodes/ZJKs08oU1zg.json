@@ -1,0 +1,1308 @@
+{
+  "schema_version": "1",
+  "episode": {
+    "video_id": "ZJKs08oU1zg",
+    "title": "Trump’s Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions",
+    "published_at": "2026-10-02",
+    "url": "https://www.youtube.com/watch?v=ZJKs08oU1zg",
+    "duration_seconds": 4949,
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "end_time": 121.0,
+        "title": "Bestie intros!"
+      },
+      {
+        "start_time": 121.0,
+        "end_time": 1077.0,
+        "title": "Trump’s Super Intelligence Summit: Behind the scenes and how the accord was created and signed"
+      },
+      {
+        "start_time": 1077.0,
+        "end_time": 2722.0,
+        "title": "Cybersecurity arms race, data center national security, America.gov, coordinated doomer messaging"
+      },
+      {
+        "start_time": 2722.0,
+        "end_time": 3624.0,
+        "title": "Recent economic data: GDP, jobs, diesel, inflation, rates, manufacturing, poverty, and more"
+      },
+      {
+        "start_time": 3624.0,
+        "end_time": 4168.0,
+        "title": "Midterm predictions, 2028 look ahead"
+      },
+      {
+        "start_time": 4168.0,
+        "end_time": 4949.0,
+        "title": "Media coverage of attempted terrorist hijacking"
+      }
+    ]
+  },
+  "hosts_present": [
+    "Chamath Palihapitiya",
+    "David Sacks",
+    "David Friedberg",
+    "Jason Calacanis"
+  ],
+  "guests": [],
+  "key_takes": [
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks argues the White House Accord on superintelligence was signed voluntarily, but the governance that follows is effectively mandatory: internal controls, external audits, a board committee that has to act, and FTC/SEC enforcement of public commitments.",
+      "quote": "the governance that follows from it is not voluntary",
+      "timestamp_seconds": 309,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks says the accord is a practical, immediate fix that is better than a pause on frontier development or a licensing regime that would let China win, and that Democrats won't give Trump credit because they want to keep AI as a campaign issue.",
+      "quote": "This is way more practical than trying to declare a pause",
+      "timestamp_seconds": 404,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath agrees with Trump that whoever wins superintelligence wins, and argues no multinational body can share out the wins and losses of a shift bigger than the Industrial Revolution.",
+      "quote": "And when you think about it, he's completely right.",
+      "timestamp_seconds": 569,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg argues that open-weight models and models that run locally make it practically impossible to regulate AI software, which turns cyber-defense into an arms race that requires more AI investment and more data centers.",
+      "quote": "practically impossible to actually regulate the development of the software",
+      "timestamp_seconds": 1160,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "Sacks argues the anti-data-center crusade is misguided: the US must have more compute than its adversaries and should get back to doubling its power grid every decade, as it did for most of the 20th century.",
+      "quote": "we're going to be at a severe disadvantage",
+      "timestamp_seconds": 1463,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "Chamath argues that producing electrons, and the data centers that depend on them, is becoming national security infrastructure, which will push toward more free-market domestic energy buildout rather than the government allocation Friedberg predicts.",
+      "quote": "going to move from a domestic policy issue to a national security issue",
+      "timestamp_seconds": 1970,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "Friedberg argues that markets and society are already self-correcting on AI risk, citing Google's SynthID protein watermarking, so government takeover is unnecessary.",
+      "quote": "you don't need government to solve your problems",
+      "timestamp_seconds": 2061,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Jason says ordinary Americans still fear AI will take their jobs, and argues the next summit should include teachers, healthcare representatives and other non-business voices to show benefits in housing, education and healthcare.",
+      "quote": "Americans are still petrified of this technology.",
+      "timestamp_seconds": 2290,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath argues that AI doomerism is a tightly scripted, organized messaging campaign used for partisan advantage by people out of power, and that the positive economic case for AI is much less organized.",
+      "quote": "You realize that this is like extremely designed.",
+      "timestamp_seconds": 2627,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks cites upward GDP revisions, a payroll beat, a cooler-than-expected core PCE reading, PMIs in expansion and record-low poverty to argue the economy is much stronger than perceived and to dispute the K-shaped recovery narrative.",
+      "quote": "the economy is much stronger than people are giving it credit for",
+      "timestamp_seconds": 2733,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "Friedberg warns that a 60bp rise in short-term Treasury rates, which he blames on federal spending, will hurt consumers' access to credit and could cause large equity impairments at many banks.",
+      "quote": "the rate problem is fundamentally rooted in the federal government",
+      "timestamp_seconds": 3001,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "Chamath argues that high pump prices are caused by decades of lost refining capacity rather than oil supply, and that the US is far less dependent on oil than it used to be.",
+      "quote": "The constraint is not the oil.",
+      "timestamp_seconds": 3438,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Jason argues that unemployment and inflation have barely changed under Trump, that the war and inflation have eroded his support on his core issues, and that Democrats are headed for a midterm sweep.",
+      "quote": "I think the challenge is nothing's changed.",
+      "timestamp_seconds": 3499,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks says the polls overstate a Democratic wave, as they overstated the 2022 red wave, and predicts a narrow result he calls a 'blue spritz', with Republicans likely keeping the Senate.",
+      "quote": "I think we might get like a blue spritz.",
+      "timestamp_seconds": 3726,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg criticizes media outlets for calling the attempted Flydubai hijacking an 'altercation' or 'fight' instead of terrorism, arguing they reshaped the facts to fit a narrative.",
+      "quote": "we've stopped using this word terror for some reason",
+      "timestamp_seconds": 4375,
+      "quote_verified": "verified"
+    }
+  ],
+  "predictions": [
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "No new international agreement governing superintelligence development will be reached; the accord's controls will instead be implemented quickly without new legislation.",
+      "category": "AI",
+      "direction": "no",
+      "timeframe": {
+        "text": "within 12 months",
+        "date": "2027-10-02",
+        "inferred": true
+      },
+      "resolution_criteria": "No multinational treaty or international agreement on superintelligence/frontier AI development is signed with US participation by the date.",
+      "stated_confidence": "never going to happen",
+      "confidence_bucket": "high",
+      "quote": "some new international agreement that's never going to happen",
+      "timestamp_seconds": 385,
+      "id": "ZJKs08oU1zg-p01",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The superintelligence audit infrastructure that 8090 built with EY will be rolled out broadly to other companies.",
+      "category": "company-specific",
+      "direction": "yes",
+      "timeframe": {
+        "text": "within 12 months",
+        "date": "2027-10-02",
+        "inferred": true
+      },
+      "resolution_criteria": "8090 and/or EY publicly announce that the AI/superintelligence audit infrastructure is available to, or deployed with, clients beyond EY.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "we're going to be able to take that infrastructure and roll it out",
+      "timestamp_seconds": 679,
+      "id": "ZJKs08oU1zg-p02",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "The new White House ballroom/East Wing will be finished in about a year, under budget and on schedule, and future presidents will want to use it.",
+      "category": "politics",
+      "direction": "yes",
+      "timeframe": {
+        "text": "in like a year",
+        "date": "2027-10-02",
+        "inferred": false
+      },
+      "resolution_criteria": "The White House ballroom construction is reported as complete by about October 2027.",
+      "stated_confidence": "I predict",
+      "confidence_bucket": "medium",
+      "quote": "he's going to have it done in like a year",
+      "timestamp_seconds": 869,
+      "id": "ZJKs08oU1zg-p03",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "EY will soon announce an AI/superintelligence audit offering in response to the accord.",
+      "category": "company-specific",
+      "direction": "yes",
+      "timeframe": {
+        "text": "in short order",
+        "date": "2026-12-31",
+        "inferred": true
+      },
+      "resolution_criteria": "EY publicly announces an AI/superintelligence audit or assurance service tied to frontier AI controls by the end of 2026.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "You're going to see EY in short order here announce something.",
+      "timestamp_seconds": 1073,
+      "id": "ZJKs08oU1zg-p04",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "There will be a massive rise in AI-driven defense systems, with corporate cyber-defense budgets rising sharply as cyber defense becomes a board-level priority.",
+      "category": "tech",
+      "direction": "up",
+      "timeframe": {
+        "text": "within 12 months",
+        "date": "2027-10-02",
+        "inferred": true
+      },
+      "resolution_criteria": "Industry data (e.g., Gartner) shows enterprise cybersecurity spending growth accelerating sharply, and cybersecurity vendors report strong revenue growth.",
+      "stated_confidence": "I'm going to make two predictions",
+      "confidence_bucket": "medium",
+      "quote": "I think we will see a massive rise in defense systems.",
+      "timestamp_seconds": 1199,
+      "id": "ZJKs08oU1zg-p05",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Within 12 to 18 months, the policy debate will move from regulating AI models to governments regulating data center access and allocating GPUs/compute to sectors such as finance and defense.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "12 to 18 months from now",
+        "date": "2028-04-02",
+        "inferred": false
+      },
+      "resolution_criteria": "By April 2028, the US government proposes or adopts rules allocating or prioritizing data center compute by sector or national-security use.",
+      "stated_confidence": "a prediction no one may like",
+      "confidence_bucket": "medium",
+      "quote": "I think 12 to 18 months from now, we're going to shift away",
+      "timestamp_seconds": 1319,
+      "id": "ZJKs08oU1zg-p06",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Domestic energy and electron production, and data centers, will be treated as national security priorities, which will lead to a free-market push to expand domestic generation rather than government allocation.",
+      "category": "macro",
+      "direction": "up",
+      "timeframe": {
+        "text": "multi-year",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "US policy treats data centers and power generation as national security infrastructure, and US power generation capacity growth accelerates.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "low",
+      "quote": "going to move from a domestic policy issue to a national security issue",
+      "timestamp_seconds": 1970,
+      "id": "ZJKs08oU1zg-p07",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Democrats will increasingly use AI doomerism as a campaign message in the 2026 midterms and in 2028.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "the midterms and then '28",
+        "date": "2026-11-03",
+        "inferred": false
+      },
+      "resolution_criteria": "Democratic campaigns prominently feature AI job-loss or AI-safety fear messaging in the 2026 midterms.",
+      "stated_confidence": null,
+      "confidence_bucket": "low",
+      "quote": "to then catalyze that to power in the midterms and then in '28",
+      "timestamp_seconds": 2429,
+      "id": "ZJKs08oU1zg-p08",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "AI will create more jobs and more work, and professionals such as EY partners will earn more money, not less, over the next 4 to 5 years.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "next 4 years and 5 years",
+        "date": "2030-10-02",
+        "inferred": false
+      },
+      "resolution_criteria": "US employment and real wages in professional services are higher in 2030 than in 2026, with no AI-driven employment decline.",
+      "stated_confidence": "all the data up until now",
+      "confidence_bucket": "high",
+      "quote": "will be making more money in the next 4 years and 5 years",
+      "timestamp_seconds": 2464,
+      "id": "ZJKs08oU1zg-p09",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Q3 2026 US GDP growth is tracking around 3.7% annualized, according to the Atlanta Fed GDPNow model.",
+      "category": "macro",
+      "direction": "up",
+      "timeframe": {
+        "text": "Q3 2026 GDP release",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "The BEA advance estimate of Q3 2026 real GDP growth comes in near or above 3.7% annualized.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "The Atlanta Fed GDP now is showing around 3.7%",
+      "timestamp_seconds": 2768,
+      "id": "ZJKs08oU1zg-p10",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Republicans will do better in the 2026 midterms than current polls predict.",
+      "category": "politics",
+      "direction": "up",
+      "timeframe": {
+        "text": "2026 midterms",
+        "date": "2026-11-03",
+        "inferred": true
+      },
+      "resolution_criteria": "Republican seat results in the House and Senate exceed pre-election polling and prediction-market expectations.",
+      "stated_confidence": "if I was to guess",
+      "confidence_bucket": "medium",
+      "quote": "the Republicans are going to do better in the midterms than some of these polls",
+      "timestamp_seconds": 2910,
+      "id": "ZJKs08oU1zg-p11",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "low",
+      "stance_type": "own_view",
+      "claim": "Consumer sentiment will catch up to the strong economic data.",
+      "category": "macro",
+      "direction": "up",
+      "timeframe": {
+        "text": "within 12 months",
+        "date": "2027-10-02",
+        "inferred": true
+      },
+      "resolution_criteria": "The University of Michigan consumer sentiment index rises meaningfully from its October 2026 level.",
+      "stated_confidence": "I think it will",
+      "confidence_bucket": "medium",
+      "quote": "The sentiment has not caught up with the economic reality, but I think it will.",
+      "timestamp_seconds": 2961,
+      "id": "ZJKs08oU1zg-p12",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "About 95 US banks will show equity impairments of more than 20% from the recent rate rise when reports on the period ending September 30 come out on October 30, creating a shock.",
+      "category": "markets",
+      "direction": "down",
+      "timeframe": {
+        "text": "October 30th",
+        "date": "2026-10-30",
+        "inferred": false
+      },
+      "resolution_criteria": "Bank filings for the period ending September 30, 2026 show roughly 95 banks with unrealized-loss impairments above 20% of equity, and the market reacts negatively.",
+      "stated_confidence": "the thing I worry a lot about",
+      "confidence_bucket": "medium",
+      "quote": "about 95 banks are going to see an impairment of more than 20%",
+      "timestamp_seconds": 3029,
+      "id": "ZJKs08oU1zg-p13",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If diesel prices are brought down, for example by resolving the Hormuz situation, gas prices and inflation will fall, the Fed can cut rates, and the economy will take off like a rocket.",
+      "category": "macro",
+      "direction": "down",
+      "timeframe": {
+        "text": "within 12 months",
+        "date": "2027-10-02",
+        "inferred": true
+      },
+      "resolution_criteria": "Diesel prices fall, inflation declines and the Fed cuts rates, followed by accelerating GDP growth.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "we can get rate cuts on that basis",
+      "timestamp_seconds": 3127,
+      "id": "ZJKs08oU1zg-p14",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "If the federal deficit is not cut to about 3% of GDP, interest rates will keep rising.",
+      "category": "macro",
+      "direction": "higher",
+      "timeframe": {
+        "text": "within 12 months",
+        "date": "2027-10-02",
+        "inferred": true
+      },
+      "resolution_criteria": "Treasury yields are higher in a year while the deficit stays well above 3% of GDP.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "these rates are only going to get worse",
+      "timestamp_seconds": 3186,
+      "id": "ZJKs08oU1zg-p15",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "The Treasury, under Scott Bessent, will handle the two upcoming tricky Treasury auctions well.",
+      "category": "markets",
+      "direction": "yes",
+      "timeframe": {
+        "text": "upcoming auctions",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "The next two major Treasury auctions clear without large tails or market disruption.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "I think Treasury will be able to navigate those well",
+      "timestamp_seconds": 3281,
+      "id": "ZJKs08oU1zg-p16",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "France will cut its budget by about 50 to 75 billion, forced by pressure from long-term rates.",
+      "category": "macro",
+      "direction": "down",
+      "timeframe": {
+        "text": "current budget negotiation",
+        "date": "2026-12-31",
+        "inferred": true
+      },
+      "resolution_criteria": "France's adopted 2027 budget includes about 50 to 75 billion in cuts or savings.",
+      "stated_confidence": "probably",
+      "confidence_bucket": "medium",
+      "quote": "they're about to shrink the budget by probably 50-75 billion dollars",
+      "timestamp_seconds": 3303,
+      "id": "ZJKs08oU1zg-p17",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "UK Prime Minister Andy Burnham will try to undo Brexit and greatly expand the size of government.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "over the next year",
+        "date": "2027-10-02",
+        "inferred": false
+      },
+      "resolution_criteria": "The UK government formally moves to rejoin the EU or the single market and enacts major increases in government spending.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "he's going to try to undo Brexit.",
+      "timestamp_seconds": 3356,
+      "id": "ZJKs08oU1zg-p18",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "US economic growth will come in somewhat above expectations, with more upward data revisions.",
+      "category": "macro",
+      "direction": "up",
+      "timeframe": {
+        "text": "over the next year",
+        "date": "2027-10-02",
+        "inferred": false
+      },
+      "resolution_criteria": "US GDP growth beats consensus forecasts and is revised upward over the next year.",
+      "stated_confidence": "I tend to think",
+      "confidence_bucket": "medium",
+      "quote": "I tend to think we're going to probably see a little bit more revision.",
+      "timestamp_seconds": 3356,
+      "id": "ZJKs08oU1zg-p19",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Polymarket gives Democrats about a 63% chance of winning the Senate, 63% of winning the House and 64% of sweeping both in the 2026 midterms.",
+      "category": "politics",
+      "direction": "win",
+      "timeframe": {
+        "text": "2026 midterms",
+        "date": "2026-11-03",
+        "inferred": true
+      },
+      "resolution_criteria": "Democrats win majorities in both the House and the Senate in the November 2026 midterms.",
+      "stated_confidence": "63%",
+      "confidence_bucket": "medium",
+      "quote": "63% chance the Democrats take the Senate.",
+      "timestamp_seconds": 3634,
+      "id": "ZJKs08oU1zg-p20",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "There will be no blue wave in the 2026 midterms; if Democrats win the House, their majority will be narrow.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "2026 midterms",
+        "date": "2026-11-03",
+        "inferred": true
+      },
+      "resolution_criteria": "Democrats gain only a narrow House majority or none, and there are no large Democratic seat gains.",
+      "stated_confidence": "I don't think",
+      "confidence_bucket": "medium",
+      "quote": "I don't think we're going to get a blue wave.",
+      "timestamp_seconds": 3726,
+      "id": "ZJKs08oU1zg-p21",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Republicans will surprise people and keep control of the Senate in the 2026 midterms.",
+      "category": "politics",
+      "direction": "win",
+      "timeframe": {
+        "text": "2026 midterms",
+        "date": "2026-11-03",
+        "inferred": true
+      },
+      "resolution_criteria": "Republicans hold a Senate majority after the November 2026 elections.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "I think the Republicans are going to surprise people",
+      "timestamp_seconds": 3783,
+      "id": "ZJKs08oU1zg-p22",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "resolved_incorrect",
+      "resolution_source": "polymarket",
+      "resolution_note": "Polymarket 'Will the Republican Party control the Senate after the 2026 Midterm elections?' resolved No",
+      "resolved_at": "2026-11-08T09:24:50Z",
+      "polymarket_market_id": "562794",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If Democrats take the House, Hakeem Jeffries will struggle to keep DSA-aligned Democrats in line, much as Kevin McCarthy struggled with the Freedom Caucus.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "next Congress",
+        "date": "2028-12-31",
+        "inferred": true
+      },
+      "resolution_criteria": "A Democratic House majority under Speaker Jeffries suffers visible internal rebellions such as failed rule votes or a challenge to his speakership.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "Hakeem Jeffries is going to have very similar problems",
+      "timestamp_seconds": 3817,
+      "id": "ZJKs08oU1zg-p23",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If diesel prices come down, inflation and rates will fall and US GDP growth will reach about 5%.",
+      "category": "macro",
+      "direction": "up",
+      "timeframe": {
+        "text": "within 12 months",
+        "date": "2027-10-02",
+        "inferred": true
+      },
+      "resolution_criteria": "Following a drop in diesel prices, a quarterly US real GDP growth print reaches about 5% annualized.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "the economy's going to hit, you know, 5% GDP growth.",
+      "timestamp_seconds": 3850,
+      "id": "ZJKs08oU1zg-p24",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Trump will wrap up the Iran war, but will not be pressured into doing it before the midterm election.",
+      "category": "politics",
+      "direction": "no",
+      "timeframe": {
+        "text": "before the election",
+        "date": "2026-11-03",
+        "inferred": true
+      },
+      "resolution_criteria": "No formal end or ceasefire of the US–Iran conflict is announced before November 3, 2026.",
+      "stated_confidence": null,
+      "confidence_bucket": "low",
+      "quote": "he doesn't want to be pressured into doing it before the election.",
+      "timestamp_seconds": 3888,
+      "id": "ZJKs08oU1zg-p25",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The Senate is a toss-up, but Republicans can keep control in the 2026 midterms.",
+      "category": "politics",
+      "direction": "win",
+      "timeframe": {
+        "text": "2026 midterms",
+        "date": "2026-11-03",
+        "inferred": true
+      },
+      "resolution_criteria": "Republicans hold a Senate majority after the November 2026 elections.",
+      "stated_confidence": "very much a toss-up",
+      "confidence_bucket": "low",
+      "quote": "I think it can remain Republican",
+      "timestamp_seconds": 3905,
+      "id": "ZJKs08oU1zg-p26",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "resolved_incorrect",
+      "resolution_source": "polymarket",
+      "resolution_note": "Polymarket 'Will the Republican Party control the Senate after the 2026 Midterm elections?' resolved No",
+      "resolved_at": "2026-11-08T09:24:50Z",
+      "polymarket_market_id": "562794",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Democrats will win a slim House majority in the 2026 midterms.",
+      "category": "politics",
+      "direction": "win",
+      "timeframe": {
+        "text": "2026 midterms",
+        "date": "2026-11-03",
+        "inferred": true
+      },
+      "resolution_criteria": "Democrats win a narrow majority of House seats in November 2026.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "I think the Democrats are going to have a slim majority in the house.",
+      "timestamp_seconds": 3905,
+      "id": "ZJKs08oU1zg-p27",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "resolved_correct",
+      "resolution_source": "polymarket",
+      "resolution_note": "Polymarket 'Will the Democratic Party control the House after the 2026 Midterm elections?' resolved Yes",
+      "resolved_at": "2026-11-08T09:24:50Z",
+      "polymarket_market_id": "562802",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Democrats will sweep both the House and the Senate in the 2026 midterms.",
+      "category": "politics",
+      "direction": "win",
+      "timeframe": {
+        "text": "2026 midterms",
+        "date": "2026-11-03",
+        "inferred": true
+      },
+      "resolution_criteria": "Democrats win majorities in both chambers in November 2026.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "And I think the Democrats sweep.",
+      "timestamp_seconds": 3965,
+      "id": "ZJKs08oU1zg-p28",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Between 2026 and 2028, populist sentiment will keep growing and crises over Social Security, rates and affordability, and taxation will come to a head, shaping the 2028 political landscape.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "between '26 and '28",
+        "date": "2028-11-07",
+        "inferred": false
+      },
+      "resolution_criteria": "By the 2028 election, major Social Security, entitlement or tax restructuring fights are central issues and populist movements have grown in both parties.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "that's all going to kind of come to a head between '26",
+      "timestamp_seconds": 4128,
+      "id": "ZJKs08oU1zg-p29",
+      "episode_id": "ZJKs08oU1zg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    }
+  ],
+  "stock_implications": [
+    {
+      "claim": "Corporate cyber-defense budgets will go through the roof as AI raises cyber risk, and Palo Alto Networks was named as an example.",
+      "tickers": [
+        "PANW",
+        "CRWD",
+        "CIBR"
+      ],
+      "company": "Palo Alto Networks",
+      "is_private": false,
+      "sector": "cybersecurity",
+      "direction": "bullish",
+      "timeframe": "next 12 months",
+      "rationale": "Sharply higher enterprise and government cyber-defense spending would directly increase revenue for cybersecurity vendors.",
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 1199,
+      "note": null,
+      "id": "ZJKs08oU1zg-s01"
+    },
+    {
+      "claim": "Cyber defense as an arms race will require continued data center buildout, and governments will treat compute allocation as national security.",
+      "tickers": [
+        "NVDA",
+        "GOOGL",
+        "AMZN",
+        "SMH"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "semiconductors",
+      "direction": "bullish",
+      "timeframe": "12-18 months",
+      "rationale": "Treating compute as national security infrastructure supports sustained demand for GPUs and cloud capacity.",
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 1319,
+      "note": null,
+      "id": "ZJKs08oU1zg-s02"
+    },
+    {
+      "claim": "The US needs to get back to doubling its power grid every decade to support data centers, and domestic electron production is becoming national security.",
+      "tickers": [
+        "XLU",
+        "VST",
+        "CEG"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "utilities",
+      "direction": "bullish",
+      "timeframe": "multi-year",
+      "rationale": "A push to rapidly expand power generation for data centers benefits power producers and utilities.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "timestamp_seconds": 1463,
+      "note": null,
+      "id": "ZJKs08oU1zg-s03"
+    },
+    {
+      "claim": "8090 and EY are building superintelligence audit infrastructure that will be rolled out broadly.",
+      "tickers": [],
+      "company": "8090 / EY",
+      "is_private": true,
+      "sector": "professional services",
+      "direction": "bullish",
+      "timeframe": "next 12 months",
+      "rationale": "Mandatory external audits under the accord create demand for AI audit and compliance tooling.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 679,
+      "note": "8090 and EY are private partnerships with no public ticker.",
+      "id": "ZJKs08oU1zg-s04"
+    },
+    {
+      "claim": "About 95 banks face equity impairments above 20% from the recent rise in short-term rates, with reports due October 30.",
+      "tickers": [
+        "KRE"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "regional banks",
+      "direction": "bearish",
+      "timeframe": "late October 2026",
+      "rationale": "Large unrealized losses on bank balance sheets would weigh on smaller and regional bank equities.",
+      "speaker": "David Friedberg",
+      "attribution_confidence": "medium",
+      "timestamp_seconds": 3029,
+      "note": null,
+      "id": "ZJKs08oU1zg-s05"
+    },
+    {
+      "claim": "Without cutting federal spending toward a 3% deficit, rates will only get worse.",
+      "tickers": [
+        "TLT"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "rates",
+      "direction": "bearish",
+      "timeframe": "next 12 months",
+      "rationale": "Rising Treasury yields mean falling long-duration bond prices.",
+      "speaker": "David Friedberg",
+      "attribution_confidence": "medium",
+      "timestamp_seconds": 3186,
+      "note": null,
+      "id": "ZJKs08oU1zg-s06"
+    },
+    {
+      "claim": "If diesel prices fall, inflation will fall, rate cuts will follow and the economy will take off like a rocket.",
+      "tickers": [
+        "TLT",
+        "SPY"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "rates",
+      "direction": "bullish",
+      "timeframe": "next 12 months",
+      "rationale": "Rate cuts lift bond prices, and accelerating growth supports equities.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 3127,
+      "note": null,
+      "id": "ZJKs08oU1zg-s07"
+    },
+    {
+      "claim": "The economy is much stronger than perceived, with re-industrialization and manufacturing PMIs in expansion.",
+      "tickers": [
+        "SPY",
+        "XLI"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "industrials",
+      "direction": "bullish",
+      "timeframe": "next 12 months",
+      "rationale": "Strong GDP, jobs and manufacturing data support US equities and industrials.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 2733,
+      "note": null,
+      "id": "ZJKs08oU1zg-s08"
+    },
+    {
+      "claim": "High pump prices come from a lack of refining capacity, not oil supply, and the US is far less dependent on oil than it used to be.",
+      "tickers": [
+        "CRAK"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "refining",
+      "direction": "bullish",
+      "timeframe": "near term",
+      "rationale": "A binding refining constraint supports refining margins.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "timestamp_seconds": 3438,
+      "note": null,
+      "id": "ZJKs08oU1zg-s09"
+    }
+  ],
+  "macro_themes": [
+    {
+      "theme": "ai safety",
+      "stance_summary": "Sacks and Chamath praise the White House superintelligence accord (internal controls, external audits, board oversight) as practical and fast. The hosts call doomerism an organized partisan narrative, and Jason says the public is still afraid.",
+      "speakers": [
+        "David Sacks",
+        "Chamath Palihapitiya",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 178
+    },
+    {
+      "theme": "ai regulation",
+      "stance_summary": "Friedberg says regulating models is futile and predicts government allocation of data center compute within 12-18 months. Chamath expects free-market buildout instead.",
+      "speakers": [
+        "David Friedberg",
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 1160
+    },
+    {
+      "theme": "cybersecurity",
+      "stance_summary": "Friedberg expects an AI cyber-defense arms race, with corporate cyber budgets rising sharply.",
+      "speakers": [
+        "David Friedberg"
+      ],
+      "timestamp_seconds": 1199
+    },
+    {
+      "theme": "energy",
+      "stance_summary": "Sacks wants the grid doubled each decade and sees diesel prices tied to Hormuz and refineries as the key remaining drag. Chamath says the constraint is refining, not oil, and that electrons are a national security issue.",
+      "speakers": [
+        "David Sacks",
+        "Chamath Palihapitiya",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 1463
+    },
+    {
+      "theme": "labor market",
+      "stance_summary": "Chamath rejects AI job-loss doomerism and expects more work and income. Sacks cites a big payroll beat and low unemployment.",
+      "speakers": [
+        "Chamath Palihapitiya",
+        "David Sacks"
+      ],
+      "timestamp_seconds": 2464
+    },
+    {
+      "theme": "inflation",
+      "stance_summary": "Sacks notes core PCE beat expectations and expects inflation to fall if diesel eases. Jason says inflation is stuck in the 3s and gas prices are up 50%.",
+      "speakers": [
+        "David Sacks",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 2733
+    },
+    {
+      "theme": "rates",
+      "stance_summary": "Friedberg warns that a 60bp rise in short-term yields threatens banks and consumers. Sacks says strong nominal growth explains part of the rise and sees rate cuts if diesel is solved.",
+      "speakers": [
+        "David Friedberg",
+        "David Sacks"
+      ],
+      "timestamp_seconds": 2961
+    },
+    {
+      "theme": "fiscal",
+      "stance_summary": "Friedberg blames high rates on federal spending and wants the deficit cut toward 3% of GDP. Chamath points to France's budget cuts and the UK's fiscal plans as signals for the US.",
+      "speakers": [
+        "David Friedberg",
+        "Chamath Palihapitiya",
+        "David Sacks"
+      ],
+      "timestamp_seconds": 3001
+    },
+    {
+      "theme": "elections",
+      "stance_summary": "Jason expects a Democratic sweep, citing Polymarket at about 64%. Sacks and Chamath expect Republicans may keep the Senate and Democrats to win only a narrow House majority. Friedberg focuses on populism and the crises building toward 2028.",
+      "speakers": [
+        "Jason Calacanis",
+        "David Sacks",
+        "Chamath Palihapitiya",
+        "David Friedberg"
+      ],
+      "timestamp_seconds": 2910
+    },
+    {
+      "theme": "geopolitics",
+      "stance_summary": "The hosts condemn the media for describing the attempted Flydubai hijacking as an altercation rather than terrorism.",
+      "speakers": [
+        "David Friedberg",
+        "Chamath Palihapitiya",
+        "David Sacks",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 4168
+    }
+  ],
+  "polymarket_candidates": [
+    {
+      "prediction_id": "ZJKs08oU1zg-p20",
+      "question": "Will Democrats win control of both the House and the Senate in the November 2026 midterms?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.64,
+      "search_keywords": [
+        "Democrats sweep 2026",
+        "midterms 2026 balance of power",
+        "Democrats House Senate 2026"
+      ]
+    },
+    {
+      "prediction_id": "ZJKs08oU1zg-p22",
+      "question": "Will Republicans keep control of the Senate in the November 2026 midterms?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.65,
+      "search_keywords": [
+        "Senate control 2026",
+        "Republicans Senate 2026",
+        "midterms Senate"
+      ]
+    },
+    {
+      "prediction_id": "ZJKs08oU1zg-p21",
+      "question": "Will Democrats win the House in the 2026 midterms with a narrow majority (no blue wave)?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.6,
+      "search_keywords": [
+        "House control 2026",
+        "Democrats House 2026",
+        "midterms House seats"
+      ]
+    },
+    {
+      "prediction_id": "ZJKs08oU1zg-p26",
+      "question": "Will Republicans keep control of the Senate in the November 2026 midterms?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.5,
+      "search_keywords": [
+        "Senate control 2026",
+        "Republicans Senate 2026"
+      ]
+    },
+    {
+      "prediction_id": "ZJKs08oU1zg-p27",
+      "question": "Will Democrats win control of the House in the November 2026 midterms?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.65,
+      "search_keywords": [
+        "House control 2026",
+        "Democrats House 2026"
+      ]
+    },
+    {
+      "prediction_id": "ZJKs08oU1zg-p28",
+      "question": "Will Democrats win control of both the House and the Senate in the November 2026 midterms?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.65,
+      "search_keywords": [
+        "Democrats sweep 2026",
+        "midterms 2026 balance of power"
+      ]
+    },
+    {
+      "prediction_id": "ZJKs08oU1zg-p25",
+      "question": "Will the US–Iran war end or reach a ceasefire before November 3, 2026?",
+      "hosts_answer": "no",
+      "implied_probability": 0.35,
+      "search_keywords": [
+        "Iran ceasefire",
+        "US Iran war end",
+        "Iran ceasefire 2026"
+      ]
+    },
+    {
+      "prediction_id": "ZJKs08oU1zg-p03",
+      "question": "Will the White House ballroom be completed by October 2027?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.65,
+      "search_keywords": [
+        "White House ballroom",
+        "White House ballroom completed"
+      ]
+    }
+  ],
+  "analyzed_at": "2026-11-08T09:12:45Z",
+  "model": "claude-opus-5-5",
+  "backend": "claude-code",
+  "chunked": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 25347,
+    "cache_read_input_tokens": 7543,
+    "cache_creation_input_tokens": 30679,
+    "thinking_tokens": 12097,
+    "cost_usd_equivalent": 0.753889,
+    "duration_ms": 208149,
+    "calls": 1
+  },
+  "quote_verification": {
+    "checked": 44,
+    "verified": 44,
+    "flagged": 0,
+    "dropped": 0
+  }
+}

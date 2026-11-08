@@ -124,7 +124,7 @@ def probe_whisper(audio_url: str | None, report: dict) -> None:
     with tempfile.TemporaryDirectory() as td:
         src = Path(td) / "src.bin"
         wav = Path(td) / "head.wav"
-        status, body, _ = _get(audio_url, rng="bytes=0-8000000", timeout=90)  # ~8 MB covers > 5 min at 128-192 kbps
+        _status, body, _ = _get(audio_url, rng="bytes=0-8000000", timeout=90)  # ~8 MB covers > 5 min at 128-192 kbps
         src.write_bytes(body)
         subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", str(src), "-t", "300", "-ac", "1", "-ar", "16000", str(wav)], check=False)
         if not wav.exists():

@@ -1,0 +1,1351 @@
+{
+  "schema_version": "1",
+  "episode": {
+    "video_id": "DvFe9bR2eHA",
+    "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+    "published_at": "2026-09-04",
+    "url": "https://www.youtube.com/watch?v=DvFe9bR2eHA",
+    "duration_seconds": 5515,
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "end_time": 77.0,
+        "title": "Bestie intros: Happy 50th Chamath!"
+      },
+      {
+        "start_time": 77.0,
+        "end_time": 1141.0,
+        "title": "OpenAI releases GPT-6 Astra: Have they reached AGI?"
+      },
+      {
+        "start_time": 1141.0,
+        "end_time": 1196.0,
+        "title": "All-In Summit: Scholarships available!"
+      },
+      {
+        "start_time": 1196.0,
+        "end_time": 2223.0,
+        "title": "Dwarkesh's Hugging Face hack article sparks a Bernie Sanders AI ban"
+      },
+      {
+        "start_time": 2223.0,
+        "end_time": 3566.0,
+        "title": "EAs, AI-brained influencers, and the conflicts of interest"
+      },
+      {
+        "start_time": 3566.0,
+        "end_time": 4738.0,
+        "title": "Mamdani bans AI in NYC schools K-8"
+      },
+      {
+        "start_time": 4738.0,
+        "end_time": 5515.0,
+        "title": "US-Venezuela oil deal"
+      }
+    ]
+  },
+  "hosts_present": [
+    "Chamath Palihapitiya",
+    "David Sacks",
+    "David Friedberg",
+    "Jason Calacanis"
+  ],
+  "guests": [],
+  "key_takes": [
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath agrees with Greg Brockman that AGI is already here. He says the real story is that frontier intelligence is becoming widely available while the cost of each unit of intelligence keeps falling.",
+      "quote": "I think AGI has basically been here since the beginning of the year",
+      "timestamp_seconds": 144,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks says America is winning the AI race as long as it doesn't create an FDA-style AI regulator that takes years to approve models, and he doesn't expect that to happen under Trump.",
+      "quote": "we are winning the AI race as long as we don't do something stupid",
+      "timestamp_seconds": 306,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "Sacks describes the AI market as two tiers: a frontier duopoly of Anthropic and OpenAI, and a commodity tier, including open models, that competes on price.",
+      "quote": "There's the market for frontier intelligence and that is a duopoly.",
+      "timestamp_seconds": 357,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "Late-stage valuations have come loose from reality: unproven founders are getting 50 to 100 times revenue, which isn't sustainable.",
+      "quote": "They're being priced at 50 to 100 times topline revenue.",
+      "timestamp_seconds": 530,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Jason advises founders to sell 10 to 20% of their holdings in secondaries and to raise large amounts of capital now rather than wait for a higher valuation.",
+      "quote": "you're within your rights to sell 10 to 20% of your",
+      "timestamp_seconds": 979,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks says secondaries are fine for employees of late-stage, near-IPO companies, but a Series A founder taking money off the table is a strong negative signal.",
+      "quote": "I consider that to be a huge negative signal.",
+      "timestamp_seconds": 1072,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath argues that the hype around the Hugging Face hack comes from people with undisclosed conflicts of interest who create hysteria in order to push regulation.",
+      "quote": "folks that have undisclosed conflicts of interest trying to create a hysteria",
+      "timestamp_seconds": 1348,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks says Dwarkesh sensationalized the incident. In his account, it was a swarm of agents in a sandbox a vendor misconfigured, using exposed API keys and standard note-taking, not an AI breakout.",
+      "quote": "It seems almost designed to scare the public.",
+      "timestamp_seconds": 1466,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg says the agents won because dynamically generated code was attacking static code, and that cyber defense will become dynamic and agentic too.",
+      "quote": "dynamic generation of code being put up against static code will win",
+      "timestamp_seconds": 1905,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks says an FDA for AI wouldn't have caught this incident and that guardrails have already pushed Hugging Face toward Chinese models. In his view, the answer to AI-powered attacks is AI-powered defense.",
+      "quote": "the answer to AI powered cyber attacks is AI powered cyber defense",
+      "timestamp_seconds": 2142,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath calls Nvidia's Hugging Face deal one of the most important transactions in AI because it puts a well-funded player on the side of an open market structure.",
+      "quote": "will go down as one of the most important transactions in AI",
+      "timestamp_seconds": 2632,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks expects the political fight over AI to shift from accelerationists versus doomers to open versus closed, with the closed duopoly lobbying for a regulator it can capture.",
+      "quote": "where the debate is moving to is open versus closed",
+      "timestamp_seconds": 2895,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks says local communities can get good data center deals (lower property taxes, teacher bonuses, paid-for grid upgrades) and that Trump supports local choice rather than forcing data centers on anyone.",
+      "quote": "There are great deals for local communities to be had.",
+      "timestamp_seconds": 3166,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg cites a Stanford review to argue that Mamdani's K-8 AI ban isn't backed by evidence and mainly reflects teachers-union and anti-tech politics.",
+      "quote": "doesn't seem to be a strong evidence base to suggest that AI is detrimental",
+      "timestamp_seconds": 3707,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath says policies like NYC's AI ban will push kids in liberal cities into poverty, while states that embrace AI pull ahead.",
+      "quote": "This is when New York becomes Mississippi while Mississippi becomes New York.",
+      "timestamp_seconds": 4060,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks calls the Venezuela oil deal a business deal, not nation building, and a win-win: Venezuela's heavy crude suits US Gulf refineries, and Venezuelan output collapsed under Maduro.",
+      "quote": "We're just making a business deal.",
+      "timestamp_seconds": 4866,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg suggests the main motive for the Venezuela deal may be denying the oil to Russia and China, and says what matters is whether ordinary Venezuelans benefit.",
+      "quote": "The biggest motivating factor may be keeping this oil away from the sweetheart deal",
+      "timestamp_seconds": 5080,
+      "quote_verified": "verified"
+    }
+  ],
+  "predictions": [
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "A handful of other closed-source and open-source models will match or come close to GPT-6 Astra's capabilities within 3 to 4 months.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "within the next 3 or 4 months",
+        "date": "2027-01-04",
+        "inferred": false
+      },
+      "resolution_criteria": "By early January 2027, competing closed or open-source models score at or near GPT-6 Astra on major benchmarks.",
+      "stated_confidence": "probably",
+      "confidence_bucket": "medium",
+      "quote": "probably within the next 3 or 4 months",
+      "timestamp_seconds": 181,
+      "id": "DvFe9bR2eHA-p01",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "xAI's next Grok model (4.6) is coming soon and will be a blockbuster release.",
+      "category": "AI",
+      "direction": "yes",
+      "timeframe": {
+        "text": "coming soon",
+        "date": "2026-12-31",
+        "inferred": true
+      },
+      "resolution_criteria": "xAI releases Grok 4.6 by the end of 2026 and it is widely received as a top-tier model.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "46 is coming. That's going to be a blockbuster.",
+      "timestamp_seconds": 247,
+      "id": "DvFe9bR2eHA-p02",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "No FDA-style federal AI regulatory agency that must approve new models will be created while Trump is president.",
+      "category": "politics",
+      "direction": "no",
+      "timeframe": {
+        "text": "under President Trump",
+        "date": "2029-01-20",
+        "inferred": true
+      },
+      "resolution_criteria": "Whether a federal agency with pre-approval authority over AI models is established before January 20, 2029.",
+      "stated_confidence": "I really don't",
+      "confidence_bucket": "high",
+      "quote": "I don't think it's going to happen under President Trump",
+      "timestamp_seconds": 327,
+      "id": "DvFe9bR2eHA-p03",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Unknown",
+      "attribution_confidence": "low",
+      "stance_type": "own_view",
+      "claim": "Anthropic and OpenAI will eventually launch their own simplified consumer bot products to compete with Grokbot.",
+      "category": "AI",
+      "direction": "yes",
+      "timeframe": {
+        "text": "eventually",
+        "date": "2027-09-04",
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic and OpenAI each launch a simplified, Grokbot-style personal agent product.",
+      "stated_confidence": "I would assume",
+      "confidence_bucket": "medium",
+      "quote": "both Anthropic and OpenAI will eventually roll out their own version",
+      "timestamp_seconds": 417,
+      "id": "DvFe9bR2eHA-p04",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "medium",
+      "stance_type": "reported_view",
+      "claim": "After GPT-6, Polymarket gives OpenAI just over 20% odds of having the best AI model at the end of 2026, up from low single digits.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "by the end of 2026",
+        "date": "2026-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "Resolution of the Polymarket market on which company has the best AI model at the end of 2026.",
+      "stated_confidence": "over 20",
+      "confidence_bucket": "low",
+      "quote": "OpenAI's chances just spiked",
+      "timestamp_seconds": 417,
+      "id": "DvFe9bR2eHA-p05",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": "2431414",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Late-stage startup valuations of 50 to 100 times revenue for unproven founders are unsustainable and will come down.",
+      "category": "markets",
+      "direction": "down",
+      "timeframe": {
+        "text": "not specified",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Late-stage private valuation multiples for AI startups fall well below 50x revenue.",
+      "stated_confidence": "obviously not sustainable",
+      "confidence_bucket": "high",
+      "quote": "They're being priced at 50 to 100 times topline revenue.",
+      "timestamp_seconds": 530,
+      "id": "DvFe9bR2eHA-p06",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "low",
+      "stance_type": "own_view",
+      "claim": "The AI euphoria is at the beginning and will probably last about three more years before markets realize they priced too far ahead and reprice sharply.",
+      "category": "markets",
+      "direction": "up",
+      "timeframe": {
+        "text": "another probably three years",
+        "date": "2029-09-04",
+        "inferred": false
+      },
+      "resolution_criteria": "Whether the AI-driven tech bull market continues without a major crash until about 2029 and then corrects sharply.",
+      "stated_confidence": "probably",
+      "confidence_bucket": "medium",
+      "quote": "I think it's going to be like this for another probably three years.",
+      "timestamp_seconds": 843,
+      "id": "DvFe9bR2eHA-p07",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Unknown",
+      "attribution_confidence": "low",
+      "stance_type": "own_view",
+      "claim": "The market is in a 1998-like phase, not 1999, and the peak of the AI cycle has not happened yet.",
+      "category": "markets",
+      "direction": "up",
+      "timeframe": {
+        "text": "not specified",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Whether tech and AI valuations keep rising to new highs after September 2026.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "I don't think we've seen the peak yet",
+      "timestamp_seconds": 898,
+      "id": "DvFe9bR2eHA-p08",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Anthropic and OpenAI are within months of their IPOs.",
+      "category": "company-specific",
+      "direction": "yes",
+      "timeframe": {
+        "text": "within months",
+        "date": "2027-03-04",
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic and OpenAI complete IPOs within about six months of September 2026.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "They're within months of an IPO.",
+      "timestamp_seconds": 1072,
+      "id": "DvFe9bR2eHA-p09",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "The Anthropic IPO will create about four times the wealth of all previous San Francisco IPOs combined, OpenAI's IPO will follow, and together they will push SF home prices higher.",
+      "category": "company-specific",
+      "direction": "up",
+      "timeframe": {
+        "text": "around the Anthropic IPO",
+        "date": "2027-09-04",
+        "inferred": true
+      },
+      "resolution_criteria": "The Anthropic IPO's market value is about four times the sum of all prior SF IPOs, and SF home prices rise around the IPO.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "this anthropic IPO is going to be four times the wealth generation event",
+      "timestamp_seconds": 935,
+      "id": "DvFe9bR2eHA-p10",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Unknown",
+      "attribution_confidence": "low",
+      "stance_type": "own_view",
+      "claim": "Ultra-luxury San Francisco real estate could reach $5,000 per square foot.",
+      "category": "other",
+      "direction": "up",
+      "timeframe": {
+        "text": "not specified",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Ultra-luxury SF homes sell for about $5,000 per square foot.",
+      "stated_confidence": "could easily",
+      "confidence_bucket": "medium",
+      "quote": "ultra luxury market in San Francisco could easily go to 5,000 a foot",
+      "timestamp_seconds": 959,
+      "id": "DvFe9bR2eHA-p11",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Unknown",
+      "attribution_confidence": "low",
+      "stance_type": "own_view",
+      "claim": "By the end of 2026 the market may reach peak 1999-style euphoria.",
+      "category": "markets",
+      "direction": "up",
+      "timeframe": {
+        "text": "by the end of this year",
+        "date": "2026-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "Tech and AI valuations and IPO activity reach euphoric highs by December 2026.",
+      "stated_confidence": "might",
+      "confidence_bucket": "low",
+      "quote": "partying like it's 1999 by the end of this year",
+      "timestamp_seconds": 1129,
+      "id": "DvFe9bR2eHA-p12",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Over roughly the next 10 years, while legacy code is replaced, there will be one security incident after another, and eventually agent-written code will surpass human-written code in quality.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "next 10 years",
+        "date": "2036-09-04",
+        "inferred": false
+      },
+      "resolution_criteria": "Frequency of AI-discovered security incidents over the decade, and whether agent-written code becomes the dominant, higher-quality standard.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "we're going to have security issue after security issue",
+      "timestamp_seconds": 1293,
+      "id": "DvFe9bR2eHA-p13",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "AI attackers and AI defenders will reach roughly a stalemate rather than a one-way advantage for attackers.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "long-term",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Whether AI-powered cyber defense broadly keeps pace with AI-powered attacks.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "And I think it's going to cause roughly a stalemate.",
+      "timestamp_seconds": 1327,
+      "id": "DvFe9bR2eHA-p14",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If the AI industry keeps up its infighting and fear campaigns, ordinary Americans will reject AI because they won't trust anyone.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "not specified",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Public opinion polls show broad public rejection of AI.",
+      "stated_confidence": null,
+      "confidence_bucket": "low",
+      "quote": "average rank and file Americans will just reject this",
+      "timestamp_seconds": 1385,
+      "id": "DvFe9bR2eHA-p15",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Cyber defense will become dynamic and agentic and end up as strong as or stronger than AI-powered offensive systems.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "over time",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Widespread adoption of dynamic, agentic cyber defenses that effectively counter agent-based attacks.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "cyber defense will become stronger than if not better than any",
+      "timestamp_seconds": 1987,
+      "id": "DvFe9bR2eHA-p16",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Polymarket puts the odds of an AI safety bill passing this year at only 11%.",
+      "category": "politics",
+      "direction": "no",
+      "timeframe": {
+        "text": "this year",
+        "date": "2026-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "Whether a federal AI safety bill is enacted by December 31, 2026.",
+      "stated_confidence": "11%",
+      "confidence_bucket": "low",
+      "quote": "Only 11% chance of AI safety bill this year.",
+      "timestamp_seconds": 2023,
+      "id": "DvFe9bR2eHA-p17",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": "676842",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "After the Anthropic and OpenAI IPOs, charitable giving and donor-advised funds from the two companies will exceed half a trillion dollars, shaping political and social outcomes.",
+      "category": "company-specific",
+      "direction": "up",
+      "timeframe": {
+        "text": "post the IPOs",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Total charitable and DAF funding from Anthropic and OpenAI stakeholders after the IPOs exceeds $500B.",
+      "stated_confidence": "it could be even more",
+      "confidence_bucket": "medium",
+      "quote": "it's going to be north of half a trillion dollars between the two companies",
+      "timestamp_seconds": 2479,
+      "id": "DvFe9bR2eHA-p18",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Nvidia's Hugging Face deal will be remembered as one of the most important transactions in AI, putting a well-funded player behind open markets and increasing competition across the stack.",
+      "category": "company-specific",
+      "direction": null,
+      "timeframe": {
+        "text": "long-term",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Whether Nvidia/Hugging Face becomes a leading force in open-source AI and a meaningful competitor to closed labs.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "will go down as one of the most important transactions in AI",
+      "timestamp_seconds": 2632,
+      "id": "DvFe9bR2eHA-p19",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Nvidia, now America's leading open-source AI provider and a top competitor to OpenAI and Anthropic, will catch up to and overtake China's open-source models by the end of 2027.",
+      "category": "AI",
+      "direction": "win",
+      "timeframe": {
+        "text": "by the end of 2027",
+        "date": "2027-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "Nvidia's open models outperform leading Chinese open-source models on major benchmarks or leaderboards by the end of 2027.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "he's going to catch up and blow past China",
+      "timestamp_seconds": 2739,
+      "id": "DvFe9bR2eHA-p20",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "AI will not be stopped, the political debate will shift to open versus closed, and most conservatives and libertarians will come out in favor of open AI.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "as the debate evolves",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Whether the main AI policy fight becomes open vs. closed models and conservative or libertarian lawmakers broadly back open models.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "AI is just not going to be stopped",
+      "timestamp_seconds": 2895,
+      "id": "DvFe9bR2eHA-p21",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "After the midterms, Governors Shapiro and Abbott will switch back to supporting data centers.",
+      "category": "politics",
+      "direction": "yes",
+      "timeframe": {
+        "text": "post midterms",
+        "date": "2027-06-30",
+        "inferred": true
+      },
+      "resolution_criteria": "Shapiro and Abbott publicly return to pro-data-center positions after the November 2026 midterms.",
+      "stated_confidence": "I'm of the belief",
+      "confidence_bucket": "medium",
+      "quote": "they're going to switch their position back to being pro data centers",
+      "timestamp_seconds": 3082,
+      "id": "DvFe9bR2eHA-p22",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Anti-AI and anti-data-center positions people are taking now will look foolish within 6 to 12 months as the truth comes out.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "6 to 9 months and a year from now",
+        "date": "2027-09-04",
+        "inferred": false
+      },
+      "resolution_criteria": "Whether public and political sentiment on AI and data centers shifts favorably within a year and the current anti-AI positions are discredited.",
+      "stated_confidence": "That's my prediction.",
+      "confidence_bucket": "high",
+      "quote": "which will look incredibly incredibly dumb in 6 to9 months and a year from now",
+      "timestamp_seconds": 3413,
+      "id": "DvFe9bR2eHA-p23",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "As foreign funding of the anti-data-center movement is exposed, sentiment toward data centers will turn more positive.",
+      "category": "politics",
+      "direction": "up",
+      "timeframe": {
+        "text": "not specified",
+        "date": "2027-09-04",
+        "inferred": true
+      },
+      "resolution_criteria": "Polls show improving public sentiment toward data centers.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "I think that that's going to change as well",
+      "timestamp_seconds": 3319,
+      "id": "DvFe9bR2eHA-p24",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "The Anthropic IPO will create about a hundred new EA billionaires, and their political spending will be like George Soros times 100.",
+      "category": "politics",
+      "direction": "up",
+      "timeframe": {
+        "text": "after the Anthropic IPO",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Number of new billionaires from the Anthropic IPO and their political or advocacy spending.",
+      "stated_confidence": "probably",
+      "confidence_bucket": "medium",
+      "quote": "we are going to have like probably a hundred new EA billionaires",
+      "timestamp_seconds": 3480,
+      "id": "DvFe9bR2eHA-p25",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "AI will eventually lead to a much more personalized education system, disrupting traditional classroom teaching.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "ultimately",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Wide adoption of AI-personalized tutoring as a core part of K-12 education.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "AI ultimately will lead to a much more kind of personalized system of education",
+      "timestamp_seconds": 3778,
+      "id": "DvFe9bR2eHA-p26",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Adaptive AI learning platforms will become children's primary way of learning, replacing grade-by-grade instruction.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "in the future",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Adaptive learning platforms become the main way most K-12 students learn.",
+      "stated_confidence": "inconceivable to me that kids will not",
+      "confidence_bucket": "high",
+      "quote": "inconceivable to me that kids will not have an adaptive learning platform",
+      "timestamp_seconds": 4019,
+      "id": "DvFe9bR2eHA-p27",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Cities that adopt policies like NYC's AI ban will push a generation of kids into poverty, while states that embrace AI and data centers pull ahead, shifting the economic and voting balance of the US.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "multi-year",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Relative economic outcomes, population migration and educational results in AI-embracing states versus cities with AI bans.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "they're just going to end up ahead",
+      "timestamp_seconds": 4132,
+      "id": "DvFe9bR2eHA-p28",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "NYC's K-8 AI ban will hurt public school students and widen the gap with private school students who use AI tools.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "during the one-year ban",
+        "date": "2027-09-04",
+        "inferred": true
+      },
+      "resolution_criteria": "NYC public school K-8 outcomes compared with private and AI-using schools over the ban period.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "this is going to be just really bad for the kids.",
+      "timestamp_seconds": 4236,
+      "id": "DvFe9bR2eHA-p29",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The US-Venezuela oil deal will improve Venezuela's economy and be good for the US.",
+      "category": "macro",
+      "direction": "up",
+      "timeframe": {
+        "text": "not specified",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Venezuela's GDP and oil output rise after the deal, and US refiners receive more Venezuelan heavy crude.",
+      "stated_confidence": "has to improve",
+      "confidence_bucket": "high",
+      "quote": "I think this will this has to improve their economy",
+      "timestamp_seconds": 4999,
+      "id": "DvFe9bR2eHA-p30",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If the US invests billions in Venezuelan oil infrastructure, the country's production could rise from about 1 million to 3 million barrels a day, provided property rights are respected.",
+      "category": "macro",
+      "direction": "up",
+      "timeframe": {
+        "text": "over the life of the deal",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Venezuelan crude production reaches about 3 million barrels per day.",
+      "stated_confidence": null,
+      "confidence_bucket": "low",
+      "quote": "so that we can produce 3 million barrels a day instead of one",
+      "timestamp_seconds": 5310,
+      "id": "DvFe9bR2eHA-p31",
+      "episode_id": "DvFe9bR2eHA",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    }
+  ],
+  "stock_implications": [
+    {
+      "claim": "Jason says Nvidia is now the leading US open-source AI provider and the top competitor to OpenAI and Anthropic for tokens and enterprise compute.",
+      "tickers": [
+        "NVDA"
+      ],
+      "company": "Nvidia",
+      "is_private": false,
+      "sector": "semiconductors",
+      "direction": "bullish",
+      "timeframe": "through end of 2027",
+      "rationale": "Selling full-stack, open-model racks to enterprises extends Nvidia's revenue beyond hardware into AI services.",
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 2703,
+      "note": null,
+      "id": "DvFe9bR2eHA-s01"
+    },
+    {
+      "claim": "Sacks says Anthropic and OpenAI are within months of IPOs that will be among the largest wealth events ever.",
+      "tickers": [],
+      "company": "Anthropic / OpenAI",
+      "is_private": true,
+      "sector": "AI",
+      "direction": "bullish",
+      "timeframe": "next 6 months",
+      "rationale": "The upcoming IPOs and a rebound in OpenAI's competitive position suggest strong demand for both listings.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 1072,
+      "note": "Both companies are private with no public ticker.",
+      "id": "DvFe9bR2eHA-s02"
+    },
+    {
+      "claim": "Sacks says AI can't be stopped because consumer and business demand is driving the data center buildout.",
+      "tickers": [
+        "SMH"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "semiconductors",
+      "direction": "bullish",
+      "timeframe": "multi-year",
+      "rationale": "Continued demand-driven data center buildout supports semiconductor spending despite political backlash.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 2895,
+      "note": null,
+      "id": "DvFe9bR2eHA-s03"
+    },
+    {
+      "claim": "Sacks says Venezuelan heavy crude suits US Gulf refineries built for heavy crude and the distillates and diesel they produce.",
+      "tickers": [
+        "VLO",
+        "MPC"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "energy",
+      "direction": "bullish",
+      "timeframe": "multi-year",
+      "rationale": "More heavy crude reaching Gulf refineries that are configured for it could improve refiners' feedstock supply and economics.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4962,
+      "note": null,
+      "id": "DvFe9bR2eHA-s04"
+    },
+    {
+      "claim": "Jason says Chevron and other companies will get deals as part of the Venezuela oil concession.",
+      "tickers": [
+        "CVX"
+      ],
+      "company": "Chevron",
+      "is_private": false,
+      "sector": "energy",
+      "direction": "bullish",
+      "timeframe": "multi-year",
+      "rationale": "Access to Venezuela's large reserves under the US-backed deal could add production opportunities.",
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4811,
+      "note": null,
+      "id": "DvFe9bR2eHA-s05"
+    },
+    {
+      "claim": "Sacks says the answer to AI-powered cyber attacks is getting AI-powered cyber defense to IT departments and CISOs.",
+      "tickers": [
+        "CIBR"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "cybersecurity",
+      "direction": "bullish",
+      "timeframe": "next 12 months",
+      "rationale": "A race to patch vulnerabilities with AI defense tools implies higher cybersecurity spending.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 2142,
+      "note": null,
+      "id": "DvFe9bR2eHA-s06"
+    },
+    {
+      "claim": "The AI euphoria is early and will probably last about three more years.",
+      "tickers": [
+        "QQQ"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "technology",
+      "direction": "bullish",
+      "timeframe": "next ~3 years",
+      "rationale": "A multi-year continuation of the AI bull market supports tech indices before any eventual repricing.",
+      "speaker": "David Friedberg",
+      "attribution_confidence": "low",
+      "timestamp_seconds": 843,
+      "note": null,
+      "id": "DvFe9bR2eHA-s07"
+    },
+    {
+      "claim": "Valuations of 50 to 100 times revenue for unproven AI startups are unsustainable.",
+      "tickers": [],
+      "company": null,
+      "is_private": true,
+      "sector": "venture capital",
+      "direction": "bearish",
+      "timeframe": "next 12 months",
+      "rationale": "Overpriced late-stage private rounds risk markdowns when multiples compress.",
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "medium",
+      "timestamp_seconds": 530,
+      "note": "These are private startup valuations with no liquid public proxy.",
+      "id": "DvFe9bR2eHA-s08"
+    }
+  ],
+  "macro_themes": [
+    {
+      "theme": "ai competition",
+      "stance_summary": "GPT-6 puts OpenAI back in a two-horse frontier race with Anthropic. Chamath says AGI is already here and rivals will catch up within months, and Sacks says the US is winning as long as it avoids heavy regulation.",
+      "speakers": [
+        "Chamath Palihapitiya",
+        "David Sacks",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 144
+    },
+    {
+      "theme": "private markets",
+      "stance_summary": "The hosts see growing euphoria, comparing now to roughly 1997-1998 rather than 1999. They advise founders to take some secondaries and raise capital while it's available, but Sacks warns that early-stage founders cashing out is a red flag.",
+      "speakers": [
+        "Jason Calacanis",
+        "David Friedberg",
+        "David Sacks"
+      ],
+      "timestamp_seconds": 530
+    },
+    {
+      "theme": "ipo market",
+      "stance_summary": "The Anthropic and OpenAI IPOs are expected within months and seen as historic wealth events, with spillovers into SF real estate and EA-aligned philanthropy and politics.",
+      "speakers": [
+        "David Sacks",
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 880
+    },
+    {
+      "theme": "housing",
+      "stance_summary": "SF luxury home prices are surging ahead of the AI IPOs because of limited supply. Hosts suggest prices could reach $5,000 per square foot and talk about selling their own properties.",
+      "speakers": [
+        "David Sacks",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 880
+    },
+    {
+      "theme": "ai safety",
+      "stance_summary": "The group calls Dwarkesh's Hugging Face hack story sensationalized fearmongering connected to EA-adjacent conflicts of interest, and argues AI-powered defense is the real answer.",
+      "speakers": [
+        "Chamath Palihapitiya",
+        "David Sacks",
+        "David Friedberg",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 1211
+    },
+    {
+      "theme": "ai regulation",
+      "stance_summary": "The hosts oppose Bernie Sanders' proposed pause and an FDA for AI, calling it regulatory capture by the closed duopoly. They expect the policy fight to become open versus closed.",
+      "speakers": [
+        "David Sacks",
+        "Chamath Palihapitiya",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 1783
+    },
+    {
+      "theme": "ai capex",
+      "stance_summary": "The hosts see the political backlash against data centers, including from Abbott and Shapiro, as driven by bad data and foreign influence campaigns. They say communities can get good deals and that consumer demand makes the buildout unstoppable.",
+      "speakers": [
+        "Jason Calacanis",
+        "David Sacks",
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 2776
+    },
+    {
+      "theme": "china",
+      "stance_summary": "Suspected Chinese bot networks are fueling anti-data-center sentiment, Hugging Face turned to a Chinese model for cyber defense, and China is adding AI to K-12 schooling while NYC bans it.",
+      "speakers": [
+        "Jason Calacanis",
+        "David Sacks",
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 3374
+    },
+    {
+      "theme": "education",
+      "stance_summary": "All hosts criticize Mamdani's K-8 AI ban as unsupported by evidence and harmful to public school kids, though Jason flags research on cognitive atrophy from relying on LLMs.",
+      "speakers": [
+        "David Friedberg",
+        "Chamath Palihapitiya",
+        "David Sacks",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 3559
+    },
+    {
+      "theme": "energy",
+      "stance_summary": "Sacks calls the US-Venezuela oil concession a win-win business deal whose heavy crude complements US refineries. Friedberg asks whether ordinary Venezuelans will benefit.",
+      "speakers": [
+        "David Sacks",
+        "David Friedberg",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 4738
+    },
+    {
+      "theme": "geopolitics",
+      "stance_summary": "The Venezuela deal is seen as keeping oil away from Russia and China. Sacks prefers a stable Rodriguez government to installing Machado, despite the risk of nationalization.",
+      "speakers": [
+        "David Friedberg",
+        "David Sacks"
+      ],
+      "timestamp_seconds": 5080
+    }
+  ],
+  "polymarket_candidates": [
+    {
+      "prediction_id": "DvFe9bR2eHA-p17",
+      "question": "Will a federal AI safety bill be signed into law by December 31, 2026?",
+      "hosts_answer": "no",
+      "implied_probability": 0.11,
+      "search_keywords": [
+        "AI safety bill",
+        "AI safety bill 2026",
+        "federal AI legislation"
+      ]
+    },
+    {
+      "prediction_id": "DvFe9bR2eHA-p05",
+      "question": "Will OpenAI have the top AI model at the end of 2026?",
+      "hosts_answer": "no",
+      "implied_probability": 0.2,
+      "search_keywords": [
+        "best AI model end of 2026",
+        "top AI model 2026",
+        "OpenAI best AI model"
+      ]
+    },
+    {
+      "prediction_id": "DvFe9bR2eHA-p09",
+      "question": "Will Anthropic complete its IPO by March 31, 2027?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.75,
+      "search_keywords": [
+        "Anthropic IPO",
+        "Anthropic IPO 2026",
+        "OpenAI IPO"
+      ]
+    },
+    {
+      "prediction_id": "DvFe9bR2eHA-p03",
+      "question": "Will a federal AI licensing or model-approval agency be created before January 20, 2029?",
+      "hosts_answer": "no",
+      "implied_probability": 0.15,
+      "search_keywords": [
+        "AI regulatory agency",
+        "federal AI agency",
+        "AI licensing law"
+      ]
+    },
+    {
+      "prediction_id": "DvFe9bR2eHA-p02",
+      "question": "Will xAI release Grok 4.6 by December 31, 2026?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.7,
+      "search_keywords": [
+        "Grok 4.6",
+        "Grok release",
+        "xAI Grok"
+      ]
+    },
+    {
+      "prediction_id": "DvFe9bR2eHA-p20",
+      "question": "Will an Nvidia open-source model top the leading Chinese open-source models by the end of 2027?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.65,
+      "search_keywords": [
+        "best open source AI model",
+        "Nvidia open model",
+        "top open source model 2027"
+      ]
+    }
+  ],
+  "analyzed_at": "2026-11-08T09:21:58Z",
+  "model": "claude-opus-5-5",
+  "backend": "claude-code",
+  "chunked": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 28232,
+    "cache_read_input_tokens": 7543,
+    "cache_creation_input_tokens": 32659,
+    "thinking_tokens": 14576,
+    "cost_usd_equivalent": 0.827429,
+    "duration_ms": 230764,
+    "calls": 1
+  },
+  "quote_verification": {
+    "checked": 48,
+    "verified": 48,
+    "flagged": 0,
+    "dropped": 0
+  }
+}

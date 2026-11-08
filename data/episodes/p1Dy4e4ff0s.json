@@ -1,0 +1,1611 @@
+{
+  "schema_version": "1",
+  "episode": {
+    "video_id": "p1Dy4e4ff0s",
+    "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google’s $500B Wipeout, Midterm Predictions",
+    "published_at": "2026-10-30",
+    "url": "https://www.youtube.com/watch?v=p1Dy4e4ff0s",
+    "duration_seconds": 5146,
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "end_time": 202.0,
+        "title": "Bestie Intros"
+      },
+      {
+        "start_time": 202.0,
+        "end_time": 1967.0,
+        "title": "Anthropic S-1 Breakdown: Greatest Business Ever?"
+      },
+      {
+        "start_time": 1967.0,
+        "end_time": 3717.0,
+        "title": "AI's Biggest Problem and Anthropic's Doomer Showdown"
+      },
+      {
+        "start_time": 3717.0,
+        "end_time": 4457.0,
+        "title": "Google Sheds $500B Market Cap in Worst Day Ever: What Went Wrong?"
+      },
+      {
+        "start_time": 4457.0,
+        "end_time": 5146.0,
+        "title": "Final Midterms Predictions and Scenarios"
+      }
+    ]
+  },
+  "hosts_present": [
+    "Chamath Palihapitiya",
+    "David Sacks",
+    "David Friedberg",
+    "Jason Calacanis"
+  ],
+  "guests": [],
+  "key_takes": [
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Anthropic's IPO is probably the biggest venture outcome ever and the fastest value creation of any venture-backed company, and it will create huge wealth for employees.",
+      "quote": "I think this is probably going to be the biggest venture outcome of all time.",
+      "timestamp_seconds": 351,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "The S-1 shows the widely reported $80B loss is a non-cash accounting effect of convertible notes, and Anthropic has been very capital-efficient with rising gross margins.",
+      "quote": "it turns out that that $80 billion loss is a phantom number",
+      "timestamp_seconds": 422,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Every layer of the AI value stack is highly profitable, which points to real productivity gains, and Anthropic has reached only about 1% of its potential large customers.",
+      "quote": "a dollar that Nvidia spends turns into $18",
+      "timestamp_seconds": 815,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "An analysis of the S-1 risk factors shows compute (data centers, financing commitments and power) is the binding constraint on Anthropic, not customer demand.",
+      "quote": "the single biggest risk to the Ant business is compute.",
+      "timestamp_seconds": 1135,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Power and data centers are the political lever for 2028: Democrats gain if they slow the buildout and cause a slowdown, while Republicans must get power and data centers right.",
+      "quote": "slow down power and slow down data centers",
+      "timestamp_seconds": 1287,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "The AI complex's debt raising through 2027 equals about 30% of planned Treasury issuance, so it competes with governments for capital and creates a new systemic market risk.",
+      "quote": "It's like you have seven companies that are crowding out the treasury market.",
+      "timestamp_seconds": 2070,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Enterprise adoption is so early that token usage will grow about 500x, so the industry is underbuilding compute rather than overbuilding it.",
+      "quote": "The token usage is going 500x.",
+      "timestamp_seconds": 2125,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "Because AI organizations compete with governments for capital and power, governments will move to regulate and allocate compute capacity.",
+      "quote": "you're going to end up seeing compute get regulated in the future",
+      "timestamp_seconds": 2307,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "Anthropic is racing harder than anyone toward recursive self-improvement, which could cause a split between Anthropic and the AI doomer movement.",
+      "quote": "I do think that it's possible that an Anthropic doomer split is coming",
+      "timestamp_seconds": 2729,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Anthropic is building an AGI monopoly while seeking regulatory capture; the IPO should expose it as big tech and weaken the case for regulatory moats.",
+      "quote": "they're going for regulatory capture and we should definitely not allow that to happen",
+      "timestamp_seconds": 3614,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Google Cloud is very strong, but core search is challenged, may be over-earning from ad pricing changes and needs a consumer AI replacement.",
+      "quote": "I think the core services, the core Google ad revenue is a real challenge",
+      "timestamp_seconds": 3797,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Google IR must refute the viral claims that it abandoned second-price ad auctions, and its most important task is keeping Demis Hassabis.",
+      "quote": "How do you keep Demis at Google?",
+      "timestamp_seconds": 4252,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Search revenue still grew 12% and only fell below 50% of revenue because Cloud doubled, so Google looks oversold after earnings.",
+      "quote": "I tend to think Google's a little bit oversold on this news today.",
+      "timestamp_seconds": 4387,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Midterm polls are biased or even fraudulent and favor Democrats, so Republicans should ignore them and vote; the economy is not a disaster.",
+      "quote": "So, some of the polls are outright fraudulent",
+      "timestamp_seconds": 4584,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Democrats will sweep the House and Senate on low Trump approval and a fractured Republican base, followed by impeachment and two chaotic years.",
+      "quote": "I think Democrats are going to win the Senate.",
+      "timestamp_seconds": 4773,
+      "quote_verified": "verified"
+    }
+  ],
+  "predictions": [
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Polymarket gives a 78% chance that Anthropic raises at least $95 billion in its IPO.",
+      "category": "company-specific",
+      "direction": "yes",
+      "timeframe": {
+        "text": "IPO targeted for November 16, 2026",
+        "date": "2026-11-16",
+        "inferred": false
+      },
+      "resolution_criteria": "Anthropic IPO gross proceeds are at least $95B.",
+      "stated_confidence": "78% (Polymarket)",
+      "confidence_bucket": "medium",
+      "quote": "78% chance Anthropic raises at least 95 billion",
+      "timestamp_seconds": 235,
+      "id": "p1Dy4e4ff0s-p01",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Anthropic's IPO market cap will come in slightly under $2 trillion.",
+      "category": "company-specific",
+      "direction": "lower",
+      "timeframe": {
+        "text": "at the IPO, targeted November 16, 2026",
+        "date": "2026-11-16",
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic's market cap at IPO pricing is just below $2T.",
+      "stated_confidence": "assume",
+      "confidence_bucket": "unstated",
+      "quote": "assume it's going to be slightly under 2 trillion",
+      "timestamp_seconds": 269,
+      "id": "p1Dy4e4ff0s-p02",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Anthropic projects $100 billion of ARR by the end of 2026.",
+      "category": "company-specific",
+      "direction": "up",
+      "timeframe": {
+        "text": "by the end of the year",
+        "date": "2026-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "Anthropic reports an annualized revenue run rate of at least $100B by year-end 2026.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "they're projecting 100 billion of ARR by the end of the year.",
+      "timestamp_seconds": 299,
+      "id": "p1Dy4e4ff0s-p03",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Anthropic's IPO will be the biggest venture outcome of all time, an exit on par with SpaceX's IPO.",
+      "category": "company-specific",
+      "direction": "up",
+      "timeframe": {
+        "text": "at the upcoming IPO",
+        "date": "2026-11-30",
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic's IPO valuation equals or exceeds that of any previous venture-backed company exit, including SpaceX.",
+      "stated_confidence": "probably",
+      "confidence_bucket": "medium",
+      "quote": "I think this is probably going to be the biggest venture outcome of all time.",
+      "timestamp_seconds": 351,
+      "id": "p1Dy4e4ff0s-p04",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If recursive self-improvement has kicked in, Anthropic's lead over competitors could grow.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-30",
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic's lead in benchmarks and enterprise share over rival labs widens.",
+      "stated_confidence": "could",
+      "confidence_bucket": "low",
+      "quote": "then their lead could actually grow.",
+      "timestamp_seconds": 610,
+      "id": "p1Dy4e4ff0s-p05",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Anthropic, and labs generally, will segment pricing: cheaper tokens for easy tasks and premium prices for high-intelligence tasks.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-30",
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic introduces clearly tiered token pricing by task difficulty or intelligence level.",
+      "stated_confidence": "I envision",
+      "confidence_bucket": "medium",
+      "quote": "And I'm I envision that's where everyone's going to go.",
+      "timestamp_seconds": 975,
+      "id": "p1Dy4e4ff0s-p06",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Market whispers say Anthropic's Q3 2026 revenue growth moderated to about 50%, which will show in an updated filing if the IPO comes after November 11.",
+      "category": "company-specific",
+      "direction": "down",
+      "timeframe": {
+        "text": "Q3 disclosure ahead of the IPO",
+        "date": "2026-11-16",
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic's disclosed Q3 2026 revenue growth is around 50% quarter over quarter.",
+      "stated_confidence": "people have been whispering",
+      "confidence_bucket": "low",
+      "quote": "the revenue growth kind of moderated to sort of like the 50% range",
+      "timestamp_seconds": 1111,
+      "id": "p1Dy4e4ff0s-p07",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Democrats will try to slow power and data-center buildout to slow the economy before the 2028 election.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "going into the 2028 election",
+        "date": "2028-11-07",
+        "inferred": false
+      },
+      "resolution_criteria": "Democratic officials or legislation move to restrict data-center permitting or power hookups before November 2028.",
+      "stated_confidence": null,
+      "confidence_bucket": "low",
+      "quote": "slow down power and slow down data centers",
+      "timestamp_seconds": 1287,
+      "id": "p1Dy4e4ff0s-p08",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Democrats will try to sabotage the superintelligence buildout because it is driving the Trump economy.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "through the 2028 cycle",
+        "date": "2028-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "Democratic leadership advances measures that restrict AI development or data centers.",
+      "stated_confidence": "I tend to think",
+      "confidence_bucket": "medium",
+      "quote": "Democrats want to do anything they can to sabotage the Trump economy",
+      "timestamp_seconds": 1414,
+      "id": "p1Dy4e4ff0s-p09",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Anthropic can become a revenue business in the hundreds of billions of dollars within 3 to 7 years.",
+      "category": "company-specific",
+      "direction": "up",
+      "timeframe": {
+        "text": "3 to 7 year time frame",
+        "date": "2033-10-30",
+        "inferred": false
+      },
+      "resolution_criteria": "Anthropic's annual revenue reaches $200B or more by 2033.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "a very large revenue business in the hundreds of billions of dollars",
+      "timestamp_seconds": 1670,
+      "id": "p1Dy4e4ff0s-p10",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Anthropic needs to raise $80B to $120B, and the IPO will price at a $1.3T to $1.7T valuation, about $1.5T at the midpoint.",
+      "category": "company-specific",
+      "direction": null,
+      "timeframe": {
+        "text": "at the IPO, targeted November 16, 2026",
+        "date": "2026-11-16",
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic's IPO pricing valuation falls between $1.3T and $1.7T.",
+      "stated_confidence": "If I had to just kind of guess",
+      "confidence_bucket": "low",
+      "quote": "I kind of think it'll come in around 1.5.",
+      "timestamp_seconds": 1832,
+      "id": "p1Dy4e4ff0s-p11",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Counting about $100B of IPO proceeds and an $80B debt facility, Anthropic will soon have over $300B of dry powder, enough to back its compute commitments.",
+      "category": "company-specific",
+      "direction": "up",
+      "timeframe": {
+        "text": "after the IPO",
+        "date": "2026-12-31",
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic's post-IPO cash plus available credit exceeds $300B.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "this is a company with over 300 billion of dry powder",
+      "timestamp_seconds": 1878,
+      "id": "p1Dy4e4ff0s-p12",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Because Anthropic needs to raise less than expected, it will have more pricing power and manage its float better, giving a constructive setup into the IPO.",
+      "category": "company-specific",
+      "direction": "up",
+      "timeframe": {
+        "text": "into the IPO",
+        "date": "2026-11-16",
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic's IPO prices at or above its range and trades well initially.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "give you a constructive read going into the IPO.",
+      "timestamp_seconds": 1926,
+      "id": "p1Dy4e4ff0s-p13",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "AI companies' borrowing through 2027, about 30% of planned Treasury issuance, will compete with Treasuries for demand, raising borrowing costs either for the AI complex or for the US government.",
+      "category": "macro",
+      "direction": "higher",
+      "timeframe": {
+        "text": "through the end of 2027",
+        "date": "2027-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "Higher Treasury auction yields or tails, or wider credit spreads on hyperscaler and AI debt, through 2027.",
+      "stated_confidence": "whether we like it or not",
+      "confidence_bucket": "medium",
+      "quote": "they are going to start competing for demand.",
+      "timestamp_seconds": 2070,
+      "id": "p1Dy4e4ff0s-p14",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "As enterprises deploy agents to 100-200 million white-collar workers, token usage will grow about 500x and compute will be undersupplied.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "next few years",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Industry token consumption grows by orders of magnitude, with persistent compute shortages.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "The token usage is going 500x.",
+      "timestamp_seconds": 2125,
+      "id": "p1Dy4e4ff0s-p15",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Regulatory approvals, utility staffing and equipment shortages will keep the US from building compute as fast as demand requires.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "near term",
+        "date": "2027-10-30",
+        "inferred": true
+      },
+      "resolution_criteria": "Data-center and power-interconnection backlogs persist and buildout lags demand.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "We can't do it even if we wanted to do it.",
+      "timestamp_seconds": 2147,
+      "id": "p1Dy4e4ff0s-p16",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Governments will pass laws to regulate compute, assigning who gets access to how much compute capacity.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "in the future",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "A government enacts a law that allocates or licenses access to compute capacity.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "you're going to end up seeing compute get regulated in the future",
+      "timestamp_seconds": 2307,
+      "id": "p1Dy4e4ff0s-p17",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Government versus private-market control of AI will be the major political battle over the next five years.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "over the next half decade",
+        "date": "2031-10-30",
+        "inferred": false
+      },
+      "resolution_criteria": "Control of AI (government vs private) becomes a central partisan policy fight through 2031.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "that'll be the huge battle that's going to brew over the next half decade",
+      "timestamp_seconds": 2418,
+      "id": "p1Dy4e4ff0s-p18",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "With a roughly $2T market cap, Anthropic will gain even more influence in Washington, and going public will cause it to be seen as a big tech monopoly.",
+      "category": "politics",
+      "direction": "up",
+      "timeframe": {
+        "text": "after the IPO",
+        "date": "2027-10-30",
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic's lobbying and political spending grow, and it is treated as big tech in policy debates.",
+      "stated_confidence": "I think you can expect",
+      "confidence_bucket": "medium",
+      "quote": "they're going to have even more influence in Washington",
+      "timestamp_seconds": 2545,
+      "id": "p1Dy4e4ff0s-p19",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Anthropic's pursuit of recursive self-improvement may cause a split with the AI doomer movement.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-30",
+        "inferred": true
+      },
+      "resolution_criteria": "Prominent AI safety or doomer organizations publicly break with or campaign against Anthropic.",
+      "stated_confidence": "it's possible ... but we'll see",
+      "confidence_bucket": "low",
+      "quote": "I do think that it's possible that an Anthropic doomer split is coming",
+      "timestamp_seconds": 2729,
+      "id": "p1Dy4e4ff0s-p20",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Because the AI complex competes with Treasuries for capital, risks to AI stocks lean more to the downside than the upside, with possible systemic risk-off.",
+      "category": "markets",
+      "direction": "down",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-30",
+        "inferred": true
+      },
+      "resolution_criteria": "A broad selloff in AI stocks tied to funding costs or rate pressure.",
+      "stated_confidence": "I'm generally bullish",
+      "confidence_bucket": "low",
+      "quote": "many roads lead to downside risk more than upside risk.",
+      "timestamp_seconds": 3009,
+      "id": "p1Dy4e4ff0s-p21",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Anthropic's business could become bigger than the iPhone, Google search and Amazon retail franchises combined, with revenue heading to $300B and eventually $600B.",
+      "category": "company-specific",
+      "direction": "up",
+      "timeframe": {
+        "text": "first seven years of revenue",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic's cumulative revenue over its first seven revenue years exceeds the combined totals for those three franchises.",
+      "stated_confidence": "It's possible",
+      "confidence_bucket": "low",
+      "quote": "It's possible Anthropic's business is bigger than the top three franchises",
+      "timestamp_seconds": 3129,
+      "id": "p1Dy4e4ff0s-p22",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Talk on X is that after Anthropic cut token prices, demand reaccelerated and the company returned to its previous growth rate after Q3 hiccups.",
+      "category": "company-specific",
+      "direction": "up",
+      "timeframe": {
+        "text": "Q4 2026",
+        "date": "2026-12-31",
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic's Q4 2026 revenue growth reaccelerates compared with Q3.",
+      "stated_confidence": "who knows if we can totally believe this",
+      "confidence_bucket": "low",
+      "quote": "it seems like they're back to resuming their previous growth",
+      "timestamp_seconds": 3286,
+      "id": "p1Dy4e4ff0s-p23",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Because of Jevons paradox and token-heavy uses like agents and cyber defense, token prices will keep falling while the total AI market keeps growing.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "ongoing",
+        "date": "2027-10-30",
+        "inferred": true
+      },
+      "resolution_criteria": "Per-token prices fall while total AI model revenue rises year over year.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "So, the price will keep going down, but the market size keeps increasing.",
+      "timestamp_seconds": 3420,
+      "id": "p1Dy4e4ff0s-p24",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Once cyber risk is mitigated, daily AI use at work will rise from about 10% of workers to 60-80%.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "unspecified, once cyber threat mitigated",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Gallup's survey shows 60%+ of US workers using AI daily at work.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "go from 10% of people being daily users to 60, 70, 80%.",
+      "timestamp_seconds": 3549,
+      "id": "p1Dy4e4ff0s-p25",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Following Uber's move, large companies will start buying AI subscriptions for every employee.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-30",
+        "inferred": true
+      },
+      "resolution_criteria": "Multiple large enterprises announce company-wide AI assistant deployments for all employees.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "That's going to be the next shoe to drop",
+      "timestamp_seconds": 3578,
+      "id": "p1Dy4e4ff0s-p26",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Unknown",
+      "attribution_confidence": "low",
+      "stance_type": "own_view",
+      "claim": "A movement to break up Anthropic, for example separating the lab and token business from subscriptions, could emerge.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "unspecified",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Regulators or politicians publicly propose breaking up Anthropic.",
+      "stated_confidence": "It could happen.",
+      "confidence_bucket": "low",
+      "quote": "It could happen.",
+      "timestamp_seconds": 3649,
+      "id": "p1Dy4e4ff0s-p27",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "OpenAI will file to go public and disclose its financials.",
+      "category": "company-specific",
+      "direction": "yes",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-30",
+        "inferred": true
+      },
+      "resolution_criteria": "OpenAI publicly files an S-1 registration statement.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "when open AI files",
+      "timestamp_seconds": 3673,
+      "id": "p1Dy4e4ff0s-p28",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Google Cloud has a credible path to strong, progressive growth over the next couple of years.",
+      "category": "company-specific",
+      "direction": "up",
+      "timeframe": {
+        "text": "next couple of years",
+        "date": "2028-10-30",
+        "inferred": false
+      },
+      "resolution_criteria": "Google Cloud revenue and operating income keep growing strongly through 2028.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "the next couple of years of really progressive growth in that business.",
+      "timestamp_seconds": 3865,
+      "id": "p1Dy4e4ff0s-p29",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Advertisers will notice Google over-earning from its ad pricing changes and cut spend, so core search will look weaker over time.",
+      "category": "company-specific",
+      "direction": "down",
+      "timeframe": {
+        "text": "over time",
+        "date": "2027-10-30",
+        "inferred": true
+      },
+      "resolution_criteria": "Google search revenue growth decelerates further or turns negative as advertisers cut spend.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "advertisers will see that, they'll experience that, they'll reduce spend",
+      "timestamp_seconds": 3881,
+      "id": "p1Dy4e4ff0s-p30",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If the claims that Google is pulling future ad revenue into the present gain momentum, the market will react badly, and Alphabet will go through a shareholder-base transition as a more diversified conglomerate.",
+      "category": "company-specific",
+      "direction": "down",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-30",
+        "inferred": true
+      },
+      "resolution_criteria": "Alphabet stock underperforms on continued ad-auction concerns, and search falls further as a share of revenue.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "the market will react badly to it.",
+      "timestamp_seconds": 4188,
+      "id": "p1Dy4e4ff0s-p31",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Alphabet stock is oversold after its Q3 earnings drop, which implies a rebound.",
+      "category": "markets",
+      "direction": "up",
+      "timeframe": {
+        "text": "near term",
+        "date": "2027-01-31",
+        "inferred": true
+      },
+      "resolution_criteria": "GOOGL trades above its post-earnings close of October 29-30, 2026 in the following months.",
+      "stated_confidence": "I tend to think",
+      "confidence_bucket": "medium",
+      "quote": "I tend to think Google's a little bit oversold on this news today.",
+      "timestamp_seconds": 4387,
+      "id": "p1Dy4e4ff0s-p32",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Alphabet's dependence on search will keep falling below 50% of revenue as other businesses grow, and Jason is long the stock after buying during the show.",
+      "category": "markets",
+      "direction": "up",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-30",
+        "inferred": true
+      },
+      "resolution_criteria": "Search revenue keeps falling as a share of Alphabet revenue, and GOOGL rises from its post-earnings level.",
+      "stated_confidence": "I just bought more shares",
+      "confidence_bucket": "medium",
+      "quote": "I just bought more shares on Google while doing the show.",
+      "timestamp_seconds": 4428,
+      "id": "p1Dy4e4ff0s-p33",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "In the 2026 midterms, Republicans will keep the Senate and Democrats will win a narrow House majority, a modest Democratic 'spritz'.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "midterm election Tuesday",
+        "date": "2026-11-03",
+        "inferred": false
+      },
+      "resolution_criteria": "2026 midterm results: Republicans control the Senate and Democrats win a narrow House majority.",
+      "stated_confidence": "I think it's still set up",
+      "confidence_bucket": "medium",
+      "quote": "Republicans keep the Senate and the Democrats to have a narrow majority",
+      "timestamp_seconds": 4501,
+      "id": "p1Dy4e4ff0s-p34",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If Democrats win the House, they will subpoena widely and release documents to create FUD before 2028, and an economic slowdown would help them.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "going into the 2028 cycle",
+        "date": "2028-11-07",
+        "inferred": false
+      },
+      "resolution_criteria": "A Democratic House majority issues many investigative subpoenas and document releases in 2027-2028.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "start subpoenaing everybody and start to do disclosure, discovery",
+      "timestamp_seconds": 4526,
+      "id": "p1Dy4e4ff0s-p35",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The 2026 midterms will be a normal out-party midterm gain rather than the Democratic tsunami the media is predicting.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "midterm election Tuesday",
+        "date": "2026-11-03",
+        "inferred": false
+      },
+      "resolution_criteria": "Democratic seat gains in the 2026 midterms are within the historical norm, not a wave or bloodbath.",
+      "stated_confidence": "I think it might be",
+      "confidence_bucket": "low",
+      "quote": "I think it might be a more normal midterm result.",
+      "timestamp_seconds": 4749,
+      "id": "p1Dy4e4ff0s-p36",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "resolved_correct",
+      "resolution_source": "polymarket",
+      "resolution_note": "Polymarket 'Will the Democratic Party control the House after the 2026 Midterm elections?' resolved Yes",
+      "resolved_at": "2026-11-08T09:24:50Z",
+      "polymarket_market_id": "562802",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Democrats will win control of the Senate in the 2026 midterms, in line with Polymarket's 68%.",
+      "category": "politics",
+      "direction": "win",
+      "timeframe": {
+        "text": "midterm election Tuesday",
+        "date": "2026-11-03",
+        "inferred": false
+      },
+      "resolution_criteria": "Democrats hold a Senate majority after the 2026 midterm results.",
+      "stated_confidence": "I believe that ... very easy sweep",
+      "confidence_bucket": "high",
+      "quote": "I think Democrats are going to win the Senate.",
+      "timestamp_seconds": 4773,
+      "id": "p1Dy4e4ff0s-p37",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Democrats will win control of the House in the 2026 midterms, in line with Polymarket's 92%.",
+      "category": "politics",
+      "direction": "win",
+      "timeframe": {
+        "text": "midterm election Tuesday",
+        "date": "2026-11-03",
+        "inferred": false
+      },
+      "resolution_criteria": "Democrats win a House majority in the 2026 midterms.",
+      "stated_confidence": "obviously everybody believes that. 92% chance.",
+      "confidence_bucket": "high",
+      "quote": "And house, obviously everybody believes that.",
+      "timestamp_seconds": 4773,
+      "id": "p1Dy4e4ff0s-p38",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "After Democrats take Congress, Trump will be impeached again.",
+      "category": "politics",
+      "direction": "yes",
+      "timeframe": {
+        "text": "the next two years",
+        "date": "2029-01-03",
+        "inferred": true
+      },
+      "resolution_criteria": "The House passes articles of impeachment against Trump during the 2027-2028 Congress.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "I think we're going to go right back to Trump being impeached.",
+      "timestamp_seconds": 4857,
+      "id": "p1Dy4e4ff0s-p39",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "After two chaotic years, Republicans will move past the Trump era, including J.D. Vance and Marco Rubio, and pick a new, more populist 2028 champion not yet identifiable.",
+      "category": "politics",
+      "direction": "no",
+      "timeframe": {
+        "text": "2028 presidential cycle",
+        "date": "2028-08-31",
+        "inferred": true
+      },
+      "resolution_criteria": "Neither J.D. Vance nor Marco Rubio is the 2028 Republican presidential nominee.",
+      "stated_confidence": "That's not my personal belief, that's just my analysis",
+      "confidence_bucket": "low",
+      "quote": "I think that means they put J.D. Vance and Marco Rubio to bed",
+      "timestamp_seconds": 4905,
+      "id": "p1Dy4e4ff0s-p40",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If Democrats take Congress, their extremism will become visible and the political pendulum will swing back.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "2027-2028",
+        "date": "2028-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "Public opinion shifts against a Democratic Congress, e.g. falling congressional approval before 2028.",
+      "stated_confidence": "likely",
+      "confidence_bucket": "medium",
+      "quote": "you're likely to see how nutty they are",
+      "timestamp_seconds": 5014,
+      "id": "p1Dy4e4ff0s-p41",
+      "episode_id": "p1Dy4e4ff0s",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    }
+  ],
+  "stock_implications": [
+    {
+      "claim": "Anthropic is probably the biggest venture outcome ever, with improving margins and capital efficiency.",
+      "tickers": [],
+      "company": "Anthropic",
+      "is_private": true,
+      "sector": "AI",
+      "direction": "bullish",
+      "timeframe": "into and after the November 2026 IPO",
+      "rationale": "The S-1 shows strong growth, gross margins near 85% and large cash reserves, which supports a strong IPO.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 351,
+      "note": "Private before the IPO; the planned ticker ANT was not yet trading.",
+      "id": "p1Dy4e4ff0s-s01"
+    },
+    {
+      "claim": "Every layer of the AI value stack is highly profitable, starting with Nvidia's roughly 75% chip margins.",
+      "tickers": [
+        "NVDA",
+        "SMH"
+      ],
+      "company": "Nvidia",
+      "is_private": false,
+      "sector": "semiconductors",
+      "direction": "bullish",
+      "timeframe": "multi-year",
+      "rationale": "Profitability and fast-growing demand at every downstream layer support continued chip spending.",
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 815,
+      "note": null,
+      "id": "p1Dy4e4ff0s-s02"
+    },
+    {
+      "claim": "Token usage will grow about 500x and compute will be undersupplied.",
+      "tickers": [
+        "NVDA",
+        "SMH"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "semiconductors",
+      "direction": "bullish",
+      "timeframe": "multi-year",
+      "rationale": "Demand far above compute supply implies continued strong spending on chips and infrastructure.",
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 2125,
+      "note": null,
+      "id": "p1Dy4e4ff0s-s03"
+    },
+    {
+      "claim": "AI-complex borrowing equal to about 30% of Treasury issuance will compete with Treasuries and push up borrowing costs.",
+      "tickers": [
+        "TLT"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "rates",
+      "direction": "bearish",
+      "timeframe": "through end of 2027",
+      "rationale": "More competition for duration demand could push Treasury yields up and long-bond prices down.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 2070,
+      "note": null,
+      "id": "p1Dy4e4ff0s-s04"
+    },
+    {
+      "claim": "Microsoft nearly doubled revenue with flat headcount and Satya halved its debt while peers levered up.",
+      "tickers": [
+        "MSFT"
+      ],
+      "company": "Microsoft",
+      "is_private": false,
+      "sector": "software",
+      "direction": "bullish",
+      "timeframe": "multi-year",
+      "rationale": "AI-driven productivity gains and a stronger balance sheet than other hyperscalers.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 1004,
+      "note": null,
+      "id": "p1Dy4e4ff0s-s05"
+    },
+    {
+      "claim": "Google looks oversold because search still grew 12% and Cloud doubled.",
+      "tickers": [
+        "GOOGL"
+      ],
+      "company": "Alphabet",
+      "is_private": false,
+      "sector": "internet",
+      "direction": "bullish",
+      "timeframe": "near term",
+      "rationale": "The post-earnings selloff overstates search deterioration while other segments grow fast.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4387,
+      "note": null,
+      "id": "p1Dy4e4ff0s-s06"
+    },
+    {
+      "claim": "Jason bought more Alphabet shares during the show because the company is diversifying beyond search.",
+      "tickers": [
+        "GOOGL"
+      ],
+      "company": "Alphabet",
+      "is_private": false,
+      "sector": "internet",
+      "direction": "bullish",
+      "timeframe": "next 12 months",
+      "rationale": "Searches are still growing, other businesses are scaling, and Alphabet holds stakes in Anthropic, SpaceX and Waymo.",
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4428,
+      "note": null,
+      "id": "p1Dy4e4ff0s-s07"
+    },
+    {
+      "claim": "Google's core search ad business is challenged and may be over-earning, while Google Cloud is tremendous.",
+      "tickers": [
+        "GOOGL"
+      ],
+      "company": "Alphabet",
+      "is_private": false,
+      "sector": "internet",
+      "direction": "neutral",
+      "timeframe": "next couple of years",
+      "rationale": "A strong cloud business is offset by risk to search revenue from AI and ad-pricing changes.",
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 3797,
+      "note": null,
+      "id": "p1Dy4e4ff0s-s08"
+    },
+    {
+      "claim": "Amazon owns a big stake in Anthropic and will be a big winner from the IPO.",
+      "tickers": [
+        "AMZN"
+      ],
+      "company": "Amazon",
+      "is_private": false,
+      "sector": "internet",
+      "direction": "bullish",
+      "timeframe": "around the Anthropic IPO",
+      "rationale": "A large Anthropic stake gets marked to a public valuation.",
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "medium",
+      "timestamp_seconds": 4428,
+      "note": null,
+      "id": "p1Dy4e4ff0s-s09"
+    }
+  ],
+  "macro_themes": [
+    {
+      "theme": "ipo market",
+      "stance_summary": "The hosts see Anthropic's planned $100B IPO at about $1.5-2T as historic and constructive; it would be the largest IPO ever.",
+      "speakers": [
+        "Jason Calacanis",
+        "David Sacks",
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 202
+    },
+    {
+      "theme": "ai capex",
+      "stance_summary": "Compute and data centers are the binding constraint; demand (token usage, enterprise adoption) is seen as far ahead of buildout.",
+      "speakers": [
+        "Chamath Palihapitiya",
+        "Jason Calacanis",
+        "David Friedberg",
+        "David Sacks"
+      ],
+      "timestamp_seconds": 1135
+    },
+    {
+      "theme": "energy",
+      "stance_summary": "Power and data-center permitting is the key political lever for 2028, and regulatory and utility bottlenecks slow the buildout.",
+      "speakers": [
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 1269
+    },
+    {
+      "theme": "labor market",
+      "stance_summary": "Chamath argues AI shows up as productivity gains (Microsoft revenue up sharply with flat headcount) rather than job loss.",
+      "speakers": [
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 1004
+    },
+    {
+      "theme": "rates",
+      "stance_summary": "Chamath warns that AI-complex debt raising is crowding out Treasury demand, a new systemic risk that could raise borrowing costs.",
+      "speakers": [
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 2029
+    },
+    {
+      "theme": "ai regulation",
+      "stance_summary": "Sacks warns about the Democratic SI agenda and Anthropic's push for regulatory capture; Friedberg expects governments to regulate compute.",
+      "speakers": [
+        "David Sacks",
+        "David Friedberg",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 1377
+    },
+    {
+      "theme": "ai safety",
+      "stance_summary": "Sacks argues Anthropic leads the race to recursive self-improvement, which may split it from the doomers.",
+      "speakers": [
+        "David Sacks"
+      ],
+      "timestamp_seconds": 2585
+    },
+    {
+      "theme": "ai disruption",
+      "stance_summary": "The panel debates whether AI threatens Google search; Friedberg and Chamath see real risk, while Sacks and Jason think the selloff is overdone.",
+      "speakers": [
+        "Jason Calacanis",
+        "David Friedberg",
+        "Chamath Palihapitiya",
+        "David Sacks"
+      ],
+      "timestamp_seconds": 3717
+    },
+    {
+      "theme": "elections",
+      "stance_summary": "Jason expects a Democratic sweep and impeachment, Chamath expects Democrats to take only the House, and Sacks distrusts polls and expects a normal midterm.",
+      "speakers": [
+        "Jason Calacanis",
+        "Chamath Palihapitiya",
+        "David Sacks"
+      ],
+      "timestamp_seconds": 4450
+    }
+  ],
+  "polymarket_candidates": [
+    {
+      "prediction_id": "p1Dy4e4ff0s-p01",
+      "question": "Will Anthropic raise at least $95 billion in its IPO?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.78,
+      "search_keywords": [
+        "Anthropic IPO raise",
+        "Anthropic IPO",
+        "Anthropic IPO 2026"
+      ]
+    },
+    {
+      "prediction_id": "p1Dy4e4ff0s-p02",
+      "question": "Will Anthropic's market cap at IPO be below $2 trillion?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.65,
+      "search_keywords": [
+        "Anthropic IPO market cap",
+        "Anthropic valuation IPO",
+        "Anthropic IPO"
+      ]
+    },
+    {
+      "prediction_id": "p1Dy4e4ff0s-p11",
+      "question": "Will Anthropic's IPO price at a valuation between $1.3 trillion and $1.7 trillion?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.35,
+      "search_keywords": [
+        "Anthropic IPO valuation",
+        "Anthropic market cap",
+        "Anthropic IPO"
+      ]
+    },
+    {
+      "prediction_id": "p1Dy4e4ff0s-p27",
+      "question": "Will OpenAI publicly file for an IPO by October 2027?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.6,
+      "search_keywords": [
+        "OpenAI IPO",
+        "OpenAI S-1",
+        "OpenAI IPO 2027"
+      ]
+    },
+    {
+      "prediction_id": "p1Dy4e4ff0s-p32",
+      "question": "Will Republicans keep control of the Senate in the 2026 midterm elections?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.65,
+      "search_keywords": [
+        "Senate control 2026",
+        "midterms Senate",
+        "2026 midterms"
+      ]
+    },
+    {
+      "prediction_id": "p1Dy4e4ff0s-p35",
+      "question": "Will Democrats win control of the Senate in the 2026 midterm elections?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.8,
+      "search_keywords": [
+        "Senate control 2026",
+        "Democrats Senate midterms",
+        "2026 midterms"
+      ]
+    },
+    {
+      "prediction_id": "p1Dy4e4ff0s-p36",
+      "question": "Will Democrats win control of the House in the 2026 midterm elections?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.9,
+      "search_keywords": [
+        "House control 2026",
+        "Democrats House midterms",
+        "2026 midterms"
+      ]
+    },
+    {
+      "prediction_id": "p1Dy4e4ff0s-p37",
+      "question": "Will the House impeach Donald Trump before January 2029?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.65,
+      "search_keywords": [
+        "Trump impeachment",
+        "Trump impeached 2027",
+        "impeachment Trump"
+      ]
+    },
+    {
+      "prediction_id": "p1Dy4e4ff0s-p38",
+      "question": "Will J.D. Vance be the 2028 Republican presidential nominee?",
+      "hosts_answer": "no",
+      "implied_probability": 0.35,
+      "search_keywords": [
+        "Republican nominee 2028",
+        "JD Vance 2028",
+        "Vance nomination"
+      ]
+    }
+  ],
+  "analyzed_at": "2026-11-08T09:00:53Z",
+  "model": "claude-opus-5-5",
+  "backend": "claude-code",
+  "chunked": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 30845,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 38104,
+    "thinking_tokens": 15122,
+    "cost_usd_equivalent": 0.92174,
+    "duration_ms": 247478,
+    "calls": 1
+  },
+  "quote_verification": {
+    "checked": 56,
+    "verified": 56,
+    "flagged": 0,
+    "dropped": 0
+  }
+}

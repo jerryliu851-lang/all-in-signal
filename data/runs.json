@@ -80,5 +80,36 @@
       "matched:1",
       "unmatched:6"
     ]
+  },
+  {
+    "started_at": "2026-11-08T08:56:42Z",
+    "finished_at": "2026-11-08T10:43:40Z",
+    "command": "backfill",
+    "new_episodes": [],
+    "analyzed": [
+      "p1Dy4e4ff0s",
+      "6czo-C3FU7I",
+      "_b3LfMflIGs",
+      "TBLHdXABwAg",
+      "ZJKs08oU1zg",
+      "cvP_1jmnkmM",
+      "cvxjqbfLVk0",
+      "DvFe9bR2eHA",
+      "1u5dMAKl_ks"
+    ],
+    "usage": {
+      "input_tokens": 108,
+      "output_tokens": 216098,
+      "cache_read_input_tokens": 109214,
+      "cache_creation_input_tokens": 495662,
+      "thinking_tokens": 97012,
+      "cost_usd_equivalent": 8.309525,
+      "duration_ms": 1840681,
+      "calls": 54
+    },
+    "notes": [
+      "matched:21",
+      "resolved:0"
+    ]
   }
 ]

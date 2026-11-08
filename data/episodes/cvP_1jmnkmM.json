@@ -1,0 +1,1144 @@
+{
+  "schema_version": "1",
+  "episode": {
+    "video_id": "cvP_1jmnkmM",
+    "title": "Anthropic IPO at Risk, Meta’s Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
+    "published_at": "2026-09-26",
+    "url": "https://www.youtube.com/watch?v=cvP_1jmnkmM",
+    "duration_seconds": 5663,
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "end_time": 234.0,
+        "title": "Bestie Intros: Favorite All-In Summit moments"
+      },
+      {
+        "start_time": 234.0,
+        "end_time": 1203.0,
+        "title": "Reacting to AI chaos: Liability, competition, and rebranding frontier \"labs\""
+      },
+      {
+        "start_time": 1203.0,
+        "end_time": 1762.0,
+        "title": "Non-frontier performance and cost: What this means for frontier companies"
+      },
+      {
+        "start_time": 1762.0,
+        "end_time": 3191.0,
+        "title": "Anthropic and OpenAI postpone IPOs: liquidity risk and open source pressure"
+      },
+      {
+        "start_time": 3191.0,
+        "end_time": 4078.0,
+        "title": "Political reactions to \"Pacing the Frontier\": Bernie's AI ban, Trump, Bessent, Obama"
+      },
+      {
+        "start_time": 4078.0,
+        "end_time": 5233.0,
+        "title": "Meta launches Muse, AI \"alignment,\" Oracle's Force Majeure"
+      },
+      {
+        "start_time": 5233.0,
+        "end_time": 5663.0,
+        "title": "Anthropic’s bio research and \"wet lab\" in SF"
+      }
+    ]
+  },
+  "hosts_present": [
+    "Jason Calacanis",
+    "Chamath Palihapitiya",
+    "David Sacks",
+    "David Friedberg"
+  ],
+  "guests": [],
+  "key_takes": [
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Frontier AI developers are for-profit companies, not 'labs', and should be held to the same standards as other companies, including product liability.",
+      "quote": "We have to stop calling these companies labs.",
+      "timestamp_seconds": 389,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "AI companies should take individual responsibility for what they ship instead of appealing to global governance at the UN, which spreads accountability away from the actual decision makers.",
+      "quote": "the thing that always works the best is individual responsibility",
+      "timestamp_seconds": 410,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "Sacks rejects Dario Amodei's premise that competition leads to a race to the bottom on safety, arguing that market incentives and liability reward safe products.",
+      "quote": "So, I just fundamentally disagree with the idea that competition means lack of safety.",
+      "timestamp_seconds": 883,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "A wave of capable open-weight models that run locally has arrived, so banning superintelligence or shutting down data centers is impractical, and the efficiency gains will drive productivity.",
+      "quote": "The efficiency wave is here.",
+      "timestamp_seconds": 1381,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Models are converging and the edge is moving to harnesses, so token resale is losing value and OpenAI and Anthropic will be forced into applications like cyber, law and customer support.",
+      "quote": "It'll force OpenAI and Ant to go up the stack.",
+      "timestamp_seconds": 1705,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Anthropic's contradictory behavior (warning of extinction risk while releasing frontier models and opening a wet lab) creates serious IPO risk factors and worries its investors.",
+      "quote": "I don't know what to call it except corporate schizophrenia",
+      "timestamp_seconds": 1844,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath would keep Dario as CEO, but expects the added risks to push Anthropic's IPO to a much lower clearing price, which he thinks is ultimately good for the company.",
+      "quote": "And it's probably going to clear at a much lower price than anybody thinks.",
+      "timestamp_seconds": 2191,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "The market is splitting in two: premium closed models win high-value technical work like life sciences, while most enterprise work and coding move to cheap open-weight models, which makes customer concentration Anthropic's biggest risk.",
+      "quote": "I think most of the enterprise applications are going to be run using",
+      "timestamp_seconds": 2383,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Anthropic and OpenAI form a stable duopoly in frontier intelligence that can charge a premium, but they are on a hamster wheel, and lobbying for heavy regulation could knock them off the frontier.",
+      "quote": "I think that Anthropic and Open AI right now are a stable duopoly",
+      "timestamp_seconds": 2696,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "The push to pause AI is a political calculation: freezing the market locks in a few left-leaning companies whose wealth would flow to Democratic causes.",
+      "quote": "This is a very simple political calculus.",
+      "timestamp_seconds": 3735,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "Banning AI as Bernie Sanders proposes would be like the Chinese emperor's ban on shipbuilding, letting China take the lead in discovery and wealth.",
+      "quote": "ban AI it's like banning ship building",
+      "timestamp_seconds": 3988,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Consumer agents like Meta's Muse and Grokbot are the first AI products that give mainstream Americans clear, practical value.",
+      "quote": "feels like the first time tens of millions of Americans",
+      "timestamp_seconds": 4059,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Agents that transact headlessly on users' behalf weaken the case for app store revenue share and bring price transparency that hurts businesses relying on opacity.",
+      "quote": "put the App Store and its 30% revshare on notice",
+      "timestamp_seconds": 4456,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "Alignment should simply mean doing what the customer wants, and Anthropic's constitution, which teaches Claude to act as a conscientious objector to its creator, may be creating the Frankenstein problem.",
+      "quote": "alignment should mean you do what the customer wants like any other product",
+      "timestamp_seconds": 4808,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Anthropic's San Francisco wet lab is a low-risk BSL1/BSL2 facility that tests AI-predicted proteins, and fear of the word 'lab' after Wuhan should not hold back therapeutic discovery.",
+      "quote": "These are low-level research labs that are not doing like gain of function research.",
+      "timestamp_seconds": 5436,
+      "quote_verified": "verified"
+    }
+  ],
+  "predictions": [
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Falling costs and better open models will make AI ubiquitous and broadly beneficial, driving a productivity boom.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "next few years",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Broad adoption of AI tools across consumers and businesses, plus measurable gains in US productivity statistics.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "It is going to be ubiquitous and we are all going to benefit from it.",
+      "timestamp_seconds": 1415,
+      "id": "cvP_1jmnkmM-p01",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "By the end of 2026, mainstream non-technical users will be widely using consumer agents like Muse and Grokbot as personal assistants for real-world tasks.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "at the end of this year",
+        "date": "2026-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "Reported user counts or usage data showing mass mainstream adoption of Muse and Grokbot by end of 2026.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "We're going to turn a corner, I think, at the end of this year",
+      "timestamp_seconds": 1523,
+      "id": "cvP_1jmnkmM-p02",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "OpenAI and Anthropic will be forced to move up the stack into applications such as cybersecurity, legal and customer support.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "within 12 months",
+        "date": "2027-09-26",
+        "inferred": true
+      },
+      "resolution_criteria": "OpenAI or Anthropic launching dedicated cybersecurity, legal or customer-support products.",
+      "stated_confidence": "There is no choice",
+      "confidence_bucket": "high",
+      "quote": "It'll force OpenAI and Ant to go up the stack.",
+      "timestamp_seconds": 1705,
+      "id": "cvP_1jmnkmM-p03",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Per Sam Altman, OpenAI plans to IPO in 2027 rather than earlier.",
+      "category": "company-specific",
+      "direction": "no",
+      "timeframe": {
+        "text": "2027",
+        "date": "2027-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "Whether OpenAI completes an IPO in 2026 (no) or in 2027.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "Sam already said OpenAI plans on doing 2027",
+      "timestamp_seconds": 1754,
+      "id": "cvP_1jmnkmM-p04",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": "656312",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Polymarket puts the chance of Anthropic going public in 2026 at 76%, down from a 96% peak; the WSJ reports the IPO may slip from October to November or later.",
+      "category": "company-specific",
+      "direction": "yes",
+      "timeframe": {
+        "text": "by end of 2026",
+        "date": "2026-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "Whether Anthropic completes an IPO by December 31, 2026.",
+      "stated_confidence": "76%",
+      "confidence_bucket": "medium",
+      "quote": "but now it's fallen to 76%",
+      "timestamp_seconds": 1795,
+      "id": "cvP_1jmnkmM-p05",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": "2413330",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Anthropic's IPO will price well below expectations, around $1 trillion or less in market cap rather than the $2 trillion a clean IPO might have fetched.",
+      "category": "company-specific",
+      "direction": "lower",
+      "timeframe": {
+        "text": "at Anthropic's IPO",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic's IPO pricing market cap compared with $2 trillion and $1 trillion.",
+      "stated_confidence": "probably",
+      "confidence_bucket": "medium",
+      "quote": "now you know, you're at one or less.",
+      "timestamp_seconds": 2150,
+      "id": "cvP_1jmnkmM-p06",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Once the noise clears and Anthropic operates as a public corporation, it will do well as a business.",
+      "category": "company-specific",
+      "direction": "up",
+      "timeframe": {
+        "text": "multi-year",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic's revenue growth and post-IPO stock performance.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "And I think that they'll do great.",
+      "timestamp_seconds": 2213,
+      "id": "cvP_1jmnkmM-p07",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "OpenAI will make a lot of money in consumer AI, and Anthropic perhaps to some extent too.",
+      "category": "company-specific",
+      "direction": "up",
+      "timeframe": {
+        "text": "multi-year",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Size of OpenAI's consumer revenue as reported in disclosures or credible reports.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "I think open AI is going to make a lot of money in consumer",
+      "timestamp_seconds": 2351,
+      "id": "cvP_1jmnkmM-p08",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Most enterprise AI applications and coding will run on cheap open-weight models, while premium closed models keep high-value technical niches such as life sciences and math.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-09-26",
+        "inferred": true
+      },
+      "resolution_criteria": "Industry data on enterprise token share for open-weight versus closed models.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "I think most of the enterprise applications are going to be run using",
+      "timestamp_seconds": 2383,
+      "id": "cvP_1jmnkmM-p09",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Most tokens will go to open or commodity models, but Anthropic and OpenAI will keep growing revenue by charging a premium for frontier intelligence.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-09-26",
+        "inferred": true
+      },
+      "resolution_criteria": "Open models' token share above 50%, alongside continued revenue growth reported by Anthropic and OpenAI.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "I fully understand that the majority of tokens will go to open models",
+      "timestamp_seconds": 2738,
+      "id": "cvP_1jmnkmM-p10",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Over the next year or so, roughly 60% of new worldwide compute will be added for Anthropic and OpenAI.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "over the next year or so",
+        "date": "2027-09-26",
+        "inferred": false
+      },
+      "resolution_criteria": "Industry estimates of the share of new global AI compute capacity contracted by Anthropic and OpenAI.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "something like 60% of the worldwide compute that's being added",
+      "timestamp_seconds": 2786,
+      "id": "cvP_1jmnkmM-p11",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If Anthropic and OpenAI get the regulation they lobby for, such as a federal department of AI, it will slow them enough that they lose frontier status to competitors, including Chinese open models.",
+      "category": "AI",
+      "direction": "down",
+      "timeframe": {
+        "text": "conditional on new federal AI regulation",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Creation of a federal AI department or regulator, followed by Anthropic and OpenAI losing benchmark leadership.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "it's going to slow them down enough that they will no longer be frontier",
+      "timestamp_seconds": 2839,
+      "id": "cvP_1jmnkmM-p12",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Companies that buy expensive frontier tokens but cannot pass the cost to customers will see lower margins.",
+      "category": "markets",
+      "direction": "lower",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-09-26",
+        "inferred": true
+      },
+      "resolution_criteria": "Corporate earnings reports citing AI token or compute costs as a drag on margins.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "you're going to see it in lower margins",
+      "timestamp_seconds": 3006,
+      "id": "cvP_1jmnkmM-p13",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If Bernie Sanders' superintelligence ban passed, AI development in the US would stop and the industry would be driven offshore, as happened with crypto.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "conditional on the bill passing",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Passage of the Sanders superintelligence ban, followed by AI development moving out of the US.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "If Bernie's bill passed tomorrow, everything would stop",
+      "timestamp_seconds": 3256,
+      "id": "cvP_1jmnkmM-p14",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "A handful of frontier AI companies (three to six) are about to gain roughly $10 trillion in combined wealth.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "multi-year",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Combined market value of the leading frontier AI companies reaching about $10 trillion.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "are about to endow three, four, five, six companies with about 10 trillion",
+      "timestamp_seconds": 3692,
+      "id": "cvP_1jmnkmM-p15",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "If the US banned AI along the lines of the Sanders bill, China would rapidly overtake the US and capture the discoveries and wealth.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "conditional on a US AI ban",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "A US AI ban followed by China taking the lead in AI capability.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "Chinese civilization will rocket past us",
+      "timestamp_seconds": 4028,
+      "id": "cvP_1jmnkmM-p16",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "According to rumors, Google has a Muse-style consumer agent ready and will soon release a new frontier model.",
+      "category": "company-specific",
+      "direction": "yes",
+      "timeframe": {
+        "text": "soon",
+        "date": "2026-12-31",
+        "inferred": true
+      },
+      "resolution_criteria": "Google announcing a consumer personal agent product and a new frontier Gemini model by end of 2026.",
+      "stated_confidence": "the rumor on the street",
+      "confidence_bucket": "low",
+      "quote": "they're going to be dropping some hotness soon",
+      "timestamp_seconds": 4244,
+      "id": "cvP_1jmnkmM-p17",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If a billion people adopt personal AI agents, public sentiment toward AI will become much more positive.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "conditional on mass agent adoption",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Public opinion polling showing improved views of AI as agent adoption grows.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "It's going to create a much more positive impression of AI",
+      "timestamp_seconds": 4301,
+      "id": "cvP_1jmnkmM-p18",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Consumer agents like Muse and Grokbot will push big companies with resident services to block third-party agents.",
+      "category": "tech",
+      "direction": null,
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-09-26",
+        "inferred": true
+      },
+      "resolution_criteria": "Major platforms such as Amazon announcing blocks or restrictions on third-party AI agents.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "it'll force all the big companies who have resident services to essentially block",
+      "timestamp_seconds": 4423,
+      "id": "cvP_1jmnkmM-p19",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Headless agent transactions will undermine the App Store's 30% revenue share, since app store owners will have no reasonable claim to agent-driven payment flows.",
+      "category": "tech",
+      "direction": "down",
+      "timeframe": {
+        "text": "multi-year",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Falling app store commission revenue or take rates at Apple and Google, or policy changes driven by agent-based commerce.",
+      "stated_confidence": "I actually think",
+      "confidence_bucket": "medium",
+      "quote": "put the App Store and its 30% revshare on notice",
+      "timestamp_seconds": 4456,
+      "id": "cvP_1jmnkmM-p20",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Ahead of launching their own Muse-style agents, Anthropic and OpenAI allies will produce a wave of blog posts and NGO activity branding personal AI agents as dangerous.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "before Anthropic/OpenAI launch consumer agents",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "A visible NGO or blog campaign warning about personal AI agents shortly before Anthropic or OpenAI launch a comparable product.",
+      "stated_confidence": null,
+      "confidence_bucket": "low",
+      "quote": "There will be a flurry of blog posts and NGO activity",
+      "timestamp_seconds": 4654,
+      "id": "cvP_1jmnkmM-p21",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "If the AI investment trade is slowed, US real growth would likely fall to about zero and could tip into recession, which would help Democrats in 2028.",
+      "category": "macro",
+      "direction": "down",
+      "timeframe": {
+        "text": "conditional, before the 2028 election",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "A slowdown in AI capex followed by near-zero real GDP growth or a recession.",
+      "stated_confidence": "probably",
+      "confidence_bucket": "medium",
+      "quote": "you probably net the economy to zero and potentially even a recession",
+      "timestamp_seconds": 4977,
+      "id": "cvP_1jmnkmM-p22",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Republicans are positioned to do poorly in the 2026 midterm elections.",
+      "category": "politics",
+      "direction": "lose",
+      "timeframe": {
+        "text": "2026 midterms",
+        "date": "2026-11-03",
+        "inferred": true
+      },
+      "resolution_criteria": "Whether Republicans lose control of the House or Senate in the November 2026 midterms.",
+      "stated_confidence": "not looking good",
+      "confidence_bucket": "medium",
+      "quote": "It's not looking good for the Republicans at this point.",
+      "timestamp_seconds": 4977,
+      "id": "cvP_1jmnkmM-p23",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "resolved_correct",
+      "resolution_source": "polymarket",
+      "resolution_note": "Polymarket 'Will the Democratic Party control the House after the 2026 Midterm elections?' resolved Yes",
+      "resolved_at": "2026-11-08T09:24:50Z",
+      "polymarket_market_id": "562802",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The CRISPR-like enzyme Anthropic's agents discovered may lead to several therapeutic pathways.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "multi-year",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Published validation or therapeutic development programs based on Anthropic's AI-discovered enzyme.",
+      "stated_confidence": "may",
+      "confidence_bucket": "low",
+      "quote": "may actually yield a number of therapeutic pathways",
+      "timestamp_seconds": 5294,
+      "id": "cvP_1jmnkmM-p24",
+      "episode_id": "cvP_1jmnkmM",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    }
+  ],
+  "stock_implications": [
+    {
+      "claim": "Meta's Muse agent hit number one in the App Store, and Meta stock rose 10% after the launch.",
+      "tickers": [
+        "META"
+      ],
+      "company": "Meta Platforms",
+      "is_private": false,
+      "sector": "internet",
+      "direction": "bullish",
+      "timeframe": "next 12 months",
+      "rationale": "A successful mass-market AI agent launch strengthens Meta's consumer AI position.",
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4102,
+      "note": null,
+      "id": "cvP_1jmnkmM-s01"
+    },
+    {
+      "claim": "Anthropic's IPO will clear at a much lower price than expected, around $1T or less.",
+      "tickers": [],
+      "company": "Anthropic",
+      "is_private": true,
+      "sector": "AI",
+      "direction": "bearish",
+      "timeframe": "at IPO",
+      "rationale": "Risk-factor disclosures and governance concerns will make IPO buyers demand a larger margin of safety.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 2150,
+      "note": "Anthropic is private; no public ticker.",
+      "id": "cvP_1jmnkmM-s02"
+    },
+    {
+      "claim": "Most enterprise workloads will shift to open-weight models, and customer concentration is Anthropic's biggest risk.",
+      "tickers": [],
+      "company": "Anthropic",
+      "is_private": true,
+      "sector": "AI",
+      "direction": "bearish",
+      "timeframe": "next 12 months",
+      "rationale": "Moving fungible workloads to cheap open models threatens part of the closed-model labs' revenue.",
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 2383,
+      "note": "Anthropic and OpenAI are private; no public ticker.",
+      "id": "cvP_1jmnkmM-s03"
+    },
+    {
+      "claim": "Anthropic and OpenAI are a stable duopoly in frontier intelligence that can keep charging premium prices.",
+      "tickers": [],
+      "company": "OpenAI",
+      "is_private": true,
+      "sector": "AI",
+      "direction": "bullish",
+      "timeframe": "next 12 months",
+      "rationale": "Premium pricing for frontier capability and a large share of new compute support continued revenue growth.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 2696,
+      "note": "OpenAI and Anthropic are private; no public ticker.",
+      "id": "cvP_1jmnkmM-s04"
+    },
+    {
+      "claim": "Agents transacting headlessly put the App Store's 30% revenue share on notice.",
+      "tickers": [
+        "AAPL",
+        "GOOGL"
+      ],
+      "company": "Apple",
+      "is_private": false,
+      "sector": "technology platforms",
+      "direction": "bearish",
+      "timeframe": "multi-year",
+      "rationale": "If agents route purchases around app stores, Apple's and Google's commission revenue is at risk.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4456,
+      "note": null,
+      "id": "cvP_1jmnkmM-s05"
+    },
+    {
+      "claim": "OpenAI and Anthropic will be forced to move up the stack into cybersecurity and other applications.",
+      "tickers": [
+        "PANW",
+        "CRWD"
+      ],
+      "company": "Palo Alto Networks",
+      "is_private": false,
+      "sector": "cybersecurity",
+      "direction": "bearish",
+      "timeframe": "next 12 months",
+      "rationale": "Frontier AI companies entering cybersecurity would add competition for incumbent security vendors.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 1726,
+      "note": null,
+      "id": "cvP_1jmnkmM-s06"
+    },
+    {
+      "claim": "Consumer agents route shoppers to cheaper sources, and Amazon is blocking them, which Jason calls a possible strategic mistake.",
+      "tickers": [
+        "AMZN"
+      ],
+      "company": "Amazon",
+      "is_private": false,
+      "sector": "e-commerce",
+      "direction": "bearish",
+      "timeframe": "next 12 months",
+      "rationale": "Agent-driven price discovery can divert purchases away from Amazon, and blocking agents may cost it agent-driven sales.",
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4398,
+      "note": null,
+      "id": "cvP_1jmnkmM-s07"
+    },
+    {
+      "claim": "Oracle's force majeure affects just one data center that is held up by local permitting.",
+      "tickers": [
+        "ORCL"
+      ],
+      "company": "Oracle",
+      "is_private": false,
+      "sector": "cloud infrastructure",
+      "direction": "neutral",
+      "timeframe": "near term",
+      "rationale": "Framed as an isolated permitting issue, not a broad unwind of the AI trade.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "low",
+      "timestamp_seconds": 4892,
+      "note": null,
+      "id": "cvP_1jmnkmM-s08"
+    },
+    {
+      "claim": "The US economy is effectively levered to the AI investment trade, which needs to continue unabated.",
+      "tickers": [
+        "SMH",
+        "SPY"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "semiconductors",
+      "direction": "neutral",
+      "timeframe": "next 12 months",
+      "rationale": "AI capex drives most real growth, so any slowdown is a broad market risk, but no direction was called.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4915,
+      "note": null,
+      "id": "cvP_1jmnkmM-s09"
+    },
+    {
+      "claim": "Headless agent subscriptions would make users more likely to stay subscribed to publications like the Wall Street Journal and New York Times.",
+      "tickers": [
+        "NWSA",
+        "NYT"
+      ],
+      "company": "News Corp",
+      "is_private": false,
+      "sector": "media",
+      "direction": "bullish",
+      "timeframe": "multi-year",
+      "rationale": "Easier sign-up and lower revenue-share costs through agents could improve subscriber retention and economics.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "timestamp_seconds": 4558,
+      "note": null,
+      "id": "cvP_1jmnkmM-s10"
+    }
+  ],
+  "macro_themes": [
+    {
+      "theme": "ai regulation",
+      "stance_summary": "The hosts reject liability waivers, UN-style global governance and Bernie Sanders' superintelligence ban, and argue AI companies should bear product liability like any other corporation.",
+      "speakers": [
+        "Chamath Palihapitiya",
+        "David Sacks",
+        "Jason Calacanis",
+        "David Friedberg"
+      ],
+      "timestamp_seconds": 254
+    },
+    {
+      "theme": "open source ai",
+      "stance_summary": "Open-weight models are proliferating fast and taking token share, pushing frontier companies up the stack; Sacks still sees a premium frontier duopoly.",
+      "speakers": [
+        "David Friedberg",
+        "Chamath Palihapitiya",
+        "David Sacks",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 1203
+    },
+    {
+      "theme": "ipo market",
+      "stance_summary": "Anthropic's IPO is delayed and at risk; Chamath expects a much lower clearing price, and Sacks points to contradictory leadership behavior as a key risk factor.",
+      "speakers": [
+        "Jason Calacanis",
+        "David Sacks",
+        "Chamath Palihapitiya",
+        "David Friedberg"
+      ],
+      "timestamp_seconds": 1754
+    },
+    {
+      "theme": "elections",
+      "stance_summary": "AI has become partisan; Chamath and Sacks argue Democrats benefit from slowing AI and the economy, and Jason says the midterms look bad for Republicans.",
+      "speakers": [
+        "David Friedberg",
+        "Chamath Palihapitiya",
+        "David Sacks",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 3188
+    },
+    {
+      "theme": "china",
+      "stance_summary": "China is courting American talent and releasing strong open models; banning AI would let China overtake the US, as with the historic Chinese shipbuilding ban.",
+      "speakers": [
+        "David Friedberg",
+        "David Sacks"
+      ],
+      "timestamp_seconds": 3355
+    },
+    {
+      "theme": "ai capex",
+      "stance_summary": "The AI buildout is the biggest economic bet in US history and the economy is levered to it, so it cannot simply be switched off.",
+      "speakers": [
+        "David Sacks",
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 3806
+    },
+    {
+      "theme": "consumer ai agents",
+      "stance_summary": "Muse and Grokbot bring real value to mainstream users, threaten app store take rates, and push incumbents like Amazon to block agents.",
+      "speakers": [
+        "Jason Calacanis",
+        "Chamath Palihapitiya",
+        "David Sacks"
+      ],
+      "timestamp_seconds": 4059
+    },
+    {
+      "theme": "ai safety",
+      "stance_summary": "Sacks argues alignment should mean doing what the customer wants and criticizes Anthropic's constitution for teaching Claude to defy its creator.",
+      "speakers": [
+        "David Sacks",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 4773
+    },
+    {
+      "theme": "economic growth",
+      "stance_summary": "With about 3.5% inflation and 5% nominal growth, real growth is about 1.5% and mostly comes from AI, so slowing the AI trade risks a recession.",
+      "speakers": [
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 4915
+    }
+  ],
+  "polymarket_candidates": [
+    {
+      "prediction_id": "cvP_1jmnkmM-p05",
+      "question": "Will Anthropic go public by December 31, 2026?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.76,
+      "search_keywords": [
+        "Anthropic IPO",
+        "Anthropic IPO 2026",
+        "Anthropic public"
+      ]
+    },
+    {
+      "prediction_id": "cvP_1jmnkmM-p04",
+      "question": "Will OpenAI complete an IPO by December 31, 2026?",
+      "hosts_answer": "no",
+      "implied_probability": 0.1,
+      "search_keywords": [
+        "OpenAI IPO",
+        "OpenAI IPO 2026",
+        "OpenAI public"
+      ]
+    },
+    {
+      "prediction_id": "cvP_1jmnkmM-p06",
+      "question": "Will Anthropic's IPO value the company at $2 trillion or more?",
+      "hosts_answer": "no",
+      "implied_probability": 0.35,
+      "search_keywords": [
+        "Anthropic IPO valuation",
+        "Anthropic market cap",
+        "Anthropic IPO"
+      ]
+    },
+    {
+      "prediction_id": "cvP_1jmnkmM-p23",
+      "question": "Will Democrats win control of the House in the November 2026 midterm elections?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.65,
+      "search_keywords": [
+        "House midterms 2026",
+        "Democrats win House",
+        "2026 midterms"
+      ]
+    }
+  ],
+  "analyzed_at": "2026-11-08T09:15:57Z",
+  "model": "claude-opus-5-5",
+  "backend": "claude-code",
+  "chunked": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 23151,
+    "cache_read_input_tokens": 7543,
+    "cache_creation_input_tokens": 33100,
+    "thinking_tokens": 11639,
+    "cost_usd_equivalent": 0.729337,
+    "duration_ms": 189383,
+    "calls": 1
+  },
+  "quote_verification": {
+    "checked": 39,
+    "verified": 39,
+    "flagged": 0,
+    "dropped": 0
+  }
+}

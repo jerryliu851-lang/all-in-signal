@@ -1,0 +1,754 @@
+{
+  "schema_version": "1",
+  "episode": {
+    "video_id": "cvxjqbfLVk0",
+    "title": "AI Kills Everybody or Doomer Psyop? OpenAI’s Math Breakthrough, Nike’s $200B Collapse",
+    "published_at": "2026-09-12",
+    "url": "https://www.youtube.com/watch?v=cvxjqbfLVk0",
+    "duration_seconds": 5756,
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "end_time": 35.0,
+        "title": "Bestie intros!"
+      },
+      {
+        "start_time": 35.0,
+        "end_time": 2020.0,
+        "title": "AI Doomsday: Valid concern or Doomer psyop?"
+      },
+      {
+        "start_time": 2020.0,
+        "end_time": 3525.0,
+        "title": "Steelmanning AI Doomsday scenarios and the impact on Anthropic's IPO"
+      },
+      {
+        "start_time": 3525.0,
+        "end_time": 4795.0,
+        "title": "OpenAI says it cracked a 200 year old math problem, but did it front-run users with their own data?"
+      },
+      {
+        "start_time": 4795.0,
+        "end_time": 5756.0,
+        "title": "Nike removed from S&P 100 after stock tanks 80%: What went wrong?"
+      }
+    ]
+  },
+  "hosts_present": [
+    "Jason Calacanis",
+    "David Sacks",
+    "Chamath Palihapitiya",
+    "David Friedberg"
+  ],
+  "guests": [],
+  "key_takes": [
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks argues that Jacob Coxin's viral resignation post was an orchestrated campaign by doomer groups, not a real whistleblower act. His evidence: an account with no history got instant reach, groups funded by Jaan Tallinn amplified it, and the Wall Street Journal had been pre-briefed.",
+      "quote": "this appears to be an op",
+      "timestamp_seconds": 189,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks argues that Anthropic faces a contradiction: it is asking public investors for a trillion-dollar valuation while its own safety lead calls the core product potentially civilization-ending, which invites massive product liability.",
+      "quote": "that is a mother of all product liability lawsuits",
+      "timestamp_seconds": 602,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath argues that Anthropic leadership cannot disavow the departing researcher, because enough employees share his views that disavowing him would cause an internal revolt.",
+      "quote": "inside that business that they can't disavow him.",
+      "timestamp_seconds": 812,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg compares AI doomerism to past panics (climate forecasts, COVID lockdowns, Three Mile Island) and says such existential-threat narratives are used to centralize control.",
+      "quote": "I think we're in this hysteria phase of AI dumerism.",
+      "timestamp_seconds": 1003,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg says recursive self-improvement needs only power, chips and an internet connection, so US restrictions would not stop it and would only leave the US behind.",
+      "quote": "It will have a capacity to advance and the US will be left behind.",
+      "timestamp_seconds": 1224,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg argues that open-source AI is essential to spreading AI's benefits widely, and that a regulatory review regime would end up banning open source and creating a monopoly partnered with government.",
+      "quote": "I'm a big advocate for for open source",
+      "timestamp_seconds": 1426,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks argues that the real target of the doomer campaign is open-source AI, which a federal AI regulator would effectively ban through monitoring and rollback requirements that open weights cannot meet.",
+      "quote": "this is a doomer scop and the ultimate target is open source",
+      "timestamp_seconds": 1519,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "Sacks says AI doomers have a failed track record: GPT-2 and reasoning models being too dangerous to release, cyberattacks taking down banking, and mass job losses.",
+      "quote": "what are we on now? 0 for four",
+      "timestamp_seconds": 1866,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "Jason lays out three explanations for the AI doomers: they are right, they are sincere but suffering from psychosis, or they are running a coordinated campaign. His leading theory is sincere belief plus psychosis.",
+      "quote": "That's my leading theory.",
+      "timestamp_seconds": 1678,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath argues that if the extinction-risk claims must be disclosed in Anthropic's S-1, IPO investors will demand a large discount because of long-tail product liability. He calls it an unprecedented problem for both Anthropic and the SEC.",
+      "quote": "They'll demand an enormous discount.",
+      "timestamp_seconds": 2919,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg says OpenAI's claimed Navier-Stokes breakthrough came from brute-force work by 10,000 agents, equal to tens of thousands of human work-years, which shows AI is a leverage tool rather than a superhuman genius.",
+      "quote": "AI is a tool of leverage for humans.",
+      "timestamp_seconds": 3627,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath argues that zero data retention promises are leaky. Companies with sensitive IP must run sovereign, self-controlled model deployments, or CIOs will be fired over data leaks.",
+      "quote": "and leaked data into these models guaranteed",
+      "timestamp_seconds": 3918,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks gives OpenAI the benefit of the doubt that it did not use the mathematicians' prompts. Separately, he argues that AI chat data needs privacy protection at least as strong as email's, including a warrant requirement.",
+      "quote": "OpenAI heard that researchers were making progress on Navier Stokes",
+      "timestamp_seconds": 4219,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg reports that novel scientific insights from his team's chats later reappeared in newer model versions, and concludes that their conversations were used for training.",
+      "quote": "my conversation or our analyses have been used for training",
+      "timestamp_seconds": 4329,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks blames Nike's collapse on woke marketing, a direct-to-consumer push that cost it retail shelf space, and a reorganization away from sport-based divisions.",
+      "quote": "this is the millionth example of go woke, go broke",
+      "timestamp_seconds": 4909,
+      "quote_verified": "verified"
+    }
+  ],
+  "predictions": [
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Someone, somewhere in the world, will stand up compute and build an AI system that recursively improves itself, regardless of US regulation.",
+      "category": "AI",
+      "direction": "yes",
+      "timeframe": {
+        "text": "no horizon stated (default 12 months)",
+        "date": "2027-09-12",
+        "inferred": true
+      },
+      "resolution_criteria": "A credible public demonstration or report of an AI system autonomously running its own successive training runs (recursive self-improvement).",
+      "stated_confidence": "it is going to happen",
+      "confidence_bucket": "high",
+      "quote": "And it is going to happen.",
+      "timestamp_seconds": 1199,
+      "id": "cvxjqbfLVk0-p01",
+      "episode_id": "cvxjqbfLVk0",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If the US halts or bans frontier AI development, other countries will develop the technology and the US will fall technologically behind.",
+      "category": "AI",
+      "direction": "lower",
+      "timeframe": {
+        "text": "multi-year, conditional on a US pause/ban",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Conditional on the US enacting an AI development pause or ban, whether non-US labs subsequently lead on frontier AI benchmarks and capabilities.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "It will have a capacity to advance and the US will be left behind.",
+      "timestamp_seconds": 1224,
+      "id": "cvxjqbfLVk0-p02",
+      "episode_id": "cvxjqbfLVk0",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If a regulatory review regime for AI is created, open-source AI will be banned, producing an AI monopoly in partnership with the federal government.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "multi-year, conditional on AI regulatory regime",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Whether US AI regulation, if enacted, restricts the publication or hosting of open-weight models.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "as soon as open source is banned, you have now created a monopoly",
+      "timestamp_seconds": 1464,
+      "id": "cvxjqbfLVk0-p03",
+      "episode_id": "cvxjqbfLVk0",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If a federal department of AI is created, it will effectively ban open-source models by applying the same monitoring and rollback standards to open and closed models.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "conditional on creation of a federal AI regulator",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Whether a newly created federal AI regulator imposes requirements that prevent publishing or hosting open model weights.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "because that is what an FDA will ultimately ban",
+      "timestamp_seconds": 1519,
+      "id": "cvxjqbfLVk0-p04",
+      "episode_id": "cvxjqbfLVk0",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "AI labs will build automated AI researchers that improve AI models.",
+      "category": "AI",
+      "direction": "yes",
+      "timeframe": {
+        "text": "no horizon stated (default 12 months)",
+        "date": "2027-09-12",
+        "inferred": true
+      },
+      "resolution_criteria": "A major lab announces an AI system that performs the job of an AI researcher, for example designing training runs or improvements for its next model.",
+      "stated_confidence": "which I believe they will",
+      "confidence_bucket": "medium",
+      "quote": "and they actually built AI researchers, which I believe they will",
+      "timestamp_seconds": 2463,
+      "id": "cvxjqbfLVk0-p05",
+      "episode_id": "cvxjqbfLVk0",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Polymarket priced an 88% chance that Anthropic goes public.",
+      "category": "company-specific",
+      "direction": "yes",
+      "timeframe": {
+        "text": "horizon of the Polymarket market (not stated; inferred end of 2026)",
+        "date": "2026-12-31",
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic completes an IPO and its shares begin trading on a public exchange.",
+      "stated_confidence": "88%",
+      "confidence_bucket": "high",
+      "quote": "88% chance they're going to go public right now according to Poly Market",
+      "timestamp_seconds": 2828,
+      "id": "cvxjqbfLVk0-p06",
+      "episode_id": "cvxjqbfLVk0",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": "2413330",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If Anthropic properly discloses the extinction-risk claims as a risk factor, IPO investors will demand a large valuation discount.",
+      "category": "company-specific",
+      "direction": "lower",
+      "timeframe": {
+        "text": "at Anthropic's IPO",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic's IPO price/valuation compared with its last private valuation and earlier talk of a trillion-dollar listing.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "They'll demand an enormous discount.",
+      "timestamp_seconds": 2919,
+      "id": "cvxjqbfLVk0-p07",
+      "episode_id": "cvxjqbfLVk0",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If Anthropic leadership publicly disavows the departing researcher, a plurality of Anthropic employees will revolt.",
+      "category": "company-specific",
+      "direction": null,
+      "timeframe": {
+        "text": "near term, conditional on disavowal",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Following any Anthropic disavowal of Coxin, public employee protests, resignations or internal revolt are reported.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "you'll have a plurality of employees inside of anthropic revolt",
+      "timestamp_seconds": 2919,
+      "id": "cvxjqbfLVk0-p08",
+      "episode_id": "cvxjqbfLVk0",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Anthropic will have to amend its S-1 to address the resignation post and its own safety lead's endorsement of a greater-than-10% extinction risk.",
+      "category": "company-specific",
+      "direction": "yes",
+      "timeframe": {
+        "text": "before Anthropic's IPO",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Anthropic's public S-1 (or an amendment) includes risk-factor disclosure on catastrophic or existential AI risk claims made by employees.",
+      "stated_confidence": "I think they have to",
+      "confidence_bucket": "medium",
+      "quote": "I think they have to.",
+      "timestamp_seconds": 3029,
+      "id": "cvxjqbfLVk0-p09",
+      "episode_id": "cvxjqbfLVk0",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "AI companies such as Anthropic will face a long tail of harm litigation from individuals, juries and state AGs that will be as bad as or worse than what social media companies faced.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "multi-year",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Volume and size of personal-harm lawsuits and state AG actions against AI labs, compared with social media litigation.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "this will be as bad or worse.",
+      "timestamp_seconds": 3265,
+      "id": "cvxjqbfLVk0-p10",
+      "episode_id": "cvxjqbfLVk0",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Anthropic's Series A will turn out to be one of the greatest venture investments of all time, worth hundreds of billions.",
+      "category": "company-specific",
+      "direction": "up",
+      "timeframe": {
+        "text": "multi-year / at IPO",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "The value of Anthropic Series A stakes at IPO or later, measured in hundreds of billions or as an outlier venture return.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "the series A will turn out to be one of the great venture investments",
+      "timestamp_seconds": 3375,
+      "id": "cvxjqbfLVk0-p11",
+      "episode_id": "cvxjqbfLVk0",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "A handful of CIOs will be publicly fired in the next year for leaking proprietary data into AI models through standard API deals.",
+      "category": "AI",
+      "direction": "yes",
+      "timeframe": {
+        "text": "in the next year",
+        "date": "2027-09-12",
+        "inferred": false
+      },
+      "resolution_criteria": "Public reports of CIOs being fired over proprietary data leaking into third-party AI models.",
+      "stated_confidence": "guaranteed",
+      "confidence_bucket": "high",
+      "quote": "and leaked data into these models guaranteed",
+      "timestamp_seconds": 3918,
+      "id": "cvxjqbfLVk0-p12",
+      "episode_id": "cvxjqbfLVk0",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "AI application companies are moving off frontier models, which is a headwind that will soon show up in data on large customers spending $10M-$100M per month.",
+      "category": "AI",
+      "direction": "down",
+      "timeframe": {
+        "text": "soon",
+        "date": "2027-03-12",
+        "inferred": true
+      },
+      "resolution_criteria": "Reported declines or slowing in large-customer API spend at OpenAI/Anthropic, or reported migrations of major AI apps to open or self-hosted models.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "now moving off of the frontier models and I think that's a headwind",
+      "timestamp_seconds": 4079,
+      "id": "cvxjqbfLVk0-p13",
+      "episode_id": "cvxjqbfLVk0",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "If Nike makes mastery and excellence its north star again and re-establishes retail presence, it will recover and has significant upside.",
+      "category": "company-specific",
+      "direction": "up",
+      "timeframe": {
+        "text": "conditional, multi-year",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Following a return to athlete- and excellence-focused branding and wider retail distribution, a recovery in Nike's revenue and stock price.",
+      "stated_confidence": "I think they'll be fine",
+      "confidence_bucket": "medium",
+      "quote": "I think it's a coiled spring in terms of its potential.",
+      "timestamp_seconds": 5430,
+      "id": "cvxjqbfLVk0-p14",
+      "episode_id": "cvxjqbfLVk0",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    }
+  ],
+  "stock_implications": [
+    {
+      "claim": "Disclosure of employee-endorsed extinction risk would force a large discount on Anthropic's IPO and create long-tail liability.",
+      "tickers": [],
+      "company": "Anthropic",
+      "is_private": true,
+      "sector": "AI",
+      "direction": "bearish",
+      "timeframe": "at IPO",
+      "rationale": "Investors pricing in disclosed existential and product-liability risk would pay a lower valuation.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 2919,
+      "note": "Anthropic is private; no public ticker.",
+      "id": "cvxjqbfLVk0-s01"
+    },
+    {
+      "claim": "Zero data retention is leaky, and enterprises with sensitive IP will move off frontier-model APIs, a headwind for the frontier labs.",
+      "tickers": [],
+      "company": "OpenAI",
+      "is_private": true,
+      "sector": "AI",
+      "direction": "bearish",
+      "timeframe": "next 6-12 months",
+      "rationale": "If large customers move to sovereign or open deployments, frontier labs' API revenue suffers.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4079,
+      "note": "OpenAI and Anthropic are private; no liquid ticker.",
+      "id": "cvxjqbfLVk0-s02"
+    },
+    {
+      "claim": "Enterprises with sensitive data should run sovereign deployments through trusted vendors such as AWS or Nebius.",
+      "tickers": [
+        "AMZN",
+        "NBIS"
+      ],
+      "company": "Amazon (AWS), Nebius",
+      "is_private": false,
+      "sector": "cloud infrastructure",
+      "direction": "bullish",
+      "timeframe": "next 12 months",
+      "rationale": "Demand for dedicated, self-controlled AI infrastructure would benefit cloud and neocloud providers that offer it.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 3897,
+      "note": null,
+      "id": "cvxjqbfLVk0-s03"
+    },
+    {
+      "claim": "Nike's collapse comes from woke marketing, a direct-to-consumer strategy that alienated retailers, and a misguided reorganization.",
+      "tickers": [
+        "NKE"
+      ],
+      "company": "Nike",
+      "is_private": false,
+      "sector": "consumer discretionary",
+      "direction": "bearish",
+      "timeframe": "current",
+      "rationale": "Brand damage and lost retail shelf space to competitors are cited as structural problems.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4909,
+      "note": null,
+      "id": "cvxjqbfLVk0-s04"
+    },
+    {
+      "claim": "If Nike returns to a mastery-and-excellence north star and re-establishes retail, the stock is a coiled spring.",
+      "tickers": [
+        "NKE"
+      ],
+      "company": "Nike",
+      "is_private": false,
+      "sector": "consumer discretionary",
+      "direction": "bullish",
+      "timeframe": "multi-year, conditional on a turnaround",
+      "rationale": "The upside is conditional on the brand and distribution strategy being reset.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "timestamp_seconds": 5430,
+      "note": null,
+      "id": "cvxjqbfLVk0-s05"
+    },
+    {
+      "claim": "On and Hoka have taken share and retail space from Nike, for example On replacing the Nike store at Stanford.",
+      "tickers": [
+        "ONON",
+        "DECK"
+      ],
+      "company": "On Holding, Deckers (Hoka)",
+      "is_private": false,
+      "sector": "consumer discretionary",
+      "direction": "bullish",
+      "timeframe": "ongoing",
+      "rationale": "Competitors gaining share as Nike loses retail relationships and brand appeal.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "timestamp_seconds": 5455,
+      "note": null,
+      "id": "cvxjqbfLVk0-s06"
+    }
+  ],
+  "macro_themes": [
+    {
+      "theme": "ai safety",
+      "stance_summary": "The hosts broadly dismiss the AI extinction claims as doomer hysteria or a coordinated campaign without evidence, and point to human-in-the-loop safeguards and air gaps as protections.",
+      "speakers": [
+        "David Sacks",
+        "David Friedberg",
+        "Jason Calacanis",
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 51
+    },
+    {
+      "theme": "ai regulation",
+      "stance_summary": "Sacks and Friedberg see the push for a federal AI regulator and Bernie Sanders' superintelligence ban as a power grab aimed at regulatory capture and banning open source.",
+      "speakers": [
+        "David Sacks",
+        "David Friedberg"
+      ],
+      "timestamp_seconds": 470
+    },
+    {
+      "theme": "ipo market",
+      "stance_summary": "The group thinks Anthropic's IPO is complicated by quiet-period issues, S-1 risk disclosure and liability, with a likely valuation discount.",
+      "speakers": [
+        "Chamath Palihapitiya",
+        "David Sacks",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 498
+    },
+    {
+      "theme": "open source ai",
+      "stance_summary": "Friedberg and Sacks call open source critical for spreading AI's benefits and for enterprise data sovereignty, and see it as the real target of regulation.",
+      "speakers": [
+        "David Friedberg",
+        "David Sacks"
+      ],
+      "timestamp_seconds": 1398
+    },
+    {
+      "theme": "data privacy",
+      "stance_summary": "The hosts worry that frontier labs learn from user data. Chamath says enterprises need sovereign deployments, and Sacks calls for stronger privacy laws for AI chats.",
+      "speakers": [
+        "Chamath Palihapitiya",
+        "David Sacks",
+        "David Friedberg",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 3774
+    },
+    {
+      "theme": "consumer brands",
+      "stance_summary": "The group attributes Nike's 80% fall to woke marketing, the direct-to-consumer push and declining product quality, and says a return to excellence could revive it.",
+      "speakers": [
+        "David Sacks",
+        "Chamath Palihapitiya",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 4805
+    }
+  ],
+  "polymarket_candidates": [
+    {
+      "prediction_id": "cvxjqbfLVk0-p06",
+      "question": "Will Anthropic IPO by December 31, 2026?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.88,
+      "search_keywords": [
+        "Anthropic IPO",
+        "Anthropic IPO 2026",
+        "Anthropic public"
+      ]
+    },
+    {
+      "prediction_id": "cvxjqbfLVk0-p09",
+      "question": "Will Anthropic's public S-1 include risk disclosure on existential AI risk claims before its IPO?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.65,
+      "search_keywords": [
+        "Anthropic S-1",
+        "Anthropic IPO filing"
+      ]
+    }
+  ],
+  "analyzed_at": "2026-11-08T09:18:05Z",
+  "model": "claude-opus-5-5",
+  "backend": "claude-code",
+  "chunked": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 14788,
+    "cache_read_input_tokens": 7543,
+    "cache_creation_input_tokens": 33870,
+    "thinking_tokens": 6672,
+    "cost_usd_equivalent": 0.568237,
+    "duration_ms": 125856,
+    "calls": 1
+  },
+  "quote_verification": {
+    "checked": 29,
+    "verified": 29,
+    "flagged": 0,
+    "dropped": 0
+  }
+}

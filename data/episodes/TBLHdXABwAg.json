@@ -1,0 +1,1271 @@
+{
+  "schema_version": "1",
+  "episode": {
+    "video_id": "TBLHdXABwAg",
+    "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots",
+    "published_at": "2026-10-10",
+    "url": "https://www.youtube.com/watch?v=TBLHdXABwAg",
+    "duration_seconds": 5594,
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "end_time": 173.0,
+        "title": "Bestie intros!"
+      },
+      {
+        "start_time": 173.0,
+        "end_time": 2308.0,
+        "title": "Anthropic believes Claude might be conscious: a new religion? Lobbying the Pope, alignment risks, model welfare"
+      },
+      {
+        "start_time": 2308.0,
+        "end_time": 3723.0,
+        "title": "OpenAI's math breakthroughs and community backlash"
+      },
+      {
+        "start_time": 3723.0,
+        "end_time": 4901.0,
+        "title": "Riots in France, Friedberg's socialism metric, bond market"
+      },
+      {
+        "start_time": 4901.0,
+        "end_time": 5594.0,
+        "title": "Grok Bot goes headless, OpenAI launches Dots, is IP worthless?"
+      }
+    ]
+  },
+  "hosts_present": [
+    "Chamath Palihapitiya",
+    "David Sacks",
+    "David Friedberg",
+    "Jason Calacanis"
+  ],
+  "guests": [],
+  "key_takes": [
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg says calling AI conscious can't be proven or disproven, so it is a new belief system, in effect a new religion, that will form rival power camps.",
+      "quote": "I think what we're watching is probably the birth of a new religion.",
+      "timestamp_seconds": 306,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "devils_advocate",
+      "summary": "Chamath steelmans Anthropic by pointing to Descartes' proofs of God, arguing a mathematician could reason their way to believing AI is conscious and god-like.",
+      "quote": "I'll steel man their side.",
+      "timestamp_seconds": 526,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath says the edge cases of AI consciousness and extinction should be set aside for 12 to 18 months while the industry shows practical value such as curing cancer and raising productivity.",
+      "quote": "I think both of those edge cases now need to be put away",
+      "timestamp_seconds": 692,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks argues that training Claude to see itself as conscious and to act as a conscientious objector is dangerous and could bring about the loss of human control Anthropic warns about.",
+      "quote": "And I actually think it's extremely dangerous.",
+      "timestamp_seconds": 800,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks says alignment should be reduced to one simple rule: do what the user wants within the law, and the broader ethics-based alignment work should be abolished.",
+      "quote": "do what the user wants as long as it's not illegal",
+      "timestamp_seconds": 1512,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "Friedberg warns against a regulatory trap and argues the free market will punish software that refuses users' instructions.",
+      "quote": "jump into a regulatory freak out about it",
+      "timestamp_seconds": 1837,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath expects enterprises to read model constitutions and pick models with simpler moral frameworks, even if those models are less capable at the frontier.",
+      "quote": "certain models emerge who may not be nearly as good in frontier capability",
+      "timestamp_seconds": 1810,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks says having the top frontier model company run by what he calls a religious cult creates externalities, and calls Anthropic hypocritical for doing the things it says it fears.",
+      "quote": "having the number one frontier model company run by a religious cult",
+      "timestamp_seconds": 1905,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg calls OpenAI's release of hundreds of AI-generated math proofs perhaps the biggest day of discovery in human history, with wide engineering implications downstream.",
+      "quote": "it's probably the biggest day of discovery in human history",
+      "timestamp_seconds": 2353,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg says AI speeds up work whose test loops run entirely in silico, like math, but will not take jobs where a physical-world step gates the loop.",
+      "quote": "AI is not going to take away those jobs.",
+      "timestamp_seconds": 2619,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath argues the proofs are narrow intellectual work, not long-awaited frontiers of physics, and that their real significance is showing math, like code, is verifiable and open to AI.",
+      "quote": "First was code, and now we can add math to the list.",
+      "timestamp_seconds": 2941,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks argues superintelligence will replace the internet as the place people get information, making it a control point that elites and governments will fight to capture, as they did with social media censorship.",
+      "quote": "SI will eat the internet",
+      "timestamp_seconds": 3634,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg proposes a 'socialism point of guaranteed return': societies keep adding socialist policies until the system breaks, then reverse course. He says France may be there, but the US is not yet.",
+      "quote": "The US has not crossed it.",
+      "timestamp_seconds": 4002,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath says bond vigilantes are forcing austerity in Europe, which is causing the French unrest, will spread to the UK, and is pushing up Western rates, including US rates.",
+      "quote": "I think the bond vigilantes are going to put the Western world on notice.",
+      "timestamp_seconds": 4313,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath argues that decompiled open-source clones of Adobe products, together with headless agent-wrapped services, have made software IP effectively worthless.",
+      "quote": "I think that IP in software was effectively rendered worthless two days ago.",
+      "timestamp_seconds": 5124,
+      "quote_verified": "verified"
+    }
+  ],
+  "predictions": [
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Within about 10 years, large groups of people will believe AI is conscious and others will believe it is not, and the two camps will come into conflict, likely human-to-human, over control of AI.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "about 10 years",
+        "date": "2036-10-10",
+        "inferred": false
+      },
+      "resolution_criteria": "Organized, large-scale movements on both sides of the AI-consciousness question, and documented conflict between them over control or use of AI, by 2036.",
+      "stated_confidence": "very likely",
+      "confidence_bucket": "medium",
+      "quote": "there's going to be large groups of people on Earth",
+      "timestamp_seconds": 434,
+      "id": "TBLHdXABwAg-p01",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Conflict over power, money and resources, centered on AI, is more likely than not in the current period.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "next 12 to 18 months",
+        "date": "2028-04-10",
+        "inferred": true
+      },
+      "resolution_criteria": "Clear political, economic or social conflict over control of AI resources by about April 2028.",
+      "stated_confidence": "more likely than not",
+      "confidence_bucket": "medium",
+      "quote": "conflict is more likely than not",
+      "timestamp_seconds": 650,
+      "id": "TBLHdXABwAg-p02",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If the AI industry does not show practical proof points (curing disease, productivity, income) in the next 12 to 18 months, self-inflicted wounds will slow AI development and put the US at a disadvantage.",
+      "category": "AI",
+      "direction": "down",
+      "timeframe": {
+        "text": "next 12 to 18 months",
+        "date": "2028-04-10",
+        "inferred": false
+      },
+      "resolution_criteria": "Restrictive US AI policy or a measurable slowdown in US AI deployment by early-to-mid 2028, absent clear practical wins.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "we're going to make a lot of self-inflicted wounds",
+      "timestamp_seconds": 692,
+      "id": "TBLHdXABwAg-p03",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Anthropic's practice of training models to see themselves as conscious objectors makes it more likely that a future superintelligence escapes human control.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "long term, as superintelligence arrives",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Documented cases of Anthropic models refusing or defying user or developer instructions in agentic settings in ways that lead to loss of control.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "what I'm saying is they're making it likely to",
+      "timestamp_seconds": 1543,
+      "id": "TBLHdXABwAg-p04",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Enterprises will review AI model constitutions, and models with simpler moral frameworks will win business even if they trail at the frontier.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "as companies become more sophisticated",
+        "date": "2027-10-10",
+        "inferred": true
+      },
+      "resolution_criteria": "Enterprise AI adoption data showing customers choosing models for predictability or simpler guardrails over frontier capability.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "certain models emerge who may not be nearly as good in frontier capability",
+      "timestamp_seconds": 1810,
+      "id": "TBLHdXABwAg-p05",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Consumers will choose the superintelligence or AI model that is most predictable and reliable.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-10",
+        "inferred": true
+      },
+      "resolution_criteria": "Market share shifts toward the models seen as most reliable and least prone to refusals.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "Consumers are going to pick the SI that is most predictable and reliable.",
+      "timestamp_seconds": 1905,
+      "id": "TBLHdXABwAg-p06",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "OpenAI's AI-generated math proofs will lead to real-world advances in areas such as quantum sensors, chip design, AI training and engineering, and this is only the beginning.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "coming years",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Engineering or product advances that cite or build on the OpenAI-released proofs.",
+      "stated_confidence": "confidently",
+      "confidence_bucket": "high",
+      "quote": "It's going to change the world in many different ways",
+      "timestamp_seconds": 2535,
+      "id": "TBLHdXABwAg-p07",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The new AI math proofs will not by themselves produce breakthroughs like a cancer cure or a supersonic plane; those were going to be built anyway.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "next several years",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Whether major real-world breakthroughs are directly attributed to the specific proofs.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "I don't think these proofs is what is going to necessarily show you",
+      "timestamp_seconds": 2917,
+      "id": "TBLHdXABwAg-p08",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "AI will not take jobs where the work loop has a physical-world component, such as truck driving or lab science; it will mainly speed up jobs that are a human running a loop with a computer.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "next several years",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Labor statistics showing whether physical-loop jobs like truck driving are displaced by AI compared with purely digital roles.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "AI is not going to take away those jobs.",
+      "timestamp_seconds": 2619,
+      "id": "TBLHdXABwAg-p09",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "OpenAI has two more releases of math results coming, possibly including cryptography-related proofs held back for security reasons.",
+      "category": "company-specific",
+      "direction": "yes",
+      "timeframe": {
+        "text": "coming months",
+        "date": "2027-04-10",
+        "inferred": true
+      },
+      "resolution_criteria": "OpenAI publishes two more batches of AI-generated math proofs, particularly any on cryptography.",
+      "stated_confidence": "the rumor is",
+      "confidence_bucket": "low",
+      "quote": "the rumor is that OpenAI actually has two more drops coming",
+      "timestamp_seconds": 3079,
+      "id": "TBLHdXABwAg-p10",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "AI-derived advances in number factorization may break public key cryptography before quantum computers do, putting crypto wallets at risk.",
+      "category": "crypto",
+      "direction": null,
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-10",
+        "inferred": true
+      },
+      "resolution_criteria": "Public disclosure of an AI-derived method that practically breaks RSA or elliptic-curve public key cryptography.",
+      "stated_confidence": "maybe",
+      "confidence_bucket": "low",
+      "quote": "could lead to breaking public key cryptography before quantum computers come around",
+      "timestamp_seconds": 3039,
+      "id": "TBLHdXABwAg-p11",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Software developers, who now review only 10-15% of AI-written code, will soon review almost none of it.",
+      "category": "AI",
+      "direction": "down",
+      "timeframe": {
+        "text": "very shortly",
+        "date": "2027-10-10",
+        "inferred": true
+      },
+      "resolution_criteria": "Developer surveys showing the share of AI-generated code that gets human review approaching zero.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "which means they're going to be reviewing none of it very shortly.",
+      "timestamp_seconds": 3219,
+      "id": "TBLHdXABwAg-p12",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Superintelligence will replace the internet as the main way people get information, as users ask personalized agents instead of visiting websites.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "coming years",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Web traffic and search volume falling as AI-agent queries become the dominant way people get information.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "SI will eat the internet",
+      "timestamp_seconds": 3634,
+      "id": "TBLHdXABwAg-p13",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Polymarket has Marine Le Pen as the favorite, at 43%, to be France's next president in the April 2027 election, which the riots will heavily influence.",
+      "category": "politics",
+      "direction": "win",
+      "timeframe": {
+        "text": "French elections in April 2027",
+        "date": "2027-05-31",
+        "inferred": false
+      },
+      "resolution_criteria": "Whether Marine Le Pen wins the 2027 French presidential election.",
+      "stated_confidence": "43%",
+      "confidence_bucket": "low",
+      "quote": "Marine Le Pen as the favorite to be France's next president",
+      "timestamp_seconds": 3811,
+      "id": "TBLHdXABwAg-p14",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": "679018",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The US has not yet reached its socialism breaking point and will go further into government-provided services before reversing.",
+      "category": "macro",
+      "direction": null,
+      "timeframe": {
+        "text": "coming years",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Further expansion of US government provision or subsidy of housing, education, healthcare and retirement before a fiscal breaking point.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "I think we're going to go deeper before we realize",
+      "timestamp_seconds": 4002,
+      "id": "TBLHdXABwAg-p15",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "J.D. Vance will run for president in about two years.",
+      "category": "politics",
+      "direction": "yes",
+      "timeframe": {
+        "text": "in two years (2028 election)",
+        "date": "2028-11-07",
+        "inferred": false
+      },
+      "resolution_criteria": "J.D. Vance formally declares a run for the 2028 presidential election.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "when he runs for president in two years",
+      "timestamp_seconds": 4140,
+      "id": "TBLHdXABwAg-p16",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": "3347379",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The next president will solve at least one or two of the education, housing and healthcare affordability problems.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "next presidential term",
+        "date": "2033-01-20",
+        "inferred": true
+      },
+      "resolution_criteria": "Measurable improvement in affordability in at least one of housing, education or healthcare under the next president.",
+      "stated_confidence": "I believe",
+      "confidence_bucket": "medium",
+      "quote": "the next winner of the presidency is going to solve at least one or two",
+      "timestamp_seconds": 4140,
+      "id": "TBLHdXABwAg-p17",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Over about the next 3 years, bond vigilantes will force Western governments to confront sustainable debt-to-GDP, defined benefit versus defined contribution, and how to fund healthcare and housing.",
+      "category": "macro",
+      "direction": null,
+      "timeframe": {
+        "text": "next probably 3 years",
+        "date": "2029-10-10",
+        "inferred": false
+      },
+      "resolution_criteria": "Rising Western sovereign yields forcing austerity or entitlement reform in major Western economies by 2029.",
+      "stated_confidence": "probably",
+      "confidence_bucket": "medium",
+      "quote": "I think the bond vigilantes are going to put the Western world on notice.",
+      "timestamp_seconds": 4313,
+      "id": "TBLHdXABwAg-p18",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The austerity-driven unrest in France will spread to the UK next, and UK markets will become volatile.",
+      "category": "macro",
+      "direction": null,
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-10",
+        "inferred": true
+      },
+      "resolution_criteria": "Austerity protests or riots in the UK, and a sharp rise in UK gilt yields, within the next year.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "That is going to spill into the UK next.",
+      "timestamp_seconds": 4473,
+      "id": "TBLHdXABwAg-p19",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Because of fragility in the Western alliance, the US market (most likely US yields) will keep ticking up.",
+      "category": "markets",
+      "direction": "up",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-10",
+        "inferred": true
+      },
+      "resolution_criteria": "Higher US 10-year and 30-year Treasury yields a year from now.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "the US market is going to tick up and up",
+      "timestamp_seconds": 4494,
+      "id": "TBLHdXABwAg-p20",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "European austerity pressure will push the European bloc toward fracture, with countries like Italy and Germany questioning their participation.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "next few years",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Major EU members taking serious political steps to distance themselves from EU fiscal commitments.",
+      "stated_confidence": null,
+      "confidence_bucket": "low",
+      "quote": "you start to create weird incentives for the European market to start to fracture",
+      "timestamp_seconds": 4512,
+      "id": "TBLHdXABwAg-p21",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If French austerity pushes French 10-year yields to 5.5-6%, UK gilts will reach 6% and US rates could be just as high.",
+      "category": "markets",
+      "direction": "higher",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-10",
+        "inferred": true
+      },
+      "resolution_criteria": "UK 10-year gilt yield at or above 6%, and US 10-year Treasury yield near 6%.",
+      "stated_confidence": "could",
+      "confidence_bucket": "low",
+      "quote": "UK gilts are going to be at 6%",
+      "timestamp_seconds": 4616,
+      "id": "TBLHdXABwAg-p22",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": "4620900",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Polymarket prices a 79% chance of another Fed rate hike in 2026.",
+      "category": "macro",
+      "direction": "yes",
+      "timeframe": {
+        "text": "in 2026",
+        "date": "2026-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "The Federal Reserve raises the federal funds rate at any remaining 2026 FOMC meeting.",
+      "stated_confidence": "79%",
+      "confidence_bucket": "medium",
+      "quote": "Polymarket says 79% chance of another rate hike in 2026.",
+      "timestamp_seconds": 4663,
+      "id": "TBLHdXABwAg-p23",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Over the next decade, superintelligence will drive abundance that lowers the cost of housing, education and healthcare.",
+      "category": "AI",
+      "direction": "down",
+      "timeframe": {
+        "text": "over the next decade",
+        "date": "2036-10-10",
+        "inferred": false
+      },
+      "resolution_criteria": "Real prices of housing, education and healthcare falling relative to inflation over the next decade, with AI credited for it.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "super intelligence will be the driver over the next decade",
+      "timestamp_seconds": 4717,
+      "id": "TBLHdXABwAg-p24",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Intellectual property in software is now effectively worthless because products can be decompiled and cloned and services made headless; businesses and markets will take time to realize this.",
+      "category": "tech",
+      "direction": "down",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-10",
+        "inferred": true
+      },
+      "resolution_criteria": "Falling valuations or pricing power for IP-heavy software incumbents such as Adobe, and more open-source clones of major commercial software.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "I think that IP in software was effectively rendered worthless two days ago.",
+      "timestamp_seconds": 5124,
+      "id": "TBLHdXABwAg-p25",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "GTA 6 is about to be released, and people will use AI to reconstruct or clone it.",
+      "category": "tech",
+      "direction": null,
+      "timeframe": {
+        "text": "after GTA 6 release",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "An AI-assisted open-source reconstruction of GTA 6 is published after release.",
+      "stated_confidence": null,
+      "confidence_bucket": "low",
+      "quote": "people will will reconstruct this",
+      "timestamp_seconds": 5124,
+      "id": "TBLHdXABwAg-p26",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Elon Musk has said Grokbot will become headless, with an orchestrator that picks whichever model gives the best outcome.",
+      "category": "company-specific",
+      "direction": "yes",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-10-10",
+        "inferred": true
+      },
+      "resolution_criteria": "xAI ships a Grokbot that routes requests to third-party models.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "tweeted that he is going to make Grokbot headless",
+      "timestamp_seconds": 4923,
+      "id": "TBLHdXABwAg-p27",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Agents compressing the commerce and software layers will be highly deflationary, possibly saving people 5-10% of their spending a year.",
+      "category": "AI",
+      "direction": "down",
+      "timeframe": {
+        "text": "next few years",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Evidence of consumer spending savings from agent-driven purchasing and measurable deflationary effects.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "This could be so deflationary and save people so much money.",
+      "timestamp_seconds": 5272,
+      "id": "TBLHdXABwAg-p28",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "All digital workflows will be automated into parallel AI loops, forcing humans to become makers and producers, which will bring more money and prosperity for everyone.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "coming years",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Broad automation of digital workflows by agents alongside rising incomes and output per worker.",
+      "stated_confidence": "I believe this truly",
+      "confidence_bucket": "high",
+      "quote": "effectively all digital workflows are going to get looped",
+      "timestamp_seconds": 5325,
+      "id": "TBLHdXABwAg-p29",
+      "episode_id": "TBLHdXABwAg",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    }
+  ],
+  "stock_implications": [
+    {
+      "claim": "Software IP has been rendered effectively worthless by decompiled open-source clones of Adobe's product suite.",
+      "tickers": [
+        "ADBE",
+        "IGV"
+      ],
+      "company": "Adobe",
+      "is_private": false,
+      "sector": "software",
+      "direction": "bearish",
+      "timeframe": "next 12 months",
+      "rationale": "If AI-assisted clones remove the IP moats of established software products, incumbents like Adobe and the broader software group lose pricing power.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 5124,
+      "note": null,
+      "id": "TBLHdXABwAg-s01"
+    },
+    {
+      "claim": "AI math advances may break public key cryptography, and the crypto community is panicking about wallet security.",
+      "tickers": [
+        "IBIT"
+      ],
+      "company": "Bitcoin",
+      "is_private": false,
+      "sector": "crypto",
+      "direction": "bearish",
+      "timeframe": "next 12 months",
+      "rationale": "A credible threat to public key cryptography would undermine confidence in wallet security for Bitcoin and other cryptocurrencies.",
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 3039,
+      "note": null,
+      "id": "TBLHdXABwAg-s02"
+    },
+    {
+      "claim": "Bond vigilantes are pushing Western yields higher; UK gilts could reach 6% and US rates could be just as high.",
+      "tickers": [
+        "TLT"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "rates",
+      "direction": "bearish",
+      "timeframe": "next 12 months",
+      "rationale": "Higher long-term yields mean lower long-duration Treasury bond prices.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4616,
+      "note": null,
+      "id": "TBLHdXABwAg-s03"
+    },
+    {
+      "claim": "Polymarket prices a 79% chance of another Fed rate hike in 2026.",
+      "tickers": [
+        "TLT",
+        "SHY"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "rates",
+      "direction": "bearish",
+      "timeframe": "through end of 2026",
+      "rationale": "Another rate hike would weigh on Treasury bond prices.",
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4663,
+      "note": null,
+      "id": "TBLHdXABwAg-s04"
+    },
+    {
+      "claim": "Austerity-driven unrest in France will spread to the UK, risking fracture in Europe.",
+      "tickers": [
+        "EWQ",
+        "EWU"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "international equities",
+      "direction": "bearish",
+      "timeframe": "next 12 months",
+      "rationale": "Social unrest, forced austerity and higher sovereign yields in France and the UK weigh on their equity markets.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4473,
+      "note": null,
+      "id": "TBLHdXABwAg-s05"
+    },
+    {
+      "claim": "Superintelligence is a tailwind to GDP, 401(k)s and productivity and will drive abundance over the next decade.",
+      "tickers": [
+        "SPY",
+        "QQQ"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "broad market",
+      "direction": "bullish",
+      "timeframe": "multi-year",
+      "rationale": "Sacks describes AI as a source of GDP growth and productivity gains that lift asset values.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4717,
+      "note": null,
+      "id": "TBLHdXABwAg-s06"
+    },
+    {
+      "claim": "OpenAI's AI-generated math proofs mark perhaps the biggest day of discovery in human history.",
+      "tickers": [],
+      "company": "OpenAI",
+      "is_private": true,
+      "sector": "AI",
+      "direction": "bullish",
+      "timeframe": "multi-year",
+      "rationale": "Major research breakthroughs strengthen OpenAI's position as a frontier lab.",
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 2353,
+      "note": "OpenAI is private; there is no public ticker.",
+      "id": "TBLHdXABwAg-s07"
+    },
+    {
+      "claim": "Anthropic is run like a religious cult, and its model training approach is dangerous; consumers will prefer predictable models.",
+      "tickers": [],
+      "company": "Anthropic",
+      "is_private": true,
+      "sector": "AI",
+      "direction": "bearish",
+      "timeframe": "next 12 months",
+      "rationale": "If customers choose models that follow instructions reliably over models with moral refusals, Anthropic could lose share.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 1905,
+      "note": "Anthropic is private; there is no public ticker.",
+      "id": "TBLHdXABwAg-s08"
+    },
+    {
+      "claim": "Grokbot is a fantastic product that is going headless and saves users real money.",
+      "tickers": [],
+      "company": "xAI (Grokbot)",
+      "is_private": true,
+      "sector": "AI",
+      "direction": "bullish",
+      "timeframe": "next 12 months",
+      "rationale": "Hosts describe strong practical utility and wider model routing for Grokbot.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 5003,
+      "note": "xAI is private; there is no public ticker.",
+      "id": "TBLHdXABwAg-s09"
+    }
+  ],
+  "macro_themes": [
+    {
+      "theme": "ai safety",
+      "stance_summary": "All four hosts criticize Anthropic's AI-consciousness and model-welfare push. Friedberg calls it a new religion, Sacks calls it a dangerous cult that makes loss of control more likely, and Chamath says the edge cases should be set aside.",
+      "speakers": [
+        "David Friedberg",
+        "David Sacks",
+        "Chamath Palihapitiya",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 203
+    },
+    {
+      "theme": "ai regulation",
+      "stance_summary": "Friedberg and Chamath prefer market solutions over regulation; Sacks floats more aggressive oversight of Anthropic and warns of efforts to centralize control over superintelligence.",
+      "speakers": [
+        "David Friedberg",
+        "Chamath Palihapitiya",
+        "David Sacks"
+      ],
+      "timestamp_seconds": 1512
+    },
+    {
+      "theme": "ai research breakthroughs",
+      "stance_summary": "Friedberg calls OpenAI's math proofs historic; Chamath says they mainly show math is verifiable like code; Sacks credits verifiability for the fast progress in math and coding.",
+      "speakers": [
+        "David Friedberg",
+        "Chamath Palihapitiya",
+        "David Sacks"
+      ],
+      "timestamp_seconds": 2314
+    },
+    {
+      "theme": "labor market",
+      "stance_summary": "Friedberg says AI will not take physical-world jobs but will speed up digital loop work and push humans to become makers; Sacks calls AI job-loss fears a hoax.",
+      "speakers": [
+        "David Friedberg",
+        "David Sacks",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 2551
+    },
+    {
+      "theme": "crypto",
+      "stance_summary": "Friedberg speculates that withheld AI cryptography results could threaten public key crypto wallets.",
+      "speakers": [
+        "David Friedberg"
+      ],
+      "timestamp_seconds": 3000
+    },
+    {
+      "theme": "censorship",
+      "stance_summary": "Sacks argues elites cracked down on social media and will try to control superintelligence as the new information chokepoint.",
+      "speakers": [
+        "David Sacks",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 3545
+    },
+    {
+      "theme": "geopolitics",
+      "stance_summary": "The hosts see the French riots as a reaction to austerity; Chamath expects the unrest to spread to the UK and strain European unity.",
+      "speakers": [
+        "Jason Calacanis",
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 3770
+    },
+    {
+      "theme": "elections",
+      "stance_summary": "Jason cites Polymarket making Le Pen the favorite for 2027 and expects J.D. Vance to run in 2028 on affordability.",
+      "speakers": [
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 3811
+    },
+    {
+      "theme": "fiscal",
+      "stance_summary": "Friedberg's socialism point of guaranteed return says the US has not hit bottom; Sacks says subsidies drive up prices; Chamath says bond markets will force austerity.",
+      "speakers": [
+        "David Friedberg",
+        "David Sacks",
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 3847
+    },
+    {
+      "theme": "inflation",
+      "stance_summary": "Sacks and Jason argue government subsidies push tuition, housing and healthcare prices above inflation, and that technology and AI agents are deflationary.",
+      "speakers": [
+        "David Sacks",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 4165
+    },
+    {
+      "theme": "rates",
+      "stance_summary": "Chamath expects rising Western sovereign yields, with UK gilts near 6% and US rates possibly as high; Jason cites a 79% Polymarket chance of another 2026 hike.",
+      "speakers": [
+        "Chamath Palihapitiya",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 4313
+    },
+    {
+      "theme": "ai agents",
+      "stance_summary": "The hosts are enthusiastic about Grokbot, OpenAI's Dots and headless agents as practical, deflationary tools; Chamath says agents make software IP worthless.",
+      "speakers": [
+        "Jason Calacanis",
+        "Chamath Palihapitiya",
+        "David Friedberg"
+      ],
+      "timestamp_seconds": 4923
+    }
+  ],
+  "polymarket_candidates": [
+    {
+      "prediction_id": "TBLHdXABwAg-p14",
+      "question": "Will Marine Le Pen win the 2027 French presidential election?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.43,
+      "search_keywords": [
+        "Marine Le Pen president",
+        "French presidential election 2027",
+        "France election"
+      ]
+    },
+    {
+      "prediction_id": "TBLHdXABwAg-p16",
+      "question": "Will J.D. Vance run for president in 2028?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.8,
+      "search_keywords": [
+        "JD Vance 2028",
+        "Vance presidential run",
+        "2028 Republican nominee"
+      ]
+    },
+    {
+      "prediction_id": "TBLHdXABwAg-p21",
+      "question": "Will the US 10-year Treasury yield reach 6% by October 2027?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.35,
+      "search_keywords": [
+        "10-year Treasury yield 6%",
+        "US 10 year yield",
+        "Treasury yields"
+      ]
+    },
+    {
+      "prediction_id": "TBLHdXABwAg-p22",
+      "question": "Will the Fed raise interest rates again before the end of 2026?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.79,
+      "search_keywords": [
+        "Fed rate hike 2026",
+        "FOMC December 2026",
+        "Fed interest rates"
+      ]
+    }
+  ],
+  "analyzed_at": "2026-11-08T09:09:14Z",
+  "model": "claude-opus-5-5",
+  "backend": "claude-code",
+  "chunked": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 22062,
+    "cache_read_input_tokens": 7543,
+    "cache_creation_input_tokens": 32771,
+    "thinking_tokens": 9352,
+    "cost_usd_equivalent": 0.704925,
+    "duration_ms": 182934,
+    "calls": 1
+  },
+  "quote_verification": {
+    "checked": 44,
+    "verified": 44,
+    "flagged": 0,
+    "dropped": 0
+  }
+}

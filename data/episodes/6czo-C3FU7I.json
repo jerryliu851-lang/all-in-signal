@@ -1,0 +1,1041 @@
+{
+  "schema_version": "1",
+  "episode": {
+    "video_id": "6czo-C3FU7I",
+    "title": "AI Cyber Panic, Ken Griffin’s Bubble Warning, The Fall of France?",
+    "published_at": "2026-10-23",
+    "url": "https://www.youtube.com/watch?v=6czo-C3FU7I",
+    "duration_seconds": 6202,
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "end_time": 11.0,
+        "title": "Bestie intros!"
+      },
+      {
+        "start_time": 11.0,
+        "end_time": 499.0,
+        "title": "Ken Griffin's AI bubble warning"
+      },
+      {
+        "start_time": 499.0,
+        "end_time": 864.0,
+        "title": "Palo Alto Networks CEO Nikesh Arora joins"
+      },
+      {
+        "start_time": 864.0,
+        "end_time": 2657.0,
+        "title": "AI Cyber panic: PHP exploits and the tumultuous year ahead"
+      },
+      {
+        "start_time": 2657.0,
+        "end_time": 5509.0,
+        "title": "France on the brink: Riots, immigration referendum, debt crisis"
+      },
+      {
+        "start_time": 5509.0,
+        "end_time": 6202.0,
+        "title": "Trump's second half strategy, Press Secretary J-Cal?"
+      }
+    ]
+  },
+  "hosts_present": [
+    "Jason Calacanis",
+    "Chamath Palihapitiya",
+    "David Friedberg"
+  ],
+  "guests": [
+    "Nikesh Arora"
+  ],
+  "key_takes": [
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath estimates that about 1% of companies account for 90% of AI token spending, mostly from unprofitable VC-backed startups. He calls this circular spending a structural problem and says AI has to diffuse beyond startups.",
+      "quote": "1% of companies represent 90% of AI spending, so that's tokens",
+      "timestamp_seconds": 148,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath argues that AI has a diffusion problem, and that as it spreads, large enterprises are choosing open source and building their own GPUs and data centers instead of relying on hyperscalers.",
+      "quote": "AI has a diffusion problem.",
+      "timestamp_seconds": 399,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Pushing back on Ken Griffin, Jason argues that startups rushing to spend on AI is a strong signal the technology is working, because startups are the most nimble at finding cheap edges.",
+      "quote": "When startups flood to a technology, that is a strong signal.",
+      "timestamp_seconds": 420,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Guest: Nikesh Arora",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Nikesh says enterprises prefer open-weight models for explainability and auditability, but compute is so scarce that resilient inference is hard to find. He says demand for compute is insatiable.",
+      "quote": "because I think demand is insatiable",
+      "timestamp_seconds": 795,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Guest: Nikesh Arora",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Nikesh says AI-discovered exploits like PHP2Shell will come much more often than every 10 days, because companies have built up technical debt by running unpatched, outdated software.",
+      "quote": "these things going to happen much faster than every 10 days.",
+      "timestamp_seconds": 990,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Guest: Nikesh Arora",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Nikesh argues that users who give credentials to AI agents are liable for what the agents do, with an exception for product liability when an agent goes rogue.",
+      "quote": "if you're the one who's giving agency, you have the liability.",
+      "timestamp_seconds": 1878,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg argues that if bank terms of service prohibit agent access and an agent doesn't block it, the liability falls on the agent provider. It shifts to the user only if the user overrides a warning.",
+      "quote": "then it is a software liability issue with the provider of the agent",
+      "timestamp_seconds": 1785,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "summary": "Chamath calls guardrail-free 'obliterated' models an underappreciated risk vector, more concerning than alignment.",
+      "quote": "I find Obliteration unbelievably scary.",
+      "timestamp_seconds": 1974,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath calls the French rioters criminals and domestic terrorists who should be met with a heavy hand. He says France faces a hard economic position and the government will lose the upcoming presidential election.",
+      "quote": "I think that these people are absolute criminals.",
+      "timestamp_seconds": 2825,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg argues that France's public spending, at a share of GDP above historical communist states, shows that bigger government worsens outcomes. He says the US, at about 36% of GDP and similar debt and deficit levels, faces the same fiscal cliff.",
+      "quote": "we are facing the same sort of fiscal cliff",
+      "timestamp_seconds": 3235,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg proposes winding down federal student loans and converting all defined-benefit programs, including Social Security, into defined-contribution accounts over about a decade.",
+      "quote": "I think all defined benefit programs need to be transitioned to defined contribution",
+      "timestamp_seconds": 3468,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Jason argues the looting in France is mainly an immigration problem caused by unassimilated immigrant populations, and says the US avoided it by closing the southern border.",
+      "quote": "This is because of the uh unmitigated disaster of immigration",
+      "timestamp_seconds": 3667,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath argues that bond vigilantes should push French yields to around 8% to force a structural reset of spending and immigration policy.",
+      "quote": "I think you need to take France to like 8% and just break them.",
+      "timestamp_seconds": 5108,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg argues that ending social services for immigrants would make immigrants self-select for productivity, and that screening should focus on shared civic values.",
+      "quote": "solve it is get rid of social services for immigrants.",
+      "timestamp_seconds": 4802,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Jason argues that Trump's low approval reflects a messaging gap. He says Trump should talk about housing and raise the federal minimum wage by $1 a year to $15.",
+      "quote": "he has to talk about housing as much as he's talking about data centers",
+      "timestamp_seconds": 5502,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg opposes minimum wage increases, citing 18,000 fast-food jobs lost in California, and proposes a zero tax rate for the lowest bracket instead.",
+      "quote": "we lost 18,000 fast food jobs in the state",
+      "timestamp_seconds": 5851,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath defends Trump's focus on data centers, arguing that the US economy is entirely levered to the AI trade and that the build-out raises middle-class wages.",
+      "quote": "the US economy is entirely and completely levered to and correlated with the AI trade",
+      "timestamp_seconds": 5650,
+      "quote_verified": "verified"
+    }
+  ],
+  "predictions": [
+    {
+      "speaker": "Guest: Nikesh Arora",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Hyperscalers will increasingly offer bare-metal compute so that enterprises can run open-source models on it.",
+      "category": "AI",
+      "direction": "yes",
+      "timeframe": {
+        "text": "at some point; inferred within 2 years",
+        "date": "2028-10-23",
+        "inferred": true
+      },
+      "resolution_criteria": "Major hyperscalers (AWS, Azure, GCP) announce or broadly offer bare-metal GPU offerings marketed for enterprises running open-weight models.",
+      "stated_confidence": "I expect",
+      "confidence_bucket": "medium",
+      "quote": "we will start seeing hyper scalars giving bare metal",
+      "timestamp_seconds": 766,
+      "id": "6czo-C3FU7I-p01",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Guest: Nikesh Arora",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Over the next year, AI-discovered critical exploits like PHP2Shell will occur more often than once every 10 days.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "over the next year",
+        "date": "2027-10-23",
+        "inferred": true
+      },
+      "resolution_criteria": "The frequency of publicly disclosed critical (CVSS 9+) vulnerabilities found with AI exceeds one every 10 days over the following year.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "these things going to happen much faster than every 10 days.",
+      "timestamp_seconds": 990,
+      "id": "6czo-C3FU7I-p02",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Guest: Nikesh Arora",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Compute demand will remain insatiable and exceed supply. The AI profit pool will shift from Nvidia and memory makers toward hyperscalers and holders of large amounts of compute.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "multi-year; chips constrained until 2028",
+        "date": "2028-12-31",
+        "inferred": true
+      },
+      "resolution_criteria": "Hyperscaler AI/cloud margins and profits grow relative to Nvidia and memory vendors' margins, while compute shortages persist through 2028.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "There's not enough computer in the world to satisfy us.",
+      "timestamp_seconds": 795,
+      "id": "6czo-C3FU7I-p03",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "AI agents accessing consumer bank accounts will be a major part of the news cycle over the next week or two.",
+      "category": "tech",
+      "direction": null,
+      "timeframe": {
+        "text": "over the next week or two",
+        "date": "2026-11-06",
+        "inferred": false
+      },
+      "resolution_criteria": "Major news coverage of AI agent access to bank accounts in late October to early November 2026.",
+      "stated_confidence": "I actually think",
+      "confidence_bucket": "medium",
+      "quote": "I actually think this is going to be a big part of the press cycle",
+      "timestamp_seconds": 1219,
+      "id": "6czo-C3FU7I-p04",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The next year or so will be a brutal transition for cybersecurity, with many systems hacked.",
+      "category": "tech",
+      "direction": null,
+      "timeframe": {
+        "text": "the next year or so",
+        "date": "2027-10-23",
+        "inferred": false
+      },
+      "resolution_criteria": "Count of major cyber breaches and incidents over the next year compared with prior years.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "it's going to be brutal the next uh year or so",
+      "timestamp_seconds": 2306,
+      "id": "6czo-C3FU7I-p05",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Enterprise cybersecurity spending, currently about 4-10% of IT budgets, will have to rise as a share of IT spend.",
+      "category": "tech",
+      "direction": "up",
+      "timeframe": {
+        "text": "inferred within 12 months",
+        "date": "2027-10-23",
+        "inferred": true
+      },
+      "resolution_criteria": "Industry surveys (e.g., Gartner) show security's share of enterprise IT budgets rising above the 4-10% range.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "Yeah. And that's going to have to go up.",
+      "timestamp_seconds": 2392,
+      "id": "6czo-C3FU7I-p06",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Guest: Nikesh Arora",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "As every business function adopts AI over the next three years, CISOs could become the next generation of CEOs.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "three years from now",
+        "date": "2029-10-23",
+        "inferred": false
+      },
+      "resolution_criteria": "A notable increase in former CISOs or security leaders being appointed as CEOs of large companies by 2029.",
+      "stated_confidence": "could",
+      "confidence_bucket": "low",
+      "quote": "the CISOs could become the next CEOs",
+      "timestamp_seconds": 2306,
+      "id": "6czo-C3FU7I-p07",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Polymarket priced a 91% chance that Moody's or S&P would downgrade France by October 31, 2026.",
+      "category": "macro",
+      "direction": "yes",
+      "timeframe": {
+        "text": "by October 31st",
+        "date": "2026-10-31",
+        "inferred": false
+      },
+      "resolution_criteria": "Moody's or S&P announces a downgrade of France's sovereign credit rating on or before October 31, 2026.",
+      "stated_confidence": "91%",
+      "confidence_bucket": "high",
+      "quote": "91% chance Moody's or S&P downgrades France by October 31st",
+      "timestamp_seconds": 2789,
+      "id": "6czo-C3FU7I-p08",
+      "episode_id": "6czo-C3FU7I",
+      "status": "resolved_incorrect",
+      "resolution_source": "polymarket",
+      "resolution_note": "Polymarket 'Moody's or S&P downgrades France by October 31, 2026?' resolved No",
+      "resolved_at": "2026-11-08T09:24:50Z",
+      "polymarket_market_id": "5458389",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Polymarket priced an 18% chance that France would declare a state of emergency by the end of 2026.",
+      "category": "politics",
+      "direction": "no",
+      "timeframe": {
+        "text": "by the end of the year",
+        "date": "2026-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "The French government formally declares a state of emergency before December 31, 2026.",
+      "stated_confidence": "18%",
+      "confidence_bucket": "low",
+      "quote": "18% chance France declares a state of emergency by the end of the year.",
+      "timestamp_seconds": 2754,
+      "id": "6czo-C3FU7I-p09",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": "5880782",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "France's proposed austerity package of €50 billion will have to be increased.",
+      "category": "macro",
+      "direction": "up",
+      "timeframe": {
+        "text": "inferred within 12 months",
+        "date": "2027-10-23",
+        "inferred": true
+      },
+      "resolution_criteria": "The French government proposes or enacts austerity or deficit-reduction measures larger than €50 billion.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "That's going to have to go up.",
+      "timestamp_seconds": 2936,
+      "id": "6czo-C3FU7I-p10",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "France's current governing camp will lose the upcoming French presidential election, leading to a complicated reset of the French bureaucracy and economy.",
+      "category": "politics",
+      "direction": "lose",
+      "timeframe": {
+        "text": "the upcoming presidential elections (2027)",
+        "date": "2027-05-31",
+        "inferred": true
+      },
+      "resolution_criteria": "A candidate outside Macron's governing coalition wins the 2027 French presidential election.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "I think they are going to lose the upcoming presidential elections.",
+      "timestamp_seconds": 2936,
+      "id": "6czo-C3FU7I-p11",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "France will be the first Western country to fall into a fiscal and social crisis. The US faces the same fiscal cliff unless it changes course.",
+      "category": "macro",
+      "direction": null,
+      "timeframe": {
+        "text": "inferred multi-year",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "France experiences a sovereign debt or fiscal crisis (e.g., forced restructuring, bailout, or unfinanceable yields) before other major Western economies.",
+      "stated_confidence": "probably",
+      "confidence_bucket": "medium",
+      "quote": "France is I think it's probably the first to go",
+      "timestamp_seconds": 3235,
+      "id": "6czo-C3FU7I-p12",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "The US will need some degree of fiscal or economic reset, because it cannot keep running a larger deficit-to-GDP ratio than France with similar debt-to-GDP and only modestly higher growth.",
+      "category": "macro",
+      "direction": null,
+      "timeframe": {
+        "text": "inferred multi-year",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "The US undergoes a significant fiscal adjustment, such as a major deficit reduction from roughly 6% toward 4% of GDP, or a debt-driven economic crisis.",
+      "stated_confidence": "fundamentally going to need",
+      "confidence_bucket": "medium",
+      "quote": "I think we are fundamentally going to need to have some degree of reset",
+      "timestamp_seconds": 4172,
+      "id": "6czo-C3FU7I-p13",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Populist movements across the West that resent tech and billionaires will keep growing.",
+      "category": "politics",
+      "direction": "up",
+      "timeframe": {
+        "text": "inferred within 2 years",
+        "date": "2028-10-23",
+        "inferred": true
+      },
+      "resolution_criteria": "Rising electoral support or polling for anti-tech, anti-billionaire populist candidates and parties in Western countries.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "it's very common across the West and it's going to continue to grow",
+      "timestamp_seconds": 3838,
+      "id": "6czo-C3FU7I-p14",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If the federal student loan program is wound down, college tuition will right-size to the market over about 10 years.",
+      "category": "macro",
+      "direction": "down",
+      "timeframe": {
+        "text": "about 10 years",
+        "date": null,
+        "inferred": false
+      },
+      "resolution_criteria": "Conditional on federal student lending ending, real tuition costs decline over the following decade.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "It'll take about 10 years.",
+      "timestamp_seconds": 3442,
+      "id": "6czo-C3FU7I-p15",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Reducing federal home loan underwriting would lower home prices and cut middle-class net worth by 10-20%.",
+      "category": "macro",
+      "direction": "down",
+      "timeframe": {
+        "text": "inferred multi-year, conditional on policy",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Conditional on a reduction in federal mortgage underwriting volume, home prices and middle-class net worth fall 10-20%.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "drop the net worth of the middle class by 10 to 20%",
+      "timestamp_seconds": 4204,
+      "id": "6czo-C3FU7I-p16",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Elon Musk's gift of a SpaceX share to every American child could spread to other wealthy donors giving equity to children.",
+      "category": "other",
+      "direction": "yes",
+      "timeframe": {
+        "text": "inferred within 12 months",
+        "date": "2027-10-23",
+        "inferred": true
+      },
+      "resolution_criteria": "Other billionaires announce similar equity gifts to children's accounts (e.g., Invest America/Trump accounts).",
+      "stated_confidence": "nothing that says this is not going to",
+      "confidence_bucket": "low",
+      "quote": "this is not going to become you know, a bit of a contagion",
+      "timestamp_seconds": 4298,
+      "id": "6czo-C3FU7I-p17",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Trump's historically low approval may produce a poor result for his side in the November 3, 2026 election.",
+      "category": "politics",
+      "direction": "lose",
+      "timeframe": {
+        "text": "November 3rd election",
+        "date": "2026-11-03",
+        "inferred": false
+      },
+      "resolution_criteria": "Results of the November 3, 2026 US midterm elections, specifically whether Republicans lose ground.",
+      "stated_confidence": "perhaps",
+      "confidence_bucket": "low",
+      "quote": "perhaps we'll see on November 3rd what happens with this election",
+      "timestamp_seconds": 5533,
+      "id": "6czo-C3FU7I-p18",
+      "episode_id": "6czo-C3FU7I",
+      "status": "resolved_correct",
+      "resolution_source": "polymarket",
+      "resolution_note": "Polymarket 'Will the Republican Party control the House after the 2026 Midterm elections?' resolved No",
+      "resolved_at": "2026-11-08T09:24:50Z",
+      "polymarket_market_id": "562803",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Raising the federal minimum wage by $1 a year to $15 by 2032 would add only about 25 cents per meal without raising unemployment, because the money gets recirculated.",
+      "category": "macro",
+      "direction": null,
+      "timeframe": {
+        "text": "seven years, to 2032",
+        "date": "2032-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "Conditional on such a phased increase, unemployment does not rise and price effects stay small.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "I said go at $1 per year for the next seven",
+      "timestamp_seconds": 5929,
+      "id": "6czo-C3FU7I-p19",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Government minimum wage increases will cause job losses in affected industries, as Friedberg says happened in California's fast-food sector.",
+      "category": "macro",
+      "direction": "down",
+      "timeframe": {
+        "text": "inferred, whenever such a policy is enacted",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Employment in affected sectors declines after minimum wage increases.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "we lost 18,000 fast food jobs in the state",
+      "timestamp_seconds": 5851,
+      "id": "6czo-C3FU7I-p20",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Large enterprises will keep shifting AI spending toward their own GPUs, data centers, and open-source models and away from frontier-lab APIs and public cloud.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "inferred within 12 months",
+        "date": "2027-10-23",
+        "inferred": true
+      },
+      "resolution_criteria": "Ramp or similar spend data shows a rising share of GPU and self-hosted compute versus LLM API spend among top AI spenders.",
+      "stated_confidence": null,
+      "confidence_bucket": "low",
+      "quote": "as it diffuses out people are picking open source is what I would tell you.",
+      "timestamp_seconds": 399,
+      "id": "6czo-C3FU7I-p21",
+      "episode_id": "6czo-C3FU7I",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    }
+  ],
+  "stock_implications": [
+    {
+      "claim": "Large enterprises are cutting AWS and GCP spend and building their own data centers to run open-source models.",
+      "tickers": [
+        "AMZN",
+        "GOOGL"
+      ],
+      "company": "Amazon / Alphabet",
+      "is_private": false,
+      "sector": "cloud",
+      "direction": "bearish",
+      "timeframe": "next 12 months",
+      "rationale": "If enterprises repatriate AI workloads to self-built data centers, hyperscaler cloud revenue growth from those customers slows.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "timestamp_seconds": 399,
+      "note": null,
+      "id": "6czo-C3FU7I-s01"
+    },
+    {
+      "claim": "Compute demand is insatiable, Nvidia chips are constrained until 2028, and the profit pool will shift toward hyperscalers with available compute.",
+      "tickers": [
+        "AMZN",
+        "MSFT",
+        "GOOGL"
+      ],
+      "company": "Hyperscalers",
+      "is_private": false,
+      "sector": "cloud",
+      "direction": "bullish",
+      "timeframe": "multi-year",
+      "rationale": "Scarce compute and a shift of the profit pool toward compute owners favor the hyperscalers.",
+      "speaker": "Guest: Nikesh Arora",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 795,
+      "note": null,
+      "id": "6czo-C3FU7I-s02"
+    },
+    {
+      "claim": "Compute is so scarce that Nvidia cannot supply chips until 2028.",
+      "tickers": [
+        "NVDA"
+      ],
+      "company": "Nvidia",
+      "is_private": false,
+      "sector": "semiconductors",
+      "direction": "bullish",
+      "timeframe": "through 2028",
+      "rationale": "A sold-out supply backlog through 2028 implies sustained demand for Nvidia chips, though Nikesh expects profit pools to shift toward hyperscalers over time.",
+      "speaker": "Guest: Nikesh Arora",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 695,
+      "note": null,
+      "id": "6czo-C3FU7I-s03"
+    },
+    {
+      "claim": "AI-found exploits will accelerate, and enterprise security spend as a share of IT budgets must rise.",
+      "tickers": [
+        "PANW",
+        "NET",
+        "CIBR"
+      ],
+      "company": "Palo Alto Networks / Cloudflare",
+      "is_private": false,
+      "sector": "cybersecurity",
+      "direction": "bullish",
+      "timeframe": "next 12 months",
+      "rationale": "More frequent critical vulnerabilities and higher security budgets increase demand for perimeter defense and virtual patching products.",
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 2392,
+      "note": null,
+      "id": "6czo-C3FU7I-s04"
+    },
+    {
+      "claim": "France is in a fiscal and social crisis, its 10-year yield is above 5%, and Chamath wants bond vigilantes to push yields toward 8%.",
+      "tickers": [
+        "EWQ"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "European equities / sovereign debt",
+      "direction": "bearish",
+      "timeframe": "next 12 months",
+      "rationale": "Rising French borrowing costs, a likely downgrade, and political instability weigh on French assets.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4002,
+      "note": null,
+      "id": "6czo-C3FU7I-s05"
+    },
+    {
+      "claim": "The US 10-year yield dipped below 5% as investors fled EU debt for US Treasuries.",
+      "tickers": [
+        "TLT"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "rates",
+      "direction": "bullish",
+      "timeframe": "near term",
+      "rationale": "Flight from European sovereign debt into Treasuries pushes US yields down and long-bond prices up.",
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 2789,
+      "note": null,
+      "id": "6czo-C3FU7I-s06"
+    },
+    {
+      "claim": "Guardrail-free 'obliterated' models from a company like Obliteration AI are an underappreciated risk vector.",
+      "tickers": [],
+      "company": "Obliteration AI",
+      "is_private": true,
+      "sector": "AI",
+      "direction": "neutral",
+      "timeframe": "multi-year",
+      "rationale": "Chamath flags it as a safety risk, while Jason (an incubator of the company) defends it as a red-team tool.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "medium",
+      "timestamp_seconds": 1974,
+      "note": "Private startup incubated by Jason's fund; no public ticker.",
+      "id": "6czo-C3FU7I-s07"
+    },
+    {
+      "claim": "Cutting federal home loan underwriting would drop home prices and middle-class net worth by 10-20%.",
+      "tickers": [
+        "XHB"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "housing",
+      "direction": "bearish",
+      "timeframe": "multi-year, conditional on policy",
+      "rationale": "Less federal mortgage underwriting would reduce housing demand and prices, hurting homebuilders.",
+      "speaker": "David Friedberg",
+      "attribution_confidence": "medium",
+      "timestamp_seconds": 4204,
+      "note": null,
+      "id": "6czo-C3FU7I-s08"
+    }
+  ],
+  "macro_themes": [
+    {
+      "theme": "ai capex",
+      "stance_summary": "Ken Griffin's bubble warning was debated. Chamath says AI spend is concentrated and circular among VC-backed startups and must diffuse. Jason sees startup adoption as a bullish signal. Nikesh says compute demand is insatiable.",
+      "speakers": [
+        "Chamath Palihapitiya",
+        "Jason Calacanis",
+        "Guest: Nikesh Arora"
+      ],
+      "timestamp_seconds": 110
+    },
+    {
+      "theme": "cybersecurity",
+      "stance_summary": "The PHP2Shell exploits found by AI signal a turbulent year. Nikesh says technical debt is the core problem and breaches will come faster than every 10 days. The panel expects security spending to rise.",
+      "speakers": [
+        "Guest: Nikesh Arora",
+        "Jason Calacanis",
+        "Chamath Palihapitiya",
+        "David Friedberg"
+      ],
+      "timestamp_seconds": 848
+    },
+    {
+      "theme": "ai safety",
+      "stance_summary": "On agent liability for bank access, Nikesh and Chamath put it on the user, while Friedberg puts it on the agent provider. Chamath and Nikesh see guardrail-free obliterated models as dangerous, and Nikesh wants a more positive AI narrative.",
+      "speakers": [
+        "Guest: Nikesh Arora",
+        "David Friedberg",
+        "Chamath Palihapitiya",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 1785
+    },
+    {
+      "theme": "fiscal",
+      "stance_summary": "France's public spending above that of communist states shows big government fails, and the US faces a similar fiscal cliff. Friedberg proposes ending federal student loans and converting Social Security to defined contribution. Chamath wants bond vigilantes to force a reset.",
+      "speakers": [
+        "David Friedberg",
+        "Chamath Palihapitiya",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 3055
+    },
+    {
+      "theme": "rates",
+      "stance_summary": "France's 10-year yield passed 5%, its highest since 2002, while the US 10-year dipped below 5% on flows out of EU debt. Chamath wants French yields pushed to about 8%.",
+      "speakers": [
+        "Jason Calacanis",
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 2789
+    },
+    {
+      "theme": "immigration",
+      "stance_summary": "Jason and Friedberg blame unassimilated immigration and welfare for the French riots. Friedberg proposes ending social services for immigrants and screening for civic values.",
+      "speakers": [
+        "Jason Calacanis",
+        "David Friedberg",
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 3628
+    },
+    {
+      "theme": "elections",
+      "stance_summary": "Chamath expects France's governing camp to lose the next presidential election. Jason notes Trump's low approval ahead of the November 3 election.",
+      "speakers": [
+        "Chamath Palihapitiya",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 2936
+    },
+    {
+      "theme": "labor market",
+      "stance_summary": "Jason backs a phased federal minimum wage rise to $15. Friedberg opposes it, citing California fast-food job losses, and prefers a zero tax rate for low earners.",
+      "speakers": [
+        "Jason Calacanis",
+        "David Friedberg"
+      ],
+      "timestamp_seconds": 5502
+    }
+  ],
+  "polymarket_candidates": [
+    {
+      "prediction_id": "6czo-C3FU7I-p08",
+      "question": "Will Moody's or S&P downgrade France's credit rating by October 31, 2026?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.91,
+      "search_keywords": [
+        "France downgrade",
+        "France credit rating Moody's",
+        "France S&P downgrade"
+      ]
+    },
+    {
+      "prediction_id": "6czo-C3FU7I-p09",
+      "question": "Will France declare a state of emergency by December 31, 2026?",
+      "hosts_answer": "no",
+      "implied_probability": 0.18,
+      "search_keywords": [
+        "France state of emergency",
+        "France riots",
+        "France emergency 2026"
+      ]
+    },
+    {
+      "prediction_id": "6czo-C3FU7I-p11",
+      "question": "Will a candidate outside Macron's governing coalition win the 2027 French presidential election?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.65,
+      "search_keywords": [
+        "French presidential election 2027",
+        "France election winner",
+        "France president 2027"
+      ]
+    },
+    {
+      "prediction_id": "6czo-C3FU7I-p18",
+      "question": "Will Republicans lose control of the House in the November 3, 2026 midterm elections?",
+      "hosts_answer": "yes",
+      "implied_probability": null,
+      "search_keywords": [
+        "House midterms 2026",
+        "midterm elections 2026",
+        "House control 2026"
+      ]
+    }
+  ],
+  "analyzed_at": "2026-11-08T09:03:23Z",
+  "model": "claude-opus-5-5",
+  "backend": "claude-code",
+  "chunked": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 18116,
+    "cache_read_input_tokens": 7543,
+    "cache_creation_input_tokens": 38930,
+    "thinking_tokens": 7120,
+    "cost_usd_equivalent": 0.675277,
+    "duration_ms": 147571,
+    "calls": 1
+  },
+  "quote_verification": {
+    "checked": 38,
+    "verified": 38,
+    "flagged": 0,
+    "dropped": 0
+  }
+}
