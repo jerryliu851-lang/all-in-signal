@@ -166,6 +166,13 @@ class PolymarketCandidateOut(StrictModel):
             "'Will the Fed cut rates at the December 2026 FOMC meeting?'"
         )
     )
+    search_keywords: list[str] = Field(
+        description=(
+            "2 to 4 short search queries a prediction-market search box would understand, most specific "
+            "first, e.g. ['Anthropic IPO', 'Anthropic IPO 2026'] or ['Fed rate cut December', 'FOMC December']. "
+            "Entity names plus the key noun; no full sentences, no 'Will'."
+        )
+    )
     hosts_answer: YesNo = Field(description="The answer the speaker's view implies.")
     implied_probability: float | None = Field(
         description=(
@@ -269,6 +276,7 @@ class StoredCandidate(StrictModel):
     question: str
     hosts_answer: YesNo
     implied_probability: float | None = None
+    search_keywords: list[str] = Field(default_factory=list)
 
 
 class EpisodeAnalysis(StrictModel):
@@ -395,6 +403,8 @@ class UnmatchedCandidate(StrictModel):
     attempts: int = 0
     last_attempt_at: str | None = None
     seen_market_ids: list[str] = Field(default_factory=list)
+    search_keywords: list[str] = Field(default_factory=list)
+    last_judge_rationale: str | None = None
 
 
 class PolymarketState(StrictModel):

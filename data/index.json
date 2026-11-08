@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T08:19:47Z",
+  "updated_at": "2026-11-08T08:35:18Z",
   "episodes": {
     "2v8b062QzTI": {
       "video_id": "2v8b062QzTI",
@@ -7,13 +7,13 @@
       "published_at": "2026-11-07",
       "url": "https://www.youtube.com/watch?v=2v8b062QzTI",
       "duration_seconds": 5583,
-      "status": "transcribed",
+      "status": "analyzed",
       "discovered_at": "2026-11-08T08:19:00Z",
       "transcript_attempts": 1,
       "last_attempt_at": "2026-11-08T08:19:36Z",
       "last_error": null,
       "transcript_source": "youtube-transcript-api",
-      "analyzed_at": null,
+      "analyzed_at": "2026-11-08T08:35:18Z",
       "matched_at": null,
       "chapters": [
         {

@@ -130,7 +130,10 @@ def run_match(
                     report.skipped.append(pid)
                     continue
             try:
-                markets = gather_markets(gamma, build_queries(cand, prediction), settings.match_top_n)
+                markets = gather_markets(
+                    gamma, build_queries(cand, prediction), settings.match_top_n,
+                    rank_terms=[cand.question, *cand.search_keywords],
+                )
             except (httpx.HTTPError, ValueError) as exc:  # ValueError: non-JSON body from Gamma
                 _log(f"{pid}: Gamma search failed ({exc!r}); will retry next run")
                 report.skipped.append(pid)
@@ -179,9 +182,9 @@ def run_match(
                 if _resolve_prediction(analysis, mm, now):
                     report.resolved_from_closed.append(pid)
             else:
-                unmatched[pid] = _unmatched(cand, vid, prior, [m.market_id for m in markets], now)
+                unmatched[pid] = _unmatched(cand, vid, prior, [m.market_id for m in markets], now, verdict.rationale)
                 report.unmatched.append(pid)
-                _log(f"{pid}: judge found no match")
+                _log(f"{pid}: judge found no match ({verdict.rationale[:160]})")
 
     # --- refresh existing matches --------------------------------------------------
     for pid, mm in list(matches.items()):
@@ -229,6 +232,7 @@ def _unmatched(
     prior: UnmatchedCandidate | None,
     seen: list[str],
     now: str,
+    rationale: str | None = None,
 ) -> UnmatchedCandidate:
     merged = list(dict.fromkeys([*(prior.seen_market_ids if prior else []), *seen]))
     return UnmatchedCandidate(
@@ -240,4 +244,6 @@ def _unmatched(
         attempts=(prior.attempts if prior else 0) + 1,
         last_attempt_at=now,
         seen_market_ids=merged,
+        search_keywords=list(cand.search_keywords),
+        last_judge_rationale=rationale if rationale is not None else (prior.last_judge_rationale if prior else None),
     )

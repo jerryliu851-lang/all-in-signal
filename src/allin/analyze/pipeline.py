@@ -133,6 +133,7 @@ def build_analysis(
                 question=c.question,
                 hosts_answer=c.hosts_answer,
                 implied_probability=_valid_prob(c.implied_probability),
+                search_keywords=[k.strip() for k in c.search_keywords if k and k.strip()][:4],
             )
         )
     analysis = EpisodeAnalysis(

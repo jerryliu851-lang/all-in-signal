@@ -84,10 +84,10 @@ def model_output() -> dict:
         "macro_themes": [{"theme": "  AI  Capex ", "stance_summary": "s", "speakers": ["Friedberg"],
                           "timestamp_seconds": 211}],
         "polymarket_candidates": [
-            {"prediction_index": 0, "question": "Will Dems win 250+ seats?", "hosts_answer": "yes",
+            {"prediction_index": 0, "question": "Will Dems win 250+ seats?", "hosts_answer": "yes", "search_keywords": ["test keyword"],
              "implied_probability": 0.8},
-            {"prediction_index": 2, "question": "Q3?", "hosts_answer": "no", "implied_probability": None},
-            {"prediction_index": 7, "question": "Out of range?", "hosts_answer": "yes", "implied_probability": 0.5},
+            {"prediction_index": 2, "question": "Q3?", "hosts_answer": "no", "search_keywords": ["test keyword"], "implied_probability": None},
+            {"prediction_index": 7, "question": "Out of range?", "hosts_answer": "yes", "search_keywords": ["test keyword"], "implied_probability": 0.5},
         ],
     }
 

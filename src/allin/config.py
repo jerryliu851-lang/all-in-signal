@@ -82,7 +82,7 @@ class Settings:
     gamma_base_url: str = "https://gamma-api.polymarket.com"
     divergence_flag_points: float = 25.0
     match_retry_days: int = 7
-    match_top_n: int = 8
+    match_top_n: int = 12
 
     # --- Pipeline ---
     backfill_count: int = 10

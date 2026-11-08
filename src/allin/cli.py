@@ -143,9 +143,9 @@ def cmd_backfill(args, settings: Settings) -> int:
     store = _store(settings)
     started = now_iso()
     ingest = run_ingest(store, settings, limit=args.count, backfill=True)
-    pending = [
-        vid for vid, e in store.load_index().episodes.items() if e.status == "transcribed"
-    ]
+    transcribed = [e for e in store.load_index().episodes.values() if e.status == "transcribed"]
+    transcribed.sort(key=lambda e: (e.published_at or "", e.video_id), reverse=True)
+    pending = [e.video_id for e in transcribed[: args.count]]  # newest N, so batches can be split across runs
     estimate = estimate_episodes(store, settings, video_ids=pending)
     print("=== BACKFILL ESTIMATE ===")
     _print_json(estimate)

@@ -80,15 +80,18 @@ Data is committed JSON under `data/` behind a `Store` interface. JSON diffs and 
 ## Cost per episode
 
 <!-- COST_TABLE_START -->
-**Provisional numbers; to be replaced with measured values.**
+Measured on the 2026-11-07 episode (93 min, 17.1k words) with `claude-opus-5-5` at effort `high`, single pass:
 
-| Item | Estimate |
+| Item | Measured |
 |---|---|
-| Transcript input | ~25-35k tokens |
-| Harness prefix (cached) | ~12k tokens |
-| Output including thinking | ~10-20k tokens |
-| API-equivalent cost | about $0.60-0.90 per episode at $4/$20 per MTok |
+| Input tokens (transcript + prompt + Claude Code harness prefix) | 39,362 (written to cache; later calls read ~12k of it from cache) |
+| Output tokens | 28,926, of which 14,579 thinking |
+| Wall time | 236 s |
+| API-equivalent cost | $0.89 (at $4 / $20 per MTok) |
+| Polymarket judge calls | a few hundred tokens each at effort `low`, one per candidate (7 candidates on this episode) |
 | Run with nothing new | no analysis calls; rare small re-judge calls for unmatched candidates (see Architecture) |
+
+So a 10-episode backfill is roughly 390k input + 290k output tokens, about $9 API-equivalent, and about 40 minutes of sequential runner time. With the Max-subscription token the real cost is subscription quota: split the backfill into two batches (`count=5`, then `count=10`) if you want to spread it across two 5-hour windows.
 <!-- COST_TABLE_END -->
 
 ## Editing resolutions.yml

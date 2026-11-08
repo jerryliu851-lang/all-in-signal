@@ -1,0 +1,1409 @@
+{
+  "schema_version": "1",
+  "episode": {
+    "video_id": "2v8b062QzTI",
+    "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What’s Next for Trump",
+    "published_at": "2026-11-07",
+    "url": "https://www.youtube.com/watch?v=2v8b062QzTI",
+    "duration_seconds": 5583,
+    "chapters": [
+      {
+        "start_time": 0.0,
+        "end_time": 217.0,
+        "title": "Bestie intros!"
+      },
+      {
+        "start_time": 217.0,
+        "end_time": 1946.0,
+        "title": "Midterms postmortem: What led to a generational GOP collapse?"
+      },
+      {
+        "start_time": 1946.0,
+        "end_time": 3193.0,
+        "title": "How can Trump salvage his presidency?"
+      },
+      {
+        "start_time": 3193.0,
+        "end_time": 5061.0,
+        "title": "Market reaction: Data center fears, $4T in market cap shed, AI ban potential"
+      },
+      {
+        "start_time": 5061.0,
+        "end_time": 5583.0,
+        "title": "Science Corner: OpenAI solves Exponential Time Hypothesis"
+      }
+    ]
+  },
+  "hosts_present": [
+    "Chamath Palihapitiya",
+    "David Sacks",
+    "David Friedberg",
+    "Jason Calacanis"
+  ],
+  "guests": [],
+  "key_takes": [
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks argues the Republican midterm blowout was caused by the Iran war and its economic fallout: higher gas, diesel and food prices, inflation rising from 2.4% to 3.7%, and a rate hike instead of cuts.",
+      "quote": "it was this war and the economic consequences that follow from the war",
+      "timestamp_seconds": 293,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks argues the war split the Republican coalition by driving away the alternative-media 'podcast bros' and young male voters the party depends on.",
+      "quote": "We lost all the podcast bros.",
+      "timestamp_seconds": 536,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg argues that ending DOGE without cutting spending left $2T deficits and a rising cost of living, which pushes voters toward socialist policies.",
+      "quote": "the fundamental driver on the cost of living is government spending",
+      "timestamp_seconds": 775,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg argues that people who feel left behind while markets rise made AI an easy target for an 'oligarch' narrative, and he cites a Gallup survey ranking the US near the bottom on AI optimism.",
+      "quote": "The AI guys are, the tech oligarchs are, and so on.",
+      "timestamp_seconds": 921,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath says he got the election wrong: party ideology no longer matters, and a central bloc of voters keeps swinging between parties because the economy no longer works for wage earners, only for asset owners.",
+      "quote": "I do not think Democrats or Republicans matter.",
+      "timestamp_seconds": 1118,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath argues the money spent and the gerrymandering both failed, and that a candidate of either party running on economic populism (closing loopholes, no federal tax below about $150k, student debt relief) wins in 2028.",
+      "quote": "the economic populist platform will be the one that you can take",
+      "timestamp_seconds": 1382,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Jason argues the polls and prediction markets were right all along, and that Trump's approval fell from Liberation Day tariffs, ICE enforcement and the Epstein files well before the war.",
+      "quote": "All of the polls were correct.",
+      "timestamp_seconds": 1712,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks says Trump's top three fixes are all ending the war, which he expects would cut oil and gas prices and bring the strong jobs and GDP picture back into view.",
+      "quote": "That's my number one, my number two, and my number three.",
+      "timestamp_seconds": 2133,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg argues that calls to stop AI are really about state control of AI, and expects the government to regulate compute by treating data centers like utilities.",
+      "quote": "I think the data centers end up being treated like utilities in the future",
+      "timestamp_seconds": 2703,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Jason proposes that Trump pardon everyone now to take investigations off the table, then cut deals with Democrats on taxing margin loans, healthcare, a $15 minimum wage, a ban on stock trading in office, and housing.",
+      "quote": "I think Trump right now should pardon everybody right now this week.",
+      "timestamp_seconds": 2762,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath argues that state pushback will slow data center construction, which helps hyperscalers with existing capacity and hurts the neoclouds and foundation-model companies that rent compute.",
+      "quote": "I think what it means is we're going to see a slowdown.",
+      "timestamp_seconds": 3405,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Chamath argues the 90-day mutual out in the SpaceX–Anthropic compute deal is the key piece of game theory: if spot compute prices jump, SpaceX could reprice and reset the market.",
+      "quote": "SpaceX and Anthropic's compute deal has a mutual 90day out.",
+      "timestamp_seconds": 3569,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks argues Democrats will push to create a federal AI department that approves frontier models, which he says would amount to a censorship and surveillance state powered by superintelligence.",
+      "quote": "it's 100% that Democrats are going to make a major push for AI legislation",
+      "timestamp_seconds": 4048,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Sacks expects fully permitted data center projects to finish in 2027, but because no politician has an incentive to approve new ones, he expects the 2028 pipeline to be closed or sharply reduced.",
+      "quote": "the projects that are fully permitted will get done in 2027",
+      "timestamp_seconds": 4602,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "summary": "Friedberg presents OpenAI's 175-page paper disproving the Exponential Time Hypothesis, still under third-party review, as a major AI-driven result in math and computer science.",
+      "quote": "And what open AAI did is they disproved that.",
+      "timestamp_seconds": 5224,
+      "quote_verified": "verified"
+    }
+  ],
+  "predictions": [
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Once the remaining races are called, Democrats will hold 54 to 56 Senate seats and at least 250 House seats, possibly 260.",
+      "category": "politics",
+      "direction": "up",
+      "timeframe": {
+        "text": "when the remaining midterm races are called",
+        "date": "2026-12-31",
+        "inferred": true
+      },
+      "resolution_criteria": "Final certified 2026 midterm results: Democratic Senate seats between 54 and 56, and Democratic House seats of 250 or more.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "Dems will have at least 250 seats, maybe even 260.",
+      "timestamp_seconds": 230,
+      "id": "2v8b062QzTI-p01",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If the Iran war ends quickly, oil and gas prices will drop quickly, inflation will come down, and the Fed will be able to cut rates so mortgage costs fall.",
+      "category": "macro",
+      "direction": "down",
+      "timeframe": {
+        "text": "after the war ends",
+        "date": "2027-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "After the war ends: lower CPI inflation, at least one Fed rate cut, and lower 30-year mortgage rates.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "If the war has ended quickly, those prices will drop very quickly.",
+      "timestamp_seconds": 1690,
+      "id": "2v8b062QzTI-p02",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If the Iran war ends, Brent crude will fall from about $110 to about $70 a barrel, and gas, diesel and food prices will fall with it.",
+      "category": "markets",
+      "direction": "down",
+      "timeframe": {
+        "text": "after the war ends",
+        "date": "2027-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "Brent crude trading near $70 a barrel after the Iran war ends.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "It'll go from 110 to 70 if this war ends.",
+      "timestamp_seconds": 2164,
+      "id": "2v8b062QzTI-p03",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If the war ends, Trump's approval rating will recover, possibly back into the 40s.",
+      "category": "politics",
+      "direction": "up",
+      "timeframe": {
+        "text": "after the war ends",
+        "date": "2027-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "Trump approval rating in polling averages back in the 40% range after the war ends.",
+      "stated_confidence": "maybe",
+      "confidence_bucket": "low",
+      "quote": "And I think that Trump's popularity will rebound maybe back in the 40s.",
+      "timestamp_seconds": 2200,
+      "id": "2v8b062QzTI-p04",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If the Iran war continues, Republicans will keep losing popularity.",
+      "category": "politics",
+      "direction": "down",
+      "timeframe": {
+        "text": "while the war continues",
+        "date": "2027-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "Falling Republican and Trump approval in polling averages while the war continues.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "If the war continues, the Republicans will continue to bleed popularity.",
+      "timestamp_seconds": 2200,
+      "id": "2v8b062QzTI-p05",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If Trump escalates the war (a 'surge'-style move), Republicans will repeat 2006–2008 and lose again in 2028; if he gets out now, the next two years will be successful.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "next two years / 2028 election",
+        "date": "2028-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "Whether the administration escalates or exits the Iran war, compared with the Republican result in the 2028 election.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "I think you'll have a very successful next two years.",
+      "timestamp_seconds": 3157,
+      "id": "2v8b062QzTI-p06",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The candidate, of either party, who runs on an economic populist platform will win the presidency in 2028.",
+      "category": "politics",
+      "direction": "win",
+      "timeframe": {
+        "text": "2028 presidential election",
+        "date": "2028-11-07",
+        "inferred": false
+      },
+      "resolution_criteria": "The 2028 presidential winner ran mainly on an economic populist / economic fairness platform.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "the economic populist platform will be the one that you can take",
+      "timestamp_seconds": 1382,
+      "id": "2v8b062QzTI-p07",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Until wage earners feel they own a share of the economy, voters will keep swinging sharply between parties and punishing whoever holds power.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "upcoming election cycles",
+        "date": "2028-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "The party in power loses ground again in the 2028 election.",
+      "stated_confidence": "my prediction",
+      "confidence_bucket": "unstated",
+      "quote": "they will violently keep going back and forth away from the status quo.",
+      "timestamp_seconds": 1487,
+      "id": "2v8b062QzTI-p08",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If Democrats spend their majority on impeaching Trump instead of legislating economic fairness, and the Republican candidate adopts economic populism, Democrats will lose the way Republicans lost in the midterms.",
+      "category": "politics",
+      "direction": "lose",
+      "timeframe": {
+        "text": "2028 election",
+        "date": "2028-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "Whether the Democratic Congress focuses on impeachment, and how Democrats do in 2028.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "you'll find yourself losing the way the Republicans lost in the midterms.",
+      "timestamp_seconds": 1513,
+      "id": "2v8b062QzTI-p09",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The new Congress and the President will struggle to agree on a clean budget in 2027, so ~$2T deficits continue and the cost of living keeps rising.",
+      "category": "macro",
+      "direction": "up",
+      "timeframe": {
+        "text": "2027",
+        "date": "2027-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "No significant deficit-cutting budget deal in 2027; the federal deficit stays around $2T and the cost of living keeps rising.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "it's going to be very hard with this Congress and the sitting president",
+      "timestamp_seconds": 2496,
+      "id": "2v8b062QzTI-p10",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "AI will remain a major political flashpoint and play a big role in politics over the next year.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "over the next year",
+        "date": "2027-11-07",
+        "inferred": false
+      },
+      "resolution_criteria": "AI and data centers stay a leading political issue in legislation and campaigns through 2027.",
+      "stated_confidence": "I do think",
+      "confidence_bucket": "medium",
+      "quote": "I do think AI is going to continue to be this really big political hot point.",
+      "timestamp_seconds": 2606,
+      "id": "2v8b062QzTI-p11",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The government will regulate access to compute and treat data centers like utilities, rather than regulating chips or models.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "in the future",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Federal or state rules that regulate data centers as utilities or control who gets compute.",
+      "stated_confidence": "I could be wrong, but I still think",
+      "confidence_bucket": "medium",
+      "quote": "I think the data centers end up being treated like utilities in the future",
+      "timestamp_seconds": 2703,
+      "id": "2v8b062QzTI-p12",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "medium",
+      "stance_type": "own_view",
+      "claim": "Much of the new governors' opposition to data centers is performative; they will negotiate better deals (taxes, community benefits) rather than block construction.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "Newly elected governors approve data centers in exchange for concessions instead of imposing lasting bans.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "low",
+      "quote": "I think a lot of the data center stuff is performative.",
+      "timestamp_seconds": 2732,
+      "id": "2v8b062QzTI-p13",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The Democratic Congress may force Trump to end the war, giving him a way to exit.",
+      "category": "politics",
+      "direction": "yes",
+      "timeframe": {
+        "text": "next Congress",
+        "date": "2027-12-31",
+        "inferred": true
+      },
+      "resolution_criteria": "Congressional action, such as a war powers resolution or funding limits, that leads to the end of the Iran war.",
+      "stated_confidence": "may",
+      "confidence_bucket": "low",
+      "quote": "I think the Dems may force his hand",
+      "timestamp_seconds": 2908,
+      "id": "2v8b062QzTI-p14",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "Polymarket puts the chance of the IPO (Anthropic's, as the segment frames it) happening this year at 71%, down from 95% before the midterms.",
+      "category": "company-specific",
+      "direction": "yes",
+      "timeframe": {
+        "text": "this year",
+        "date": "2026-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "Anthropic completes an IPO by December 31, 2026.",
+      "stated_confidence": "71%",
+      "confidence_bucket": "medium",
+      "quote": "they're going to have a 71% chance of going public this year.",
+      "timestamp_seconds": 3231,
+      "id": "2v8b062QzTI-p15",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": "2413330",
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "reported_view",
+      "claim": "According to the Wall Street Journal, the AI lab IPO valuation could come in near $1 trillion rather than the $1.5–2 trillion expected earlier.",
+      "category": "company-specific",
+      "direction": "down",
+      "timeframe": {
+        "text": "at IPO",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "The AI lab's IPO valuation is about $1 trillion instead of $1.5–2 trillion.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "we could be looking at a 1 trillion 1.0x trillion.",
+      "timestamp_seconds": 3231,
+      "id": "2v8b062QzTI-p16",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Incoming governors will demand directly measurable economic benefits before granting data center tax breaks, which will slow US data center construction.",
+      "category": "AI",
+      "direction": "down",
+      "timeframe": {
+        "text": "next 12-24 months",
+        "date": "2027-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "Fewer new US data center approvals or construction starts, and states scaling back data center tax incentives.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "I think what it means is we're going to see a slowdown.",
+      "timestamp_seconds": 3405,
+      "id": "2v8b062QzTI-p17",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "A data center slowdown will help hyperscalers with existing capacity and hurt neoclouds and foundation-model companies that rent compute.",
+      "category": "markets",
+      "direction": null,
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "Hyperscaler stocks beat neocloud stocks, and foundation-model companies face compute shortages or higher compute costs.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "I think it's very bad for the neoclouds because they're renters",
+      "timestamp_seconds": 3440,
+      "id": "2v8b062QzTI-p18",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If SpaceX uses its 90-day out to terminate and reprice its compute deal with Anthropic at spot rates, SpaceX's revenue from Anthropic could rise 2–3x, and Anthropic would have to accept.",
+      "category": "company-specific",
+      "direction": "up",
+      "timeframe": {
+        "text": "within 90 days of termination",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "SpaceX terminates or reprices the Anthropic compute agreement, and the revenue from it rises 2–3x.",
+      "stated_confidence": "could",
+      "confidence_bucket": "low",
+      "quote": "whatever revenue you see on SpaceX's balance sheet from Ant could two to 3x",
+      "timestamp_seconds": 3610,
+      "id": "2v8b062QzTI-p19",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If governors restrict data centers, they will be built in Canada, Mexico, Malaysia, Singapore or the Middle East, and the US will become a net importer of AI tokens.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "next two years",
+        "date": "2028-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "Major new US hyperscaler data center capacity is built abroad, and US AI compute is increasingly served from offshore.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "We're going to be a net importer of tokens.",
+      "timestamp_seconds": 3704,
+      "id": "2v8b062QzTI-p20",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Friedberg",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The chance of sweeping restrictions or bans on AI development, deployment or use is well above 10%, given the state legislation already under way.",
+      "category": "AI",
+      "direction": "yes",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "A US state or federal law that bans or broadly restricts AI model development, deployment or use.",
+      "stated_confidence": "much higher than 10%",
+      "confidence_bucket": "low",
+      "quote": "I think it's much higher than 10%.",
+      "timestamp_seconds": 3802,
+      "id": "2v8b062QzTI-p21",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "The scenario of the state monopolizing AI or banning its use has only about a 1% chance of happening.",
+      "category": "AI",
+      "direction": "no",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "No US law that bans AI use or gives the government exclusive access to frontier AI.",
+      "stated_confidence": "1% chance",
+      "confidence_bucket": "high",
+      "quote": "I think there's like a 1% chance something crazy like this happens.",
+      "timestamp_seconds": 3966,
+      "id": "2v8b062QzTI-p22",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Democrats will make a major push for AI legislation in the next Congress.",
+      "category": "politics",
+      "direction": "yes",
+      "timeframe": {
+        "text": "next Congress",
+        "date": "2029-01-03",
+        "inferred": false
+      },
+      "resolution_criteria": "Democratic leadership introduces and advances major federal AI regulation bills in the 120th Congress.",
+      "stated_confidence": "100%",
+      "confidence_bucket": "high",
+      "quote": "it's 100% that Democrats are going to make a major push for AI legislation",
+      "timestamp_seconds": 4048,
+      "id": "2v8b062QzTI-p23",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Democrats will try to create a federal department of AI that must review and approve frontier models before release.",
+      "category": "AI",
+      "direction": "yes",
+      "timeframe": {
+        "text": "next Congress",
+        "date": "2029-01-03",
+        "inferred": true
+      },
+      "resolution_criteria": "Legislation is introduced or passed to create a federal AI agency with pre-release approval of frontier models.",
+      "stated_confidence": "I do believe",
+      "confidence_bucket": "medium",
+      "quote": "You create a department, a federal department of AI.",
+      "timestamp_seconds": 4086,
+      "id": "2v8b062QzTI-p24",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "AI regulation will end as a quid pro quo: the government gets more power, and the leading closed-model companies get regulatory capture and moats.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "next Congress",
+        "date": "2029-01-03",
+        "inferred": true
+      },
+      "resolution_criteria": "The federal AI regulation that passes is backed by the leading closed-model labs and raises compliance barriers for competitors.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "That's going to be the quid proquo.",
+      "timestamp_seconds": 4208,
+      "id": "2v8b062QzTI-p25",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "AI legislation will not nationalize the technology; supply limits on data centers will put Meta, Amazon, Google, Microsoft and SpaceX in control, and renters of compute will be absorbed.",
+      "category": "AI",
+      "direction": null,
+      "timeframe": {
+        "text": "next 12-24 months",
+        "date": "2027-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "More hyperscaler takeovers of neocloud or rented data center capacity, as with Google taking over a Crusoe facility.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "medium",
+      "quote": "all the renter classes will get co-opted",
+      "timestamp_seconds": 4266,
+      "id": "2v8b062QzTI-p26",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "As corporate adoption of agentic AI grows, demand for AI compute will rise 500 to 1,000 times.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "multi-year",
+        "date": null,
+        "inferred": true
+      },
+      "resolution_criteria": "Industry measures of AI token or compute consumption grow by orders of magnitude.",
+      "stated_confidence": "I think",
+      "confidence_bucket": "low",
+      "quote": "So I think there's 500 to a,000 times the need for this.",
+      "timestamp_seconds": 4422,
+      "id": "2v8b062QzTI-p27",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Over the next two years, offshore data centers and running local models on desktop machines will be the main trends.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "next two years",
+        "date": "2028-11-07",
+        "inferred": false
+      },
+      "resolution_criteria": "Growth in offshore data center builds serving US customers, and wider use of local models on desktop hardware.",
+      "stated_confidence": "I'll just make that prediction here",
+      "confidence_bucket": "medium",
+      "quote": "So offshore uh data centers will be the trend of the next two years.",
+      "timestamp_seconds": 4442,
+      "id": "2v8b062QzTI-p28",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Fully permitted data center projects will finish in 2027, but there will be no major new projects for a long time, and some half-built projects could be stranded by new permit freezes.",
+      "category": "AI",
+      "direction": "down",
+      "timeframe": {
+        "text": "2027",
+        "date": "2027-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "Permitted projects are completed in 2027 while few or no major new data center permits are issued in the states that changed hands.",
+      "stated_confidence": "base case",
+      "confidence_bucket": "medium",
+      "quote": "the projects that are fully permitted will get done in 2027",
+      "timestamp_seconds": 4602,
+      "id": "2v8b062QzTI-p29",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "By 2028 the US data center pipeline will be closed or sharply reduced, and the drop in AI capex will hit the economy hard.",
+      "category": "macro",
+      "direction": "down",
+      "timeframe": {
+        "text": "by 2028",
+        "date": "2028-12-31",
+        "inferred": false
+      },
+      "resolution_criteria": "US data center construction spending and AI capex fall significantly in 2028.",
+      "stated_confidence": "I would expect",
+      "confidence_bucket": "medium",
+      "quote": "I get really worried about 2028",
+      "timestamp_seconds": 4669,
+      "id": "2v8b062QzTI-p30",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "SpaceX stock is significantly undervalued, partly because of its space data center ambitions.",
+      "category": "company-specific",
+      "direction": "up",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "SpaceX share price beats the market over the next 12 months.",
+      "stated_confidence": "I've been buying shares",
+      "confidence_bucket": "medium",
+      "quote": "SpaceX which is severely undervalued as a stock",
+      "timestamp_seconds": 4733,
+      "id": "2v8b062QzTI-p31",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Elon will not move Anthropic's compute deal to spot pricing; he is more likely to settle on a price in the middle because of the partnership.",
+      "category": "company-specific",
+      "direction": "no",
+      "timeframe": {
+        "text": "next 12 months",
+        "date": "2027-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "SpaceX does not terminate the Anthropic compute agreement to reprice it at spot rates.",
+      "stated_confidence": "I don't think",
+      "confidence_bucket": "medium",
+      "quote": "I don't think he just throws it open to spot",
+      "timestamp_seconds": 4820,
+      "id": "2v8b062QzTI-p32",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "If data center construction slows, compute will be far scarcer than expected, and prices per megawatt-month and per GPU-hour will soar, favoring buyers with large balance sheets.",
+      "category": "AI",
+      "direction": "up",
+      "timeframe": {
+        "text": "next 12-24 months",
+        "date": "2027-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "Big increases in GPU-hour rental prices and data center lease rates per megawatt.",
+      "stated_confidence": null,
+      "confidence_bucket": "unstated",
+      "quote": "the dollar cost of a GPU hour is going to go through the roof",
+      "timestamp_seconds": 4896,
+      "id": "2v8b062QzTI-p33",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    },
+    {
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "stance_type": "own_view",
+      "claim": "Democrats will try to blame the President for the economic damage from the data center slowdown.",
+      "category": "politics",
+      "direction": null,
+      "timeframe": {
+        "text": "2028",
+        "date": "2028-11-07",
+        "inferred": true
+      },
+      "resolution_criteria": "Democratic messaging in 2028 blames Trump for slowing AI and data center investment.",
+      "stated_confidence": "I do think",
+      "confidence_bucket": "medium",
+      "quote": "Democrats will try to blame the president for that",
+      "timestamp_seconds": 5050,
+      "id": "2v8b062QzTI-p34",
+      "episode_id": "2v8b062QzTI",
+      "status": "pending",
+      "resolution_source": null,
+      "resolution_note": null,
+      "resolved_at": null,
+      "polymarket_market_id": null,
+      "quote_verified": "verified"
+    }
+  ],
+  "stock_implications": [
+    {
+      "claim": "A data center slowdown helps hyperscalers with existing capacity, who become kingmakers for compute.",
+      "tickers": [
+        "AMZN",
+        "META",
+        "MSFT",
+        "GOOGL"
+      ],
+      "company": "Amazon, Meta, Microsoft, Google",
+      "is_private": false,
+      "sector": "cloud / hyperscalers",
+      "direction": "bullish",
+      "timeframe": "next 12-24 months",
+      "rationale": "Scarce new capacity gives incumbents with existing power and data centers pricing power, and lets them favor their own models.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 3440,
+      "note": null,
+      "id": "2v8b062QzTI-s01"
+    },
+    {
+      "claim": "A data center slowdown is very bad for neoclouds because they rent capacity.",
+      "tickers": [
+        "CRWV",
+        "NBIS"
+      ],
+      "company": "Neoclouds (e.g., CoreWeave, Nebius)",
+      "is_private": false,
+      "sector": "AI infrastructure",
+      "direction": "bearish",
+      "timeframe": "next 12-24 months",
+      "rationale": "Chamath says renters of compute risk being priced out or absorbed by hyperscalers.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 3440,
+      "note": null,
+      "id": "2v8b062QzTI-s02"
+    },
+    {
+      "claim": "Foundation-model companies that rent compute are exposed to the slowdown and to higher spot compute prices.",
+      "tickers": [],
+      "company": "OpenAI, Anthropic",
+      "is_private": true,
+      "sector": "AI models",
+      "direction": "bearish",
+      "timeframe": "next 12-24 months",
+      "rationale": "Scarce compute slows their fast model-improvement cycle and raises their costs.",
+      "speaker": "Chamath Palihapitiya",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 3440,
+      "note": "Private companies with no public ticker.",
+      "id": "2v8b062QzTI-s03"
+    },
+    {
+      "claim": "SpaceX is severely undervalued, and Jason has been buying shares through the selloff.",
+      "tickers": [],
+      "company": "SpaceX",
+      "is_private": false,
+      "sector": "aerospace / AI infrastructure",
+      "direction": "bullish",
+      "timeframe": "next 12 months",
+      "rationale": "Jason sees space data centers and SpaceX's compute leverage as underappreciated.",
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4733,
+      "note": "Discussed as publicly traded in the episode, but no ticker can be verified for it, so none is listed.",
+      "id": "2v8b062QzTI-s04"
+    },
+    {
+      "claim": "Data center capex continues in 2027, but the pipeline is closed or sharply reduced by 2028.",
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "MU",
+        "SMH"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "semiconductors",
+      "direction": "bearish",
+      "timeframe": "2028",
+      "rationale": "Fewer new data center projects would cut demand for AI chips and memory.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4669,
+      "note": null,
+      "id": "2v8b062QzTI-s05"
+    },
+    {
+      "claim": "If the Iran war ends, Brent crude falls from about $110 to about $70.",
+      "tickers": [
+        "USO",
+        "XLE"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "energy",
+      "direction": "bearish",
+      "timeframe": "after the war ends",
+      "rationale": "A roughly 35% drop in crude would weigh on oil prices and energy stocks.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 2164,
+      "note": null,
+      "id": "2v8b062QzTI-s06"
+    },
+    {
+      "claim": "Ending the war lowers inflation, lets the Fed cut, and brings mortgage rates down.",
+      "tickers": [
+        "TLT"
+      ],
+      "company": null,
+      "is_private": false,
+      "sector": "rates",
+      "direction": "bullish",
+      "timeframe": "after the war ends",
+      "rationale": "Lower inflation and Fed cuts would push yields down and long-bond prices up.",
+      "speaker": "David Sacks",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 1690,
+      "note": null,
+      "id": "2v8b062QzTI-s07"
+    },
+    {
+      "claim": "The selloff and lower Polymarket odds put a cloud over the AI lab IPO, with the valuation possibly near $1T instead of $1.5–2T.",
+      "tickers": [],
+      "company": "Anthropic / OpenAI",
+      "is_private": true,
+      "sector": "AI models",
+      "direction": "bearish",
+      "timeframe": "this year",
+      "rationale": "Lower IPO odds and a lower expected valuation point to weaker pricing for the AI labs.",
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 3231,
+      "note": "Private companies with no public ticker.",
+      "id": "2v8b062QzTI-s08"
+    },
+    {
+      "claim": "Desktop use of local models will be a major trend; Jason's firm plans to buy high-end Mac Studios for local inference.",
+      "tickers": [
+        "AAPL"
+      ],
+      "company": "Apple",
+      "is_private": false,
+      "sector": "hardware",
+      "direction": "bullish",
+      "timeframe": "next two years",
+      "rationale": "Moving inference onto local machines would raise demand for high-memory desktop hardware like Mac Studio.",
+      "speaker": "Jason Calacanis",
+      "attribution_confidence": "high",
+      "timestamp_seconds": 4442,
+      "note": null,
+      "id": "2v8b062QzTI-s09"
+    }
+  ],
+  "macro_themes": [
+    {
+      "theme": "elections",
+      "stance_summary": "All agree the midterms were a historic GOP rout; Sacks and Jason blame the Iran war, inflation and Trump's chaotic execution, while Chamath sees an ideology-free swing bloc voting against a broken economy.",
+      "speakers": [
+        "Jason Calacanis",
+        "David Sacks",
+        "Chamath Palihapitiya",
+        "David Friedberg"
+      ],
+      "timestamp_seconds": 230
+    },
+    {
+      "theme": "geopolitics",
+      "stance_summary": "Sacks says the Iran war drove the loss and ending it is Trump's top three priorities; the others see the war as a symptom of unaddressed economic pain.",
+      "speakers": [
+        "David Sacks",
+        "Jason Calacanis",
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 293
+    },
+    {
+      "theme": "inflation",
+      "stance_summary": "Inflation rising from 2.4% to 3.7%, driven by gas and diesel, eroded real incomes and fed the affordability backlash.",
+      "speakers": [
+        "David Sacks",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 319
+    },
+    {
+      "theme": "rates",
+      "stance_summary": "Expected rate cuts turned into a hike, pushing mortgages to about 7.5%; Sacks expects ending the war would let the Fed cut.",
+      "speakers": [
+        "David Sacks"
+      ],
+      "timestamp_seconds": 386
+    },
+    {
+      "theme": "fiscal",
+      "stance_summary": "Friedberg blames the end of DOGE and $2T deficits for the rising cost of living and doubts a clean budget deal in 2027.",
+      "speakers": [
+        "David Friedberg"
+      ],
+      "timestamp_seconds": 775
+    },
+    {
+      "theme": "inequality",
+      "stance_summary": "Chamath and Jason describe a K-shaped economy where asset owners win and wage earners fall behind, and argue for populist tax and wage fixes.",
+      "speakers": [
+        "Chamath Palihapitiya",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 1194
+    },
+    {
+      "theme": "trade",
+      "stance_summary": "Jason says the Liberation Day tariffs began Trump's approval slide; Chamath thinks tariffs may look better over time if manufacturing commitments come through.",
+      "speakers": [
+        "Jason Calacanis",
+        "Chamath Palihapitiya",
+        "David Sacks"
+      ],
+      "timestamp_seconds": 1753
+    },
+    {
+      "theme": "immigration",
+      "stance_summary": "Jason criticizes ICE tactics, but Sacks and Chamath credit Trump with sealing the border and see it as a lasting achievement.",
+      "speakers": [
+        "Jason Calacanis",
+        "David Sacks",
+        "Chamath Palihapitiya"
+      ],
+      "timestamp_seconds": 1803
+    },
+    {
+      "theme": "energy",
+      "stance_summary": "Sacks ties Trump's approval to gas prices and expects Brent to fall to about $70 if the war ends; utility bills fuel opposition to data centers.",
+      "speakers": [
+        "David Sacks"
+      ],
+      "timestamp_seconds": 2133
+    },
+    {
+      "theme": "ai capex",
+      "stance_summary": "After a roughly $4T selloff, Chamath and Sacks expect a data center slowdown that favors hyperscalers; Sacks sees meaningful capex in 2027 but a shrunken 2028 pipeline, and Jason expects building to move offshore.",
+      "speakers": [
+        "Jason Calacanis",
+        "Chamath Palihapitiya",
+        "David Sacks"
+      ],
+      "timestamp_seconds": 3193
+    },
+    {
+      "theme": "ai regulation",
+      "stance_summary": "Sacks is certain Democrats will push for a federal AI department and expects regulatory capture; Friedberg puts AI bans and state control well above 10%; Jason puts the extreme scenario near 1%.",
+      "speakers": [
+        "David Friedberg",
+        "David Sacks",
+        "Chamath Palihapitiya",
+        "Jason Calacanis"
+      ],
+      "timestamp_seconds": 3764
+    },
+    {
+      "theme": "ai research",
+      "stance_summary": "Friedberg highlights OpenAI's claimed disproof of the Exponential Time Hypothesis as evidence of AI's scientific value.",
+      "speakers": [
+        "David Friedberg"
+      ],
+      "timestamp_seconds": 5093
+    }
+  ],
+  "polymarket_candidates": [
+    {
+      "prediction_id": "2v8b062QzTI-p01",
+      "question": "Will Democrats hold at least 54 Senate seats when the new Congress convenes in January 2027?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.85,
+      "search_keywords": []
+    },
+    {
+      "prediction_id": "2v8b062QzTI-p03",
+      "question": "If the Iran war ends, will Brent crude fall to around $70 per barrel by November 2027?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.7,
+      "search_keywords": []
+    },
+    {
+      "prediction_id": "2v8b062QzTI-p15",
+      "question": "Will Anthropic complete an IPO by December 31, 2026?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.71,
+      "search_keywords": []
+    },
+    {
+      "prediction_id": "2v8b062QzTI-p21",
+      "question": "Will any US state enact a law banning or broadly restricting AI model development or use by November 2027?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.3,
+      "search_keywords": []
+    },
+    {
+      "prediction_id": "2v8b062QzTI-p22",
+      "question": "Will any US state enact a law banning or broadly restricting AI model development or use by November 2027?",
+      "hosts_answer": "no",
+      "implied_probability": 0.01,
+      "search_keywords": []
+    },
+    {
+      "prediction_id": "2v8b062QzTI-p23",
+      "question": "Will a bill to create a federal AI regulatory agency be introduced in the 120th Congress by December 31, 2027?",
+      "hosts_answer": "yes",
+      "implied_probability": 0.95,
+      "search_keywords": []
+    },
+    {
+      "prediction_id": "2v8b062QzTI-p32",
+      "question": "Will SpaceX terminate its compute agreement with Anthropic by November 2027?",
+      "hosts_answer": "no",
+      "implied_probability": 0.25,
+      "search_keywords": []
+    }
+  ],
+  "analyzed_at": "2026-11-08T08:35:18Z",
+  "model": "claude-opus-5-5",
+  "backend": "claude-code",
+  "chunked": false,
+  "usage": {
+    "input_tokens": 2,
+    "output_tokens": 28926,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 39362,
+    "thinking_tokens": 14579,
+    "cost_usd_equivalent": 0.893424,
+    "duration_ms": 236203,
+    "calls": 1
+  },
+  "quote_verification": {
+    "checked": 49,
+    "verified": 49,
+    "flagged": 0,
+    "dropped": 0
+  }
+}

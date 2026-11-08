@@ -38,7 +38,8 @@ def _tighten(node: Any) -> Any:
 def analysis_output_schema() -> dict[str, Any]:
     raw = AnalysisOutput.model_json_schema()
     schema = _tighten(raw)
-    schema["$schema"] = "https://json-schema.org/draft/2020-12/schema"
+    # No "$schema" key: the Claude Code CLI's validator rejects the 2020-12 meta-schema URI
+    # ("--json-schema is not a valid JSON Schema: no schema with key or ref ...").
     schema["title"] = "AllInSignalEpisodeAnalysis"
     return schema
 

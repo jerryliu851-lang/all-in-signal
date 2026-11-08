@@ -103,6 +103,14 @@
           "title": "Question",
           "type": "string"
         },
+        "search_keywords": {
+          "description": "2 to 4 short search queries a prediction-market search box would understand, most specific first, e.g. ['Anthropic IPO', 'Anthropic IPO 2026'] or ['Fed rate cut December', 'FOMC December']. Entity names plus the key noun; no full sentences, no 'Will'.",
+          "items": {
+            "type": "string"
+          },
+          "title": "Search Keywords",
+          "type": "array"
+        },
         "hosts_answer": {
           "description": "The answer the speaker's view implies.",
           "enum": [
@@ -128,6 +136,7 @@
       "required": [
         "prediction_index",
         "question",
+        "search_keywords",
         "hosts_answer",
         "implied_probability"
       ],
@@ -473,6 +482,5 @@
     "polymarket_candidates"
   ],
   "title": "AllInSignalEpisodeAnalysis",
-  "type": "object",
-  "$schema": "https://json-schema.org/draft/2020-12/schema"
+  "type": "object"
 }

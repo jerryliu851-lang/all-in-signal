@@ -45,20 +45,44 @@ class JudgeResult(BaseModel):
 _STOP_RE = re.compile(r"^(will|the|a|an|does|do|is|are|be|to)$", re.IGNORECASE)
 
 
+def _short_query(question: str, max_tokens: int = 6) -> str:
+    """Heuristic short query: capitalized words, numbers and $ amounts, in order (Gamma search likes these)."""
+    cleaned = re.sub(r"[?!,:;\"()]", " ", question)
+    toks = cleaned.split()
+    picked = [t for i, t in enumerate(toks) if (t[:1].isupper() and i > 0 and not _STOP_RE.match(t)) or re.search(r"\d|\$", t)]
+    return " ".join(picked[:max_tokens])
+
+
 def build_queries(candidate: StoredCandidate, prediction: Prediction | None = None) -> list[str]:
-    """The question itself plus a keyword variant (no 'Will', articles or question marks)."""
+    """Search queries, most useful first: the model's search_keywords, a short entity/number query,
+    the de-stopworded question, and finally the full question (Gamma's search handles sentences badly)."""
     question = candidate.question.strip()
-    queries = [question] if question else []
+    queries: list[str] = []
+
+    def add(q: str) -> None:
+        q = " ".join(q.split())
+        if q and q.lower() not in {x.lower() for x in queries}:
+            queries.append(q)
+
+    for k in candidate.search_keywords or []:
+        add(k)
+    add(_short_query(question))
     cleaned = re.sub(r"[?!.,:;\"()]", " ", question)
-    words = [w for w in cleaned.split() if not _STOP_RE.match(w)]
-    keywords = " ".join(words)
-    if keywords and keywords.lower() != question.lower() and keywords not in queries:
-        queries.append(keywords)
+    add(" ".join(w for w in cleaned.split() if not _STOP_RE.match(w)))
+    add(question)
     return queries
 
 
-def gather_markets(gamma: GammaClient, queries: list[str], top_n: int) -> list[MarketSummary]:
-    """Search every query, dedupe by market id (order preserved), cap at ``top_n``."""
+def _overlap_score(text: str, terms: set[str]) -> int:
+    toks = {t for t in re.findall(r"[a-z0-9$%.]+", text.lower()) if len(t) > 2 and not _STOP_RE.match(t)}
+    return len(toks & terms)
+
+
+def gather_markets(
+    gamma: GammaClient, queries: list[str], top_n: int, rank_terms: list[str] | None = None
+) -> list[MarketSummary]:
+    """Search every query, dedupe by market id, keep Yes/No markets only, rank by keyword overlap with
+    ``rank_terms`` (stable: search order breaks ties), cap at ``top_n``."""
     seen: set[str] = set()
     out: list[MarketSummary] = []
     for q in queries:
@@ -69,6 +93,9 @@ def gather_markets(gamma: GammaClient, queries: list[str], top_n: int) -> list[M
                 continue  # multi-outcome markets (candidate X vs Y) cannot answer a yes/no candidate
             seen.add(m.market_id)
             out.append(m)
+    if rank_terms:
+        terms = {t for s in rank_terms for t in re.findall(r"[a-z0-9$%.]+", s.lower()) if len(t) > 2 and not _STOP_RE.match(t)}
+        out.sort(key=lambda m: -_overlap_score(f"{m.question} {m.event_title or ''}", terms))
     return out[:top_n]
 
 

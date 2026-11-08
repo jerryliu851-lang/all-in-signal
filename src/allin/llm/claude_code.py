@@ -53,7 +53,7 @@ class ClaudeCodeCLIBackend:
             self.settings.claude_bin,
             "-p",
             "--output-format", "json",
-            "--json-schema", json.dumps(schema, separators=(",", ":")),
+            "--json-schema", json.dumps({k: v for k, v in schema.items() if k != "$schema"}, separators=(",", ":")),
             "--model", model or self.settings.model,
             "--effort", effort,
             "--tools", "",

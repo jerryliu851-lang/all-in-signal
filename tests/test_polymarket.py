@@ -85,9 +85,39 @@ def _cand(q="Will the Fed cut rates in December 2026?", ans="yes", p=0.8, pid="v
 
 
 def test_build_queries():
-    qs = build_queries(_cand("Will the Fed cut rates at the December 2026 FOMC meeting?"), None)  # type: ignore[arg-type]
-    assert qs[0].startswith("Will the Fed")
-    assert qs[1] == "Fed cut rates at December 2026 FOMC meeting"
+    cand = _cand("Will the Fed cut rates at the December 2026 FOMC meeting?")
+    cand.search_keywords = ["test keyword"]
+    qs = build_queries(cand, None)  # type: ignore[arg-type]
+    # model-supplied keywords first, then a short entity/number query, then the de-stopworded question,
+    # and the full sentence last (Gamma's search handles sentences badly)
+    assert qs[0] == "test keyword"
+    assert qs[1] == "Fed December 2026 FOMC"
+    assert "Fed cut rates at December 2026 FOMC meeting" in qs
+    assert qs[-1].startswith("Will the Fed")
+    assert len(qs) == len({q.lower() for q in qs})
+    cand.search_keywords = []
+    qs2 = build_queries(cand, None)  # type: ignore[arg-type]
+    assert qs2[0] == "Fed December 2026 FOMC" and qs2[-1].startswith("Will the Fed")
+
+
+def test_gather_markets_ranks_by_keyword_overlap():
+    from allin.polymarket.gamma import market_from_api
+    from allin.polymarket.matcher import gather_markets
+
+    def mk(i, q):
+        return market_from_api({"id": str(i), "question": q, "outcomes": '["Yes", "No"]',
+                                "outcomePrices": '["0.5", "0.5"]', "closed": False, "active": True})
+
+    noise = mk(1, "Will Aaron Judge win the MVP?")
+    close = mk(2, "Will Anthropic announce an IPO date in 2026?")
+    exact = mk(3, "Will Anthropic complete its IPO by December 31, 2026?")
+
+    class G:
+        def search(self, q):
+            return [noise, close, exact]
+
+    ranked = gather_markets(G(), ["Anthropic IPO"], 2, rank_terms=["Anthropic IPO 2026", "Will Anthropic complete an IPO by December 31, 2026?"])
+    assert [m.market_id for m in ranked] == ["3", "2"]
 
 
 def test_divergence():
@@ -222,7 +252,7 @@ def _seed_unmatched(store, days_ago, seen):
         PolymarketState(
             unmatched=[
                 UnmatchedCandidate(
-                    prediction_id="v1-p01", episode_id="v1", question="q", hosts_answer="yes",
+                    prediction_id="v1-p01", episode_id="v1", question="q", hosts_answer="yes", search_keywords=["test keyword"],
                     attempts=1, last_attempt_at=when, seen_market_ids=seen,
                 )
             ]

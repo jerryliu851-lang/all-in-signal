@@ -55,9 +55,9 @@ def _analysis_output():
         "stock_implications": [],
         "macro_themes": [{"theme": " Elections ", "stance_summary": "x", "speakers": ["Jason"], "timestamp_seconds": 230}],
         "polymarket_candidates": [
-            {"prediction_index": 0, "question": "Fed rate cut by January 2026 meeting?", "hosts_answer": "yes",
+            {"prediction_index": 0, "question": "Fed rate cut by January 2026 meeting?", "hosts_answer": "yes", "search_keywords": ["test keyword"],
              "implied_probability": 0.8},
-            {"prediction_index": 1, "question": "Will something reported happen?", "hosts_answer": "no",
+            {"prediction_index": 1, "question": "Will something reported happen?", "hosts_answer": "no", "search_keywords": ["test keyword"],
              "implied_probability": 0.3},
         ],
     }

@@ -96,7 +96,7 @@ SAMPLE = {
         {"theme": "ai capex", "stance_summary": "Peak capex is near.", "speakers": ["Chamath Palihapitiya"], "timestamp_seconds": 1200}
     ],
     "polymarket_candidates": [
-        {"prediction_index": 0, "question": "Will the Fed cut rates at the December 2026 FOMC meeting?", "hosts_answer": "yes", "implied_probability": 0.65}
+        {"prediction_index": 0, "question": "Will the Fed cut rates at the December 2026 FOMC meeting?", "hosts_answer": "yes", "search_keywords": ["test keyword"], "implied_probability": 0.65}
     ],
 }
 

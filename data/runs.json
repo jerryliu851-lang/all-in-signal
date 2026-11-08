@@ -1,0 +1,84 @@
+[
+  {
+    "started_at": "2026-11-08T08:30:09Z",
+    "finished_at": "2026-11-08T08:30:10Z",
+    "command": "analyze",
+    "new_episodes": [],
+    "analyzed": [],
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "thinking_tokens": 0,
+      "cost_usd_equivalent": 0.0,
+      "duration_ms": 0,
+      "calls": 0
+    },
+    "notes": [
+      "failed:2v8b062QzTI:LLMError: claude -p exited 1 (analyze:2v8b062QzTI): Error: --json-schema is not a valid JSON Schema: no schema with key "
+    ]
+  },
+  {
+    "started_at": "2026-11-08T08:31:19Z",
+    "finished_at": "2026-11-08T08:35:18Z",
+    "command": "analyze",
+    "new_episodes": [],
+    "analyzed": [
+      "2v8b062QzTI"
+    ],
+    "usage": {
+      "input_tokens": 2,
+      "output_tokens": 28926,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 39362,
+      "thinking_tokens": 14579,
+      "cost_usd_equivalent": 0.893424,
+      "duration_ms": 236203,
+      "calls": 1
+    },
+    "notes": []
+  },
+  {
+    "started_at": "2026-11-08T08:36:17Z",
+    "finished_at": "2026-11-08T08:37:23Z",
+    "command": "match",
+    "new_episodes": [],
+    "analyzed": [],
+    "usage": {
+      "input_tokens": 14,
+      "output_tokens": 1329,
+      "cache_read_input_tokens": 6516,
+      "cache_creation_input_tokens": 27200,
+      "thinking_tokens": 0,
+      "cost_usd_equivalent": 0.245538,
+      "duration_ms": 25449,
+      "calls": 7
+    },
+    "notes": [
+      "matched:0",
+      "unmatched:7"
+    ]
+  },
+  {
+    "started_at": "2026-11-08T08:41:38Z",
+    "finished_at": "2026-11-08T08:42:26Z",
+    "command": "match",
+    "new_episodes": [],
+    "analyzed": [],
+    "usage": {
+      "input_tokens": 14,
+      "output_tokens": 1434,
+      "cache_read_input_tokens": 7602,
+      "cache_creation_input_tokens": 29267,
+      "thinking_tokens": 0,
+      "cost_usd_equivalent": 0.264391,
+      "duration_ms": 20683,
+      "calls": 7
+    },
+    "notes": [
+      "matched:1",
+      "unmatched:6"
+    ]
+  }
+]

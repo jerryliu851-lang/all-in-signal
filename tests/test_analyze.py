@@ -97,7 +97,7 @@ def valid_output(n_preds: int = 2, quote: str = "Over a million views so far") -
             {"theme": "Elections", "stance_summary": "s", "speakers": ["David Sacks"], "timestamp_seconds": 211}
         ],
         "polymarket_candidates": [
-            {"prediction_index": 0, "question": "Will Dems win 250+ House seats?", "hosts_answer": "yes",
+            {"prediction_index": 0, "question": "Will Dems win 250+ House seats?", "hosts_answer": "yes", "search_keywords": ["test keyword"],
              "implied_probability": 0.8}
         ],
     }

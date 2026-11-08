@@ -61,6 +61,7 @@ One entry per theme discussed substantively. `theme` is a short canonical lowerc
 Predictions that a prediction market could list: a clear yes/no outcome with a date (elections, Fed decisions, price or index thresholds by a date, company events, laws passing, geopolitical events).
 - `prediction_index`: 0-based index into YOUR predictions array.
 - `question`: a yes/no question in prediction-market style with the date, e.g. "Will the Fed cut rates at the December 2026 FOMC meeting?"
+- `search_keywords`: 2 to 4 short queries for a prediction-market search box, most specific first, e.g. ["Anthropic IPO", "Anthropic IPO 2026"] or ["Fed rate cut December", "FOMC December 2026"]. Entity names plus the key noun; no sentences, no "Will". Full-sentence searches return junk, so these matter.
 - `hosts_answer`: the answer the speaker's view implies.
 - `implied_probability`: probability of YES (not of the host's answer), 0 to 1. Use the speaker's explicit number if given; otherwise roughly: certain 0.9, would bet / very likely 0.8, likely / probably 0.65, coin flip 0.5, maybe / could 0.35; mirror these (1 - p) when the host's answer is no. null when nothing supports an estimate.
 
