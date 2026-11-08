@@ -160,3 +160,29 @@ def test_upcoming_premiere_is_reclassified_once_it_airs(env, tmp_store, settings
     assert rep.new_transcribed == ["prem"]
     idx = tmp_store.load_index()
     assert "prem" not in idx.excluded and idx.episodes["prem"].status == "transcribed"
+
+
+def test_forward_only_never_reaches_past_known_episodes(env, tmp_store, settings):
+    """Cron runs must not discover episodes older than the newest one already tracked (backfill scope)."""
+    idx = tmp_store.load_index()
+    idx.episodes["known"] = IndexEntry(video_id="known", title="T known", url="u/known", discovered_at=now_iso(),
+                                       status="analyzed", duration_seconds=5400)
+    tmp_store.save_index(idx)
+    env["entries"] = [entry("new"), entry("known"), entry("older1"), entry("older2")]
+    rep = P.run_ingest(tmp_store, settings)
+    after = tmp_store.load_index()
+    assert "new" in after.episodes and after.episodes["new"].status == "transcribed"
+    assert "older1" not in after.episodes and "older2" not in after.episodes
+    assert "older1" not in after.excluded
+    assert any("forward-only" in n for n in rep.notes)
+    assert env["meta_calls"] == ["new"]  # no metadata fetch for the older entries either
+
+
+def test_backfill_mode_still_walks_past_known_episodes(env, tmp_store, settings):
+    idx = tmp_store.load_index()
+    idx.episodes["known"] = IndexEntry(video_id="known", title="T known", url="u/known", discovered_at=now_iso(),
+                                       status="analyzed", duration_seconds=5400)
+    tmp_store.save_index(idx)
+    env["entries"] = [entry("known"), entry("older1")]
+    P.run_ingest(tmp_store, settings, limit=2, backfill=True)
+    assert "older1" in tmp_store.load_index().episodes

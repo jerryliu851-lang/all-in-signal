@@ -67,15 +67,22 @@ def run_ingest(store: Store, settings: Settings, *, limit: int | None = None, ba
     report.discovered = [e.video_id for e in entries]
     scope: list[str] = []  # ids eligible for transcription this run in backfill mode
     full_seen = 0
+    cutoff = False  # forward-only: set once the newest already-known playlist episode is reached
 
     for entry in entries:
         vid = entry.video_id
         if backfill and limit and full_seen >= limit:
             break
+        if cutoff and entry.in_full_episode_playlist and vid not in index.episodes:
+            continue  # older than the newest episode we track: never reach back past the backfill
         try:
             if vid in index.episodes:
                 full_seen += 1
                 scope.append(vid)
+                if not backfill and not cutoff and entry.in_full_episode_playlist:
+                    # The listing is newest-first, so every playlist entry after this one is older.
+                    cutoff = True
+                    report.notes.append(f"forward-only: ignoring playlist entries older than {vid}")
                 continue
             ex = index.excluded.get(vid)
             if ex is not None and ex.reason == "not_in_full_episode_playlist" and entry.in_full_episode_playlist:
