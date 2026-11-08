@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T09:24:50Z",
+  "updated_at": "2026-11-08T20:38:30Z",
   "episodes": {
     "2v8b062QzTI": {
       "video_id": "2v8b062QzTI",
@@ -467,5 +467,97 @@
       ]
     }
   },
-  "excluded": {}
+  "excluded": {
+    "PD-FlgD_ILw": {
+      "video_id": "PD-FlgD_ILw",
+      "title": "Chamath: I was wrong. The economy is broken.",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-08T20:38:17Z"
+    },
+    "itURTIZOqIA": {
+      "video_id": "itURTIZOqIA",
+      "title": "David Sacks: Trump Must End the Iran War to Save His Second Term",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-08T20:38:19Z"
+    },
+    "TKmb9Ze8Bpw": {
+      "video_id": "TKmb9Ze8Bpw",
+      "title": "Tim Dillon Predicts Jon Ossoff Will Be the Next President",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-08T20:38:20Z"
+    },
+    "FlJOGhTgGAQ": {
+      "video_id": "FlJOGhTgGAQ",
+      "title": "Jason Calacanis Was Warning Trump About the Midterms: The Signs Were There",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-08T20:38:21Z"
+    },
+    "tnUaop420_8": {
+      "video_id": "tnUaop420_8",
+      "title": "Tim Dillon Explains the Democrat Sweep",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-08T20:38:22Z"
+    },
+    "9Asgxtk_kkI": {
+      "video_id": "9Asgxtk_kkI",
+      "title": "All-In Podcast REACTS to Democrat Sweep!",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-08T20:38:23Z"
+    },
+    "n3yxJ8FWYS4": {
+      "video_id": "n3yxJ8FWYS4",
+      "title": "Jason Calacanis on Midterms: Easy sweep for the Democrats",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-08T20:38:25Z"
+    },
+    "5wa4inzF0J8": {
+      "video_id": "5wa4inzF0J8",
+      "title": "Friedberg’s Bull Case: Everyone is Making Money in AI",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-08T20:38:25Z"
+    },
+    "8mjEGI_6q8Y": {
+      "video_id": "8mjEGI_6q8Y",
+      "title": "AI’s Biggest Opportunity: Adoption Is Still Nascent At Work",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-08T20:38:26Z"
+    },
+    "FPrbxcVbEx4": {
+      "video_id": "FPrbxcVbEx4",
+      "title": "Chamath: The AI Boom Has a Borrowing Problem",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-08T20:38:27Z"
+    },
+    "Uc6xXNBWjfc": {
+      "video_id": "Uc6xXNBWjfc",
+      "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-08T20:38:28Z"
+    },
+    "nIN6zuLgxVs": {
+      "video_id": "nIN6zuLgxVs",
+      "title": "Chamath: France Won’t Fix Itself. The Bond Market Must Force Its Hand.",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-08T20:38:29Z"
+    },
+    "wO4BLBzNEFs": {
+      "video_id": "wO4BLBzNEFs",
+      "title": "David Friedberg: France’s Crisis Is a Warning for America",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-08T20:38:30Z"
+    }
+  }
 }
