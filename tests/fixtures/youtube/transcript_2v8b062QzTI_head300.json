@@ -1,0 +1,1502 @@
+[
+{
+"text": "All right, everybody. Welcome back to",
+"start": 0.0,
+"duration": 6.0
+},
+{
+"text": "the number one podcast in the world.",
+"start": 2.48,
+"duration": 6.159
+},
+{
+"text": "It's the All-In podcast. And I'd like to",
+"start": 6.0,
+"duration": 4.96
+},
+{
+"text": "start by saying that All-In recognizes",
+"start": 8.639,
+"duration": 5.04
+},
+{
+"text": "that we are on the sacred land in",
+"start": 10.96,
+"duration": 5.28
+},
+{
+"text": "Austin, Texas of the Ko, [laughter] the",
+"start": 13.679,
+"duration": 4.081
+},
+{
+"text": "Comanche, the Kikapoo, and the",
+"start": 16.24,
+"duration": 4.799
+},
+{
+"text": "Tonkawada. And uh we appreciate all",
+"start": 17.76,
+"duration": 5.92
+},
+{
+"text": "their sacrifices and bring us here. And",
+"start": 21.039,
+"duration": 5.121
+},
+{
+"text": "uh we will be evaluating I just talked",
+"start": 23.68,
+"duration": 3.839
+},
+{
+"text": "to our HR department. We'll be",
+"start": 26.16,
+"duration": 3.119
+},
+{
+"text": "evaluating a fifth bestie, Brad. too",
+"start": 27.519,
+"duration": 4.641
+},
+{
+"text": "white, too male. So, we're looking for",
+"start": 29.279,
+"duration": 5.761
+},
+{
+"text": "alternative DEI fifth Bessies to include",
+"start": 32.16,
+"duration": 4.0
+},
+{
+"text": "in the round table.",
+"start": 35.04,
+"duration": 1.44
+},
+{
+"text": ">> Wow.",
+"start": 36.16,
+"duration": 1.919
+},
+{
+"text": ">> So, some big changes coming to the",
+"start": 36.48,
+"duration": 2.8
+},
+{
+"text": ">> DEI is back is what you're saying.",
+"start": 38.079,
+"duration": 3.521
+},
+{
+"text": ">> DEI is back. Sax, what did you have",
+"start": 39.28,
+"duration": 3.76
+},
+{
+"text": "anything for the docket this week?",
+"start": 41.6,
+"duration": 2.32
+},
+{
+"text": ">> I have an announcement.",
+"start": 43.04,
+"duration": 3.039
+},
+{
+"text": ">> You have an announcement. Okay.",
+"start": 43.92,
+"duration": 5.915
+},
+{
+"text": ">> I'm transitioning [laughter]",
+"start": 46.079,
+"duration": 3.756
+},
+{
+"text": ">> from a douchebag to an [\u00a0__\u00a0]",
+"start": 50.32,
+"duration": 4.1
+},
+{
+"text": "[laughter]",
+"start": 52.4,
+"duration": 2.02
+},
+{
+"text": "[music]",
+"start": 55.675,
+"duration": 3.125
+},
+{
+"text": ">> Let your winners ride.",
+"start": 56.16,
+"duration": 5.41
+},
+{
+"text": "Rainman David",
+"start": 58.8,
+"duration": 4.239
+},
+{
+"text": "[music]",
+"start": 61.57,
+"duration": 3.39
+},
+{
+"text": ">> and it said we open sourced it to the",
+"start": 63.039,
+"duration": 3.681
+},
+{
+"text": "fans and they've just gone crazy with",
+"start": 64.96,
+"duration": 2.0
+},
+{
+"text": "it.",
+"start": 66.72,
+"duration": 3.399
+},
+{
+"text": ">> Love you.",
+"start": 66.96,
+"duration": 3.159
+},
+{
+"text": ">> Sax, where do you want to start? You",
+"start": 72.08,
+"duration": 2.56
+},
+{
+"text": "want to start with um",
+"start": 73.2,
+"duration": 3.76
+},
+{
+"text": ">> I think there's some really important",
+"start": 74.64,
+"duration": 5.6
+},
+{
+"text": "news around SAS out there. I mean maybe",
+"start": 76.96,
+"duration": 4.64
+},
+{
+"text": "Salesforce launched a couple of new",
+"start": 80.24,
+"duration": 4.64
+},
+{
+"text": "features. Definitely top a docket type",
+"start": 81.6,
+"duration": 4.0
+},
+{
+"text": "material.",
+"start": 84.88,
+"duration": 2.89
+},
+{
+"text": ">> I'd like to start with science corner.",
+"start": 85.6,
+"duration": 2.879
+},
+{
+"text": "[laughter]",
+"start": 87.77,
+"duration": 3.51
+},
+{
+"text": "words nobody in our fan base have ever",
+"start": 88.479,
+"duration": 3.361
+},
+{
+"text": "said.",
+"start": 91.28,
+"duration": 1.92
+},
+{
+"text": ">> I'm ready to go. You guys want to talk",
+"start": 91.84,
+"duration": 2.72
+},
+{
+"text": "about exponential time hypothesis?",
+"start": 93.2,
+"duration": 2.64
+},
+{
+"text": ">> I think that's what the audience wants.",
+"start": 94.56,
+"duration": 3.76
+},
+{
+"text": "They want the the SAS update from Sachs",
+"start": 95.84,
+"duration": 3.919
+},
+{
+"text": "and the science update and then we can",
+"start": 98.32,
+"duration": 2.88
+},
+{
+"text": "get our market review and we'll wrap the",
+"start": 99.759,
+"duration": 3.04
+},
+{
+"text": "show up. No, in all seriousness, there",
+"start": 101.2,
+"duration": 3.52
+},
+{
+"text": "was an election this week. We had an",
+"start": 102.799,
+"duration": 4.64
+},
+{
+"text": "amazing uh live stream. Over a million",
+"start": 104.72,
+"duration": 5.84
+},
+{
+"text": "views so far. Uh crazy Shimoth. I don't",
+"start": 107.439,
+"duration": 5.761
+},
+{
+"text": "know if you knew this, but 400,000",
+"start": 110.56,
+"duration": 5.76
+},
+{
+"text": "people tuned in live, making us, I",
+"start": 113.2,
+"duration": 6.08
+},
+{
+"text": "believe, the number one election night",
+"start": 116.32,
+"duration": 3.52
+},
+{
+"text": "live stream.",
+"start": 119.28,
+"duration": 2.96
+},
+{
+"text": ">> Not true. It was 500,000. And just to",
+"start": 119.84,
+"duration": 4.72
+},
+{
+"text": "put it in perspective, the far right",
+"start": 122.24,
+"duration": 5.76
+},
+{
+"text": "streamers got about 87,000. The far-left",
+"start": 124.56,
+"duration": 6.64
+},
+{
+"text": "streamers got 250,000. We got 500,000,",
+"start": 128.0,
+"duration": 4.8
+},
+{
+"text": "which was bigger than most cable as",
+"start": 131.2,
+"duration": 4.24
+},
+{
+"text": "well. So, we were the biggest and bigger",
+"start": 132.8,
+"duration": 4.799
+},
+{
+"text": "than, I think, most if not all cable as",
+"start": 135.44,
+"duration": 4.64
+},
+{
+"text": "well. Apparently, America wants hot",
+"start": 137.599,
+"duration": 4.801
+},
+{
+"text": "takes from Tech Bros. I don't Who would",
+"start": 140.08,
+"duration": 3.04
+},
+{
+"text": "have thought?",
+"start": 142.4,
+"duration": 2.32
+},
+{
+"text": ">> Who would have thought it? And by the",
+"start": 143.12,
+"duration": 3.119
+},
+{
+"text": "way, that was with only three of our",
+"start": 144.72,
+"duration": 3.599
+},
+{
+"text": "allstars on the court. Sachs had a board",
+"start": 146.239,
+"duration": 4.161
+},
+{
+"text": "meeting uh Thursday night and couldn't",
+"start": 148.319,
+"duration": 3.521
+},
+{
+"text": "make it Tuesday night. He was busy.",
+"start": 150.4,
+"duration": 3.76
+},
+{
+"text": ">> Yeah, I was busy that night. I was uh I",
+"start": 151.84,
+"duration": 4.0
+},
+{
+"text": "think I was passed out in the bar.",
+"start": 154.16,
+"duration": 3.28
+},
+{
+"text": ">> Pass [laughter]",
+"start": 155.84,
+"duration": 3.6
+},
+{
+"text": "drinking the Sax is the only guy who",
+"start": 157.44,
+"duration": 3.68
+},
+{
+"text": "goes to the bar with his own bottle of",
+"start": 159.44,
+"duration": 2.879
+},
+{
+"text": "tequila. [laughter]",
+"start": 161.12,
+"duration": 2.399
+},
+{
+"text": "He's like, \"Can you put this behind the",
+"start": 162.319,
+"duration": 3.441
+},
+{
+"text": "bar and serve it to me at $50 a glass?\"",
+"start": 163.519,
+"duration": 3.761
+},
+{
+"text": "Special thanks to Ted Cruz, Rahm",
+"start": 165.76,
+"duration": 4.24
+},
+{
+"text": "Emanuel, Shane Copelan of Poly Market.",
+"start": 167.28,
+"duration": 4.64
+},
+{
+"text": "Man, did he have a great night. I think",
+"start": 170.0,
+"duration": 5.599
+},
+{
+"text": "Poly Market nailed it. 99% of their uh",
+"start": 171.92,
+"duration": 5.52
+},
+{
+"text": "prediction markets turned out to have it",
+"start": 175.599,
+"duration": 4.64
+},
+{
+"text": "perfectly. The hilarious fifth bestie",
+"start": 177.44,
+"duration": 6.079
+},
+{
+"text": "Tim Dylan, Taylor Loren's based Taylor",
+"start": 180.239,
+"duration": 6.08
+},
+{
+"text": "Loren was fantastic and insightful. Brad",
+"start": 183.519,
+"duration": 4.961
+},
+{
+"text": "Gerser did a solid job, brought some",
+"start": 186.319,
+"duration": 5.28
+},
+{
+"text": "charts, and Ben Shapiro from the right.",
+"start": 188.48,
+"duration": 6.399
+},
+{
+"text": "So, it was a really great great uh panel",
+"start": 191.599,
+"duration": 5.521
+},
+{
+"text": "and today we're going to take a a pretty",
+"start": 194.879,
+"duration": 4.64
+},
+{
+"text": "um systematic approach to what happened",
+"start": 197.12,
+"duration": 4.08
+},
+{
+"text": "this week. We're going to start with a",
+"start": 199.519,
+"duration": 4.241
+},
+{
+"text": "postmortem on the midterms and then",
+"start": 201.2,
+"duration": 4.56
+},
+{
+"text": "second uh we're going to talk about the",
+"start": 203.76,
+"duration": 4.399
+},
+{
+"text": "second half of Trump's term, the next",
+"start": 205.76,
+"duration": 4.08
+},
+{
+"text": "two years. So, I'm sure data centers",
+"start": 208.159,
+"duration": 3.44
+},
+{
+"text": "will come up in our in our recap",
+"start": 209.84,
+"duration": 3.84
+},
+{
+"text": "postmortem, etc. But we're going to do a",
+"start": 211.599,
+"duration": 4.961
+},
+{
+"text": "deep dive into the AI trade potentially",
+"start": 213.68,
+"duration": 6.08
+},
+{
+"text": "cracking. So let's start with our",
+"start": 216.56,
+"duration": 6.239
+},
+{
+"text": "postmortem on what just happened in the",
+"start": 219.76,
+"duration": 4.8
+},
+{
+"text": "midterms. Obviously the Democrats",
+"start": 222.799,
+"duration": 4.16
+},
+{
+"text": "sweeped both chambers of Congress and",
+"start": 224.56,
+"duration": 5.52
+},
+{
+"text": "they won at least 29 governor races.",
+"start": 226.959,
+"duration": 6.56
+},
+{
+"text": "Dems will wind up with 54, 55 or 56",
+"start": 230.08,
+"duration": 6.079
+},
+{
+"text": "seats depending on how Alaska and",
+"start": 233.519,
+"duration": 5.44
+},
+{
+"text": "Mississippi wind up. They have a lot of",
+"start": 236.159,
+"duration": 6.08
+},
+{
+"text": "um votes still coming in in the House.",
+"start": 238.959,
+"duration": 6.081
+},
+{
+"text": "Dems will have at least 250 seats, maybe",
+"start": 242.239,
+"duration": 5.121
+},
+{
+"text": "even 260.",
+"start": 245.04,
+"duration": 4.08
+},
+{
+"text": "The bigger story is where the",
+"start": 247.36,
+"duration": 5.439
+},
+{
+"text": "Republicans lost deeply red states that",
+"start": 249.12,
+"duration": 6.399
+},
+{
+"text": "haven't gone blue in generations",
+"start": 252.799,
+"duration": 5.12
+},
+{
+"text": "went blue, including the great state of",
+"start": 255.519,
+"duration": 3.921
+},
+{
+"text": "Texas. Please don't blame me. I've only",
+"start": 257.919,
+"duration": 3.761
+},
+{
+"text": "been here for 3 years and uh you might",
+"start": 259.44,
+"duration": 5.039
+},
+{
+"text": "be surprised at what my voting ticket",
+"start": 261.68,
+"duration": 4.959
+},
+{
+"text": "looked like. Kansas, Iowa, South",
+"start": 264.479,
+"duration": 4.081
+},
+{
+"text": "Carolina for the first time in decades.",
+"start": 266.639,
+"duration": 3.521
+},
+{
+"text": "Trump won all of those states by double",
+"start": 268.56,
+"duration": 3.76
+},
+{
+"text": "digits just two years ago. compared to",
+"start": 270.16,
+"duration": 5.44
+},
+{
+"text": "2024. The GOP lost ground in every voter",
+"start": 272.32,
+"duration": 6.72
+},
+{
+"text": "group, even white men. So, let's go",
+"start": 275.6,
+"duration": 5.68
+},
+{
+"text": "around the horn. Sax people want to hear",
+"start": 279.04,
+"duration": 4.96
+},
+{
+"text": "from you most of all, I guess. So, what",
+"start": 281.28,
+"duration": 5.28
+},
+{
+"text": "went wrong here? What are the lessons",
+"start": 284.0,
+"duration": 4.72
+},
+{
+"text": "the Republican party can learn? And and",
+"start": 286.56,
+"duration": 4.16
+},
+{
+"text": "what did the Democrats do right in the",
+"start": 288.72,
+"duration": 4.24
+},
+{
+"text": "last 18 months leading up to the",
+"start": 290.72,
+"duration": 3.12
+},
+{
+"text": "midterms?",
+"start": 292.96,
+"duration": 3.2
+},
+{
+"text": ">> This was a shacking. This was a blowout.",
+"start": 293.84,
+"duration": 5.04
+},
+{
+"text": "It was, I believe, the biggest midterm",
+"start": 296.16,
+"duration": 6.24
+},
+{
+"text": "loss since the Watergate midterm loss.",
+"start": 298.88,
+"duration": 5.12
+},
+{
+"text": "So, this was obviously a big defeat for",
+"start": 302.4,
+"duration": 2.96
+},
+{
+"text": "the Republicans. There's no sugar",
+"start": 304.0,
+"duration": 3.919
+},
+{
+"text": "coating it. What's the reason for that?",
+"start": 305.36,
+"duration": 4.48
+},
+{
+"text": "I believe the vice president, JD Vance,",
+"start": 307.919,
+"duration": 4.081
+},
+{
+"text": "explained it very well. It was this war.",
+"start": 309.84,
+"duration": 3.76
+},
+{
+"text": "And I the only thing I would add to that",
+"start": 312.0,
+"duration": 4.08
+},
+{
+"text": "is it was this war and the economic",
+"start": 313.6,
+"duration": 5.439
+},
+{
+"text": "consequences that follow from the war.",
+"start": 316.08,
+"duration": 4.88
+},
+{
+"text": "So, what am I talking about? Price of",
+"start": 319.039,
+"duration": 3.681
+},
+{
+"text": "gas, it was around three bucks before",
+"start": 320.96,
+"duration": 4.959
+},
+{
+"text": "the war, went over four and higher.",
+"start": 322.72,
+"duration": 6.16
+},
+{
+"text": "Price of diesel even higher. And then",
+"start": 325.919,
+"duration": 5.201
+},
+{
+"text": "that factors into the cost of food, all",
+"start": 328.88,
+"duration": 4.24
+},
+{
+"text": "the goods that have to be transported.",
+"start": 331.12,
+"duration": 4.88
+},
+{
+"text": "Also, fertilizer costs went up. And so",
+"start": 333.12,
+"duration": 4.88
+},
+{
+"text": "you saw the inflation rate at the",
+"start": 336.0,
+"duration": 3.68
+},
+{
+"text": "beginning of the year back in January",
+"start": 338.0,
+"duration": 4.72
+},
+{
+"text": "before the war, it was down to 2.4%. We",
+"start": 339.68,
+"duration": 5.2
+},
+{
+"text": "finally had that problem licked just",
+"start": 342.72,
+"duration": 4.56
+},
+{
+"text": "about. Remember, it was 9% under Biden.",
+"start": 344.88,
+"duration": 3.759
+},
+{
+"text": "And in the first year of the Trump",
+"start": 347.28,
+"duration": 2.639
+},
+{
+"text": "administration, we brought it down to",
+"start": 348.639,
+"duration": 3.921
+},
+{
+"text": "2.4. The market was expecting multiple",
+"start": 349.919,
+"duration": 5.681
+},
+{
+"text": "rate cuts this year. And we were",
+"start": 352.56,
+"duration": 5.68
+},
+{
+"text": "forecasting 5% GDP growth, which I don't",
+"start": 355.6,
+"duration": 6.48
+},
+{
+"text": "think was too overly bulliant based on",
+"start": 358.24,
+"duration": 5.36
+},
+{
+"text": "what we were seeing at that time",
+"start": 362.08,
+"duration": 2.959
+},
+{
+"text": "combined with the expectation of rate",
+"start": 363.6,
+"duration": 1.84
+},
+{
+"text": "cuts.",
+"start": 365.039,
+"duration": 2.801
+},
+{
+"text": ">> Aggressive. Unbelievable. Unrealistic.",
+"start": 365.44,
+"duration": 4.56
+},
+{
+"text": "Not unrealistic. Yes. Okay. And by the",
+"start": 367.84,
+"duration": 3.6
+},
+{
+"text": "way, the prediction markets back in",
+"start": 370.0,
+"duration": 4.56
+},
+{
+"text": "January were showing a 70% chance of",
+"start": 371.44,
+"duration": 4.64
+},
+{
+"text": "Republicans",
+"start": 374.56,
+"duration": 3.6
+},
+{
+"text": "holding the Senate and then the House",
+"start": 376.08,
+"duration": 3.679
+},
+{
+"text": "was perceived to be a tossup. I think",
+"start": 378.16,
+"duration": 4.08
+},
+{
+"text": "that if this election had happened back",
+"start": 379.759,
+"duration": 4.16
+},
+{
+"text": "in January, it would have been a pretty",
+"start": 382.24,
+"duration": 3.76
+},
+{
+"text": "successful one for the Republicans. What",
+"start": 383.919,
+"duration": 4.321
+},
+{
+"text": "happened since then? Well, you got",
+"start": 386.0,
+"duration": 6.16
+},
+{
+"text": "inflation going from 2.4 to 3.7%.",
+"start": 388.24,
+"duration": 6.399
+},
+{
+"text": "again mostly driven by the cost of gas",
+"start": 392.16,
+"duration": 4.72
+},
+{
+"text": "and diesel and all these other products",
+"start": 394.639,
+"duration": 3.68
+},
+{
+"text": "where you have to pay a higher cost of",
+"start": 396.88,
+"duration": 4.64
+},
+{
+"text": "transportation and you end up not having",
+"start": 398.319,
+"duration": 5.041
+},
+{
+"text": "any rate cuts. You end up getting a rate",
+"start": 401.52,
+"duration": 4.08
+},
+{
+"text": "hike that brought the cost of mortgages",
+"start": 403.36,
+"duration": 4.959
+},
+{
+"text": "to roughly 7 12%.",
+"start": 405.6,
+"duration": 6.4
+},
+{
+"text": "And that overall fed this narrative",
+"start": 408.319,
+"duration": 6.641
+},
+{
+"text": "around affordability. So, it's the war",
+"start": 412.0,
+"duration": 6.72
+},
+{
+"text": "plus the perception of the lack of",
+"start": 414.96,
+"duration": 6.799
+},
+{
+"text": "affordability is what really created",
+"start": 418.72,
+"duration": 6.319
+},
+{
+"text": "this title wave. Now, you know, I I have",
+"start": 421.759,
+"duration": 5.28
+},
+{
+"text": "to admit I thought that I mean, look, I",
+"start": 425.039,
+"duration": 3.041
+},
+{
+"text": "didn't think this would be a great",
+"start": 427.039,
+"duration": 2.88
+},
+{
+"text": "election for Republicans, but I thought",
+"start": 428.08,
+"duration": 3.92
+},
+{
+"text": "that it wouldn't be this bad. I I I was",
+"start": 429.919,
+"duration": 2.481
+},
+{
+"text": "wrong.",
+"start": 432.0,
+"duration": 1.68
+},
+{
+"text": ">> You said it was a spritz. It would be a",
+"start": 432.4,
+"duration": 1.519
+},
+{
+"text": "sprit.",
+"start": 433.68,
+"duration": 2.0
+},
+{
+"text": ">> I thought it could be a spritz. That was",
+"start": 433.919,
+"duration": 3.761
+},
+{
+"text": "based on a couple of things. Number one",
+"start": 435.68,
+"duration": 5.919
+},
+{
+"text": "is that the last few elections the",
+"start": 437.68,
+"duration": 5.6
+},
+{
+"text": "pollsters have all been wrong and and",
+"start": 441.599,
+"duration": 3.281
+},
+{
+"text": "Trump has always managed to defy the",
+"start": 443.28,
+"duration": 3.759
+},
+{
+"text": "odds and I thought that this polling",
+"start": 444.88,
+"duration": 4.8
+},
+{
+"text": "data must fall into that pattern. And",
+"start": 447.039,
+"duration": 4.401
+},
+{
+"text": "then the second thing is that the",
+"start": 449.68,
+"duration": 4.0
+},
+{
+"text": "economy is not that bad. I mean in fact",
+"start": 451.44,
+"duration": 5.36
+},
+{
+"text": "it's quite good. So just today we had a",
+"start": 453.68,
+"duration": 5.2
+},
+{
+"text": "new jobs report. It was a very robust",
+"start": 456.8,
+"duration": 4.32
+},
+{
+"text": "jobs report. The number of new jobs",
+"start": 458.88,
+"duration": 4.879
+},
+{
+"text": "created is being revised up. You've got",
+"start": 461.12,
+"duration": 4.639
+},
+{
+"text": "unemployment tick down to almost record",
+"start": 463.759,
+"duration": 4.081
+},
+{
+"text": "low 4.1%.",
+"start": 465.759,
+"duration": 4.481
+},
+{
+"text": "You've got still pretty healthy GDP",
+"start": 467.84,
+"duration": 4.079
+},
+{
+"text": "growth in the first half of the year was",
+"start": 470.24,
+"duration": 5.6
+},
+{
+"text": "around 2.1 to 2.5% and then third",
+"start": 471.919,
+"duration": 8.321
+},
+{
+"text": "quarter the tracking by GDP now is 3.7%.",
+"start": 475.84,
+"duration": 8.16
+},
+{
+"text": "So I thought given the fact that you got",
+"start": 480.24,
+"duration": 6.959
+},
+{
+"text": "great employment, you got solid GDP",
+"start": 484.0,
+"duration": 5.36
+},
+{
+"text": "growth, I thought the fact that",
+"start": 487.199,
+"duration": 6.0
+},
+{
+"text": "inflation was too high would not result",
+"start": 489.36,
+"duration": 5.279
+},
+{
+"text": "in this type of title wave. I thought",
+"start": 493.199,
+"duration": 4.481
+},
+{
+"text": "it'd be more like the Biden midterms",
+"start": 494.639,
+"duration": 5.521
+},
+{
+"text": "where he had extremely high inflation,",
+"start": 497.68,
+"duration": 4.32
+},
+{
+"text": "but the economy itself was still pretty",
+"start": 500.16,
+"duration": 4.319
+},
+{
+"text": "decent and it ended up being more of a",
+"start": 502.0,
+"duration": 4.879
+},
+{
+"text": "red spritz as opposed to a red wave. So",
+"start": 504.479,
+"duration": 4.081
+},
+{
+"text": "that was my pattern recognition. It was",
+"start": 506.879,
+"duration": 3.44
+},
+{
+"text": "wrong. And I think one of the reasons",
+"start": 508.56,
+"duration": 4.8
+},
+{
+"text": "why it was wrong here is because I think",
+"start": 510.319,
+"duration": 6.241
+},
+{
+"text": "the public is in a pretty ordinary mood.",
+"start": 513.36,
+"duration": 4.4
+},
+{
+"text": "They're very concerned about",
+"start": 516.56,
+"duration": 3.359
+},
+{
+"text": "affordability. It doesn't matter how",
+"start": 517.76,
+"duration": 4.56
+},
+{
+"text": "good the economy actually is. It matters",
+"start": 519.919,
+"duration": 4.881
+},
+{
+"text": "how good people perceive it to be for",
+"start": 522.32,
+"duration": 4.8
+},
+{
+"text": "them. And in the first year of the Trump",
+"start": 524.8,
+"duration": 3.68
+},
+{
+"text": "administration, we made enormous",
+"start": 527.12,
+"duration": 6.719
+},
+{
+"text": "progress in delivering real post tax",
+"start": 528.48,
+"duration": 8.32
+},
+{
+"text": "household income. It rose by like 3.1%.",
+"start": 533.839,
+"duration": 5.761
+},
+{
+"text": "But because of the inflation numbers",
+"start": 536.8,
+"duration": 4.8
+},
+{
+"text": "over the last 6 months, you're starting",
+"start": 539.6,
+"duration": 3.84
+},
+{
+"text": "to chip away at that, right? Because",
+"start": 541.6,
+"duration": 4.239
+},
+{
+"text": "again, as long as inflation is growing",
+"start": 543.44,
+"duration": 4.56
+},
+{
+"text": "faster than your wages, you're losing",
+"start": 545.839,
+"duration": 3.601
+},
+{
+"text": "purching power in real terms. I think",
+"start": 548.0,
+"duration": 2.88
+},
+{
+"text": "the elector was getting ordinary about",
+"start": 549.44,
+"duration": 3.44
+},
+{
+"text": "that. And just one other thing I want to",
+"start": 550.88,
+"duration": 4.16
+},
+{
+"text": "say about it, which is there's one other",
+"start": 552.88,
+"duration": 4.639
+},
+{
+"text": "piece of why the war I think was so bad,",
+"start": 555.04,
+"duration": 6.32
+},
+{
+"text": "which is it fractured the Republican",
+"start": 557.519,
+"duration": 6.241
+},
+{
+"text": "coalition and the Republican base. Jake,",
+"start": 561.36,
+"duration": 4.32
+},
+{
+"text": "you've pointed this out. We lost all the",
+"start": 563.76,
+"duration": 3.519
+},
+{
+"text": "podcast bros. I mean, obviously it was",
+"start": 565.68,
+"duration": 4.48
+},
+{
+"text": "Tucker Carlson and Joe Rogan and Theo",
+"start": 567.279,
+"duration": 5.68
+},
+{
+"text": "Vaughn and and that whole set,",
+"start": 570.16,
+"duration": 5.2
+},
+{
+"text": "Megan Kelly. So, you know, a house",
+"start": 572.959,
+"duration": 4.401
+},
+{
+"text": "divided against itself cannot stand. I",
+"start": 575.36,
+"duration": 4.56
+},
+{
+"text": "mean, we lost a huge part of our base.",
+"start": 577.36,
+"duration": 5.2
+},
+{
+"text": "And I would say that the Republicans in",
+"start": 579.92,
+"duration": 5.359
+},
+{
+"text": "particular are dependent on the podcast",
+"start": 582.56,
+"duration": 4.48
+},
+{
+"text": "circuit. Let's call it alternative",
+"start": 585.279,
+"duration": 4.0
+},
+{
+"text": "media. Why? Because the mainstream media",
+"start": 587.04,
+"duration": 3.76
+},
+{
+"text": "hates us. Legacy media hates us. They",
+"start": 589.279,
+"duration": 2.481
+},
+{
+"text": "will never get",
+"start": 590.8,
+"duration": 3.84
+},
+{
+"text": ">> 90% left. So, it is Yeah. And I think",
+"start": 591.76,
+"duration": 4.72
+},
+{
+"text": "one of the reasons why Trump produced",
+"start": 594.64,
+"duration": 4.48
+},
+{
+"text": "such a resounding victory in 2024 is he",
+"start": 596.48,
+"duration": 5.039
+},
+{
+"text": "appealed to that whole podcasting",
+"start": 599.12,
+"duration": 4.56
+},
+{
+"text": "circuit. And and frankly, we should have",
+"start": 601.519,
+"duration": 3.601
+},
+{
+"text": "done a better job giving them all front",
+"start": 603.68,
+"duration": 3.92
+},
+{
+"text": "row seats in the White House press room.",
+"start": 605.12,
+"duration": 3.839
+},
+{
+"text": "We should have stayed connected to all",
+"start": 607.6,
+"duration": 3.679
+},
+{
+"text": "of all of them because they are our",
+"start": 608.959,
+"duration": 3.601
+},
+{
+"text": "media. By the way, they don't, you know,",
+"start": 611.279,
+"duration": 2.481
+},
+{
+"text": "they don't work for us. They're willing",
+"start": 612.56,
+"duration": 2.719
+},
+{
+"text": "to defect. Obviously,",
+"start": 613.76,
+"duration": 2.72
+},
+{
+"text": ">> they have their own opinions.",
+"start": 615.279,
+"duration": 3.201
+},
+{
+"text": ">> They have their own opinions, but we",
+"start": 616.48,
+"duration": 4.56
+},
+{
+"text": "have to pay attention. I think our side",
+"start": 618.48,
+"duration": 3.919
+},
+{
+"text": "has to pay a lot of attention to them",
+"start": 621.04,
+"duration": 4.239
+},
+{
+"text": "because without them we don't have any",
+"start": 622.399,
+"duration": 6.0
+},
+{
+"text": "media that supports us. So I think that",
+"start": 625.279,
+"duration": 5.601
+},
+{
+"text": "losing them was a big deal. It fueled",
+"start": 628.399,
+"duration": 4.081
+},
+{
+"text": "the sense and I think that a lot of",
+"start": 630.88,
+"duration": 3.68
+},
+{
+"text": "those people showed up and then did a",
+"start": 632.48,
+"duration": 4.4
+},
+{
+"text": "protest vote cuz they wanted to send the",
+"start": 634.56,
+"duration": 5.36
+},
+{
+"text": "message that they want out of this war.",
+"start": 636.88,
+"duration": 5.28
+},
+{
+"text": "Friedberg, just a couple of quotes for",
+"start": 639.92,
+"duration": 4.24
+},
+{
+"text": "you to react to. Ted Cruz called it a",
+"start": 642.16,
+"duration": 4.96
+},
+{
+"text": "Watergate level repudiation. Chimamath",
+"start": 644.16,
+"duration": 5.44
+},
+{
+"text": "to Santa said quote close to an",
+"start": 647.12,
+"duration": 5.04
+},
+{
+"text": "extinction level event for the current",
+"start": 649.6,
+"duration": 6.96
+},
+{
+"text": "GOP and uh in a very long expost that JD",
+"start": 652.16,
+"duration": 6.799
+},
+{
+"text": "Vance did that was pretty surprising for",
+"start": 656.56,
+"duration": 4.8
+},
+{
+"text": "everybody that there's some uh reporting",
+"start": 658.959,
+"duration": 4.241
+},
+{
+"text": "it was approved maybe not approved we",
+"start": 661.36,
+"duration": 4.479
+},
+{
+"text": "we'll get all that out later but what's",
+"start": 663.2,
+"duration": 4.4
+},
+{
+"text": "important is what he said he's in line",
+"start": 665.839,
+"duration": 4.881
+},
+{
+"text": "with you the Iran war was the driving",
+"start": 667.6,
+"duration": 6.4
+},
+{
+"text": "force here in the loss and that the GOP",
+"start": 670.72,
+"duration": 5.6
+},
+{
+"text": "has to rebuild trust with voters",
+"start": 674.0,
+"duration": 5.2
+},
+{
+"text": "on four axes. Ending the war, focus on",
+"start": 676.32,
+"duration": 5.44
+}
+]

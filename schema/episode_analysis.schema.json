@@ -1,0 +1,478 @@
+{
+  "$defs": {
+    "KeyTakeOut": {
+      "additionalProperties": false,
+      "properties": {
+        "speaker": {
+          "description": "Who said it: one of the four hosts' full names ('Chamath Palihapitiya', 'David Sacks', 'David Friedberg', 'Jason Calacanis'), 'Guest: <name>' when a guest is identifiable, otherwise 'Unknown'. Captions carry no speaker labels, so infer from context and set attribution_confidence honestly.",
+          "title": "Speaker",
+          "type": "string"
+        },
+        "attribution_confidence": {
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ],
+          "title": "Attribution Confidence",
+          "type": "string"
+        },
+        "stance_type": {
+          "description": "own_view = the speaker's own position; reported_view = the speaker summarizing someone else's view; devils_advocate = the speaker arguing a side they do not hold.",
+          "enum": [
+            "own_view",
+            "reported_view",
+            "devils_advocate"
+          ],
+          "title": "Stance Type",
+          "type": "string"
+        },
+        "summary": {
+          "description": "One sentence stating the position or argument.",
+          "title": "Summary",
+          "type": "string"
+        },
+        "quote": {
+          "description": "Verbatim supporting quote copied exactly from the transcript text, under 15 words. Never paraphrase; a quote that is not in the transcript will be dropped.",
+          "title": "Quote",
+          "type": "string"
+        },
+        "timestamp_seconds": {
+          "description": "Start time in seconds of the transcript paragraph where this is said.",
+          "title": "Timestamp Seconds",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "speaker",
+        "attribution_confidence",
+        "stance_type",
+        "summary",
+        "quote",
+        "timestamp_seconds"
+      ],
+      "title": "KeyTakeOut",
+      "type": "object"
+    },
+    "MacroThemeOut": {
+      "additionalProperties": false,
+      "properties": {
+        "theme": {
+          "description": "Short canonical lowercase theme label reused across episodes, e.g. 'rates', 'ai capex', 'energy', 'fiscal', 'trade', 'regulation', 'ai safety', 'elections', 'china', 'ipo market'.",
+          "title": "Theme",
+          "type": "string"
+        },
+        "stance_summary": {
+          "description": "One line on where the group (or named host) landed on this theme.",
+          "title": "Stance Summary",
+          "type": "string"
+        },
+        "speakers": {
+          "description": "Speakers who drove this theme, same naming rules as elsewhere.",
+          "items": {
+            "type": "string"
+          },
+          "title": "Speakers",
+          "type": "array"
+        },
+        "timestamp_seconds": {
+          "description": "Start time in seconds of the first substantial discussion of the theme.",
+          "title": "Timestamp Seconds",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "theme",
+        "stance_summary",
+        "speakers",
+        "timestamp_seconds"
+      ],
+      "title": "MacroThemeOut",
+      "type": "object"
+    },
+    "PolymarketCandidateOut": {
+      "additionalProperties": false,
+      "properties": {
+        "prediction_index": {
+          "description": "0-based index into the predictions array this candidate derives from.",
+          "title": "Prediction Index",
+          "type": "integer"
+        },
+        "question": {
+          "description": "The prediction rephrased as a yes/no question in prediction-market style, e.g. 'Will the Fed cut rates at the December 2026 FOMC meeting?'",
+          "title": "Question",
+          "type": "string"
+        },
+        "hosts_answer": {
+          "description": "The answer the speaker's view implies.",
+          "enum": [
+            "yes",
+            "no"
+          ],
+          "title": "Hosts Answer",
+          "type": "string"
+        },
+        "implied_probability": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "Best estimate (0 to 1) of the probability of 'yes' the speaker implied, derived from their confidence language; null if it cannot be inferred.",
+          "title": "Implied Probability"
+        }
+      },
+      "required": [
+        "prediction_index",
+        "question",
+        "hosts_answer",
+        "implied_probability"
+      ],
+      "title": "PolymarketCandidateOut",
+      "type": "object"
+    },
+    "PredictionOut": {
+      "additionalProperties": false,
+      "properties": {
+        "speaker": {
+          "description": "Who said it: one of the four hosts' full names ('Chamath Palihapitiya', 'David Sacks', 'David Friedberg', 'Jason Calacanis'), 'Guest: <name>' when a guest is identifiable, otherwise 'Unknown'. Captions carry no speaker labels, so infer from context and set attribution_confidence honestly.",
+          "title": "Speaker",
+          "type": "string"
+        },
+        "attribution_confidence": {
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ],
+          "title": "Attribution Confidence",
+          "type": "string"
+        },
+        "stance_type": {
+          "description": "own_view, reported_view (summarizing someone else's forecast) or devils_advocate.",
+          "enum": [
+            "own_view",
+            "reported_view",
+            "devils_advocate"
+          ],
+          "title": "Stance Type",
+          "type": "string"
+        },
+        "claim": {
+          "description": "The forward-looking claim in one or two sentences, normalized into a checkable statement while keeping the speaker's meaning.",
+          "title": "Claim",
+          "type": "string"
+        },
+        "category": {
+          "enum": [
+            "macro",
+            "markets",
+            "politics",
+            "tech",
+            "AI",
+            "crypto",
+            "company-specific",
+            "other"
+          ],
+          "title": "Category",
+          "type": "string"
+        },
+        "direction": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "Direction if applicable, e.g. 'up', 'down', 'higher', 'lower', 'yes', 'no', 'win', 'lose'; null when the claim is not directional.",
+          "title": "Direction"
+        },
+        "timeframe": {
+          "$ref": "#/$defs/Timeframe"
+        },
+        "resolution_criteria": {
+          "description": "Concrete criteria a reader could later use to judge this true or false, naming the observable: a price level, an event, an official statistic, an election outcome.",
+          "title": "Resolution Criteria",
+          "type": "string"
+        },
+        "stated_confidence": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "The speaker's own confidence language if any, e.g. 'I'd bet on it', '70%', 'probably'; null if none.",
+          "title": "Stated Confidence"
+        },
+        "confidence_bucket": {
+          "description": "Bucket of the speaker's stated confidence: high (certain, would bet, guaranteed, 80%+), medium (likely, probably, 50-80%), low (maybe, could, wouldn't be surprised), unstated.",
+          "enum": [
+            "high",
+            "medium",
+            "low",
+            "unstated"
+          ],
+          "title": "Confidence Bucket",
+          "type": "string"
+        },
+        "quote": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "Verbatim supporting quote copied exactly from the transcript, under 15 words, or null.",
+          "title": "Quote"
+        },
+        "timestamp_seconds": {
+          "description": "Start time in seconds of the transcript paragraph where this is said.",
+          "title": "Timestamp Seconds",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "speaker",
+        "attribution_confidence",
+        "stance_type",
+        "claim",
+        "category",
+        "direction",
+        "timeframe",
+        "resolution_criteria",
+        "stated_confidence",
+        "confidence_bucket",
+        "quote",
+        "timestamp_seconds"
+      ],
+      "title": "PredictionOut",
+      "type": "object"
+    },
+    "StockImplicationOut": {
+      "additionalProperties": false,
+      "properties": {
+        "claim": {
+          "description": "The underlying claim this implication is drawn from, one sentence.",
+          "title": "Claim",
+          "type": "string"
+        },
+        "tickers": {
+          "description": "Liquid US tickers or ETFs (e.g. 'NVDA', 'SMH', 'TLT'). Empty list for private companies or when no liquid instrument fits.",
+          "items": {
+            "type": "string"
+          },
+          "title": "Tickers",
+          "type": "array"
+        },
+        "company": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "Company or asset name when the claim is about one; null otherwise.",
+          "title": "Company"
+        },
+        "is_private": {
+          "description": "true when the company is private (no public ticker).",
+          "title": "Is Private",
+          "type": "boolean"
+        },
+        "sector": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "Sector label, e.g. 'semiconductors', 'software', 'energy', 'rates'; null if n/a.",
+          "title": "Sector"
+        },
+        "direction": {
+          "enum": [
+            "bullish",
+            "bearish",
+            "neutral"
+          ],
+          "title": "Direction",
+          "type": "string"
+        },
+        "timeframe": {
+          "description": "Horizon in words, e.g. 'next 12 months', 'this earnings cycle', 'multi-year'.",
+          "title": "Timeframe",
+          "type": "string"
+        },
+        "rationale": {
+          "description": "One or two sentences on why the claim implies this direction.",
+          "title": "Rationale",
+          "type": "string"
+        },
+        "speaker": {
+          "description": "Who said it: one of the four hosts' full names ('Chamath Palihapitiya', 'David Sacks', 'David Friedberg', 'Jason Calacanis'), 'Guest: <name>' when a guest is identifiable, otherwise 'Unknown'. Captions carry no speaker labels, so infer from context and set attribution_confidence honestly.",
+          "title": "Speaker",
+          "type": "string"
+        },
+        "attribution_confidence": {
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ],
+          "title": "Attribution Confidence",
+          "type": "string"
+        },
+        "timestamp_seconds": {
+          "title": "Timestamp Seconds",
+          "type": "integer"
+        },
+        "note": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "Required when tickers is empty: why no ticker (private company, no liquid proxy, etc.); else null.",
+          "title": "Note"
+        }
+      },
+      "required": [
+        "claim",
+        "tickers",
+        "company",
+        "is_private",
+        "sector",
+        "direction",
+        "timeframe",
+        "rationale",
+        "speaker",
+        "attribution_confidence",
+        "timestamp_seconds",
+        "note"
+      ],
+      "title": "StockImplicationOut",
+      "type": "object"
+    },
+    "Timeframe": {
+      "additionalProperties": false,
+      "properties": {
+        "text": {
+          "description": "Horizon as the speaker framed it, or the inferred horizon, e.g. 'by end of 2026', 'within 12 months', 'before the midterms'.",
+          "title": "Text",
+          "type": "string"
+        },
+        "date": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "Resolution date as YYYY-MM-DD when a concrete date can be stated (explicit or inferred); null if no date can be pinned.",
+          "title": "Date"
+        },
+        "inferred": {
+          "description": "true when the horizon was not stated explicitly and you inferred it.",
+          "title": "Inferred",
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "text",
+        "date",
+        "inferred"
+      ],
+      "title": "Timeframe",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "description": "Exactly what the model returns for one episode (or one chunk).",
+  "properties": {
+    "hosts_present": {
+      "description": "Which of the four hosts are present, by full name.",
+      "items": {
+        "type": "string"
+      },
+      "title": "Hosts Present",
+      "type": "array"
+    },
+    "guests": {
+      "description": "Guest names when identifiable; empty if none.",
+      "items": {
+        "type": "string"
+      },
+      "title": "Guests",
+      "type": "array"
+    },
+    "key_takes": {
+      "description": "The 8 to 15 most important positions or arguments.",
+      "items": {
+        "$ref": "#/$defs/KeyTakeOut"
+      },
+      "title": "Key Takes",
+      "type": "array"
+    },
+    "predictions": {
+      "description": "Every explicit or strongly implied forward-looking claim. When unsure, include with low confidence.",
+      "items": {
+        "$ref": "#/$defs/PredictionOut"
+      },
+      "title": "Predictions",
+      "type": "array"
+    },
+    "stock_implications": {
+      "items": {
+        "$ref": "#/$defs/StockImplicationOut"
+      },
+      "title": "Stock Implications",
+      "type": "array"
+    },
+    "macro_themes": {
+      "items": {
+        "$ref": "#/$defs/MacroThemeOut"
+      },
+      "title": "Macro Themes",
+      "type": "array"
+    },
+    "polymarket_candidates": {
+      "description": "Predictions that look like something a prediction market would list, as yes/no questions.",
+      "items": {
+        "$ref": "#/$defs/PolymarketCandidateOut"
+      },
+      "title": "Polymarket Candidates",
+      "type": "array"
+    }
+  },
+  "required": [
+    "hosts_present",
+    "guests",
+    "key_takes",
+    "predictions",
+    "stock_implications",
+    "macro_themes",
+    "polymarket_candidates"
+  ],
+  "title": "AllInSignalEpisodeAnalysis",
+  "type": "object",
+  "$schema": "https://json-schema.org/draft/2020-12/schema"
+}

@@ -1,0 +1,19 @@
+# Manual resolutions for predictions. Edit by hand; the resolve job reads this on every run.
+#
+# Each entry needs:
+#   prediction_id: "<video_id>-p<nn>"   (find ids in data/predictions.json or on the dashboard ledger)
+#   outcome:       correct | incorrect | unresolvable
+#   note:          one line on what happened
+#   source:        URL backing the call
+#   resolved_on:   YYYY-MM-DD
+#
+# Manual entries win over Polymarket resolutions if both exist.
+#
+# Example:
+# resolutions:
+#   - prediction_id: 2v8b062QzTI-p03
+#     outcome: correct
+#     note: "Fed cut 25bp at the December 2026 FOMC."
+#     source: https://www.federalreserve.gov/newsevents/pressreleases.htm
+#     resolved_on: 2026-12-16
+resolutions: []
