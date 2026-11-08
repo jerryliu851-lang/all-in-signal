@@ -14,7 +14,6 @@ from __future__ import annotations
 
 import argparse
 import json
-import shutil
 import subprocess
 import sys
 import tempfile
@@ -110,11 +109,9 @@ def probe_podcast(report: dict) -> str | None:
 
 
 def probe_whisper(audio_url: str | None, report: dict) -> None:
+    """Time faster-whisper on the first ~5 minutes of audio. PyAV decodes the (truncated) mp3; no ffmpeg needed."""
     if not audio_url:
         report["whisper_rtf"] = {"ok": False, "detail": "no audio url to test"}
-        return
-    if not shutil.which("ffmpeg"):
-        report["whisper_rtf"] = {"ok": False, "detail": "ffmpeg missing"}
         return
     try:
         from faster_whisper import WhisperModel
@@ -122,27 +119,28 @@ def probe_whisper(audio_url: str | None, report: dict) -> None:
         report["whisper_rtf"] = {"ok": False, "detail": "faster-whisper not installed (run with: uv run --with faster-whisper ...)"}
         return
     with tempfile.TemporaryDirectory() as td:
-        src = Path(td) / "src.bin"
-        wav = Path(td) / "head.wav"
-        _status, body, _ = _get(audio_url, rng="bytes=0-8000000", timeout=90)  # ~8 MB covers > 5 min at 128-192 kbps
+        src = Path(td) / "head.mp3"
+        _status, body, _ = _get(audio_url, rng="bytes=0-6000000", timeout=90)  # ~6 MB = 5+ min at 128-160 kbps
         src.write_bytes(body)
-        subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", str(src), "-t", "300", "-ac", "1", "-ar", "16000", str(wav)], check=False)
-        if not wav.exists():
-            report["whisper_rtf"] = {"ok": False, "detail": "ffmpeg could not decode the ranged audio"}
-            return
-        t0 = time.time()
-        model = WhisperModel("base.en", device="cpu", compute_type="int8")
-        load_s = time.time() - t0
-        t1 = time.time()
-        segments, info = model.transcribe(str(wav), beam_size=1, vad_filter=True)
-        segs = list(segments)
-        tr_s = time.time() - t1
-        audio_s = min(300.0, info.duration or 300.0)
-        rtf = tr_s / audio_s if audio_s else None
-        sample = " ".join(s.text.strip() for s in segs[:6])[:240]
-        report["whisper_rtf"] = {"ok": rtf is not None and rtf < 0.5,
-                                 "detail": f"base.en int8 cpu: model_load={load_s:.0f}s transcribe={tr_s:.0f}s for {audio_s:.0f}s audio "
-                                           f"-> RTF={rtf:.2f} (90 min episode ~ {rtf*90:.0f} min) segments={len(segs)} sample={sample!r}"}
+        for name in ("base.en", "small.en"):
+            try:
+                t0 = time.time()
+                model = WhisperModel(name, device="cpu", compute_type="int8")
+                load_s = time.time() - t0
+                t1 = time.time()
+                segments, info = model.transcribe(str(src), beam_size=1, vad_filter=True)
+                segs = list(segments)
+                tr_s = time.time() - t1
+                audio_s = info.duration or 0.0
+                rtf = (tr_s / audio_s) if audio_s else None
+                sample = " ".join(sg.text.strip() for sg in segs[:5])[:200]
+                report[f"whisper_{name}"] = {
+                    "ok": rtf is not None and rtf < 0.5,
+                    "detail": f"int8 cpu: load={load_s:.0f}s transcribe={tr_s:.0f}s for {audio_s:.0f}s audio -> RTF={rtf:.2f} "
+                              f"(90 min ~ {rtf*90:.0f} min) segments={len(segs)} sample={sample!r}",
+                }
+            except Exception as e:  # noqa: BLE001
+                report[f"whisper_{name}"] = {"ok": False, "detail": f"{type(e).__name__}: {str(e)[:220]}"}
 
 
 def main() -> int:

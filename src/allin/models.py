@@ -319,8 +319,9 @@ class TranscriptParagraph(StrictModel):
 class NormalizedTranscript(StrictModel):
     video_id: str
     language: str = "en"
-    source: str  # "youtube-transcript-api" | "yt-dlp"
+    source: str  # "youtube-transcript-api" | "yt-dlp" | "podcast-whisper:<model>"
     is_generated: bool = True
+    source_detail: str | None = None  # e.g. podcast file name and the podcast-vs-YouTube duration delta
     paragraphs: list[TranscriptParagraph]
     word_count: int
 
