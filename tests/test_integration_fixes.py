@@ -68,7 +68,7 @@ def test_valid_prob_rejects_out_of_range():
 
 
 def test_lazy_backend_defers_construction(monkeypatch, tmp_path):
-    import allin.llm.base as base
+    from allin.llm import base
 
     built = []
 

@@ -86,9 +86,8 @@ def cmd_analyze(args, settings: Settings) -> int:
 
 
 def cmd_match(args, settings: Settings) -> int:
-    from .polymarket.pipeline import run_match
-
     from .llm import LazyBackend
+    from .polymarket.pipeline import run_match
 
     started = now_iso()
     # Lazy: an idle tick with nothing to judge needs no credentials; a real judge call still fails loudly.
