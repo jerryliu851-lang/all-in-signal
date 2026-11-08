@@ -20,7 +20,7 @@ jobs:
       - name: Install Python
         run: uv python install
       - name: Install dependencies
-        run: uv sync --frozen --extra dev
+        run: uv sync --frozen
       - name: Schema is up to date
         run: uv run allin schema
       - name: Lint

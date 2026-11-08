@@ -17,13 +17,15 @@ dependencies = [
 ]
 
 [package.optional-dependencies]
+whisper = [
+    { name = "faster-whisper" },
+]
+
+[package.dev-dependencies]
 dev = [
     { name = "pytest" },
     { name = "pytest-cov" },
     { name = "ruff" },
-]
-whisper = [
-    { name = "faster-whisper" },
 ]
 
 [package.metadata]
@@ -32,15 +34,19 @@ requires-dist = [
     { name = "httpx", specifier = ">=0.27,<1" },
     { name = "jsonschema", specifier = ">=4.23,<5" },
     { name = "pydantic", specifier = ">=2.9,<3" },
-    { name = "pytest", marker = "extra == 'dev'", specifier = ">=8.3,<9" },
-    { name = "pytest-cov", marker = "extra == 'dev'", specifier = ">=5,<7" },
     { name = "pyyaml", specifier = ">=6.0,<7" },
     { name = "rapidfuzz", specifier = ">=3.9,<4" },
-    { name = "ruff", marker = "extra == 'dev'", specifier = ">=0.6,<1" },
     { name = "youtube-transcript-api", specifier = ">=1.0,<2" },
     { name = "yt-dlp", specifier = ">=2026.1.1" },
 ]
-provides-extras = ["whisper", "dev"]
+provides-extras = ["whisper"]
+
+[package.metadata.requires-dev]
+dev = [
+    { name = "pytest", specifier = ">=8.3,<9" },
+    { name = "pytest-cov", specifier = ">=5,<7" },
+    { name = "ruff", specifier = ">=0.6,<1" },
+]
 
 [[package]]
 name = "annotated-types"

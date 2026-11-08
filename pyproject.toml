@@ -19,6 +19,9 @@ dependencies = [
 whisper = [
   "faster-whisper>=1.1,<2",
 ]
+
+# Installed by `uv sync` by default, so `uv run pytest` / `uv run ruff` always work.
+[dependency-groups]
 dev = [
   "pytest>=8.3,<9",
   "pytest-cov>=5,<7",
