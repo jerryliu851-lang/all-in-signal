@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T08:41:38Z",
+  "updated_at": "2026-11-08T17:57:36Z",
   "matches": [
     {
       "prediction_id": "2v8b062QzTI-p15",
@@ -13,20 +13,20 @@
       "active": true,
       "end_date": "2027-01-01T04:59:00Z",
       "outcome_prices": {
-        "Yes": 0.868,
-        "No": 0.132
+        "Yes": 0.8655,
+        "No": 0.1345
       },
       "hosts_answer": "yes",
       "polarity": "same",
       "implied_probability": 0.71,
-      "market_yes_probability": 0.868,
-      "divergence_points": 15.8,
+      "market_yes_probability": 0.8655,
+      "divergence_points": 15.55,
       "flagged_divergence": false,
       "resolution_outcome": null,
       "match_confidence": "high",
       "match_rationale": "Market 2413330 asks whether Anthropic will IPO by December 31, 2026, which matches the hosts' question, deadline and direction exactly.",
       "matched_at": "2026-11-08T08:41:38Z",
-      "last_checked_at": "2026-11-08T08:41:38Z"
+      "last_checked_at": "2026-11-08T17:57:36Z"
     }
   ],
   "unmatched": [
