@@ -88,8 +88,11 @@ def cmd_analyze(args, settings: Settings) -> int:
 def cmd_match(args, settings: Settings) -> int:
     from .polymarket.pipeline import run_match
 
+    from .llm import LazyBackend
+
     started = now_iso()
-    report = run_match(_store(settings), settings, _backend(settings), video_ids=args.ids or None)
+    # Lazy: an idle tick with nothing to judge needs no credentials; a real judge call still fails loudly.
+    report = run_match(_store(settings), settings, LazyBackend(settings), video_ids=args.ids or None)
     _print_json(report)
     if report.usage.calls:
         _store(settings).append_run(

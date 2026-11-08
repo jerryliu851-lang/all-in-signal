@@ -65,3 +65,21 @@ def test_valid_prob_rejects_out_of_range():
     assert _valid_prob(80) is None
     assert _valid_prob(-0.1) is None
     assert _valid_prob(None) is None
+
+
+def test_lazy_backend_defers_construction(monkeypatch, tmp_path):
+    import allin.llm.base as base
+
+    built = []
+
+    class Dummy:
+        name = "dummy"
+
+        def complete_json(self, **kw):
+            return "ok"
+
+    monkeypatch.setattr(base, "get_backend", lambda settings: (built.append(1), Dummy())[1])
+    lb = base.LazyBackend(Settings(data_dir=tmp_path, llm_backend="fake"))
+    assert built == [] and lb.name == "fake"
+    assert lb.complete_json(system="s", user="u", schema={}) == "ok"
+    assert built == [1] and lb.name == "dummy"

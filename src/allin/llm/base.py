@@ -59,3 +59,28 @@ def get_backend(settings: Settings) -> LLMBackend:
 
         return FakeBackend()
     raise LLMError(f"Unknown ALLIN_LLM_BACKEND={settings.llm_backend!r} (expected 'claude-code' or 'fake')")
+
+
+class LazyBackend:
+    """Builds the real backend on first use.
+
+    ``allin match`` runs on every cron tick but usually has nothing to judge; with a lazy backend an
+    idle run needs no credentials at all, while a run that does need the model still fails loudly
+    on its first call when the token is missing.
+    """
+
+    def __init__(self, settings: Settings):
+        self._settings = settings
+        self._real: LLMBackend | None = None
+
+    @property
+    def name(self) -> str:
+        return self._real.name if self._real is not None else self._settings.llm_backend
+
+    def _get(self) -> LLMBackend:
+        if self._real is None:
+            self._real = get_backend(self._settings)
+        return self._real
+
+    def complete_json(self, **kwargs: Any) -> LLMResult:
+        return self._get().complete_json(**kwargs)
