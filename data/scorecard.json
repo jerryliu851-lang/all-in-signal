@@ -1,0 +1,64 @@
+{
+  "schema_version": "1",
+  "updated_at": "2026-11-08",
+  "counting_rule": "own_view predictions only; reported views and devil's advocate excluded",
+  "hosts": {
+    "Chamath Palihapitiya": {
+      "host": "Chamath Palihapitiya",
+      "overall": {
+        "total": 0,
+        "resolved": 0,
+        "correct": 0,
+        "incorrect": 0,
+        "pending": 0,
+        "unresolvable": 0,
+        "accuracy": null
+      },
+      "by_category": {},
+      "calibration": {}
+    },
+    "David Sacks": {
+      "host": "David Sacks",
+      "overall": {
+        "total": 0,
+        "resolved": 0,
+        "correct": 0,
+        "incorrect": 0,
+        "pending": 0,
+        "unresolvable": 0,
+        "accuracy": null
+      },
+      "by_category": {},
+      "calibration": {}
+    },
+    "David Friedberg": {
+      "host": "David Friedberg",
+      "overall": {
+        "total": 0,
+        "resolved": 0,
+        "correct": 0,
+        "incorrect": 0,
+        "pending": 0,
+        "unresolvable": 0,
+        "accuracy": null
+      },
+      "by_category": {},
+      "calibration": {}
+    },
+    "Jason Calacanis": {
+      "host": "Jason Calacanis",
+      "overall": {
+        "total": 0,
+        "resolved": 0,
+        "correct": 0,
+        "incorrect": 0,
+        "pending": 0,
+        "unresolvable": 0,
+        "accuracy": null
+      },
+      "by_category": {},
+      "calibration": {}
+    }
+  },
+  "others": {}
+}

@@ -1,0 +1,974 @@
+{
+  "video_id": "cvxjqbfLVk0",
+  "language": "en",
+  "source": "youtube-transcript-api",
+  "is_generated": true,
+  "paragraphs": [
+    {
+      "start": 0.08,
+      "end": 22.72,
+      "text": "The scop cance canceled on us. Is that what happened? >> Yeah, the scop cance canceled. He couldn't take the smoke. >> He did not want to be cross-examined by David Saxs. >> I haven't used my legal degree in 25 years. >> I was up all night doing research on this. >> We can still talk about it. >> I'm so ready. Yeah."
+    },
+    {
+      "start": 20.08,
+      "end": 53.52,
+      "text": ">> Let your winners ride. >> Rainman David. And I said, >> \"We open sourced it to the fans and they've just gone crazy with it.\" >> Sax, we have to talk about anthropic. A researcher just quit over AI fears that he thinks could kill us all. Jacob Coxin worked as a researcher at OpenAI, then Anthropic, over the past three years."
+    },
+    {
+      "start": 51.2,
+      "end": 95.439,
+      "text": "Now, he only started at Anthropic 6 weeks before resigning. After quitting, he posted the following to X. Quote, \"The people building AI earnestly believe that it could kill us all by the end of the decade. This is not a marketing stunt. Quote, neither open AI or anthropic uh obstensively is acting responsibly. They're not acting responsibly. Saxs, quote, they are racing straight to self-improving super intelligence and gambling. Gambling with our lives.\" This went insanely viral. I haven't seen a tweet go to 150 million views since Elon said he was going to put the cocaine back in Coca-Cola, which I think was the number one tweet of all time."
+    },
+    {
+      "start": 93.84,
+      "end": 117.36,
+      "text": ">> But Jason, can you actually explain to me how does somebody who doesn't have any followers or an account show up on a Monday and get 110 million views on a Tuesday? How does that algorithmically happen? >> That's a great question. We're going to get into it. Evan Hubinger, who leads Alignment Science at Anthropic, responded to Jacob."
+    },
+    {
+      "start": 115.04,
+      "end": 159.84,
+      "text": "Quote, \"Jacob is correct here. We really do earnestly believe AI could kill all humans.\" Exclamation point. I personally think it is over 10% within the next decade. We do not yet have a plan to solve alignment. These two post 200 million combined. And it immediately jumped, as I mentioned last week, these things are now jumping from X and the AI community to the nightly news in under 24 hours. Bernie Sanders, never the one to waste a crisis, said posts like this are the reason he's pro proposing legislation to ban B, ban super intelligence, and pause AI development."
+    },
+    {
+      "start": 156.08,
+      "end": 192.56,
+      "text": "Governor JB Pritsker replied to this post saying, \"It's time to sound the alarm louder on reigning in AI.\" Sax Pooh, as our former Zar of AI, do you share everyone's concern here that we're all going to die by 2030? >> No, I don't. And look, there's nothing new here. This is the same doomer histrionics that we've been hearing from this crowd for a long time. And you know, the media is calling him a whistleblower, but what evidence has he brought forward that we didn't have?"
+    },
+    {
+      "start": 189.519,
+      "end": 233.04,
+      "text": "This is all just vibes from him. Show us the data. Show us the report. Show us the leaked information that the public didn't already have. Show us the facts. Show us the evidence. We don't have any of that. In fact, as Chimath was alluding to, this appears to be an op. How do we know that? Well, first of all, this is an account that had almost no activity, almost no followers, and no posts prior to this resignation tweet storm. If he did have prior posts, they were scrubbed. So, this was a completely blank account and somehow within a day it finds this huge audience. Elon has said it never happened before. And we"
+    },
+    {
+      "start": 230.4,
+      "end": 273.919,
+      "text": "also know who amplified it in the first 15 minutes. So there were basically three of these well organized, wellunded doomer groups who amplified it. So Nathan Calvin, who's a general counsel at Encode AI, they're the group that basically pushed for SP53 in California. They're pushing for all these state level AI laws. Peter Wilddeford, who's head of policy at the AI policy network, which is pushing for, you know, all these federal regulations, having a federal department of AI. And then Daniel Koko Taio, who's head of the AI Futures Project, who just happened to drop a Rogan episode at the same time in"
+    },
+    {
+      "start": 271.68,
+      "end": 314.15999999999997,
+      "text": "which he used the exact same phrasiology about how AI is going to kill us all. And all three of these groups are funded by Yan Talon, who is one of the top few of these EA mega donor doomer types, who also happens to be a co-lead of the anthropic series A. So, this is a tight-knit community that jumped on this tweet. So, this was not some spontaneous act by an employee who said, \"Oh, I'm just going to post my resignation letter on Twitter.\" This was something that was orchestrated. And then just the the final piece of evidence on this point is that someone looked at the Wall Street Journal story that covered the"
+    },
+    {
+      "start": 312.08,
+      "end": 332.56,
+      "text": "resignation letter and somehow it was posted minutes before the tweet storm itself. So the Wall Street Journal was >> was under embargo. That's what it means. The technical term is they were briefed under embargo and they screwed up the published times. >> Right. And this guy Jacob Coxin, he reached out to you Jake said, \"Hey, I want to come on the pod.\" Yes."
+    },
+    {
+      "start": 330.88,
+      "end": 349.68,
+      "text": ">> Did he not? and then he canceled this morning because maybe he figured out it would be a tough interview if he had come on the pod. The questions I'd want to ask are who connected you with the Wall Street Journal. You know, this was a relatively low to mid-level employee who had been there for I've heard different estimates 6 weeks to 3 months."
+    },
+    {
+      "start": 347.68,
+      "end": 385.52000000000004,
+      "text": "Let's say 3 months. This is not something that' be covered by the Wall Street Journal in this way. This is something that was teed up. He's clearly working with these doomer groups. They're going for maximum amplification. And again, he's been called a whistleblower, but what have you blown the whistle on? You know, where's the evidence? Where's the data? We'd love to see what you saw inside of Anthropic if somehow there's a problem there, but you won't tell us what that is. And in most whistleblower cases, you get the company pushing back. They say, \"Well, no, it's not true.\" Or, you know, they want to refute what he's saying. In this case, they're amplifying it themselves."
+    },
+    {
+      "start": 383.84,
+      "end": 420.96,
+      "text": ">> A functional company Sachs would disavow. Wouldn't a functional company disavow this sachs immediately? >> Here's the contradiction is complicated. >> He's actually amplifying their message. And you saw that when his boss or the person who's running this safety team is he's saying that, yeah, we all agree with you. And he then put on this greater than 10% chance of extinction, which when you put a number on something that frankly is just vibes, now it takes the the message to a whole another level. Two questions for you Sachs and then I have a bunch of comments and statements. I mean this thing is crazy."
+    },
+    {
+      "start": 418.0,
+      "end": 455.599,
+      "text": "Question number one is just let's steal man the other side. What is the game theory on the SCOP? How do you think it is supposed to go from here had it not been exposed? What do you think they thought would happen? >> Well, I think they know exactly what's going to happen. I mean they are going for maximum infocation. Look, given that this this guy was at the company for a maximum of 3 to 4 months, it's entirely possible to me that he joined knowing that he would put together this campaign and >> yeah, so what was his goal? And is he a rogue agent?"
+    },
+    {
+      "start": 452.8,
+      "end": 473.52,
+      "text": ">> Is he or he's in coordination? That's >> these groups are interested in shaping the public perception of AI. This is what they do. I mean, these are groups. >> Well, they're creating a a very negative perception of AI to further their case for AI regulation. And the end goal here is to create a federal department of AI."
+    },
+    {
+      "start": 470.639,
+      "end": 499.919,
+      "text": "They want an AI regulator. Some of them also want a pause. Some of them also want a ban on super intelligence. That's what Bernie Sanders bill puts forward. But all of them want a new federal regulator for AI. And that is what Daario himself has called for again FDAI which invariably they will control and they will basically then be able to push their preferred frameworks for regulation through this new regulatory body."
+    },
+    {
+      "start": 498.319,
+      "end": 540.8,
+      "text": ">> Okay. I have another question. So now you have this very complicated moment where you have internal employees validating an employee that just left making claims. Let's call them whistleblower claims that create at a minimum product liability issues, but at a maximum may create false representation issues. You have an active S1 process underway. And so, how are they to handle that? Like, I'll give you a couple of historical examples. You guys remember when Google was going public? I mean, Freeberg, you probably lived it, but there was an interview that I think Sergey or Larry or both of them did with Playboy, but that was well before the IPO window. And then they"
+    },
+    {
+      "start": 538.8,
+      "end": 570.399,
+      "text": "published it in the middle of their quiet period and there was all kinds of noise about how that could have derailed their IPO that they would have had to refile. In a separate example, when Slack was going public, I was on the board and I was on TV with CNBC and we were talking about Tesla and SpaceX and I made a couple of comments about Slack, positive, but not saying anything that was crazy, just about the network effects of Slack."
+    },
+    {
+      "start": 568.64,
+      "end": 604.88,
+      "text": ">> It wasn't super ausive. I remember it. Yeah. But that almost stopped our IPO and we had to go and print it out and we had to put it back into the S1 and we had to disclaim these things. This seems so beyond that because this is so beyond the pale of what these folks are claiming. What does it do to their IPO process? Now Sax, you jokingly said stop the IPO, but what is the SEC supposed to do? What are the explain? Are you joking or are you serious in that tweet? Well, I was I was tongue andcheek in that tweet and that's why I put the scare quotes around whistleblower"
+    },
+    {
+      "start": 602.48,
+      "end": 646.5600000000001,
+      "text": ">> is because this is not an ordinary whistleblower here. Appears to be doing this with the full cooperation and support of many of the employees including his own boss. I don't know if he's doing it with the senior leadership of the company, but again this message is fully consistent with the doomer/regulatory capture agenda of Anthropic. So again, he's not saying anything that is incompatible or detrimental to his boss and that's why he's getting support from within the company. But it does raise these these questions that Chimath is talking about. And I I do think that there's a tension here in Anthropic's position"
+    },
+    {
+      "start": 644.32,
+      "end": 684.64,
+      "text": "that I do think implicates their IPO process. And the tension is this. On the one hand, you're asking public market investors to underwrite your company to a value in the trillions. On the other hand, your own safety lead, not Jacob Cox and the boss who then sort of co-signed his his tweet is saying that your core product is unsolved and potentially civilization ending. I mean, at a minimum, that is a mother of all product liability lawsuits. Is that the type of liability you can just wave away with a little disclosure in the S1 >> sex? It's it's a very important point to to for us to pause on. If they are"
+    },
+    {
+      "start": 682.959,
+      "end": 706.64,
+      "text": "saying this thing is incredibly dangerous and they continue to update it and release it, they're saying if something goes wrong in your enterprise, in your life, if it does a major hack, if somehow it figures out how to hack Bitcoin or something and compromises the miners, they're liable for some giant hack that occurs. That's an incredibly important point for us to like meditate on here."
+    },
+    {
+      "start": 705.279,
+      "end": 742.959,
+      "text": ">> Look, I think this is a time for choosing for anthropic. I think that these games have to end. I think that they have to choose between either renouncing this quote whistleblower as a doomer op. He's basically an entry-level no nothing who's engaging in hyperbole and science fiction. It's all vibes. In other words, there's not facts and evidence behind this, right? So they can say that or they can agree with him, you know, in which case Bernie Sanders may be right that further development should be frozen. In which case, I don't see how they can IPO now in the trillions because I mean that is where these doomer arguments lead is directly to"
+    },
+    {
+      "start": 741.279,
+      "end": 781.839,
+      "text": "Bernie Sanders. That's the reason Bernie Sanders quote tweeted this guy. That's why Bernie Sanders introduced a bill to stop further development to ban artificial super intelligence. But if that is where Anthropic says it's going and they agree with Bernie Sanders is dangerous, how can they be allowed to IPO at this point in time, why would any public market investor want to invest in that? So, it's fundamentally a contradiction and it's intention. And I think that historically the way that Anthropic has solved this tension is they've basically said, \"Yeah, in anybody else's hands, Frontier AI is too dangerous to be developed, but in our virtuous and wise hands, it's safe. We"
+    },
+    {
+      "start": 780.32,
+      "end": 816.0790000000001,
+      "text": "will make it safe. We're the only ones you can trust. And everybody else in the world can see that that is the most ludicrous self-serving argument. We're not buying into it. We're not going to grant you a monopoly on Frontier AI or a duopoly through this red capture. So, you got to give up on that game. It's patently ridiculous. I think again, that's sort of their way out. But if that's not if if that's not going to be sustainable, I think they now have to choose between, look, you're either on the Bernie Sanders side of this thing, in which case, why are you IPOing? It's time to stop. Or"
+    },
+    {
+      "start": 812.88,
+      "end": 840.0,
+      "text": ">> you renounce the argument that Jacob Coxin is making that it is hyperbolic. There's no basis for it. >> What you saw yesterday showed that they're not in a position to do that even if they want to. I think that there are very rational, good people that work at Anthropic building a great company. The problem is is that that is in conflict with a philosophy held by enough of a group of people inside that business that they can't disavow him."
+    },
+    {
+      "start": 837.519,
+      "end": 869.44,
+      "text": "Sachs, because then this entire cohort of people will go absolutely bonkers and get up in arms. >> This is such a good point, Chimath. Yeah. >> There's all kinds of people right now quote tweeting this guy essentially saying from the inside of both closed frontier companies that this is happening. >> Yes. And so I think it is a complete hornets's nest that they have kind of like kicked to the ground because on the one hand you have rational people who want to build a business for which you need enormous amounts of capital that is only available in the public markets."
+    },
+    {
+      "start": 867.6,
+      "end": 901.68,
+      "text": "But the process of doing that requires you to underwrite risk, absorb liability, disclose that properly and then allow people to know what they're buying. But what we have is this weird version now where it's almost like a an example of like Philip Morris where it's like we know that the cigarettes are bad for you. We know that the cigarettes will kill you and we're going to say it but we're not going to disclose it yet we're going to take the company public and allow you to own the stock and then we're going to just figure it all out later. This is not a tenable position for they do as Sax said have to choose."
+    },
+    {
+      "start": 900.079,
+      "end": 927.12,
+      "text": ">> Let me get Freeberg involved in here. This is a very good analogy you bring up. Nick, find the uh video where the executives at the tobacco companies are asked at a congressional hearing if they believe that nicotine is addictive. And one after the other, Chimath, they say they do not think it's addictive here. And that happened like 10 or 20 years after they had the research and hit it."
+    },
+    {
+      "start": 924.32,
+      "end": 949.519,
+      "text": "This is the movie The Insider. You're 100% correct. You now have legions of people inside of OpenAI and Anthropic Freeberg agreeing that we're all going to die in 2030. They're not just saying everything's going to be hacked anymore. They're saying 10% chance of everybody dying and then other people are saying yes, that's probably pretty accurate. Freeberg, I give you the floor."
+    },
+    {
+      "start": 947.6,
+      "end": 975.519,
+      "text": ">> I'll give you some other times when we've heard similar things. Al Gore published a movie called Inconvenient Truth and he used these IPCC forecasts that as of now have been disproven and many of the assumptions in those forecasts were not correct. A guy named Fouchy, you guys may remember him, he told us all that CO will kill us all and as a result we need to lock down the entire world. So everyone was locked in their houses."
+    },
+    {
+      "start": 973.68,
+      "end": 1005.839,
+      "text": "Businesses were shut down. The government began spending wildly to keep people economically active which had the adverse effect of driving inflation through the roof and we now have a spiraling debt and spending problem in this country. There was an era when 3M Island had an accident and we hysterically said we're going to destroy the entire country if we keep doing nuclear development. Meanwhile, other countries raced ahead. The cost to produce a gigawatt of nuclear power in the US today is like 15 billion dollars."
+    },
+    {
+      "start": 1003.519,
+      "end": 1028.319,
+      "text": "The cost in France is four and the cost in China is one. I think we're in this hysteria phase of AI dumerism. I I think once you're in this phase, it's very hard to get out because it basically becomes the default uh social system. Everyone says we are facing an existential threat. We are all going to die if we don't do something about it."
+    },
+    {
+      "start": 1025.839,
+      "end": 1061.039,
+      "text": "If we don't stop it. And the absence of proof that we're not going to die and that we have absolute security lets the doomsayers get away with the compounding effect of getting all of the social systems and social networks activated, which is where we're at right now. The majority of Americans, this is why data centers pull at 80. And people believe very deeply that we're going to die. And I think that there's like a deep unconscious rooting to all this. Humans are primates living in a cave. And we're deeply scared of what we don't know, what we don't see, and where we haven't been. And where we're going is a place"
+    },
+    {
+      "start": 1057.84,
+      "end": 1077.6,
+      "text": "we've never been. And it's scary. And in this era when people thought that the world was flat and you would fall off the edge of the world, it was scary to sail west because you would go off the edge of the world and you would never make it back. And then Columbus did it and hit some land and lo and behold, the new world was discovered."
+    },
+    {
+      "start": 1075.76,
+      "end": 1106.559,
+      "text": "And I think that we've had many moments like this in human history where we're kind of like a pioneering species. But pioneering is not everyone's pioneering. The majority, the vast majority of people convince each other and convince everyone that we have something deeply threatening us and we're always facing existential threat. It is rooted in our beings as a species. It is deeply deeply rooted. It's what's created survival instincts for us over generations and millennia."
+    },
+    {
+      "start": 1103.12,
+      "end": 1136.559,
+      "text": "But it takes just, you know, a little bit of pushing and someone gets to the pioneer and the new world is discovered. But it's because you haven't been there. It's easy to say there's dragons, you'll fall off the end of the world, we're all going to die, climate change will destroy us all. And on and on and on. CO will wipe us all out. And I think we're kind of in that social panic phase right now. And we're told we have to listen to the experts once again. And in this case, the experts is a six-w week employed individual who has not had a real job for very long and worked at an"
+    },
+    {
+      "start": 1134.16,
+      "end": 1175.919,
+      "text": "NGO whose literal job was to scare the out of people to stop doing AI development. And this individual went in and did six weeks of work, came out, and suddenly the whole world says this is an expert. Bernie Sanders says this guy's the expert. That once again we all have to listen to. Now I think it's important to note one thing. We we could sit here and argue that we should follow the precautionary principle. This idea that if something is existential to us, we should take precaution and we should take our time and we should slow it down. But the difference here is that in order for recursive self-improvement, which is AI that continuously improves"
+    },
+    {
+      "start": 1172.32,
+      "end": 1200.8799999999999,
+      "text": "itself and its capacity, reaches um that moment where that happens, you really just need an adequate amount of power, a set of chips, and a connection to the internet. You don't need to be approved by the US government or anyone else because you could do that anywhere on planet Earth. And as we'll hear about at the summit next week, there are technologies now that are reducing the cost of power per token of output by 10,000x."
+    },
+    {
+      "start": 1199.28,
+      "end": 1226.0,
+      "text": "And there's enough compute out there that's publicly available that's floating around. Someone is going to stand up a data center or a set of computers, doesn't even need to be in a data center, and they are going to develop a system that's going to recursively self-improve. And it is going to happen. So if the US wants to kind of stop all quote development and make it illegal for people to use computers to effectively write speech, which is what software is, is writing the speech, we can go ahead and do that."
+    },
+    {
+      "start": 1224.72,
+      "end": 1262.64,
+      "text": "And then someone else will have this capacity and we will be the tribe in the Amazon that has never seen civilization cuz civilization will evolve all around us. And somewhere in the world that has this technology, it will evolve. It will have a capacity to advance and the US will be left behind. So you can have the dumerism precautionary principle, but the reality is in the world today, we don't have the ability to control. And at the end of the day, I do believe that the fundamental motivation is a system of control. Because think about this, this guy's going on all these non- tech podcasts telling people they're going to"
+    },
+    {
+      "start": 1260.4,
+      "end": 1292.8799999999999,
+      "text": "die. And he's saying one thing at the end of the day, and so is Bernie, and so are others. Give power to X to control the development of AI. give power to someone to control the development of AI. Someone has to be given that power. Someone is being given that control. And all of them will have a different answer on who it is. Some regulatory body, the senators, some new agency, but they are centralizing control and power to some individual or set of individuals."
+    },
+    {
+      "start": 1291.679,
+      "end": 1336.24,
+      "text": ">> Can we build on that point? Let's imagine we went through that whole COVID period with AI. You know AI happened a little bit after the whole co thing but let's assume that AI had happened before and furthermore we had a federal department of AI. Imagine that whole trust and safety regime that happened during co where social media was basically censored in cooperation with the federal government. The white house told you know it was then Twitter and Facebook that these accounts are dangerous. Disinformation is dangerous and people who had alternative or dissident viewpoints on the origin of COVID or the efficacy of the vaccines, they were suppressed. Imagine if that"
+    },
+    {
+      "start": 1333.44,
+      "end": 1361.9189999999999,
+      "text": "had happened during AI, right? You'd be asking your personal AI model, hey, should I get the vaccine? What are the risks versus benefits? Do you think it would tell you the truth? No. It would basically give you the official perspective and the government will have pressured through the federal department of AI. The FDA would have set standards for these companies saying you can't allow disinformation through your models, right? That's one of the harms that we want to prevent."
+    },
+    {
+      "start": 1359.84,
+      "end": 1399.9189999999999,
+      "text": "And so, you know, think about how much more totalitarian that whole episode would have been if, you know, again, instead of turning to social media or the web for our answers, we were getting them from our personal AI. And that personal AI was being influenced through the government to give us basically official answers. I mean, you can see how dystopian it's going to be. And that that is where an FDA will take us. And that is also the problem with open source because open- source doesn't have the individuals employed because remember open source is a communitydeveloped effort. So community members contribute code and develop something. It might be a single company"
+    },
+    {
+      "start": 1398.48,
+      "end": 1428.559,
+      "text": "but technically open source can be forked and developed and pursued down different paths. This is what happened with Android. There are lots of different forks of it and so on. But with open source, there is no infrastructure, corporate infrastructure to go and do the regulatory submissions and do the sort of review that's being proposed with AI. That is the biggest thing to take note of because open source is what drops the cost of AI by 50x and makes it available to everyone."
+    },
+    {
+      "start": 1426.559,
+      "end": 1466.559,
+      "text": "So everyone can benefit from AI and no one gets rich. We all get rich with open source. I don't own any shares in Open AI or Anthropic. In full disclosure, I don't care if either one of them win. I use both those products. I think they're both fantastic. Good for those companies, good for those leaders. I also use open source. And I think open source is the game changer because it does give everyone the ability to get wealthy and progress and make more income and have more freedom to operate in the world uh with AI. I'm a big advocate for for open source, but I do worry that this system of control, doing"
+    },
+    {
+      "start": 1464.4,
+      "end": 1490.8799999999999,
+      "text": "quote regulation, doing review, slowing it down, that means someone gets to decide when it gets to speed up again. That means someone is controlling the the gas pedal, which means someone gets to say open source is not submitting to the regulatory process. Therefore, we will ban open source. And as soon as open source is banned, you have now created a monopoly that is in partnership with the federal government."
+    },
+    {
+      "start": 1487.76,
+      "end": 1520.799,
+      "text": "And you now have a centralized system of global control that is realized from this sort of an approach. And I'm not saying that AI shouldn't be tested and that we shouldn't confirm that AI is safe and that we shouldn't build safety systems and that we shouldn't be responsive and thoughtful about where things are going. And there's a lot of ways to do that. A lot of ways to do that and we should do them all. But to create systems of control and centralize them and get rid of open source is where this gets to. And that is not a world any of us should want to live in."
+    },
+    {
+      "start": 1519.039,
+      "end": 1550.08,
+      "text": ">> Well said. Well said. I you know I just want >> that is where it's headed. I mean no look this is a doomer scop and the ultimate target is open source. That's what it all comes down to because that is what an FDA will ultimately ban. They won't call it a ban. They'll just say look we have to apply the same standards to open and close models. What are those standards? Dario has already testified before the Senate. He says that models are dangerous if you can't centrally monitor and control them and roll them back. that is technologically not feasible with an open model because once the weights are published to the public"
+    },
+    {
+      "start": 1548.64,
+      "end": 1585.8400000000001,
+      "text": "domain, they're out there. They can't be rolled back. And so we're going to have to prevent those weights from being published or used or hosted. That'll be the way that they deal with this. And so look, that ultimately is the target. And you can see that there's an alliance forming, right? You have this doomer community who are kind of these like highly ideological, the sort of EA rationalist group. They favor centralized status solutions. Then you got politicians like Bernie Sanders who like the fear because again it grants them more power. So it's more power for the government. And then you know you got groups like Open AI frankly seems to"
+    },
+    {
+      "start": 1583.679,
+      "end": 1616.0800000000002,
+      "text": "be running an anthropic slipstream right now from a red capture standpoint. I don't think they're as doomer as anthropic but they can see the benefit if the federal government effectively creates a moat that you know there's there's huge economic benefits to essentially creating a duopoly situation. So, some of these players are going to reap e economic benefits. Some of them are going to reap power benefits. Some of them are just, you know, latent totalitarians and they like the idea of socially engineering society. So, they're on board with this."
+    },
+    {
+      "start": 1614.799,
+      "end": 1653.8400000000001,
+      "text": "And that's kind of what's happening right here. And the whole idea is to panic the public to stampede us >> into this FDA. >> I think what we're seeing here um is either this is a conspiracy theory that is being debunked in real time. acts like we went through co we've had other conspiracy theories uh that have come true being influenced by the FBI turned out to be true Twitter files all that good stuff now you have a group of people in the public who are on the alert for a conspiracy theory so we have to ask ourselves is this actually a conspiracy theory that's being debunked in real"
+    },
+    {
+      "start": 1650.559,
+      "end": 1680.48,
+      "text": "time by people like us and the broader public who's starting to say like is this real or not are these guys performative or not or we actually have to asked the question, do these people believe what they're saying? And it's one of these three scenarios. I think they either believe what they're saying and they're right, right? So, they believe it, they've seen something that we can't see because they're in the frontier labs and this could end us. The second scenario is they believe what they're saying and they're wrong and they have some level of psychosis."
+    },
+    {
+      "start": 1678.799,
+      "end": 1713.6,
+      "text": "That's my leading theory. I think these people believe what they're saying and they have psychosis. or to your point Sachs there are some and this is scenario three they're involved in some coordinated scops with the goal of banning open source getting regulated pulling up the ladder behind them and then you have to ask is Jacob part of this sachs or is he just like a useful idiot in all this so they're identifying who are the people who have the psychosis and let's make let them speak for the company but >> no look it doesn't it doesn't all have to be a conspiracy so in other words I think it's very clear based on who"
+    },
+    {
+      "start": 1711.12,
+      "end": 1740.159,
+      "text": "amplified this post and when they did it that there was an organized PR campaign here, right? This wasn't just a random resation. >> Yes. And the the stats Yeah. the facts towards that. Yes. >> We know he pre-briefed the Wall Street Journal. And I think we can also say that these major doomer groups by amplifying his tweet within 10 to 15 minutes of him posting it on an account that had no tweets and no followers, they were alerted to this and probably participated."
+    },
+    {
+      "start": 1738.64,
+      "end": 1769.44,
+      "text": "If not in the creation of the tweet storm, certainly in the amplification of it. So we know all those things. But do I think that Bernie Sanders is in on it? No. I think probably what happens is someone in these groups is already working with his staff or they have a conduit. they have a relationship and they get it to him very quickly because it serves his agenda. So what I'm saying is there's a lot of like overlapping agendas here where there's some people have an economic interest and some people have a power interest and there's going to be a division of the spoils in their view of the world. AI is going to"
+    },
+    {
+      "start": 1767.36,
+      "end": 1802.559,
+      "text": "be very centralized. We're going to have a duopoly. the duopoly reaps the economic benefits and they give big political donations and they'll do the dirty work of suppressing speech because again on that side of the ledger you can circumvent the first amendment and then on the government side of the ledger you'll have those people who exercise control over our lives through the whole FDAI so you kind of get this like division of labor in our system between aligned groups >> okay but look I don't you know I don't think we have to get into the conspiracy I think we should just ask like what is these people's track record of being"
+    },
+    {
+      "start": 1801.039,
+      "end": 1827.5200000000002,
+      "text": "correct. I think it is worth asking that. >> Well, again, they >> these are the same people. Let's just go through it. Let's just go through their track record. Okay, these are the same people who said GBT2 was too dangerous to release. Okay, O for one. These are the same people who said thinking models were too dangerous to release. Remember, you know what did I see? He saw the you know the first reasoning model >> that was too dangerous to release for two. Okay."
+    },
+    {
+      "start": 1825.76,
+      "end": 1845.12,
+      "text": ">> They said totally right. You're totally right. >> They said that we would see cyber attacks. >> They said that this would cause cyber attacks that would bring down the whole banking system. Has not happened yet. There are cyber risks to be sure, but the best way of dealing with those cyber risk is by using AI swarms for cyber defense as well as cyber cyber."
+    },
+    {
+      "start": 1843.6,
+      "end": 1866.72,
+      "text": "Yes, exactly. Look, the only way to solve AI cyber attacks is with AI powered cyber defense. We all know that. Then you look at the job loss >> claims where Dario himself said that by now we'd be at I don't know >> half of all gone entry level work next year. Yeah. >> Yeah. And uh overall unemployment levels of 10 to 15%."
+    },
+    {
+      "start": 1866.0,
+      "end": 1888.3200000000002,
+      "text": ">> Yeah. Half >> there's no evidence to that quite the contrary. It's all been job gains. >> Economy is doing well. So again like what are we on now? 0 for four. So, you know, again, these like doomers just move from claim to claim and as the last one gets refuted, they move on to the next one. And again, my point is what what has this guy told us that is new here?"
+    },
+    {
+      "start": 1885.36,
+      "end": 1907.2,
+      "text": ">> We're still struggling to get autocomplete for Python. >> You can't book a hotel room. That's actually the hardest one. Try to book a hotel room using AI. It does not work yet. >> You know, autocomplete on Python is pretty good. It's not perfect. Still not. But it's going to kill us all. Dash might get us a burrito."
+    },
+    {
+      "start": 1904.159,
+      "end": 1932.799,
+      "text": ">> If you guys dare to book me in a non-penthouse suite at the Bratison. >> Are you sweet shaming me again? >> You know what I mean? This is a joke. No, it's a joke. It's a joke. >> If you think back on the course of human history and you think about the moments >> where systems were set up that created power structures that didn't exist before, they were all predicated on the simple notion that there's an existential threat."
+    },
+    {
+      "start": 1928.24,
+      "end": 1970.159,
+      "text": "You will all die. a deity, a god, some powerful system will come in and destroy you. >> Weapon, right? >> And because I can protect you, you must follow me. You must do what I say. And it is the common system of human power and control structure to tell a narrative of existential threat and leverage that narrative into your solution being the path to protection and safety. And that is what sells votes. But it is also what created all these early structures where early religious institutions ran all the countries, told all the people what to do. Were the power and command centers of the world. And in many parts of the"
+    },
+    {
+      "start": 1967.919,
+      "end": 1996.24,
+      "text": "world still are. And when you talk about, oh well, if you don't listen to me, God will damn you, God will shame you, God will destroy you, or some deity will come down and get you. This is the same psychological concept, which is that there is a story being told that you will all die. There's a 10% chance you will all die standing at the pulpit banging hard and if you don't let me control it, if you don't give me the power and the authority to control it, you will all die. Give me that power."
+    },
+    {
+      "start": 1994.96,
+      "end": 2022.1589999999999,
+      "text": "The only other time I can think of this happening would be nuclear weapons, uh, which we did get ahead of. But putting that aside, a cyber hack is not going to destroy society. So, how do you get to 7 billion people or a billion people are going to die? Really the only known scenario here is I guess it creates a boweapon and kills everyone or Terminator. Let's play your game."
+    },
+    {
+      "start": 2020.48,
+      "end": 2043.1200000000001,
+      "text": ">> Okay, so my game Nick, do you have any music? >> Oh, it's like a end humanity. How do we all die? >> Okay, guys. This game is called How Do We All Die. In this game, we will go around and steal man. The concept that there's a 10% chance that we all die from AI. What is your most likely path to human extinction? Jal from AI. Go ahead."
+    },
+    {
+      "start": 2040.88,
+      "end": 2082.7200000000003,
+      "text": ">> I'll take human extinction for 800. You always wanted to be the the host of Jeopardy. That would be a great moment for all of us. Um I'm going to go with Skynet and Cyberdine Systems. This was the if if people forget, but at the end of Terminator 2, they got the ARM and one of the chipsets. And then cyberdine systems built for NORAD uh which controls weapons and decisions to fire off nuclear bombs. And there was Miles Dyson. He was the lead researcher. He's the Jacob. He's the Daario and Anthropic. And that engineer studied the parts that came back through time. In this case, this would be studying the"
+    },
+    {
+      "start": 2080.079,
+      "end": 2111.3590000000004,
+      "text": "LLM. And then he reverse engineered it. And then he empowered NORAD to be uh to build a defense system powered by AI. And when it became sentient, it then tricked the Russians and started the nuclear holocaust. That's the number one way we all die is that they somehow used Claude inside the military to do autonomous weapons. It's the only way that this actually happens in my mind."
+    },
+    {
+      "start": 2109.04,
+      "end": 2152.48,
+      "text": ">> Jimoth, do you have a how do we all die theory? How do we all die for 800? >> The best example I could get is that there are some internetconnected bioreactors with internet connected robots. Okay. and access to all of the precursor materials and that the AI hacks the robots to take the precursors and use the bioreactor that it then controls again over the internet to create some kind of virulent"
+    },
+    {
+      "start": 2150.96,
+      "end": 2176.0,
+      "text": "airborne mechanism that spreads rapidly and violently all around the world. So it has to have an enormously long halflife gets into the jetream can kind of go all over the world and that when we inhale it we die. >> That is the now again that would need all of these other things. >> So contagion by robots and a sentient AI."
+    },
+    {
+      "start": 2175.04,
+      "end": 2210.6400000000003,
+      "text": ">> Again you'd also have to have bioreactors and and precursors which is >> it's a couple of step. What do you got saxs? Well, look, the problem with these types, first of all, I think it's kind of a dumb thought experiment to make arguments that you don't believe in. But look, the problem with like the cyber example or the bio example, it's like, yeah, is AI going to allow for misuse in new kinds of ways? Will there be new AI powered cyber attacks? Could there be new viruses created using AI to, you know, create novel sequences? Yes, those are risks, but at the same time, you can use the same technology to create"
+    },
+    {
+      "start": 2207.839,
+      "end": 2243.76,
+      "text": "antidotes and prevention and cures and all that kind of thing. And so, it's like a lot of things where yeah, there are tools that can be used by bad actors, but there are a lot more good actors than bad actors out there. And it's illegal to use them for bad actions. And, you know, it was possible to to break into systems and hack before AI. And a lot of people who could do it didn't do it because they didn't want to go to jail. And so again, with the combination of the tools being used for good and then the legal penalties for doing bad, these are, I think, things that we can control."
+    },
+    {
+      "start": 2242.079,
+      "end": 2260.48,
+      "text": ">> Part of the argument that I wanted to make in going through how does everyone die is it is very hard to have a clean scenario given the human in the loop dynamic and the air gap dynamic. >> Explain both of those, please. >> Well, hold on. What's your best answer, Freeberg? What's your best answer? What's the best thing you can come up with?"
+    },
+    {
+      "start": 2259.68,
+      "end": 2298.48,
+      "text": ">> How do we all die? >> I think shutting down financial networks, but then there's hard backups. Like there's there's a solve for this because a lot of the financial institutions already have uh nuclear response scenarios where they they make physical hard copies of everyone's assets and records. They sit in different locations. There's a lot of systems of redundancy that are airgapped that are designed to not be connected and not hackable and that of a human in the loop process where there's an actual human process involved. So I think a lot of our critical systems are importantly set up in such a way that they have humanbuilt redundancy for the notion of"
+    },
+    {
+      "start": 2296.88,
+      "end": 2325.839,
+      "text": "uh cyber defense for the notion of hacking effects nuclear all these sorts of things happening because my biggest thing is like if everyone lost all of their digital assets maybe that's a world that falls into chaos and people start to attack each other and whatnot but I think it's very important to take note as I've thought about this a lot there's so much that's human in the loop That is also what makes AI so hard today to be successful from a productivity perspective. Like we all experience it."
+    },
+    {
+      "start": 2323.359,
+      "end": 2349.359,
+      "text": "AI can do these amazing things. But if you need a human to do something as part of the process, AI doesn't really do that much for you. Let's say you want to get a toiletry kit brought up to your room at a hotel. You tell your assistant on your phone, get me a toiletry kit brought up. And the AI figures out how to connect to the front desk and call the guy and tell him. And it's all digital. It's all automated. The AI does all these amazing things that it couldn't do a few years ago. But you still need the guy to bring the toiletry kit up from downstairs."
+    },
+    {
+      "start": 2347.92,
+      "end": 2370.0,
+      "text": ">> Did it work? Did you get the intimacy kit or not? >> Well, this is the point. This is this is the hard this is the longest pole in the tent. It's like getting the guy to actually come upstairs and bring you the freaking toiletry kit. And there's a lot of examples. >> Autocomplete doesn't work yet. >> So many I need to explain two terms to the audience. Air gap means it's not connected to the internet. Therefore, AI can't get it. And the human in the loop."
+    },
+    {
+      "start": 2368.0,
+      "end": 2394.8799999999997,
+      "text": "The example would be a two key system that you see in every movie when you're trying to launch a nuclear missile. to the human the keys in and turn it at the same time based on reality. >> You guys are actually not confronting the core argument that I've heard him make. I mean, so if we want to really steal man it, I mean, the core argument that he's making is about RSI. It's about recursive self-improvement."
+    },
+    {
+      "start": 2392.64,
+      "end": 2420.079,
+      "text": ">> And his argument is that the capabilities are improving in such a rate that very soon we're going to be able to fully automate an AI researcher. So in other words, we're going to have a AI that does the job of an AI researcher. And so the AI can create its own training run for the next model and then when that model gets created, it will then train the next model and so forth and so on. There'll be no human in the loop and it's just off to the races."
+    },
+    {
+      "start": 2418.16,
+      "end": 2448.8,
+      "text": "That's basically the argument. And I think the counterargument that you guys are making by saying look, we haven't even got autocomplete, right? Is we are nowhere near removing the human from the loop of AI development >> or even AI applications is my point. Yeah, >> we can't get mundane tasks done yet. Therefore, how are we going to have a task that kills all of humanity? Even if you put it at kill one person, can you get it to kill one person? Right? That's also our insurance and our security against AI taking over the world."
+    },
+    {
+      "start": 2447.359,
+      "end": 2464.16,
+      "text": "Because even if you want to make a meeting, a decision at your company, you still need a meeting of the decision makers to make a decision. The AI can do all the analysis, but you still need to get the humans. They got to wake up, take a drink their coffee, come to the office, sit down in a room together, and make a decision. So you got that 16 hour window between decisions that's happening."
+    },
+    {
+      "start": 2463.92,
+      "end": 2504.1600000000003,
+      "text": ">> Yeah. >> And so even if the AI is infinitely more intelligent than any human, humans are still running their day-to-day processes in a human time scale. And that's what also protects us. >> The part I don't understand Sax is >> if these geniuses are building such amazing tools. Did they ever think that when they set it on its, you know, loop and they actually built AI researchers, which I believe they will, and and they they certainly have done some approximation of that to improve large language models. They're having AI make them better. That's why they're getting released quicker. That's why they're building they're solving hard math problems like which we'll get"
+    },
+    {
+      "start": 2501.839,
+      "end": 2537.359,
+      "text": "to in the next story. You ever think of putting in there hit spacebar to continue or allow the human in the loop to say yes you may continue your run like it's pretty obvious that if you try to let it right now if you try to let Claude or open AI use your browser it's like can I open your Gmail can I submit the form and then it's like I don't want to book the ticket for you but I'll select the flight for you then you have to book you can build these things directly into the software we're acting as if we're not building the software and we have no control. It's a false premise."
+    },
+    {
+      "start": 2535.44,
+      "end": 2577.6800000000003,
+      "text": ">> Yeah. So, I mean, look, I think even, you know, someone who's pretty inconce in the doomer community like Jack Clark, who's one of the anthropic co-founders, and I think he's running their foundation, who's like pretty hawkish on on these questions, meaning pro- doomer. He distinguishes between what he calls prosaic RSI, prosaic recursive self-improvement, and then RSI maximalism. And the prosaic kind is when the AI researchers are using AI to do part of their task like I don't know writing 80% of their code. So it speeds them up. Okay. And we can all see that the prosaic recursion is happening. RSI maximalism is is more about what you're"
+    },
+    {
+      "start": 2576.4,
+      "end": 2608.4,
+      "text": "saying where there's no human in the loop anymore that the the AI devises its own training run completely and pushes the button on doing it and then has the next run and the next run the next run and it just it's off to the races, right? That's the takeoff. There are so many ways of us preventing that and I don't know why any lab would want to do that. I don't know why Anthropic would want to do that. I don't know why OpenAI would want to do that. I don't even necessarily think that Chinese companies would want to do that. So, you know, as we get closer to that point where"
+    },
+    {
+      "start": 2606.72,
+      "end": 2647.04,
+      "text": ">> Did you unplug it? >> Well, no. I mean, they did they do experiments like this. The whole >> thing did Southbin just comes and unplugs >> unplugs it. Yeah. >> No, but they literally we went through this with Dark Kesh's post last week which was OpenAI set up >> this recursive like here's a bunch of goals, get better at it, work with each other and they just watched it work like okay just watch it work and maybe if there was a liability that anthropic and OpenAI are responsible and the researchers who set these models into recursiveness sacks, those researchers themselves are responsible for what happens and the company's responsible"
+    },
+    {
+      "start": 2645.359,
+      "end": 2675.3590000000004,
+      "text": "for what happens. and along the way they're going to get speeding tickets or shut down. >> Agents working together as a swarm is so far removed from AI being able to do its own training run. I mean, these are just two totally different things. And look, it's certainly something we should keep an eye on. But again, he's going from this idea of we now have AI as a tool to make AI researchers more productive to we're going to get to RSI maximalism and then from there everyone's going to die."
+    },
+    {
+      "start": 2672.56,
+      "end": 2696.48,
+      "text": "And there are so many intermediate steps where you have to show how we would get there. Like what Bill Gurley said is, okay, wait, let's slow down this argument and let's just talk about like all the intermediate steps between those things and why they would happen and then the interventions we could take if we ever got near that point to stop them from happening. And then the argument starts to fall apart."
+    },
+    {
+      "start": 2694.4,
+      "end": 2720.8,
+      "text": ">> Yeah. It's just 50 way points along the way to Chimat's, >> you know, computerenerated boweapon being released into wet markets everywhere by robots. >> Again, my example is so pathetic >> because as Freebrook said, there's just so many steps between here and there that it's just so implausible. Again, >> and even if you got to there, you haven't even established how everyone would die."
+    },
+    {
+      "start": 2718.64,
+      "end": 2755.52,
+      "text": ">> Yeah. And in a world where there's any other kind of model that's out there, the fact that it, as you said, Sax, couldn't actually create a vaccine at the same time >> and someone else is going to be doing it. And if you try and create one system of control for some of it, the recursive self-improvement scenario will play out somewhere on planet Earth. And when that happens, when that person or that organization or that country now has that capacity, they have now a huge technological advantage. And then it becomes very hard to catch up. And we've seen this time and time again with technological races. This is a moment"
+    },
+    {
+      "start": 2753.119,
+      "end": 2791.2799999999997,
+      "text": "that the United States would be deeply deeply mistaken to kind of write off. And let me just say one more thing about open source that I didn't say earlier. I want people at home to understand what open source really means. With open source, you don't need a data center. You don't need a third party billionaire getting richer. All of these kind of retorts about why AI needs to be stopped. It's for data centers. It's for rich people getting richer. If you get open source AI, you can install it on your computer at home or on your phone and you can run it on your phone for free and you now"
+    },
+    {
+      "start": 2787.28,
+      "end": 2830.4,
+      "text": "have an open-source AI agent model system that can do all sorts of things for you. It can book your travel. It can do work for you. It can make your life easier. It can do all these amazing things in terms of productivity. Open-source AI is critical for everyone to benefit from this technology and keep it from being centralized and controlled by a handful of companies and individuals and a small set of governing officials. Open source needs to thrive and if you give power and control systems over to governing people, open source will die and you will end up with more power and more of an oligopoly than"
+    },
+    {
+      "start": 2828.4,
+      "end": 2846.88,
+      "text": "you have ever imagined. Who's positioned here? What impact does this have? I'm being obviously a little bit playful here, but how does this impact the anthropic IPO, which was one of your original points here, Shimoth 88% chance they're going to go public right now according to Poly Market. So, let's pull up that chart for a second here."
+    },
+    {
+      "start": 2844.96,
+      "end": 2886.0,
+      "text": ">> When you are in a quiet filing period, just to give you the the technical understanding, there is a an important back and forth that happens between you, the filing company, and the SEC. Now, what is the SEC trying to do? They are pressure testing how you've written what your best understanding is of your business. And the reason they do that is that when the S1 flips public, that is meant to be this anchoring document that is supposed to be an extremely accurate then current snapshot of all the opportunities but also all the risks."
+    },
+    {
+      "start": 2883.839,
+      "end": 2921.5989999999997,
+      "text": "And so you now are in this very awkward position. You know, Sax's tweet is actually really important. It's what are we all to believe? And are we to believe that there is something that's extremely dangerous that's hiding inside this company because this person that quit said it and then it was amplified by a bunch of people that are currently then there. If it's true, now you have to go back and actually say, are these risks properly disclosed? And if so, what should the investors do in reaction to it? And I'll tell you what they'll do."
+    },
+    {
+      "start": 2919.28,
+      "end": 2961.2000000000003,
+      "text": "They'll demand an enormous discount. And the reason they'll ask for an enormous discount is the other part of what Sax and Freebrook said, which is it creates massive longtail product liability risk because you're effectively evading a known major risk. Then there's the other path, which is you have to completely disavow this person. Now the reason that they can do that is if they actually believe that this is a little bit and it's a scop. So that allows the IPO to go more smoothly. But then the other part of it is then you'll have a plurality of employees inside of anthropic revolt because they unless they're lying they actually believe that"
+    },
+    {
+      "start": 2959.52,
+      "end": 2988.079,
+      "text": "this is a huge risk and if you disavow it they're going to feel enormous tension. So I think that anthropic leadership is caught in an extremely difficult situation. The SEC is caught in an even more difficult situation, which is how do I deal with these disclosures now? What does it No, no company's trying to go public and raise money, a very capitalist scenario, by also talking about how they're trying to destroy humanity. Nobody has ever done that. So there is no legal precedent for this."
+    },
+    {
+      "start": 2985.839,
+      "end": 3006.96,
+      "text": ">> There is a risk factor section. Uh Sachs, >> but Sax said risk factors are extremely benign. These are superficial risks where you talk about if this happens and that could happen. If you know demand goes away that could happen. typical risks. Okay, just explain the typical risks, Jason, that they would have had would have said >> competition."
+    },
+    {
+      "start": 3004.8,
+      "end": 3031.7599999999998,
+      "text": ">> Nvidia may not give us the chips. There may be other models that come around. >> This is not a risk that anybody actually writes in there as a 10% chance because a bunch of employees now, >> let me ask Sax, Sax, with all these employees coming out saying all this kind of stuff. They represent the company. They're resigning on behalf of the company. Do you think the S1 is being amended right now to include this chaotic these chaotic tweets?"
+    },
+    {
+      "start": 3029.92,
+      "end": 3066.5589999999997,
+      "text": ">> I think they have to. Yeah, I think I think so, too. Because here's the thing. The key tweet actually from a legal standpoint wasn't Jacob Coxin's tweet of resignation. It was Evan Hubinger's tweet >> endorsement. >> Endorsement. Co-signing. >> Yes, that's right. because this guy is still a senior executive or senior alignment executive at the company. He's managing one of these safety teams and he is co-signing and endorsing what Coxin is saying and then embellishing it by then putting this greater than 10% chance number on it which just makes the thing go super viral."
+    },
+    {
+      "start": 3065.52,
+      "end": 3092.3999999999996,
+      "text": ">> Let me ask you a question for you. >> So now hold on. So it crosses over. If it was just Coxin you could just say oh this is just some disgruntled employee. If Anthropic was a normal company, what would a normal company do in that situation? They would say, \"Look, this guy just joined a short time ago. He was barely here long enough to find the bathroom.\" Okay. He probably joined the company knowing he was going to resign and make himself into this >> disavow him."
+    },
+    {
+      "start": 3090.88,
+      "end": 3130.7999999999997,
+      "text": ">> Yeah. He had an intention to turn himself into an AI >> safety celebrity. He's certainly availing every opportunity to go on every talk show right now except ours uh to basically promote himself. So this guy's a self-promoter. He did not actually reveal anything damaging to our company. He's calling himself or the media is calling him a whistleblower, but frankly all he's got is vibes and it's hyperbolic and it's ridiculous and we're moving forward. Okay, that's what a normal company would say. But they won't say that because fundamentally they agree with him and their employees are saying they agree with him and he's amplifying their message and frankly"
+    },
+    {
+      "start": 3128.64,
+      "end": 3160.96,
+      "text": "whether they plan this or not they are happy that he's doing this. Why? Because they like the political outcome that he is steering the country towards right. They want an FDA. They actually like what Bernie Sanders is doing. They like the fact that 30 Democrat politicians quote tweeted to this guy. This is part of their regulatory strategy. So to go back to what Jamas said, there are now legitimate questions here of did they violate their quiet period? Maybe Daario didn't. Daario hasn't said anything."
+    },
+    {
+      "start": 3157.92,
+      "end": 3202.0789999999997,
+      "text": "He's been very quiet. But we know this Hubinger guy, did he violate the quiet period? Is he a sufficiently important executive? And again, this is this all part of their strategy? >> Well, let me just talk from very basic principles here. Everybody who joins a company signs a non-disclosure. They sign a non-disparagement. They have a corporate communication policy, especially they have the legal department talk to every employee and explicitly tell them, \"Do not talk because we're in the quiet period. We're leading up to an IPO. Everybody keep your mouth shut and do not talk about what's going on here. That is job number one.\" What is going on with the"
+    },
+    {
+      "start": 3200.319,
+      "end": 3241.0400000000004,
+      "text": "management of Anthropic that they're allowing people to cosign this, retweet it? they should do what Apple and Steve Jobs did or Tim Cook did. Nobody in the company speaks for Apple unless it's Tim Cook and unless it comes from the corporate communication department who's running. >> We don't know that they haven't said that. All we know is that there is a pylon that's happened. The brush fire was initiated by a disgruntled ex employee who was kind of like floating around and was there as SAC said barely long enough to find the bathroom. But the problem was then a bunch of insiders piled on and now they have this issue"
+    },
+    {
+      "start": 3238.319,
+      "end": 3267.8390000000004,
+      "text": "which is is it properly disclosed and then beyond that how will people view that disclosure? It there is no way that you can now have a disclosure like this and have it pass muster. Meaning you have people at the company saying there's a chance of existential risk and civilizational extinction. Downstream of that is that there is risk to individuals and individual lives."
+    },
+    {
+      "start": 3265.44,
+      "end": 3290.0789999999997,
+      "text": "Downstream of that are going to be cases where something bad happens because the AI said to do A or B or it was trying to give love advice, the person gets rejected, the person, you know, hurts themselves, self harms, whatever. There's going to be all of these issues, okay? The long tale of issues are going to be if social media is a guide, this will be as bad or worse."
+    },
+    {
+      "start": 3287.119,
+      "end": 3320.96,
+      "text": "Except in all of these cases, nobody at those companies actually thought they were doing something bad. >> We thought when we all worked there that this was legitimately good. There were these speurious things that brought that into question. Some of us talked about that at that point, but this was 10, 15 years into the journey, not when you were making it. Now, in the middle of making it, you're like, \"Whoa, wait a minute. This is going to kill a bunch of people.\" And then so what do you expect people to do if something bad happens to them or their loved ones? They're going to go back to you. It doesn't matter"
+    },
+    {
+      "start": 3318.88,
+      "end": 3337.8390000000004,
+      "text": "what the disclosure says and they're going to say, \"Excuse me, this.\" And what do you think a juryy's going to do in a jury trial? What do you think grand juries will do in the reaction? What do you think state AGs will do when they're trying to build their political bonafides? I think that this is an enormous problem for anthropic."
+    },
+    {
+      "start": 3336.319,
+      "end": 3378.96,
+      "text": ">> Yeah. And let me let me actually peel peel the onion on this one more layer which is you not only have employees of Anthropic possibly violating the quiet period by stepping out and co-signing this. You also have the fact that this whole resignation tweet storm was amplified by these groups who were funded by Yan Talon and Dustin Moskovitz who co-led the series A of Anthropic along with Sam Bankman Freed. It was an EA funded round, which is a really interesting detail in anthropics history that Daaria went to the EA mega donors for funding at the very beginning and that's part of why they have this culture. But think about their financial"
+    },
+    {
+      "start": 3375.839,
+      "end": 3414.799,
+      "text": "interest. They're on the cusp of making many billions of dollars, >> hundreds of billions. >> I mean, the series A will turn out to be one of the great venture investments of all time. And the groups they funded encode AI, the AI policy network, the AI futures project. These groups are funded by series A investors in anthropics. So this is getting like really twisted I think. Let me just say this makes no sense to me because we were sitting here less than a month ago, three weeks ago."
+    },
+    {
+      "start": 3411.599,
+      "end": 3455.2,
+      "text": "We had Gavin on the podcast and I don't know exactly when their quiet period started, but Daario thanked Gavin for a thoughtful exchange and he went and explained in detail all of their concerns and, you know, countered this claim that Gavin had that he heard from insiders that people inside Anthropic believe they were the last company standing, which is to say they would take all of capitalism and coalesce it into one company with their super intelligence and be able to beat every company on the planet. Freeberg at some point Daario believed he should comment on this. So where's the"
+    },
+    {
+      "start": 3454.88,
+      "end": 3479.76,
+      "text": "department? >> Anthropic did release a statement but it's basically >> andropic did but Daario did himself. The the CEO did >> the statement they put out is kind of this mealymouth like vague post about how they're a responsible actor or whatever. And again, it's basically more of the same from them, which is they have this fundamental tension. They're a frontier AI company that believes that frontier AI is inherently dangerous."
+    },
+    {
+      "start": 3476.559,
+      "end": 3505.52,
+      "text": "Okay? So, you know, where that obviously leads to is Bernie Sanders, which has shut it all down or at least stop it, right? But they don't want to do that for their own motivations, right? So, what they claim is we're uniquely situated to protect humanity. It's the savior complex. But the rest of us aren't buying that and we're not going to give them a monopoly because we think they're so virtuous. So their way of resolving the tension is not acceptable to the rest of us and that's the problem they have."
+    },
+    {
+      "start": 3504.16,
+      "end": 3547.839,
+      "text": ">> Here's their chief brand and communications officer Shasha responding to the clip from Allin. Daario has never said this complete utter nonsense and that was on August 14th after the show. And she's obviously Daario and her have not said anything right now. So maybe they weren't in the quiet period on October 15th and they are now. All right. Listen, in other news in AI, great discussion everybody. Open AAI says it solved a 200year-old math problem, but claims now are that uh somebody may have frontr run an actual scientist's work that was being done on open AI. So the Navier strokes equation written in the 1800s describes how fluids move."
+    },
+    {
+      "start": 3546.24,
+      "end": 3588.16,
+      "text": "Every aircraft pipe and weather model on Earth is built on them. And they apparently give us the history of this here Friedberg. A lot of people have been working. >> Look, I'm not the guy. These are methods for modeling fluid dynamics, partial differential equations. These are mathematical approximations of continuous things in physical world. And OpenAI's solution that they published, they said that they used a reported 130 billion output tokens to do the work between 10,000 agents that were spun up to work with one another. And I just did the math on this. Like the human equivalent hours is kind of the real estimate of what this work was that was done by"
+    },
+    {
+      "start": 3585.92,
+      "end": 3630.48,
+      "text": "these agents. Because it's not like the AI, and I think this is so important for people to understand. It's not like the AI had some stroke of genius, some magical insight that no human brain could comprehend. What happened was the AI just did a bunch of brute force work to come up with this answer. And the work was done across many many computers. 10,000 agents just means 10,000 applications running on a computer talking back and forth to one another sharing information, sharing analysis. And the equivalent, if you were to think about human work years, is somewhere between 50 and 500,000 years"
+    },
+    {
+      "start": 3627.599,
+      "end": 3669.44,
+      "text": "of human work with humans typing at 40 words a minute, you know, having mathematical problems, solving them with calculators, doing this sort of stuff back and forth. And you could probably reduce that down by call it an order of magnitude, but it's still in the order of tens of thousands of years of human knowledge labor. And I think that that's really what this indicates about AI. AI is a tool of leverage for humans. AI is not some magical genius super god that sits above us that understands things we don't understand. Every piece of the open AI message set that went back and forth between these agents is documented, can be read by people, can"
+    },
+    {
+      "start": 3667.04,
+      "end": 3706.48,
+      "text": "be understood by people, and we can see the work that the agents did over the equivalent of tens of thousands of human years of time to get to the solution that it got to. And so for me, the solution that was described here is more of an insight into what AI is rather than what AI isn't. AI isn't some mathematical god. AI is an engine that gives humans extraordinary leverage. And when you think about the application of this particular set of problems and what else we might be able to do with things that are similar is instead of spending years trying to design a new aircraft wing, a new aircraft wing can now be"
+    },
+    {
+      "start": 3704.16,
+      "end": 3736.96,
+      "text": "brute force designed on a computer in a matter of seconds or minutes. Uh new engine design, a new energy system design. AI is a tool of leverage that takes tens of thousands of years of work and reduces it down to minutes or seconds. And so just like any other technology before it, I think it indicates that this gives humans leverage. It seems magical at first. It seems unbelievable at first, but when you dig into what actually took place, what's really going on is just really intelligent systems designed to solve problems using human known techniques."
+    },
+    {
+      "start": 3735.76,
+      "end": 3756.5589999999997,
+      "text": "So I just want to kind of make my summary point on this whole thing. You guys are welcome to talk about partial differential equations and why they're so hard, but that that for me was my biggest takeaway on this whole thing. >> Yeah. The bigger issue here, Chimoth, >> your takeaway is that this was a very clever systems approach to brute force problem solving."
+    },
+    {
+      "start": 3755.76,
+      "end": 3777.04,
+      "text": ">> Yeah. >> The the other issue I agree with that here, Chimoff, is >> also Jason, the autocomplete still doesn't work. Yes, we solved one of the seven hardest math problems in the world. And you still can't get your intimacy kit from the front desk. >> And depending on the model, it still can't spell strawberry right >> or count to 100."
+    },
+    {
+      "start": 3774.4,
+      "end": 3815.6800000000003,
+      "text": ">> How many Rs in strawberry? >> Chap the other issue here which we've talked about here in terms of AI sovereignty using open source in the enterprise not trusting the frontier models with your data. When OpenAI came out with their solution, there was a claim that the original scientists working on this may have trained the LLM from OpenAI to make it easier for them to solve. And OpenAI posted the following statement. While unlikely, we cannot rule out that deidentified data derived from their usage, their being the mathematicians of our products helped improve our models."
+    },
+    {
+      "start": 3814.0,
+      "end": 3857.2,
+      "text": "So maybe you could speak on AI sovereignty here. Should any scientist or law firm or you know person working in biotech making new potato seeds, should they trust any of these LLMs with their proprietary knowledge for fear of having it cribbed into the core LLM? If you have incredibly sensitive proprietary data, you have to make a very difficult decision because the reality is is that something is leaking that there's remnant memory of how these solutions"
+    },
+    {
+      "start": 3854.72,
+      "end": 3899.039,
+      "text": "were solved that sits within these models even after the fact. There's a concept inside of these models called zero data retention ZDR. It's a best efforts basis. It's a commercially best efforts basis at that. They can't guarantee it. You know, simple example, you could say do not retain the decision-making process of this protein design. Okay? And it can kind of do that, but then if anybody that's using it clicks the like button inside of the chat window, that's not necessarily guaranteed. So there's all these vectors where this data leaks into the broad corpus and understanding that these models have. So if you believe that the"
+    },
+    {
+      "start": 3897.359,
+      "end": 3920.319,
+      "text": "information that you have is critically important, you cannot use these services the way that they're currently offered by most people. What you need to do is you need to stand up your own sovereign solution. What does that mean? That means you need to go to a vendor that you trust. Could be AWS in terms of the Neocalers, could be Nebus."
+    },
+    {
+      "start": 3918.799,
+      "end": 3951.92,
+      "text": "And what they will do is they'll stand up your own hardware and then you'll stand up your own models and then they'll provision those models to you and that's how you should probably be consuming it. >> And if you don't do that, you are creating risk. And look, let's be clear. Will a handful of CIOS get very publicly flogged and fired in the next year because they accidentally didn't understand this and just did an API deal because they wanted to feel popular and leaked data into these models guaranteed."
+    },
+    {
+      "start": 3950.16,
+      "end": 3990.079,
+      "text": ">> Why will people get fired? Chimoth what what's going to happen? >> The thing that's happening right now is that a lot of this AI understanding and awareness is bubbled up through the audit committees and the risk committees of public boards. Who are those? Those are a handful of directors who are responsible for understanding the IT posture, the security posture of their business and then they disclose that back up to the board and then that understanding and awareness is what gets signed off and then submitted back to the SEC in these filings. They also have these consultants that help them folks like Ernston Young, Deote and others. Increasingly what we are all"
+    },
+    {
+      "start": 3987.68,
+      "end": 4017.5200000000004,
+      "text": "learning is that ZDR is not an effective solution and there's a ton of leakage. And so what's happening now Jason is that that information and that awareness is bubbling up through the risk and audit committees of these boards. It's now going to the broader boards and now CEOs understand that hold on a second my information could leak. So now they turn to their CIO and say okay whatever you thought was happening we now clearly know that it's not. What is your answer?"
+    },
+    {
+      "start": 4014.48,
+      "end": 4050.079,
+      "text": "And it's when that happens or when all of a sudden they'll have to disclose some critical IP was leaked into a model or that they don't know whether it was or was not and all of a sudden something similar appears on the other side that's when shareholders will be really upset because they'll say guys when open AI even tells you that they can't guarantee it and you have closed your eyes and assume that your information isn't leaking what are we to do and if that decays and erodess my share value that I purchased from you assuming you were going to have your hand on the switch."
+    },
+    {
+      "start": 4047.92,
+      "end": 4080.8799999999997,
+      "text": ">> That's where folks get fired and >> yeah, you know, shareholder lawsuits and it's going to be a mess. >> What does it mean for frontier models in terms of this trust leakage etc. Another reason to I guess embrace open source in the enterprise and individuals who are doing important work >> by the way. So it doesn't have to be open source. It just has to be your own entire well it doesn't even have to be on prem. It's effectively like your own VPC. You must go straight to the bare metal on your own terms. You need to control everything. You can work with folks like Amazon or Nebus or Fireworks."
+    },
+    {
+      "start": 4079.28,
+      "end": 4119.6,
+      "text": "You can have open source solutions. You could even probably have Claude allow you to host a version of Cloud in your VPC. But if you don't go through these hoops >> because you took a standard rate card API deal, either because you were lazy or you didn't know any better and after today you're still doing this stuff, you'll probably get fired. I had mentioned this over the summer. A lot of these AI application companies are now moving off of the frontier models and I think that's a headwind. We'll soon be able to see some data on you know these very large customers they have who are spending 10 million 100 million per"
+    },
+    {
+      "start": 4117.12,
+      "end": 4141.92,
+      "text": "month on these services. This is why we 8090 this is why we partnered with EY and Deote because we're like hey let's find a way to help solve these problems in advance. And initially when when we would go and talk to a bunch of companies, they would be like, \"Oh, we did the ZDR thing.\" And we're like, \"Okay, well, we'll just keep educating you. In five or six months, you'll realize that ZDR means literally nothing and it's flimsy and it's Swiss cheese.\""
+    },
+    {
+      "start": 4140.4,
+      "end": 4180.0,
+      "text": "And now all these companies are coming back to EY and Deote and us and they're like, \"Oh my god, fix the problem.\" Yeah. >> And part of it is this realization that folks like OpenAI confirm in their own press releases. >> Yeah. Harvey announced September 9th that they had their own proprietary legal AI model. It's called tenant te ne and they based it on kimmy k3 and I mentioned earlier we incubated a company it's called go.ai AI and this company is on fire and what they do is just they build onrem a thing called the go one box I'm showing here on the screen just for people who want to get control of this"
+    },
+    {
+      "start": 4178.319,
+      "end": 4221.52,
+      "text": "uh this is one of our incubated companies from our launch accelerator I'll just give them a quick shout out there uh any thoughts on this and the data leakage issue sachs and what it means for the uh frontier models and how their biggest clients either trust or don't trust them with their data and their innovations. >> I tend to believe Gnome Brown, who's a senior researcher at OpenAI, and what he said about this is that nobody looked at Levent and Tristan's uh prompts. That'd be insane. So, he's denying it. I think it just doesn't make sense to me that they rummage through their their prompt chains. Could there be data leakage"
+    },
+    {
+      "start": 4219.199,
+      "end": 4242.96,
+      "text": "through the unidentifiable data perhaps? But look, I think the more plausible explanation here is that OpenAI heard that researchers were making progress on Navier Stokes and just threw a ton of compute at it to see if they could >> Sam actually confirmed that part as well that they heard that anthropic was getting close etc. So they were like, \"Yeah, let's take a swing.\" Yeah."
+    },
+    {
+      "start": 4241.52,
+      "end": 4265.84,
+      "text": ">> So I think that's probably what happened. I mean, but look, I don't know anything. I could be proven different, but I tend to believe that. But look, I think this raises a somewhat orthogonal issue that's worth talking about, which is data privacy. And I think we need much stronger data privacy laws around the data that you have with AI services."
+    },
+    {
+      "start": 4262.4,
+      "end": 4301.4400000000005,
+      "text": ">> So right now, the data you have in your AI chats doesn't even reach the same level of protection as email. So in most contexts, if the government wants to get your emails, they would have to get a search warrant and they'd have to prove probable cause in a court. But that is not the standard for AI data. The standard for AI data is you can just get a subpoena or court order. And when you think about how personal AI is becoming, right? People are using AI as their lawyer, their doctor, their therapist, the list goes on and on. The idea that somebody could just get your data without probable cause, without a search"
+    },
+    {
+      "start": 4299.76,
+      "end": 4331.12,
+      "text": "warrant, that just seems kind of crazy to me. So, I think we at least need to strengthen AI data to the level of email and maybe even beyond that to reflect how personal is to people. And again, it's kind of nuts that if you talk to a lawyer, that's a privileged communication, but then if you ask that same question to your AI and then talk to your lawyer about it, it might not be protected. So we need I think for the data privacy rules to reflect how people actually use these tools and how they think about them."
+    },
+    {
+      "start": 4329.6,
+      "end": 4368.799999999999,
+      "text": ">> Any final notes on this free bar in terms of the data leakage issue. >> I'm deeply concerned about it. I have had experience where we've asked some fairly novel scientific questions and it identifies it as a novel insight. decide, oh, never thought about that. Be interesting like blah blah blah and then using a different account asking the same model later or the next version actually later. I've now experienced this. It's like, oh well, you could do this and it actually describes this exact thing that we had in our chat in the previous version. Now these are a handful of anecdotal experiences but I know the domain that"
+    },
+    {
+      "start": 4366.48,
+      "end": 4391.360000000001,
+      "text": "we work in and the niche of it and the ide ideation of the stuff and the novelty of the stuff and the lack of papers being published and so on. So I know that there isn't some new corpus of information out there that's training the new model. So all I can say at that point is that my conversation or our analyses have been used for training. Go ahead. Siri, Siri, please prepare the shareholder lawsuit to a hollow."
+    },
+    {
+      "start": 4391.36,
+      "end": 4429.678999999999,
+      "text": ">> Okay, this does raise a really good question, which what does it mean that the model is allowed to train on unidentifiable? >> Well, that's my point. So, it doesn't use any of my personal information, but it can use an insight derived from our chat, which it can then say is some training data. >> Trust >> that is unrelated. But the truth is it's actually it's actually a piece of IP that's for our organizational's IP and our engagement back and forth. We don't have any NDA or confidentiality provisions or protections with them being a service provider back to us. And I think that's what's lacking in the terms of service in all of these, you"
+    },
+    {
+      "start": 4428.159,
+      "end": 4447.84,
+      "text": "know, hosted. This is why I care a lot about open source because I don't want them having my chat logs because they can use it for training to create an IT advantage that is now diffused to the rest of the market. >> I find this very unfair and look, full disclosure, yes, I'm an Ohio shareholder, but >> me too."
+    },
+    {
+      "start": 4445.44,
+      "end": 4484.719,
+      "text": ">> Take any company like you have these brilliant scientists at Ohio. They're pushing the boundaries of science. they are in a position to create true abundance. Okay, the first real manifestation of abundance would be food, right? And now Freeberg has to sweat whether his ability to actually build a viable business has been compromised. Not because they did anything wrong, but because they thought they were just trying to use a tool to advance his ability to get to the answer faster. And he thought he was doing it in a reasonable way. And now all of a sudden it could just leak out. And I just think that that's not fair. I'm"
+    },
+    {
+      "start": 4482.4,
+      "end": 4507.84,
+      "text": "going to get you a a Go AI machine. I I literally just ordered two Mac Studio M5s. I just ordered two of these. We're going to be running local models and we're moving off claw for a lot of our sensitive data. >> Okay. The problem with local models, just to be clear, okay, whether they're closed or open, is that you need a multiplayer experience and it needs to be cloud-based. You need to have a knowledge base. You need to have memory."
+    },
+    {
+      "start": 4506.0,
+      "end": 4540.64,
+      "text": "So, I don't think buying a machine solves the problem. The problem is that the way that these models are constructed, they are these layers of embeddings, right? When you go from an input token to an output token, and the stuff that happens in the middle is a total leaky black box. That's the problem. And they give you a fig leaf to make you feel like you're not leaking your IP to folks, but then when push comes to shove and you ask them, \"Have you learned?\" And can you guarantee you have not learned? The answer is no. Not really."
+    },
+    {
+      "start": 4538.48,
+      "end": 4556.719,
+      "text": ">> Yeah. The the thing we're doing is we're putting open source models on this and then we connect IP to IP to these as if they're servers. And we've already experimented with it. I think we're going to take like 90% of the work off of relationship. >> But how does a thousand how does a thousand or a multiund person company?"
+    },
+    {
+      "start": 4555.28,
+      "end": 4583.679,
+      "text": "They're going to need to rack servers. They're going to stack. Let me ask you a question. Yeah. Let's say that the folks at OpenAI are looking for mathematical breakthroughs and they would just ask their model, hey, what do you think are the top problems that we could solve like in the next few weeks? Would the model be able to use unidentified data from all of its users seeing all the math usage and seeing what is close to being solved and then roll that up?"
+    },
+    {
+      "start": 4581.44,
+      "end": 4606.56,
+      "text": ">> Exactly. So take away So just focus on the term deidentification. Deidentification means removing personally identified information or information that's specific to a particular company. But a general approach to a mathematical problem, the approach is the IP. So if someone is iterating on that approach inside of that tool, that iterative chat can be first step deidentified. Okay, great."
+    },
+    {
+      "start": 4604.88,
+      "end": 4629.44,
+      "text": "There's nothing that identifies who did this. There's no nothing that identifies something unique about a company or a person. Let me learn from this. And now the model is smarter at how to think about solving mathematical problems because it just observed this user using the model. This is the network effect of these closed AI model systems >> is they get to see what everyone in the world is doing. They're the master, you know, eye into everything. That's right."
+    },
+    {
+      "start": 4627.04,
+      "end": 4649.6,
+      "text": ">> And that observational system gives them more data than anyone else has. And that is what builds their advantage over time so that their models are better than anyone else's models. But as a user, as an enterprise or consumer, I am personally concerned about my IP or my personal information. >> Now, now we're in the Alex Karp world of you're giving them all your alpha."
+    },
+    {
+      "start": 4649.199,
+      "end": 4672.239,
+      "text": ">> Yeah. >> And there's only one way to really solve this. Well, aside from you just moving on to your own open models, your own infrastructure is those companies have to for for swear forego the opportunity to go into vertical applications built on top of their platform. In other words, they can't compete with their customers. But they've already indicated a desire to compete with their customers. And they can't even tell you."
+    },
+    {
+      "start": 4671.12,
+      "end": 4708.5599999999995,
+      "text": "They've already done it. >> They released Claude code. They released Claude design. And that really pissed off Kurser who was one of the biggest customers that Anthropic had to date. And they felt they got rugpulled by Claude. >> Right. And this is where the guys who are complaining, you know, Levent and Tristan, this is where you have to feel some sympathy for them is they don't know. like they're making this accusation based on timing that actually our work got stolen. But the fact is that they are using OpenAI's models and OpenAI is competing with them to develop this breakthrough. So obviously you're going to make that accusation whether"
+    },
+    {
+      "start": 4705.679,
+      "end": 4733.76,
+      "text": "it's true or not. I mean I'm giving Open AI the benefit of the doubt. I'm saying it's probably unfounded. that as long as we have a closed model duopoly of Frontier AI and they're reserving the right to get into every vertical application there is, they're declaring in advance they're going to compete with their customers. So, how can we trust them with our data unless there are much stronger privacy laws as a starting point? And even that might not be good enough."
+    },
+    {
+      "start": 4731.84,
+      "end": 4762.159,
+      "text": ">> All right, gentlemen. Uh maybe that's the law we should pass first before we regulate. >> Well, I mean the market the market is responding to it. I mean, I think that's the the the high order bit here is that people are now taking measures. Yeah. >> Hey, one piece of breaking news here. I don't know if you guys saw this, but Jensen is speaking at a conference right now, the Goldman Sachs conference, and he just said that the Jacob Coxin comments are outlandish and deeply untrue."
+    },
+    {
+      "start": 4759.84,
+      "end": 4788.159000000001,
+      "text": ">> He said, \"The labs are great, but his comments were wrong, arrogant, and ignorant of all the work being done around the industry to drive safety.\" Now, here's my question. If Jensen can say this, why isn't anthropic? >> Quiet period. I guess obstensively they can't come out and say it. >> No, they released a different kind of statement that was kind of well, you know, >> meymouthy mouth statement."
+    },
+    {
+      "start": 4786.32,
+      "end": 4806.88,
+      "text": ">> What does it What does it mean to be mey mouth? What >> kind of both sides of your mouth? You know, it's like >> Oh, I see. I don't know what me is. >> Vague posting, virtue signaling. >> All right. Nike, the 60-year-old iconic American brand, just do it, just got booted out of the S&P 100."
+    },
+    {
+      "start": 4805.04,
+      "end": 4845.679,
+      "text": "They had been in the stock index sacks for 18 straight years, being replaced by, hey, shout out to our friend Nicash PaloAlto Network. Congratulations to Phil and Nash. Little history here. They went public in 1980 with 50% share of US athletic shoe market. dominant player, the Coca-Cola of sneakers. Uh, and they changed things obviously forever with Air Jordans in 85. They did the iconic just do it campaign in 1988. Peak market cap in 2021 was $264 billion."
+    },
+    {
+      "start": 4841.199,
+      "end": 4885.92,
+      "text": "Peak revenue, uh, $51 billion in 2024. Since then, revenues dropped a bit, 10%. In 2020, John Dano became CEO, pushed an aggressive direct to consumer strategy, basically alienating all the retail partners who had helped build Nike and willingly remove those sneakers from the stores. That made brands like Hoka and on running uh that every VC is obligated to wear the white ones to any speaking gigs they have. China sales down 30%. H rate of decline, losing share specifically to Chinese brands. Ant and leaning. Uh if you're Chinese, you probably know those. Nike's marketing"
+    },
+    {
+      "start": 4883.44,
+      "end": 4912.239,
+      "text": "also went uh and this might feed some people's narratives. Super woke and they started backing political movements and putting robust people sacks on billboards. I didn't get asked uh but uh this kind of killed the entire brand stock down 80% from its peak. Saxs $200 billion eviscerated. What's your take here? I don't know if the audience can guess."
+    },
+    {
+      "start": 4909.44,
+      "end": 4949.120000000001,
+      "text": ">> I mean, this is the millionth example of go woke, go broke. You know, Nike was a brand that stood for great athletes, for amazing performance, for victory. I mean, isn't Nike the goddess of victory? >> Yeah. And they built their brand on goats like Michael Jordan, you know, and and great athletes like that in many different sectors, men and women of, you know, all different races. There wasn't a need to like do all this woke stuff where now all of a sudden they're showing people you don't know. I mean, >> they generally had low percentage body fat prior to the >> but it's not it's not even about that."
+    },
+    {
+      "start": 4947.6,
+      "end": 4981.92,
+      "text": "It's just like this person isn't even an athlete. Like, who is this person? And what is the message? Like, own the floor. It used to be just do it, you know, >> and then they got Dylan Mulaney in an ad, you know, like the whole trans thing. Yeah. This is like the Bud Light case. So, you had the woke stuff. Then you have the other piece of it which is this like consulting approach where new CEO comes in and we know John Dano nice guy you know central casting he looks like a CEO but it's like a lot of change for change's sake it seems like where he"
+    },
+    {
+      "start": 4979.04,
+      "end": 5012.56,
+      "text": "comes in and direct to consumer is the new hotness. So they blow up all their retail operations all their retail relationships. had all these stores that had shelf space for Nike and now that goes to competitors who then took a huge amount of market share. >> And then the other thing I think they did is they did a reorg where they used to have departments in the company that were based on sports. So there's like a basketball division and football and tennis so on swimming and they like reorg that to be I think men, women's and kids."
+    },
+    {
+      "start": 5010.159,
+      "end": 5046.159,
+      "text": ">> So like why would you do that? I just I don't get it. >> It's working your Yeah. going direct. They they had a very clear model here. Chimath clicks and bricks, right? Like you could go to a brickandmortar store, have a great experience trying these shoes on, running around the store, working with people who help runners pick the right shoes, and it's nice to be able to buy direct. I have to say the Nike app's a delightful app, but why would they kill the retail channel of all things uh and piss off those folks who are their big advocates? If I've learned anything in almost 30 years of business,"
+    },
+    {
+      "start": 5044.0,
+      "end": 5074.159,
+      "text": "you have to have a very clear north star and stick to it. >> And at least when I was growing up, Nike's northstar was very clear to me, which was mastery and excellence embodied through athletics. That was it. I would see Michael Jordan and I saw mastery and excellence. I would see Tiger Woods, mastery and excellence. I would see Serena Williams, mastery and excellence. Pete Sampas, you name it."
+    },
+    {
+      "start": 5070.96,
+      "end": 5114.639,
+      "text": "And it was mastery and excellence. And somewhere along the way, mastery and excellence became um too traditional looking. And so they they went away from things that were just nothing to be associated with mastery or excellence. I don't aspire to be a fat person. Never have, never will. >> Yeah. >> I aspire to be Michael Jordan. Always have, always will. And so I just think it's as basic as that. You're not going to buy the clothes of a brand that you don't aspire to be like by wearing those clothes or wearing those shoes. So I think as long as you can reenter around this idea that we're not here to make"
+    },
+    {
+      "start": 5112.08,
+      "end": 5152.400000000001,
+      "text": "people feel better about themselves, we're we were our success was when people imbued their desires of getting better through the lenses of these people that were incredible. That's aspirational. being being inspired by somebody and wanting to be somebody better than yourself is a good thing. We should not shame that. It is good. It's how we all get better. And there are incredible athletes who give up their entire lives to master something. And I think that Nike should own that and they should be proud of that. And so if they do that, all the other details will make sense. How do you sell? Sell it everywhere because everybody will want"
+    },
+    {
+      "start": 5150.239,
+      "end": 5194.32,
+      "text": "it. What do you sell to everybody because everybody will want it. But if you don't get the north star right, you're going to miss out. And I think the north star was clear. Excellence and mastery. There's a broader discussion here I think that came up in your Eric Weinstein incredible all-in interview free bird where excellence, expertise, and the desire to be elite, the desire to to's point to be inspiring to people as somebody to follow. We we've lost this love of excellence and expertise and it's been replaced with participation trophies or inclusiveness as opposed to excellence. Maybe you"
+    },
+    {
+      "start": 5192.48,
+      "end": 5215.28,
+      "text": "could talk a little bit about that in your field, your chosen field, science and entrepreneurship, etc. >> Well, I mean those like entrepreneurship is a meritocracy. So you either do it or you don't. But in the case of this business, I think what they also lost was and it and it didn't just come through in the brand. I used to buy Nike."
+    },
+    {
+      "start": 5213.92,
+      "end": 5230.638999999999,
+      "text": ">> All the shoes I owned were Nike. It's all I bought. >> Me, too. >> I had my brand. I like to go to them. You know what happened over time? It wasn't it wasn't that the ads went bad. >> It wasn't that the ordering was bad. >> The product started to suck. The shoes literally fell apart in like 6 weeks."
+    },
+    {
+      "start": 5228.159,
+      "end": 5246.56,
+      "text": ">> They were flimsy. They didn't have the same quality that they used to have. I could tell that the product started to suck. So, one day I went down to my REI store next to the place where I get salads. I stopped in. I tried on a pair of Brooks. I bought the Brooks and I started wearing the Brooks."
+    },
+    {
+      "start": 5244.239,
+      "end": 5270.719,
+      "text": ">> This is the speed walking 900s. You got the speeds. >> Are these Brook shoes >> and that's great product. They they last forever. >> They're durable. >> Not me. >> Marathon runners do like Brooks. Yes. And Speeders. >> I moved to you. Wait, you know why I moved to on? I actually got them for running because when I started running on the Nikes, like I got these knee problems cuz I'm getting old. The Brooks were awesome. You just feel great."
+    },
+    {
+      "start": 5268.88,
+      "end": 5291.28,
+      "text": ">> Is that what they call skipping now? Is is running? >> I moved to ANS for one reason cuz I I held on to Nike forever, >> right? >> I was like a Nike. >> Buy a new pair every six weeks. >> Every six weeks I was buying Well, no, every six months I would buy new Nikes and I have still a collection of many Nikes. I love >> it. Became six weeks as a product suck."
+    },
+    {
+      "start": 5287.84,
+      "end": 5321.04,
+      "text": "And I finally moved to an for one reason because I'm like oh Roger Federer he's excellence in mastery. I like him. Everything he does looks effortless and uh I love that. And so I was like Roger Federer good for me. >> Let me just tell you the story on Brooks. You know this companyy's owned by Bergkshire Hathaway and they've grown this company nine years in a row double digit revenue growth to 1.6 billion in revenue. It's a standalone company inside of Bergkshire and it just keeps compounding revenue as a sub. There's an interview with the CEO where he said like Warren Buffett just told me every year make the product better than it was"
+    },
+    {
+      "start": 5319.6,
+      "end": 5337.28,
+      "text": "at the end of last year. And if you keep doing that, the business will keep growing. And that's what he's been doing. And I think that's the opposite of what Nike's focused on because they shifted from product to narrative. And it was all about what's the narrative that we think the audience wants to hear. It's the same problem that Bud Light had >> and the whole thing."
+    },
+    {
+      "start": 5335.92,
+      "end": 5356.5599999999995,
+      "text": "Yeah. And when you >> remember that huge ad for Colin Kaepernick they ran in San Francisco, it's like >> that was the turning point in my opinion. It was like, \"What? What the hell does that have to do with anything? I want excellence and mastery.\" >> Yeah. You don't have to comment on everything. Yeah. >> I think that if you were to pinpoint the beginning of the downfall, that was it."
+    },
+    {
+      "start": 5354.159,
+      "end": 5392.0,
+      "text": "I mean, look, there have been moments in sports that were inherently political and they were great moments. So, you could think of like Jesse Owens 1936 Olympics, raised fist. >> Yes. you know, >> Jackie Robinson, Muhammad Ali, >> Jackie Robinson or Muhammad Ali refusing the the draft into the Vietnam War, but they were all the greatest >> and their causes were things like standing up to Nazis and protesting the Vietnam War and protesting racism. What What was Colin Kaepernick taking the knee for to protest the American anthem?"
+    },
+    {
+      "start": 5390.32,
+      "end": 5432.080000000001,
+      "text": "What was the point of that? And was he the greatest or one of the greats? No, he was not. And so why would you give that a platform? What were you promoting exactly? What were you trying to say? And then they kept doubling down with like the, you know, the Dylan Mulvaney and then the rest of this woke stuff. It is so breathtakingly stupid. I mean, their job was marketing, right? And they're actually like marketing images that are so contrary to what their brand was about. It's so craven. It was so fattish that I think that every single person who was part of that decision-making chain from the marketing executive all"
+    },
+    {
+      "start": 5430.0,
+      "end": 5456.88,
+      "text": "the way up to the CEO, they should be drumed out of corporate America. I mean, how could you ever approve those campaigns? >> I mean, it was it was during a certain time period. Obviously, >> if they find mastery and excellence as their north star again, I think they'll be fine because I think it's a coiled spring in terms of its potential. Like if you gave me a reason to come back to Nike, I would."
+    },
+    {
+      "start": 5455.199,
+      "end": 5488.719,
+      "text": ">> But like at Stanford, well, because the problem is like at Stanford, the Nike store closed. You know what replaced it? On. And you know, when you go to the on store, it's amazing. And you're like, \"Oh, Roger Federer is this is Roger. This is what I think when I go in there.\" And now I may be limited in my ability to understand why I need to care about all these other things when I buy a pair of running shoes. But normally, I was just thinking about mastery and excellence. Michael Jordan shoes, my shoes. Tigers clubs, my clubs, you know, Sampas' clothes, my clothes. Uh, Federer's racket, my racket. That's how"
+    },
+    {
+      "start": 5486.88,
+      "end": 5518.5599999999995,
+      "text": "simple I am. And I would just happily buy that stuff. So, you just a, you got to reestablish yourself in retail loces where there are people with disposable income and b decide whether you want to be aligned with mastery and excellence because then I think tens of millions of men and women will show up again because that's what they want. Maybe they want to get back in shape. Maybe they want to reestablish themselves in a sport. Maybe they want to learn a new sport. And I would just embrace Nike everything. And now I don't."
+    },
+    {
+      "start": 5516.96,
+      "end": 5542.4800000000005,
+      "text": ">> Yeah. They they should have really gotten into the smart devices as well. They dipped their toes into that. I thought that was like really good because it was so performance-based. If they owned Stravia, is that the app that all the elite >> Strava? >> Strava, all the elite biking and running people do. And then, you know, embrace that. And they should just redo the tagline. Do it or don't. Like come up with like a really challenging rebrand here. Do it or don't."
+    },
+    {
+      "start": 5540.8,
+      "end": 5560.4,
+      "text": ">> I think that's Yoda. JKL. >> Yeah. >> Yeah, it is Y. I would love >> Do or do not. There is >> do it or do not. >> If you became the CMO if you became the CMO of Nike, >> I'll do it. >> I would launch an activist campaign. I would literally >> buy billions of dollars of stock."
+    },
+    {
+      "start": 5558.08,
+      "end": 5583.1990000000005,
+      "text": ">> Dude, I lost 43 pounds. You got to I'm doing farmers walk half mile. 20 pounds on each arm. Bro, if you just don't buy into this woke you're like ahead of the game right there. >> Yeah, just do it. >> So, I cannot get past the incompetence to woke your way out of the S&P 100. >> All right, everybody. That's your all-in podcast for September 11th."
+    },
+    {
+      "start": 5581.6,
+      "end": 5602.48,
+      "text": ">> Thank you, Jason, for your mastery and excellence yet again. >> Yeah, just do it or don't. Do it, man. I'm getting 30 40. Do it or don't. Do it or don't. I mean, it's great. marketing genius Don Draper over here. >> Everybody makes some ads with me as the CEO. Uh, and do it or don't. We don't give a what you do."
+    },
+    {
+      "start": 5600.4,
+      "end": 5623.92,
+      "text": ">> This is like Brooklyn Don Draper. >> Yeah, we go from just do it to do it or don't. We don't give a >> No, I think it would be like a very provocative. >> This is the only way to make things worse at Nike. >> You guys are wrong. Test it. Test it. Do it or don't. team found a way to get kicked out of not just the S&P 100 but also the 500 >> 50 listed pink sheets."
+    },
+    {
+      "start": 5622.8,
+      "end": 5645.04,
+      "text": ">> No, I think it will work. >> Do it or don't. >> I'm standing behind you. >> That's what you should tell the S&P committee. >> Do it. Do it or don't. >> Do it or don't. >> Or don't. Do it or don't. >> I mean, I'm good at marketing. Who named this podcast? I named it all in. I named it. You said what do we call it? I said all in. Then I got the domain name. You ungrateful. All right, everybody."
+    },
+    {
+      "start": 5644.855,
+      "end": 5662.88,
+      "text": ">> >> See, do you use GoDaddy? >> No, I negotiated with the owner. I got it for 250 beans. I got a great deal on that fiveletter domain. >> Okay. Well, do it or don't. You did it. Do it or don't. >> I did it. I did it. Say thank you, >> All right, everybody. We'll see you at All-In Summit. Another thing that I did."
+    },
+    {
+      "start": 5661.92,
+      "end": 5688.96,
+      "text": "Okay, there you go. >> The All-In Summit is this weekend, Sunday through Tuesday in LA, presented by Iron. Iron is the AI cloud data centers compute and software for training and inference. They're throwing Sunday's registration day party. So grab your badge, grab a drink, and join us at the Iron House in the expo hall for a meet and greet and photo op. We're also excited that Meta will be in the Hizzy."
+    },
+    {
+      "start": 5686.56,
+      "end": 5725.96,
+      "text": "President and Vice Chair Dena Powell McCormack will join us on stage. Plus, there's a Meta Glasses Experience Hub. Check it out at the All-In Summit. We'll let your winners ride. >> Rainman David and >> we open source it to the fans and they've just gone crazy with it. >> Love you. Queen of >> besties are gone. >> That is my dog taking your driveways."
+    },
+    {
+      "start": 5726.239,
+      "end": 5755.84,
+      "text": "Oh man, my appetiter will meet. >> We should all just get a room and just have one big huge orgy cuz they're all just useless. It's like this like sexual tension that we just need to release somehow. >> Wet your feet. Wet your feet. >> That's going to be good. We need to get our >> I'm going all in."
+    }
+  ],
+  "word_count": 17962
+}

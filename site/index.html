@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>All-In Signal</title>
+  <meta name="description" content="Key takes, predictions, stock implications, Polymarket matches and a per-host accuracy scorecard from the All-In Podcast. Research tool, not financial advice.">
+  <meta name="theme-color" content="#141a3a">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Crect width=%2232%22 height=%2232%22 rx=%228%22 fill=%22%23b79cff%22/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap">
+  <link rel="stylesheet" href="css/app.css">
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <div class="bg" aria-hidden="true"><span class="blob b1"></span><span class="blob b2"></span><span class="blob b3"></span></div>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <div id="banner" class="banner" role="status" hidden>
+    <strong>Sample data.</strong> Everything on this page is synthetic, for previewing the layout only.
+  </div>
+
+  <header class="topbar">
+    <a class="brand" href="#/latest" aria-label="All-In Signal home">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span>All-In <b>Signal</b></span>
+    </a>
+    <span class="tagline">What the besties said, and whether it came true</span>
+  </header>
+
+  <nav class="tabbar" aria-label="Views">
+    <a href="#/latest" data-route="latest">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M10 8.5v7l5.5-3.5z"/></svg>
+      <span>Latest</span></a>
+    <a href="#/ledger" data-route="ledger">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 6h12M8 12h12M8 18h12"/><circle cx="4" cy="6" r="1"/><circle cx="4" cy="12" r="1"/><circle cx="4" cy="18" r="1"/></svg>
+      <span>Ledger</span></a>
+    <a href="#/hosts" data-route="hosts">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20c.6-3.6 3.2-6 6.5-6s5.9 2.4 6.5 6"/><path d="M16 4.6a3.5 3.5 0 0 1 0 6.8M18.5 14.4c1.7.8 2.8 2.9 3 5.6"/></svg>
+      <span>Hosts</span></a>
+    <a href="#/stocks" data-route="stocks">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 17l6-6 4 4 8-8"/><path d="M15 7h6v6"/></svg>
+      <span>Stocks</span></a>
+    <a href="#/polymarket" data-route="polymarket">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19L19 5"/><circle cx="7" cy="7" r="2.5"/><circle cx="17" cy="17" r="2.5"/></svg>
+      <span>Markets</span></a>
+    <a href="#/themes" data-route="themes">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l9 5-9 5-9-5z"/><path d="M3 13l9 5 9-5"/></svg>
+      <span>Themes</span></a>
+  </nav>
+
+  <main id="main" tabindex="-1">
+    <div class="loading" role="status">Loading the ledger&hellip;</div>
+  </main>
+
+  <footer class="footer">
+    <p>Research tool, not financial advice. Nothing here places trades.</p>
+    <p id="built" class="muted small"></p>
+  </footer>
+
+  <noscript><p class="noscript">This dashboard needs JavaScript to read its data files.</p></noscript>
+</body>
+</html>

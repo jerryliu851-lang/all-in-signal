@@ -71,11 +71,14 @@ class ClaudeCodeCLIBackend:
         try:
             data = json.loads(stdout)
         except json.JSONDecodeError:
-            # Be tolerant of a stray log line before the JSON object.
+            # Be tolerant of stray log lines before (or after) the JSON envelope.
             start = stdout.find("{")
             if start < 0:
                 raise LLMError(f"claude -p output is not JSON: {stdout[:300]!r}") from None
-            data = json.loads(stdout[start:])
+            try:
+                data, _ = json.JSONDecoder().raw_decode(stdout[start:])
+            except json.JSONDecodeError as e:
+                raise LLMError(f"claude -p output is not valid JSON ({e}): {stdout[:300]!r}") from None
         if isinstance(data, list):
             results = [d for d in data if isinstance(d, dict) and d.get("type") == "result"]
             if not results:

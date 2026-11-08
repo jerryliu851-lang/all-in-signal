@@ -116,7 +116,7 @@ class Settings:
         return f"https://www.youtube.com/feeds/videos.xml?channel_id={self.channel_id}"
 
     @classmethod
-    def from_env(cls) -> "Settings":
+    def from_env(cls) -> Settings:
         data_dir = Path(_env("ALLIN_DATA_DIR", str(ROOT / "data")))
         if not data_dir.is_absolute():
             data_dir = ROOT / data_dir

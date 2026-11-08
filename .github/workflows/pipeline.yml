@@ -1,0 +1,106 @@
+name: pipeline
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: all-in-signal-pipeline
+  cancel-in-progress: false
+
+env:
+  PYTHONUNBUFFERED: "1"
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    outputs:
+      data_changed: ${{ steps.commit.outputs.data_changed }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: astral-sh/setup-uv@v10
+      - name: Install Python
+        run: uv python install
+      - name: Install dependencies
+        run: uv sync --frozen
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "22"
+      - name: Install Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code@2.1.319
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+      - name: Ingest
+        id: ingest
+        env:
+          ALLIN_YT_PROXY: ${{ secrets.ALLIN_YT_PROXY }}
+        run: uv run allin ingest
+      - name: Analyze
+        # Runs whenever episodes are waiting (incl. ones whose analysis failed last time), not only on new ones.
+        if: steps.ingest.outputs.pending_analysis != '0'
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: uv run allin analyze
+      - name: Match
+        if: ${{ !cancelled() }}
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: uv run allin match
+      - name: Resolve
+        if: ${{ !cancelled() }}
+        run: uv run allin resolve
+      - name: Build site
+        if: ${{ !cancelled() }}
+        run: uv run allin build-site --out _site
+      - name: Commit data
+        # Still runs after a failed analysis so fetched transcripts are saved and not re-downloaded.
+        id: commit
+        if: ${{ !cancelled() }}
+        env:
+          NEW_EPISODES: ${{ steps.ingest.outputs.new_episodes }}
+        run: |
+          if [ -z "$(git status --porcelain data/)" ]; then
+            echo "data_changed=false" >> "$GITHUB_OUTPUT"
+            echo "No data changes."
+            exit 0
+          fi
+          git config user.name "all-in-signal[bot]"
+          git config user.email "noreply@github.com"
+          git add data/
+          git commit -m "data: $(date -u +%Y-%m-%d) (+${NEW_EPISODES:-0} episodes)"
+          for attempt in 1 2 3; do
+            if git pull --rebase origin main && git push origin HEAD:main; then
+              echo "data_changed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "push attempt $attempt failed; retrying"
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 5))
+          done
+          echo "could not push data after 3 attempts" >&2
+          exit 1
+      - uses: actions/upload-pages-artifact@v5
+        if: always()
+        with:
+          path: _site
+
+  deploy:
+    needs: run
+    if: needs.run.outputs.data_changed == 'true' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v6
+      - id: deployment
+        uses: actions/deploy-pages@v5

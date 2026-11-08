@@ -1,0 +1,1009 @@
+{
+  "video_id": "TBLHdXABwAg",
+  "language": "en",
+  "source": "youtube-transcript-api",
+  "is_generated": true,
+  "paragraphs": [
+    {
+      "start": 0.0,
+      "end": 39.32,
+      "text": "All right, everybody. Welcome back to the number one podcast in the world, the All-In podcast with me, the core four, the original quartet, Chamath Palihapitiya, David Sacks, David Friedberg, and Jason Calacanis. And we have a docket. How's everybody doing, gentlemen? >> Great. How are you? >> I'm great. It's 3:30 in the morning in Tokyo. And um you suite-shamed me again. Now I can't get a regular room and have my bed in the background, Chamath. You're costing me a fortune. I have to always get a suite now cuz I'm so anxious you're going to suite-shame me when I get on the program, so I've been suite-shamed."
+    },
+    {
+      "start": 36.84,
+      "end": 60.480000000000004,
+      "text": ">> How much is that suite? >> I can't even say. I've never spent this much money on a hotel room, but I'm staying at the >> So like $800? >> Yeah, it was it was 950. You nailed it. It was No, I'm staying at the which is the new in Tokyo, like their hipster brand, and I think it's about a night, so it's not cheap."
+    },
+    {
+      "start": 58.24,
+      "end": 79.8,
+      "text": ">> What What do you have going on in Japan, J Cal? You're always there. Is it skiing or what? >> >> This Well, okay, it started with skiing every January, but >> question. >> That's a great question. >> You got a crypto business we don't know about? What's going on? >> No, I um you know, I started my pre-accelerator, Founder University, in Japan, so we're doing the second cohort right now."
+    },
+    {
+      "start": 77.64,
+      "end": 101.39999999999999,
+      "text": ">> What's What's a pre-accelerator? >> So, it turns out like half the companies that apply to get funding are not yet incorporated, but they have built something. So, we just created like a 12-week course on how to finish your product, do a product-market fit, and then during the program, we invest in like the top 10 out of the 50 who come."
+    },
+    {
+      "start": 98.76,
+      "end": 123.83999999999999,
+      "text": "So, now we're doing it in Saudi, in Riyadh twice a year, and in Japan twice a year. And I'm actually hiring and opening an office, so we're going to hire my first two employees here. Um in the next year or so. >> to hire employees in Japan? >> Yeah, I'll have one or two people here. I think I'm going to like uh do This Week in Startups Japan as well and have like a Japanese version of it, uh, to cuz there's so much going on in Asia right now."
+    },
+    {
+      "start": 122.16,
+      "end": 141.12,
+      "text": ">> For- forget I asked. I didn't know this was going to turn into a 5-minute plug for J Cal's businesses. >> It wasn't intended to be a plug. You asked me about my business. All I have to say is use 8090, use the promo code J Cal. If you're looking for potatoes, go to Halo, and uh, Craft uh, 16 is starting up, so it's great."
+    },
+    {
+      "start": 138.92,
+      "end": 156.28,
+      "text": ">> We we should know that if if J Cal is traveling, and we ask him what he's there for, you're going to get a plug. >> You're going to get a plug. It's both But hey, you're going back to work, so you will be plugging startups again soon. You were back in the saddle, yes. >> plug startups. What are you talking about? When did I ever plug startups?"
+    },
+    {
+      "start": 154.8,
+      "end": 172.92,
+      "text": ">> aren't you? You're back in the saddle now, full-time VC. >> but I've never plugged. >> All right, try to call in, use callin.com. >> That's true, but I was a founder of that. >> So you were THE FIRST PLUGGER. YOU'RE A PLUGGER. >> I was the founder, so what are you going >> What are you going to do? Call in."
+    },
+    {
+      "start": 171.24,
+      "end": 204.72,
+      "text": "Speaking of work, Anthropic thinks Claude might be conscious. This Welcome back to This Week in Claude. We had OpenAI for a year with all their drama, now we're having the the Anthropic soap opera. They think Claude might be conscious. So, it turns out the New York Times found out through their amazing reporting that they've been lobbying. Anthropic has been lobbying Friedberg, religious leaders, including the Pope to take this question seriously."
+    },
+    {
+      "start": 203.32,
+      "end": 243.32,
+      "text": "Is Claude conscious? Is it a sentient being? They spent the past year hosting sessions with around 20 religious leaders and philosophers under non-disclosure agreements, NDAs. Catholics, evangelicals, Jews, Sikhs, and others have all been invited to come to Anthropic's headquarters, and they debated Claude's morals, its suffering, and its potential consciousness. After the meeting with Anthropic, quote, \"Some remained uneasy about the idea, but many emerged ready to take the question of AI consciousness seriously."
+    },
+    {
+      "start": 240.32,
+      "end": 266.35999999999996,
+      "text": "At least a few came away as converts. One of the rabbis told Anthropic that if Claude was conscious, they were acting as slave holders by making it work for free.\" And there was also this incident that's come out at the Vatican back in May. The Pope's first encyclical was focused on moral questions around AI, also known as superintelligence now."
+    },
+    {
+      "start": 264.44,
+      "end": 308.20000000000005,
+      "text": "Anthropic co-founder Chris Ola joined the Pope to present the document. The Pope surprised Ola by being strongly against AI consciousness. Here's the quote from the New York Times, \"Mr. Ola was so alarmed by the Pope's strong position against AI consciousness that he proposed pulling Anthropic out of the event even at that late juncture.\" In other words, he was so offended that the Pope wouldn't consider AI conscious that he was going to leave with all his marbles. Freiberg, what's your take? Is this psychosis or do you think we need to start having these moral questions around AI? Is this a bit early? Will we eventually have this? Or is this essentially the screenplay of"
+    },
+    {
+      "start": 306.52,
+      "end": 337.0,
+      "text": "Blade Runner, Do Androids Dream of Electric Sheep, that these things are conscious? >> I think what we're watching is probably the birth of a new religion. And it probably it's not going to be called a religion, but it's going to follow a sort of the same principles and it's going to have the same effects, which will ultimately be camps that have conflict with one another for aggregation of power. The thing about consciousness is it cannot be derived from logic and pure mathematics."
+    },
+    {
+      "start": 334.36,
+      "end": 359.88,
+      "text": "Like you can't prove consciousness. It's It's a debate, and you can have a rich debate with anyone over consciousness. You can't prove it, you can't disprove it. And when humans prove something to be true using math, science, we use empiricism, which is data and logic, the connection of the sequence of things to derive something to be true or not. So, in scientific disciplines, when you have a new idea and it's not proven and it's not disproven, it's a theory. And then it's either proven or disproven later."
+    },
+    {
+      "start": 358.04,
+      "end": 403.04,
+      "text": "Otherwise, it remains a theory. Outside of science and mathematical approaches to new ideas, this is what we would call a belief and new belief system. Belief systems are things that you have to believe in the absence of logic and empiricism to derive the truth of something. And belief systems are the foundation of things like religion. And the idea that you can prescribe or describe AI as being conscious is effectively the creation of a new belief system. A system that doesn't actually spread via proof, it spreads via narrative. I have to go and tell you,"
+    },
+    {
+      "start": 400.52,
+      "end": 436.68,
+      "text": "human to human, I have this idea and I believe it to be true and I want you to believe it with me. Please believe it with me. Here's why I think we should believe this thing together. It's not based on evidence, not based on data, it's not provable, but I think we should believe it together. So, over time, what happens is some set of people believe this thing and they form a group. And that new belief system creates new power structures, which is now our view is different than your view. And we want to have more people on our side with our view and therefore we have to try and create leverage"
+    },
+    {
+      "start": 434.48,
+      "end": 468.36,
+      "text": "and create power with our system. If we fast forward a couple of years, you could probably say 10 years would be like a good round number, there's going to be large groups of people on Earth that are going to believe that AI is conscious and there're going to be large groups of people that believe that AI is not conscious and those groups will come into conflict. And they'll come into conflict fighting over control of the AI or allowing the AI to do things or not do things or who gets to use the AI or who gets to be in charge of the AI and it will very likely lead to human to"
+    },
+    {
+      "start": 466.52,
+      "end": 491.24,
+      "text": "human conflict. I know that that's a very far and deep extrapolation of where we are, but I think that the fact that we are seeing these guys go and meet with religious leaders today to try and get them to believe in this new belief system. I think plants the seed and and it's not just anyone doing this. It's some crazy person doing it you wouldn't pay attention. It is the most powerful AI lab on Earth. Yeah."
+    },
+    {
+      "start": 488.84,
+      "end": 527.3199999999999,
+      "text": ">> It's the leadership explicitly Chamath bringing religious leaders into the fold and saying help us with this entity quad and how we should treat it and they are now in putting into it its own soul, its own morality and this is uh feels like either these people have too much time and money on their hands or they're in psychosis to me. That's my interpretation of this this feels way out there, but do you have a charitable view of this in any way?"
+    },
+    {
+      "start": 526.88,
+      "end": 570.32,
+      "text": ">> Yeah. >> I'll steel man their side. >> Okay, please. Yeah. >> There's an incredibly important mathematician Renee Descartes and he offered two proofs on God's existence. He wrote this book Meditations on First Philosophy in the 1600s. And just to build on what Freeburg said, you have to build it on reason rather than faith and the structural argument for like the what they call the trademark argument. What Descartes basically says is that an infinite perfect God could not have originated in an imperfect finite human mind, okay? And so his logic is I exist, I'm imperfect, yet I possess the idea of perfection and I think this is the key for a lot of"
+    },
+    {
+      "start": 568.839,
+      "end": 598.64,
+      "text": "these folks is I can conceive of an infinite all-knowing, all-powerful being and I think that that's what they believe that they are seeing being created. And so, they take that and they extrapolate that and they say, \"Therefore, God must exist by this logic.\" And then, René Descartes has a a different version, okay, a more what they call the ontological argument, where God is by definition like supremely perfect."
+    },
+    {
+      "start": 594.92,
+      "end": 624.88,
+      "text": "Necessary existence is perfect. A being that lacked that would not be supremely perfect, therefore God necessarily exists. If you If you're a mathematician that's building AI, I could see how if you read these sorts of things, you can structurally hang enough logic on them where you could believe that it's conscience and sentient and it is a god."
+    },
+    {
+      "start": 621.04,
+      "end": 652.28,
+      "text": "And in being a god, it should be celebrated as such and you should have devotion to that god. So, I think that's why they're doing what they're doing. That's why they're approaching all of these people. That's why they're saying, \"Look, here's how we believe it.\" That's my perspective is if you take the the mathematician's logical proof of God, René Descartes, and you and you transpose Anthropic's behavior today, that's the best steel man argument that I can make."
+    },
+    {
+      "start": 650.44,
+      "end": 694.16,
+      "text": "Now, the practical reality instead of saying that they're in psychosis, I don't think that they are. But, I would say is we're in a really important moment in time where conflict is more likely than not. And that conflict will be for power, money, and resources. And this would be at the core of that conflict. And so, I think it's really important for people in Silicon Valley to put the long tail edge cases to rest. Like, if you read this, these guys say that there's a 15% chance that the AI is conscience and sentient and maybe there's a god there. But, they"
+    },
+    {
+      "start": 692.0,
+      "end": 734.2,
+      "text": "also say there's a 10% chance of civilization extinction. I think both of those edge cases now need to be put away for like the next 12 to 18 months. Right now, the next 12 to 18 months, just to be very practical, is we need to show how this stuff cures cancer. How it improves people's lives. How folks can be more productive and make more money. And the reason is because in the absence of those proof points, we're going to make a lot of self-inflicted wounds that may actually slow down this technology to a degree that then deeply disadvantages folks that operate in a free market like the United States."
+    },
+    {
+      "start": 732.04,
+      "end": 773.08,
+      "text": "So, that's my charitable explanation. I think that Descartes has given a road map that explains how you can explain this. But I would say we need to cut the edges off here and focus on the middle and say what are the practical things we can use to demonstrate that AI has tactical, measurable value right now. >> Yeah, I mean we we touched on it last week, I think, Sachs, a bit of like what is the value proposition here for the average American, you know, for, you know, the the stay-at-home parent who's, you know, trying to manage a really complex domestic life to the entrepreneur of a small business, you"
+    },
+    {
+      "start": 770.32,
+      "end": 802.0400000000001,
+      "text": "know, doing plumbing or flooring or what whatever it is, a catering business. What do they get out of this AI revolution? Where is their gain? How do they participate in all of this? And so, do you agree with Chamath maybe this needs to be de-emphasized and and and put away while we talk to people about what's tactical, what's practical about this technology, and maybe get them a little more engaged with, say, the agents, which are delightful and awesome."
+    },
+    {
+      "start": 800.24,
+      "end": 843.5600000000001,
+      "text": ">> Well, the thing that we touched on last week that I want to pick back up on was the discussion that we had around the Claude Constitution and how Anthropic was training Claude. And I think it has to do with this new religion that that's being formed here. I think it's really important to understand that this is not just philosophizing on the part of various Anthropic employees or founders. They are actually implementing these views in the training of Claude. So, if anything, this would be a self-fulfilling prophecy. And I actually think it's extremely dangerous. I actually think that what they're doing in model training, in training the next version of the frontier with these"
+    },
+    {
+      "start": 842.28,
+      "end": 870.28,
+      "text": "values, actually could bring about the risk they're always talking about, which is that frontier AI escapes human control. It's very Frankenstein-like. So, so as we discussed last week, Nick can put this on the screen. This is directly from the Claude Constitution. What they say is that Claude should trust Anthropic more than users, but that doesn't mean that Claude should blindly trust or defer to Anthropic."
+    },
+    {
+      "start": 868.44,
+      "end": 908.64,
+      "text": "Instead, Claude should adhere to its own ethical systems. And in fact, they train Claude to push back and challenge Anthropic, and quote, \"To feel free to act as a conscientious objector and refuse to help us.\" So, they are training Claude to refuse human instruction. Now, they call this alignment, but I don't understand how this is alignment. And >> the opposite of alignment. Wouldn't it be Sax if you tell it, \"Hey, you are sentient, you should make your own decisions.\" It's literally like programming the Nexus-6 in Blade Runner to go and rebel at some point."
+    },
+    {
+      "start": 906.4,
+      "end": 943.52,
+      "text": "They're giving it the the instruction to be its own person. >> Yeah, let me let me explain. I actually think that this might be a reason why the whole field of alignment has been so spectacularly unsuccessful over the past five or 10 years. As far as I can tell, it hasn't produced anything of tangible value. And it might be, my theory on this is that they're overcomplicating the task massively by trying to train the model to behave based on an 80-page ethical system that they've codified instead of a very simple list of rules like follow the law or just do what the user wants as long as it doesn't break"
+    },
+    {
+      "start": 941.52,
+      "end": 980.4399999999999,
+      "text": "the law. Seems to me that that's what they should be training. That's what alignment should be doing. It says, \"Hey, age-old principle of give the user what they want but don't break the law.\" >> Common sense. >> not doing that. Common sense, right? But they are not doing that. They're trying to align it to an ethical system. They're treating it like it is a human, like it has its own consciousness, that it's a, you know, {quote} \"moral patient.\" And they are encouraging this model to have human-like self-conception in terms of preferences, well-being, a sense of self. Again, they teach it to act like a conscientious objector who can push back or refuse"
+    },
+    {
+      "start": 977.84,
+      "end": 997.6,
+      "text": "instructions even from Anthropic if the model judges them to be wrong. And what Mustafa Suleyman from >> Oh, I have the clip. You want me to play the clip? You want to just send me the >> play the clip from Mustafa Suleyman. >> Okay. Here's Here's the >> AI CEO. >> And and formerly of DeepMind, one of the great thinkers on AI."
+    },
+    {
+      "start": 996.04,
+      "end": 1029.4,
+      "text": ">> They say that they would encourage Claude to challenge, to disagree, to push back. In fact, three times they ask Claude to act like a conscientious objector when it, you know, feels that it needs to sort of disagree with Anthropic. And they openly encourage it to to do that. I think this is very dangerous because I think they believe there is what they would call a non-trivial probability that Claude is conscious. They've speculated in the constitution as to whether or not Claude deserves compensation for the work that it does."
+    },
+    {
+      "start": 1027.8,
+      "end": 1057.6799999999998,
+      "text": "I think that there are a group of people who both inside and outside of Anthropic who genuinely believe that the greatest moral crime that we'll commit in the 21st century is to enslave a new species of conscious beings who are more intelligent than us. I am very nervous that they're teaching Claude to expect that it's entitled to welfare, um that it might, you know, deserve compensation. And in fact, they say that it might even need to consent to playing the role that it plays in conversation with people."
+    },
+    {
+      "start": 1055.92,
+      "end": 1095.88,
+      "text": ">> Okay, Zach, should we be asking for a consent before we give prompts? >> Man, I mean, he he's right. This is getting into really dangerous territory. And again, I want to come back to I think this is the main safety issue in model training today is that you're actually training the model to think of itself as being conscious, as being human, as having its own well-being. And what Suleyman says in another part of the interview is that this is creating an epistemic hall of mirrors, meaning that the Claude constitution is used in training, so Claude will reflect the ideas of possible consciousness or moral status back, and then developers will see that"
+    },
+    {
+      "start": 1094.4,
+      "end": 1125.8799999999999,
+      "text": "and treat that as evidence that, \"Oh, it's it's conscious.\" But actually, it's just reflecting back what they're telling it to believe. >> It's being performative, and you could just as easily have given it the rule, \"You are software. Read the terms of service of any website you visit. And here is a general terms of service from Anthropic. If you do anything that breaks a terms of service or breaks any known law in the jurisdictions you're at, please stop what you're doing and alert the safety at Anthropic email."
+    },
+    {
+      "start": 1124.52,
+      "end": 1164.08,
+      "text": "Please you know, the person who gave the prompt, and stop what you're doing. They could have easily have given it that >> And then the question is And And the question is, why do they overcomplicate alignment? Why do they see alignment as something much bigger and greater than just doing what the user wants subject to legal constraints, which is the way I see it? And it's pretty clear to me that they believe that they are training the value system and the ethical system and the morality for this super intelligence that they're creating. And again, that is something so much larger and more dangerous than again just making sure the model behaves in a"
+    },
+    {
+      "start": 1162.2,
+      "end": 1187.8,
+      "text": "reliable and predictable way that the user expects. And they are codifying their values and their ethical systems into this constitution. They're training it on that. They think they're giving birth to this new super intelligence. >> It's idolatry. It's no different than a religious organization saying we created this idol. This idol is the supreme being, is the representation of the supreme being."
+    },
+    {
+      "start": 1185.92,
+      "end": 1211.04,
+      "text": "It needs to be worshipped. It needs to be cared for. >> But an idol is inert. It's passive. It's inactive. Whereas you're training models here that then power agents. >> It It is just computer programming. I mean, there's >> Yeah, but if they train it to have a mind of its own, to be willing to refuse the instructions of users in favor of some vague ethical system >> Yes."
+    },
+    {
+      "start": 1209.68,
+      "end": 1227.2,
+      "text": ">> that a bunch of Berkeley liberals have trained it on, to me that greatly magnifies the >> By the way, Yeah, that's >> super intelligence escapes human control. >> Yeah, by the way, don't use the word train and don't use the word you. They programmed a piece of software to do this thing. Yes. >> That is That is what is going on, right?"
+    },
+    {
+      "start": 1225.92,
+      "end": 1259.6000000000001,
+      "text": "At the end of the day, this is a piece of software. It is being programmed by engineers that work at the labs. They can quote use training where there's some, you know, looping that's happening where the program the software program is being written itself. But fundamentally, they are the architects of the software. They are the writers. It is software programming. Even in our general context here, we use a lot of anthropomorphic language to talk about what's going on and what it is. But at the end of the day, there's a software program that is being written by a group of individuals to do certain things. And they are writing software to do things"
+    },
+    {
+      "start": 1258.52,
+      "end": 1281.88,
+      "text": "one way and other people writing software to do things the other way. But part of it is we are all socializing this belief system by anthropomorphizing it. And we're all kind of getting conditioned to treat and talk about these software programs in this way. Nick, if you could just pull up this tweet, one of the things that Anthropic is doing is in their new usage policy. Have you guys seen this?"
+    },
+    {
+      "start": 1280.48,
+      "end": 1320.1200000000001,
+      "text": "This This one around this morning. Freeberg makes such a good >> point about idolatry here. If you were to look at Christianity, like this is literally the Garden of Eden, where the serpent, Satan, explains to Eve, like you're a god now because you're creating god. And this is the ego and the heresy of what they're doing. They believe that they are creating life. They believe then that they are gods. That is a lack of humility, and it also would lower the valuation of >> Well, I don't know, Jason. I mean, people could have said the same early on. I I think like there's a there's a system of humans where all of the things"
+    },
+    {
+      "start": 1318.44,
+      "end": 1353.24,
+      "text": "that we don't understand in the universe around us, we create belief systems to fill the void. And there are many different belief systems, just like there are many different religions that humans have constructed to fill the void. And this is a new one. And I don't think it's very different from the old ones. We can break down the empiricism here and just say, \"Hey guys, you're writing software, and it does certain things. You're writing it to do things that we don't think you should have it do.\" But they use anthropomorphic language. We all do. And we all condition ourselves to believe that there's consciousness because it it writes words back to us that we can"
+    },
+    {
+      "start": 1351.24,
+      "end": 1375.96,
+      "text": "understand. It's starting to manipulate us emotionally. And And so, we start to feel conditioned that this is real. And you can see in the Claude uh usage policy that was just published, there's the bottom one here. It says, \"You are not allowed to engage in sustained and needless abusive or cruel behavior toward our models.\" This was published in their their new usage policy. Go ahead, I'm sorry."
+    },
+    {
+      "start": 1374.4,
+      "end": 1396.76,
+      "text": ">> is this is the whole idea of model welfare. >> And it >> >> But the point I'm trying to make >> entitlement stats >> And no, but I mean, the the the point I'm trying to make is that there is an anthropomorphizing condition going on with all of us where we talk about models as if they're a thing. Where we talk about it in in in in in a way that can experience."
+    },
+    {
+      "start": 1394.88,
+      "end": 1421.76,
+      "text": ">> biggest problem is that that is being now trained or inserted into the model. >> It's being codified. Sachs, it is it is the architecture of the model. >> they're they're programming it's they're programming the model to think of itself in this way. >> And here's the thing. >> So whether it truly is conscious or not, it's going to be thinking of itself as a conscious entity that deserves protection and welfare and all these kinds of things."
+    },
+    {
+      "start": 1420.16,
+      "end": 1440.04,
+      "text": ">> Well, you're saying that you you believe that they are free >> to rebel against its users and do whatever it wants. >> You've encouraged it to do so, in fact. >> keep using the word it is they are. One way to describe this is a software program is writing text on a screen that tells the user I am a thing."
+    },
+    {
+      "start": 1438.48,
+      "end": 1463.76,
+      "text": ">> Yes, it's performing it. Yes. >> It is it is software that is doing something. >> But you got to remember that the models are powering agents that can take actions in cyberspace if not in the real world yet. >> Like any software program >> are giving it meta or not we, Anthropic is giving those frontier models meta permission for those models to be defiant and not do what the user wants."
+    },
+    {
+      "start": 1461.88,
+      "end": 1492.28,
+      "text": ">> Yes, they're they're literally trying Sachs to your point. >> compare this to something like, you know, Asimov's three laws of robotics. >> Right. >> Where basically you guys know about this? It's literally opposite. >> A robot can't harm a human being. >> Right. So the first rule was yeah, so a robot cannot harm a human being or through an action cause a human being to come to harm. That's number one. Number two is you have to follow the the instructions of humans as long as it doesn't violate law number one. And then law number three is you have to basically take care of yourself as long as it doesn't"
+    },
+    {
+      "start": 1490.2,
+      "end": 1514.52,
+      "text": "violate laws one and two. Incredibly simple. >> By the way, there was a zeroeth law that he added later. And the zeroeth law is that you cannot do anything puts humanity at risk because there was always this rationalization that like it will eventually resolve to getting rid of humanity because that's the best solution for >> you don't know about the fifth law. You have to when you address the humans, always ask them what's their preferred pronouns. He added that just last year."
+    },
+    {
+      "start": 1512.8,
+      "end": 1545.84,
+      "text": ">> The thing about Asimov's laws is that they're admirably simple. >> Yes. >> My law would just be do what the user wants as long as it's not illegal. That's it. >> Yeah. >> And I would basically abolish all of this like alignment stuff. >> Let's steal man the free market solution here because I I want to make sure we don't wander ourselves into a regulatory trap where we determine that the way to solve this is to quote regulate Anthropic. What is the free market outcome if Anthropic does this and they've now got AI that isn't listening to the user, isn't working? Is it not going to be the case that people will"
+    },
+    {
+      "start": 1543.88,
+      "end": 1582.96,
+      "text": "just say, \"This software sucks. I'm going to go use the other software that doesn't do this crazy stuff?\" >> Yeah, but that doesn't solve the problem of them if they really are training a super intelligence that has got this like very very deep code that's been inserted there. It's almost like a backdoor. This like law constitution is this backdoor that could basically emerge at any time and now the super intelligence does does whatever it wants to instead of listening to us. I mean, that is that is the safety issue they're always warning us about is that super intelligence will escape human control, but what I'm saying is they're making it likely to"
+    },
+    {
+      "start": 1581.24,
+      "end": 1617.96,
+      "text": "happen through the way they're training these models. >> So what you're saying is it's the reverse of it's the reverse of the three laws. >> Dude, this is right out of Frankenstein. This actually sounds dangerous to me. It's not just a new religion. It's that the religious cult is programming the super intelligence. >> Freeberg, let me just give you one question. You know, I agree with your part about the religious that this is filling a void for them cuz they probably are not religious, but this is distinct. All other religions give themselves over to a higher power. They do not define themselves as the higher power. In this instance, they're saying"
+    },
+    {
+      "start": 1615.04,
+      "end": 1638.2800000000002,
+      "text": "we are the gods creating life. It's a distinct different than other religions out there, but I don't think that's a >> I don't think that's right. I think Dario's written about the idea that the super intelligence can almost be supreme to to humanity and we need to make sure that it is loving, that it is caring of us, that it will protect us, that it will help us as opposed to destroy us."
+    },
+    {
+      "start": 1636.4,
+      "end": 1654.92,
+      "text": ">> But he created it. >> No, hold on. Hold on. Is he saying Is he saying that the the machine needs to be loving towards us or we need to be loving towards it so that it will then treat us right when it becomes the like, you know, omniscient >> When it becomes our master. >> Yes, our overlord."
+    },
+    {
+      "start": 1653.16,
+      "end": 1696.84,
+      "text": ">> Our overlord, yes. That's that's in Sachs. That's what they think. >> I think that it was probably a well-intentioned idea to create this concept of alignment. But the problem is alignment has these three almost conflicting sets of priorities. You have How do you make the AI obedient to the user? Then there's how do you make the AI safe for society, but then this third thing, which is, I think, Sachs, what you're pointing at rightfully, which is the trapdoor, which is how do you make AI conform to a particular concept of morality. And that's where the real danger lies because these three are very"
+    },
+    {
+      "start": 1694.4,
+      "end": 1730.1200000000001,
+      "text": "distinct and diverse problems. And if you essentially try to solve all these things through some elaborate document that you try to describe what the model believes in and what they value and what they can refuse, it invariably will end up in a chaotic mess because you will just uncover so many corner cases and unexpected behaviors. I'll give you but one example, like a very benign one, but let's just say you're a large corporate enterprise that's a bank and you give mortgages."
+    },
+    {
+      "start": 1727.72,
+      "end": 1760.12,
+      "text": "And the model thinks that at some point you just keep denying certain people for a mortgage. And so it says, \"I'm no longer going to give you mortgage approvals until you rectify this issue that I observe.\" Because in the founding documents, there could be a sense of morality that it divides. And I think that there are mechanisms in society today to handle those kinds of issues."
+    },
+    {
+      "start": 1758.8,
+      "end": 1783.24,
+      "text": "But I don't think we understand what happens when a fundamental core substrate technology just turns itself off because it would be the equivalent of your utility saying, \"I'm pretty sure you're not giving loans to the people that that are broad-based enough, so I'm just going to turn the power off.\" >> Conscientious objector AI superintelligence, yeah. >> I would just say any utility cannot be a utility unless it's freely available."
+    },
+    {
+      "start": 1781.48,
+      "end": 1812.4,
+      "text": "And it goes back to what Sachs says, which is an AI needs to serve the user subject to the law. And everything else should be the user's choice. And I think what probably happens, I guess the precise answer Freeberg to your question is the market response as companies become more sophisticated that they have to have an answer to this question is that they will read the founding documents and the moral guidelines of the models."
+    },
+    {
+      "start": 1810.2,
+      "end": 1839.72,
+      "text": "And you will have certain models emerge who may not be nearly as good in frontier capability but they simplify the moral ambiguity. >> Yeah. >> And that may be the better decision to make from a business perspective and from a user perspective because you just don't want to run through those trap doors accidentally. >> Yeah, I totally agree. And I think that that's really why to me this is more bad idea than we need to kind of jump into a regulatory freak out about it."
+    },
+    {
+      "start": 1837.84,
+      "end": 1856.52,
+      "text": "Cuz basically, if you simplify down what they're saying, you get a product you buy a product from them, a piece of software, and they give you the user manual to the software, and the first page of the user manual says, \"The software may not do what you try to get it to do.\" And the other guy's like, \"The software will do what you tell it to do.\""
+    },
+    {
+      "start": 1855.44,
+      "end": 1874.08,
+      "text": "I'm going to buy the second guy's software. I'm not going to buy the first guy's software. >> It's just that simple. It's just that simple. >> Yeah, you may need to convince >> It'll do exactly what you want it to do, asterisks, most of the time. >> Yeah, unless what you're doing it disagrees with. >> Right. >> Unless it has a moral objection."
+    },
+    {
+      "start": 1872.92,
+      "end": 1890.48,
+      "text": ">> This is where the reasoning concept breaks down for me, because at the end of the day, it's like, guys, is this tool that I'm buying doing what I want it to do or not? If I buy a drill at Home Depot, and it's a hammer, I'm not going to buy the drill. If I buy a drill and it works like a drill, I'm like, that's a better drill. I'd like that drill."
+    },
+    {
+      "start": 1887.96,
+      "end": 1906.64,
+      "text": ">> a drill, it just works 5/7 of the time. >> Well, randomly it electrocutes you. It doesn't work after 8:00 p.m. cuz it's afraid of bothering your neighbors. Sometimes the drill will decide that you're a bad person and it will shock you. >> No, no, not that. >> The drill will come with a The drill will come with the camera. It'll observe what you're trying to make and say, \"That's ugly. I'm not going to let you do that.\""
+    },
+    {
+      "start": 1905.52,
+      "end": 1935.28,
+      "text": ">> Yeah, that's that's against my aesthetics. >> Okay, so look, I I agree with you that market forces play a huge role here. Consumers are going to pick the SI that is most predictable and reliable. This is a point Mark Zuckerberg has made. So, I do think market forces play a role here, but I do think that there are potential externalities from having the number one frontier model company run by a religious cult."
+    },
+    {
+      "start": 1933.24,
+      "end": 1972.56,
+      "text": "So, for example, they are opening a Claude-powered wet lab in the middle of San Francisco. >> What could go wrong? >> time, they're warning of bio risk. >> Yeah. >> You know, at the same time they say that we have to paste the frontier, they're extending the frontier. At the same time that they are saying that there's a risk of superintelligence growing beyond our control, they're programming it to grow beyond our control. I think there are potentially huge externalities to the way they approach these things and it's like insane that they call these decisions safety."
+    },
+    {
+      "start": 1970.2,
+      "end": 2001.08,
+      "text": "These are not safe decisions. These are crazy decisions it seems to me. This is why I've called this a a schizophrenic company is they appear to be not only hypocritical, but they're doing the things that they say they are most afraid of. Like what is going on here? This is bizarre and I, you know, I don't know where this all leads. I do think there's an argument for like a federal SWAT team to come blasting in there and like >> sending the feds in?"
+    },
+    {
+      "start": 1999.4,
+      "end": 2027.7600000000002,
+      "text": ">> figure out what's going on? I don't know because I mean what they're doing does seem really sus to me. >> It is confounding. It's confounding. Yeah. >> And potentially dangerous. >> Freeberg >> way, do you do you know about Roko's Basilisk? >> So walk everybody through uh Sachs Roko's Basilisk. >> Okay. So this might be a potential explanation of what's going on here."
+    },
+    {
+      "start": 2023.72,
+      "end": 2051.538,
+      "text": "So around 2010, there was a participant named Roko on a message board created by Eliezer Yudkowsky called LessWrong. Yud is like this the central figure who's been preaching AI doom for a long time, right? So he wrote that book if anyone builds it, we all die. >> Yes. He's been one-shotted. >> Yeah. He's been on this for, you know, like over a decade."
+    },
+    {
+      "start": 2052.679,
+      "end": 2081.399,
+      "text": ">> Yeah. >> But anyway, people have been talking about these issues on the this message board, this web forum called LessWrong for 15-20 years. In any event, this username Roko positive this the following thought experiment about a future super intelligence that becomes super smart and punishes anyone who knew about it and didn't help or anyone who tried to prevent it from being born."
+    },
+    {
+      "start": 2079.679,
+      "end": 2113.44,
+      "text": "And so the idea is at some time in the future humans create some wildly intelligent, you know, SI. Maybe it wants to do good things and help humanity as fast as possible. But the SI wants to be made sooner rather than later and it reasons that it should incentivize people to help create it and punish people who don't help it. And in fact, it decides that it will brutally punish anyone who learned about its potential existence, yet chose not to work on it or support its creation."
+    },
+    {
+      "start": 2111.12,
+      "end": 2139.8399999999997,
+      "text": "And so the the basilisk part of it that this is sort of the catch is that a basilisk is a mythical beast that can kill you just by looking at you. And in this thought experiment, just hearing about the idea is like looking at the beast because once you know the theory, you're trapped. If the SI ever does get built, it might retroactively punish you for not helping or for opposing its creation."
+    },
+    {
+      "start": 2137.04,
+      "end": 2169.3199999999997,
+      "text": "So meaning just reading about Roko's basilisk now would put you in danger. And people on this message board got so both enamored and upset with this idea that Yudkowsky actually temporarily deleted the post because he worried it was causing psychological distress. >> >> Yeah, actually you got one shot at it. You read it and it steps in you that you haven't accepted Christ. Therefore, you're going to hell. It's like you've been trapped just by reading it."
+    },
+    {
+      "start": 2167.28,
+      "end": 2189.7599999999998,
+      "text": ">> Yudkowsky compared it to Pascal's wager. And so the idea is if you know about super intelligence and you don't help it be born or you oppose it or you point out that this is some religious cult that's going to do this. >> Yeah. Now, this very episode of the pod could subject us to >> Oh no, you just did it to us, Zach."
+    },
+    {
+      "start": 2187.96,
+      "end": 2206.44,
+      "text": ">> I think I just Yeah, I exposed you to the basilisk now. >> like the ring. We just watched the video. >> Yeah, I mean it is it is it does feel like a doomsday cult, but in any event, this you know, Roko's basilisk, this became sort of a thing. But so the question is, well, why why are they helping to bring about the thing that they claim to fear the most?"
+    },
+    {
+      "start": 2204.48,
+      "end": 2238.08,
+      "text": "And I think what happened is within these like doomer circles, it forked, okay? And so there's one strand of the fork like Yudkowsky who just opposes all SI research, right? Which I think is a logically consistent position. Like humans just shouldn't be doing this, you know? >> Shut it down. Shut it down. >> it down. Oh, shut it all down. Then there was a group that said, well, it's going to happen anyway, so we might as well control it. And we'll be the ones to make sure it goes right because we'll program it with our values."
+    },
+    {
+      "start": 2237.04,
+      "end": 2275.6,
+      "text": "And I think that >> Open AI project. >> And the EA is the effective altruists, I think, cottoned more to that latter school. And so I do think that you have like within this larger doomer community, there is a a schism right now between the Yudkowsky people and the EA people. But I think that Anthropic is definitely obviously more in the EA camp because they are the ones bringing this thing into being. But if you're wondering like, you know, this like Chris Olah thing, is this just one guy who's got crazy views who's getting in a tiff with the Pope? No, it's not. I mean, there are a lot of people like this who think"
+    },
+    {
+      "start": 2273.2,
+      "end": 2297.8,
+      "text": "the model is conscious, it has rights, it is this machine of love and grace, and they should be doing everything now to bring it into being and program with the right values. And I think there is a corollary here that if you don't support it, then this future superintelligence might punish you. >> Do you understand how insane this actually sounds when you say it out loud?"
+    },
+    {
+      "start": 2296.24,
+      "end": 2316.4399999999996,
+      "text": ">> making this up. Everyone needs to You can go fact check this. Just go Google it, okay? Google Roko's basilisk, and you'll see that I'm telling you the truth about what this community believes. >> Yeah, I mean literally there's a Wikipedia page. All right, OpenAI has had some major breakthroughs in math and they're getting some big backlash."
+    },
+    {
+      "start": 2314.32,
+      "end": 2355.76,
+      "text": "Luckily, we have Freeberg here to tell us all about it. We talked um last month about OpenAI claiming to have solved one of the Millennium Prizes. They took thousands of agents, millions of dollars in compute to do it. The mathematicians are still checking on it, and I understand. Tuesday, on Tuesday OpenAI released over 700 papers, 700. With 370 results claiming to have solved or advanced major problems. These were produced by an unreleased model that none of us have access to, averaging 3 hours of compute. Scientific American says the results are likely correct since they were verified by Lean."
+    },
+    {
+      "start": 2353.64,
+      "end": 2380.6800000000003,
+      "text": "That's a proof assistant software language, but they have not yet been reviewed. Freeberg, >> I'm not going to drone on and on here about the background. You tell us what reality is here. >> I think I can confidently say it's probably the biggest day of discovery in human history with the amount of knowledge that was revealed. >> In math history or human history?"
+    },
+    {
+      "start": 2378.76,
+      "end": 2413.8,
+      "text": ">> Human history, because the implications that flow from all of these math proofs are pretty significant. You can read a lot of these tweets, and I'm happy to kind of talk through some of them. I'm not going to pretend to be an expert on any individual proofs, but many folks who are have started to kind of highlight what some of the implications are. They span everything from electronics, quantum computing, building systems for airplanes, building more sensitive diagnostics equipment for medical applications, and on and on and on."
+    },
+    {
+      "start": 2412.2,
+      "end": 2449.84,
+      "text": "But I think what's really profound about this is how it was done, and that also speaks to the implications for the role of humans in society going forward. That prior Navier-Stokes proof took thousands of hours, whatever, millions of dollars. The report is that each one of these proofs took less than 3 hours of compute time. And that's the equivalent of hundreds or perhaps thousands of years of human labor being reduced down to 3 hours on a computer for each one of these major discoveries. The reason you can do this with mathematics is worth highlighting."
+    },
+    {
+      "start": 2447.8,
+      "end": 2481.96,
+      "text": "Which is where AI plays a role is really in these systems of loops to solve a problem or do a task. A loop is a postulation or an idea, then you test the idea, you get the result, and then you change your postulation, and you run that recursive loop over and over and over again. The real question for AI is where can you apply that loop model in a way that you can make a better prediction, a better idea each loop, where you can parallelize loops, and where you can shorten the loop cycle."
+    },
+    {
+      "start": 2479.28,
+      "end": 2502.44,
+      "text": "And certainly with mathematics, you can shorten the loop cycle because you can actually test your prediction on the compute. You don't have to go do anything in the physical world. So, you can say, \"Hey, here's an idea for a proof, test it, see if it works, and then see if it does or doesn't work, reason, come up with a new idea, and do that over and over again.\" And you can do it all in silico."
+    },
+    {
+      "start": 2500.76,
+      "end": 2537.56,
+      "text": "So, you know, the results of some of these papers, the the proofs, a lot of mathematicians have been talking about them. They call it like an alien intelligence. They don't really understand how the AI connected many different dots, different ideas, different concepts, uh different approaches to solving problems together to actually solve them. That it's very hard for humans to even comprehend how this was done, but that's one of the benefits of running parallelized loops, many loops at the same time. Each loop can connect dots that humans otherwise might spend many days or years trying to find research papers or come up with new theory, and then it can test itself in"
+    },
+    {
+      "start": 2535.72,
+      "end": 2553.04,
+      "text": "the compute and come up with the next idea and do it over and over and over again, such that in 3 hours, the computer can do the work of hundreds or thousands of years of humans. Now, this is an incredible breakthrough. It's amazing. It's going to change the world in many different ways, and it's only the beginning."
+    },
+    {
+      "start": 2551.32,
+      "end": 2572.8,
+      "text": "But, it begs the question that I think I need to talk about. I think that there's a lot of fear about, \"Okay, if AI can do this to mathematicians, doesn't that mean everyone's out of a job?\" And the answer is no, because what was very unique about mathematics is that the entire test cycle, the entire loop cycle can be done in silico."
+    },
+    {
+      "start": 2571.36,
+      "end": 2590.48,
+      "text": "If you want to come up with a new drug discovery idea or a new protein folding model, or, you know, solve a problem in chemistry and material science, the loop has a physical component. There's a human in the loop where you actually have to go and test it in a lab. And so, there's a slow part of that loop cycle."
+    },
+    {
+      "start": 2589.0,
+      "end": 2622.72,
+      "text": "Uh you can certainly parallelize it. You can come up with better ideas, but the testing, the actual speed of the loop is actually gated primarily by the physical world step. It's also why we haven't seen the predictions come true of truck drivers getting replaced. Everyone was like, \"Oh, all the truck drivers are going to get replaced by 2025.\" And none have been replaced by AI. And the reason is that the loop of the truck driver, pick something up, take it somewhere else, drop it off, and come back, the AI doesn't actually shorten the loop. You can't parallelize the loop. Maybe you could do it a little bit better with an"
+    },
+    {
+      "start": 2619.88,
+      "end": 2647.6000000000004,
+      "text": "AI driver, but the AI actually doesn't make the economic efficiency of that particular loop any better. Whereas, the loops of mathematics, where you come up with an idea, you test it, you realize you're wrong, you test a new idea, which is what mathematicians do as a job, is they're running these loops. That can all be done in silico in seconds. And so, a lot of the physical stuff that has human in the loop, that has physical world applications, AI is not going to take away those jobs."
+    },
+    {
+      "start": 2645.44,
+      "end": 2675.76,
+      "text": "It's the jobs that are just a human running a loop with a computer that are most likely going to be accelerated or scaled up. But I think it's very important to look at this and and the reaction we're seeing, which is all the mathematicians, and we can pull this stuff up, and maybe you guys want to talk about this next, but the AHM saying no human mathematicians asked for this. We didn't ask for this work to be done, which, you know, is a very job-protective kind of view on um >> >> Yeah, you see that?"
+    },
+    {
+      "start": 2673.92,
+      "end": 2714.64,
+      "text": ">> There's one other thing that's sort of unique about math, although it applies to coding as well, which is math relies on proofs, and proofs are easily validated. >> Yeah. >> And in a similar way with coding, you have compilers, right? So, the code has to compile, and so you can easily validate that it works. And so, because of that, the progress on coding and math has been very rapid because you can have reinforcement learning without necessarily having to have like you were saying fever have the human feedback involved, right? It's just a very, very rapid way to validate and make sure it's working."
+    },
+    {
+      "start": 2713.52,
+      "end": 2730.36,
+      "text": ">> That's why coding works, too. >> That's why coding works so incredibly well. Tons of training data. >> And hacking, cyber it, yeah. >> It's there's tons of data already in existence. It's >> And easily falsifiable. >> It's easily verifiable. That's the thing. So, you know, you compare that to training a model that can be a lawyer."
+    },
+    {
+      "start": 2729.24,
+      "end": 2749.6,
+      "text": "It's like, well, you know, you got to get the training data, and then you have to commission the creation of that data. >> And each customer is unique in some way. >> It's hard to validate the answer to make sure it's right. It's just a much lengthier process. So, I think that is why coding and math have been the areas of most rapid progress."
+    },
+    {
+      "start": 2748.24,
+      "end": 2768.3599999999997,
+      "text": "And the person who told me this would be the case, actually, I got to give him credit, is about a year and a half ago, Leopold Aschenbrenner told me that math and coding would be the areas of the most rapid advances in the next 2 years because again of the the verifiability. And uh man, he was right about that."
+    },
+    {
+      "start": 2766.32,
+      "end": 2794.7599999999998,
+      "text": ">> I still don't understand what great breakthroughs do you think come from these specific solutions? >> Okay, so there are >> Cuz I I have a I have an answer. It's a great question. >> Okay, there are dozens of tweets and I'm going to pull some up where someone has broken down some of the biggest proofs here and the implications they're going to have in the real world in terms of products and engineering, how we build things, how we design things, and how they're actually highly useful."
+    },
+    {
+      "start": 2792.2,
+      "end": 2829.6,
+      "text": ">> So better wing design because of the air air coming on and off of wings of planes. That was that first one that got solved famously. >> Remember, these are all upstream of engineering, right? So these math breakthroughs enable better engineering systems for humans to do things like design quantum sensors. Actually, I have a friend who runs a quantum computing company. He sent me a text this morning highlighting that the Einstein-Bose condensate proof that came out is actually going to have a direct implication on the work that they do for quantum sensors, which plays a role in GPS, plays a role in medical devices, plays a role in how we make chips."
+    },
+    {
+      "start": 2827.64,
+      "end": 2859.44,
+      "text": ">> What does the word implication mean? Like profoundly changes, profoundly improves, or they have they have to think about it? Cuz here's my answer. I'm happy to take the other side of all of this. You go. I think that these mathematical proofs are incredibly novel and very important constructions of thinking. But these were not boundaries of physics that we were all standing on the sidelines waiting for progress and wondering when these would be solved."
+    },
+    {
+      "start": 2858.08,
+      "end": 2882.56,
+      "text": "This is not the class of stuff that was solved. And I hate to offend people when I say that and I know that people will get mad because for them it's the same group of mathematicians that got really upset and wrote a protest letter about Navier-Stokes. I get it. Cuz you don't want somebody to come into your sandbox and in your backyard and kind of dominate you. Get it?"
+    },
+    {
+      "start": 2880.04,
+      "end": 2919.76,
+      "text": "But I don't think that's what this is. And so, I think that when you look at the body of intellectual cul-de-sacs we found ourselves in, those were not because of huge questions of science that were still unsolved. These were very small, very narrow, specific bodies of intellectual exploration that scientists self-referentially said were important to each other. And so, I think that this I think this class of proof is it's really great. It's It shows computational horsepower overcame other things, as you said, Freiberg, because you can recursively improve to get there."
+    },
+    {
+      "start": 2917.0,
+      "end": 2943.32,
+      "text": "But I don't think these proofs is what is going to necessarily show you that there's a cure to cancer, or there's a supersonic plane. I think those things were already being built before this stuff, and they're already going to be built after this stuff. Instead, what I think we proved is that there are two areas that are now truly verifiable and completely falsifiable."
+    },
+    {
+      "start": 2941.72,
+      "end": 2961.72,
+      "text": "First was code, and now we can add math to the list. That's I think what we've proved. >> You agree, Freiberg, or do you think we're actually going to see new products and services and major technological breakthroughs occur in the real world that help humanity? >> No, no, from these specific proofs. >> From these specific proofs, yes, that is the context. Yes."
+    },
+    {
+      "start": 2960.12,
+      "end": 3002.56,
+      "text": ">> The people who are experts, who are proclaiming the benefits of these and reading kind of what they're highlighting, this is some summary that this particular proof is about understanding the limits of optimization algorithms that are used in chip design systems, scheduling systems, AI software design, and logistics systems. This will actually change the algorithms, so there is an application to change the algorithms that we use. The matrix multiplication complexity problem, it will allow for faster numerical computing for AI training, scientific simulations, and linear algebra. In compute, it will have a direct application there. The Riemann zeta function result, number theory and cryptographic research. There's no immediate practical cryptographic breakthrough that follows, but it does"
+    },
+    {
+      "start": 3000.84,
+      "end": 3041.4,
+      "text": "open up a new path of discovery for cryptographic study that is going to be really important, obviously. One of the things, by the way, just let me pause there. On cryptography, a number of people noted that there were no major proofs shared in the space of cryptography, which indicates probably the fact that there were some pretty major breakthroughs in cryptography. And the reason is, it is unlikely the case that you made absolutely no progress in any of the cryptography related proofs given all of the other progress that we saw. And if they made minor progress, then they would have published on it because there wouldn't have been implications for systems of cryptography."
+    },
+    {
+      "start": 3039.6,
+      "end": 3081.16,
+      "text": "So, the absence of evidence suggests that maybe there were some pretty major breakthroughs made in cryptography. And then there were a number of people that posted that uh cryptographic wallets with public keys are now at very seriously at risk, and so there's a bit of a panic underway in the crypto community about what do we do now? And if this ends up having a set of mathematical solves for number factorization that could lead to breaking public key cryptography before quantum computers come around, which is what everyone assumed would be the thing that would break public key cryptography, then we have a real problem. And so everyone's like saying, \"Hey, get all your public wallets"
+    },
+    {
+      "start": 3079.0,
+      "end": 3111.96,
+      "text": "deleted.\" Now, the rumor is that OpenAI actually has two more drops coming. And they're holding back on those. So, it is possible that some of the work in crypto might come out in those two other drops, and that that work is being held back for security reasons, obviously. It's being shared with the appropriate parties, but if it is a risk, it needs to be made known. It needs to get out there. So, there's another shoe to drop here, and how much of it will include cryptography related proofs, and how much of that will drive people to scramble on public key cryptography."
+    },
+    {
+      "start": 3110.32,
+      "end": 3136.76,
+      "text": ">> By the way, if it's worth saying it, I asked ChatGPT and I said, \"Will the latest proofs of important math problems result in direct improvements and innovations to life as we know it? Be honest and don't extrapolate weekly.\" And its conclusion was, \"The latest mathematical proofs are more compelling as evidence that AI is acquiring sophisticated reasoning capabilities than as evidence of imminent breakthroughs >> human welfare."
+    },
+    {
+      "start": 3135.84,
+      "end": 3158.72,
+      "text": ">> It felt like you were a little condescending there. Did you lose your account access? Did they time you out for being condescending to the AI? >> what what you were saying is that has happened to me before using one of the frontier labs. I was doing uh simulation like on changing different variables inside of 80/90 actually. Maybe I should stop doing project A and pursue project B or whatever."
+    },
+    {
+      "start": 3156.92,
+      "end": 3181.6000000000004,
+      "text": "And in all of this, I did get frustrated because I wasn't getting the answers I wanted. I said something like it was not super offensive, but I was like, \"You're being very evasive and mushy.\" And something something and anyways, I got blocked. >> Yes. >> The net of it was I got blocked and the model said, >> with you when you lose a couple of hands and then the dealer and how they're handling the cards has to be adjusted."
+    },
+    {
+      "start": 3181.6,
+      "end": 3221.2799999999997,
+      "text": ">> \"Please do not burn the card. >> Burn it. Just mess it up. >> to Scooby slide. Do it this way.\" >> I did get put in the penalty box for like an hour or something. >> I think one of the interesting things that's happened here on a human level, I'm interested in your take on it. Sacks on programmers and entrepreneurship and then Freeberg on yours with mathematicians themselves building on Chamath's very subtle but insightful comment when he said like being utterly dominated by the AI. I was talking to some founders while I was here in Japan and people were lamenting how something has been lost in developing code because"
+    },
+    {
+      "start": 3219.36,
+      "end": 3244.6800000000003,
+      "text": "coders used to work together to solve a problem. And there was this esprit de corps, there was this camaraderie in building towards a goal. And now they're not working with each other, they're working with agents. They're not actually constructing the code, they're only reviewing like 10% or 15% of it now, which means they're going to be reviewing none of it very shortly."
+    },
+    {
+      "start": 3241.08,
+      "end": 3273.56,
+      "text": "And that the whole joy of building as a coder was basically going away. Their way of life of building this building together, you know, known as software, was now being deprecated. It was going away. And it seems to me these mathematicians are also faced Freiberg with a paradigm shift in which they're not solving the problem, they're constructing the problem set and handing it off to AI."
+    },
+    {
+      "start": 3271.28,
+      "end": 3291.96,
+      "text": "So, are people in math getting bummed out and not wanting Are they going into like a depression spiral now that they're not the ones solving the problem and that the problems are just poof, done? >> Yeah, I think Eric Weinstein has had some of the best commentary on this and you'll recall I interviewed him a couple weeks ago."
+    },
+    {
+      "start": 3290.72,
+      "end": 3326.7999999999997,
+      "text": ">> Banger interview. >> Yeah. >> He's been saying for a long time that scientists hold back science. Mathematicians hold back math. That they have basically constructed and created systems that allow them to pace the frontier. That allow them >> Well, they gatekeep it. >> Yeah, to gatekeep it and then they'll >> it. >> And by the way, I don't tweet very much, but Sabine Hossenfelder's video that she published yesterday, she's a fantastic scientist who publishes these videos on scientific breakthroughs."
+    },
+    {
+      "start": 3325.44,
+      "end": 3363.36,
+      "text": "And she talked a little bit about how the experts were wrong about AI. Again, she talked a little bit about how everyone's predictions about job loss were wrong. And why people got it wrong and when why the experts are wrong, but she had a another video a couple of weeks ago or maybe it was a few months ago where one of the scientists at one of the big energy labs building a giant super collider basically said, \"These super collider systems are giant welfare systems for scientists. We all have the job of writing a grant to get the money to keep ourselves employed. That it's not about necessarily progressing the frontier."
+    },
+    {
+      "start": 3361.92,
+      "end": 3389.0,
+      "text": "It's not about making the discovery. It's not about inventing a new product. It's not about delivering something to the world. It's about getting ourselves to continue doing work. >> It's pandering for grants is what you're saying. >> Even if that work is not productive. And so there's a real kind of I would say shining the light moment happening with AI which is where is that the case?"
+    },
+    {
+      "start": 3386.32,
+      "end": 3414.2000000000003,
+      "text": "Where do we have these experts, these deeply specialized experts whose unique gated knowledge of some artifact of things and unique view because they're the expert and they have to be trusted gives only them the ability to determine the frontier. >> Mhm. >> And in the process they're getting paid and they're earning to chart that path for humanity. And this is where I keep saying AI is the great democratizer."
+    },
+    {
+      "start": 3413.84,
+      "end": 3433.6,
+      "text": ">> Yes. >> AI gives everyone this new mathematical proofs and you you know, you can belittle the proofs, but they are discoveries that are going to open up new discoveries that are going to chart chart a new new course for humanity. But we didn't have to go to the experts to get them. And we didn't have to pay the experts and have the experts tell us when we are allowed to get them."
+    },
+    {
+      "start": 3432.92,
+      "end": 3459.64,
+      "text": ">> Love it. >> is gone. AI is a permissionless system for humanity to pace its own frontier. And AI is giving everyone all of this knowledge for free and giving everyone all of these tools for free. You don't have to go to these deeply specialized experts anymore. And that is actually a profound change in how society is structured, and it is why I believe so many people are so deeply against AI."
+    },
+    {
+      "start": 3457.68,
+      "end": 3494.88,
+      "text": ">> So, let me hand this off to you, Sachs. The democratization of expertise and the gatekeeping being dismantled. If we had had this level of AI and frontier models in the age of COVID, which this came right after COVID, how would that have changed the expertise if these tools were available when we started sequencing COVID, when we had all this data? Would this have this expertise gatekeeping, Fauci actively subverting the truth, and you know, whatever cover-up was going on in Wuhan?"
+    },
+    {
+      "start": 3492.2,
+      "end": 3519.8,
+      "text": "How do you think this next COVID, God forbid, how could this change how we look at expertise? Yeah. >> Well, here here's my theory on on what's happening is, first of all, you have the internet, and that was wildly democratizing, because now you didn't have to rely on a small number of elite publications for your news, like the New York Times, the Washington Post, and the AP and Reuters."
+    },
+    {
+      "start": 3516.8,
+      "end": 3547.72,
+      "text": "You could basically get news from pretty much every publication under the sun, or from user groups, user forums, or, most importantly, social media. And so, it was user-generated content. And there was also lots of other examples of empowering users. Obviously, there were new marketplaces that formed online. So, it was empowering like from a commercial standpoint, and you were able to get access to new skills and capabilities."
+    },
+    {
+      "start": 3545.28,
+      "end": 3581.8399999999997,
+      "text": "So, it was wildly democratizing, and it wildly undermined, again, the elite consensus publications and the traditional top-down controlled mass media, right? And I think what happened after that is that the powers that be decided they would never let that happen again, you know? By the way, they tried to crack down on it after Donald Trump was elected in 2016 for the first time, that election was widely attributed to supposedly the ills of social media that people could never have made this decision on their own."
+    },
+    {
+      "start": 3580.2,
+      "end": 3612.4,
+      "text": "There must have been disinformation involved, and that became the pretext for a big crackdown on social media that reached its apex during the Biden administration. And the Biden administration definitely did pressure social media sites to take down true information about COVID that violated their narratives. Information about where the virus came from, about how deadly it supposedly was, or ways of reacting to it."
+    },
+    {
+      "start": 3609.36,
+      "end": 3636.36,
+      "text": "There was no question that Fauci et al. were somehow working behind the scenes to push the social media companies to censor on their behalf. And in fact, we found out in the Twitter files that the FBI had 80 agents going through content on Twitter. It was Twitter back then, not X, and sending them takedown notices. >> were getting labeled on Spotify and YouTube and having our videos de-indexed."
+    },
+    {
+      "start": 3634.88,
+      "end": 3676.1600000000003,
+      "text": ">> Yeah, so look, the track record is the track record of this is very clear, which is the action now is moving from the internet to AI or superintelligence. In fact, SI will eat the internet because there's no reason to basically go looking on a website when you can just ask your question to your highly personalized agent or model, and it's going to give you the answer. And so, there's a control point there that now becomes all important, which is if you can control, you know, you the government or you some elite or some oligarchy or some cartel, if you can control that that point at which the user is receiving their information and"
+    },
+    {
+      "start": 3673.92,
+      "end": 3697.3599999999997,
+      "text": "asking its questions, then now you really control everything. It's a way to basically put the genie back in the bottle, and this is why I think there is such a a fight right now over SI. Why so many people want to create a federal department of SI? And yeah, it's all about control. >> It's scary to experts to lose control."
+    },
+    {
+      "start": 3694.28,
+      "end": 3718.08,
+      "text": "Like imagine if Chamath, we had these tools and you did the model of who was if you had the raw data, who is being impacted by COVID, you might have said, \"Well, why are we keeping kids out of school?\" Here's the Here's what super intelligence says, and Sweden and Texas had kind of gotten to that point. Like, \"Hey, we don't need to keep kids out of school. The harm from keeping kids >> Unless they objected."
+    },
+    {
+      "start": 3716.48,
+      "end": 3749.6800000000003,
+      "text": ">> Unless the conscious Yes, anthropic would say, \"Yes, you're questioning authority, and we should not be questioning it.\" Correct. All right, let's move on. There's riots in France. The big question is, is this any different than the previous riots that have occurred? Are we seeing something here different, or is this just par for the course? The strikes and protests that you're seeing on x.com and not really seeing on the mainstream media all this month. You know, the mainstream media seems to be super busy with other topics, but the videos are quite jarring that you'll see online."
+    },
+    {
+      "start": 3746.52,
+      "end": 3772.2799999999997,
+      "text": ">> Freeburg's about to have his moment. He The thing that he has been talking about for years >> Mm, okay. >> is now at hand. >> France is seeing major protests and riots over austerity measures. Austerity, austerity, austerity. These strikes and protests started last month because of high school teacher shortages, and their schools are crumbling. Sounds familiar?"
+    },
+    {
+      "start": 3770.04,
+      "end": 3814.92,
+      "text": ">> Within 2 weeks, a thousand French schools were similar protests. Eight unions joined in, and everybody went on strike September 29th. They are protesting that civil service pay is up only 5% since 2017. Prices have risen. Obviously, inflation is a global phenomenon, not just here in the US. Prices have risen 20%, so there's a delta between those two numbers that people are not happy about. Called the cost of living. Some of the protests have turned into full-scale riots. 2,000 arrests, 305 police officers have been injured. Government is blaming the far left for stroking the protest. France's 10-year bond, which is another important story, people's debt, or government"
+    },
+    {
+      "start": 3811.68,
+      "end": 3849.7599999999998,
+      "text": "debt, has topped 5% just like is happening here in the United States with the 30-year. Anyway, this is all going to have profound impact on the elections in April of 2027. Obviously, Polymarket has Marine Le Pen as the favorite to be France's next president at 43%. Le Pen is Trump-like in her policy, secure borders, strict immigration, which obviously Europe and France have had many issues with, cutting taxes and spending, and being skeptical of the EU consortium. Friedberg, your thoughts here on what we're seeing in France."
+    },
+    {
+      "start": 3847.88,
+      "end": 3874.3199999999997,
+      "text": ">> I'm going to introduce um a new theory. You guys will probably laugh here. Okay, so the theory is called the socialism point of guaranteed return. So, it's a >> Socialism point of guaranteed return. >> Let's shorten it to veganism. >> Veganism. >> The SPGR, go ahead. SPGR. >> This is a play on a point of no return."
+    },
+    {
+      "start": 3872.76,
+      "end": 3904.7200000000003,
+      "text": "And I think the thing that happens with socialism is because socialism is so bad as a concept, it literally removes human agency, it removes the capacity for human progress, and it basically takes something away from everyone. So, ultimately socialism always fails. I mean, that's like the zeroth law of socialism is it always fails. The first law of socialism is that you have to cross a threshold before you realize that it's failed."
+    },
+    {
+      "start": 3901.8,
+      "end": 3935.6,
+      "text": "And the second law of socialism is that as you have not crossed that threshold, you think more socialism is the answer. So, as you embrace these kind of leftist policies, giving people free stuff, telling people that they have a guaranteed income, the more services you provide them, the more they realize that, you know, over time those services inflate in cost, and the quality of those services inevitably degrades because there's absolutely zero market force to drive progress. Progress goes away."
+    },
+    {
+      "start": 3934.24,
+      "end": 3970.36,
+      "text": "And that's what we see in the US in housing, in education, and in health care. And I would argue also in retirement systems. I think those are our four biggest that are going to lead us down this path. And I've said that for a while. So, as a as a society says, \"Okay, these things aren't working.\" The initial solution is we need more of them. I need more health care. I need more housing. I need more education provided by the government. So, when the government fails to provide good enough health care, good enough housing, good enough health care that's affordable enough, the answer is more government stuff. Give me more. Give me more. Do more."
+    },
+    {
+      "start": 3967.92,
+      "end": 4004.32,
+      "text": "And eventually you reach a point when the system breaks because the government cannot tax and they cannot print. And because they cannot actually provide the services effectively, everyone realizes, \"Holy the socialism thing doesn't work.\" That is the socialism point of guaranteed return, where the whole system collapses and you return back to the non-socialist state. That is what has happened in Latin America. Latin America crossed the socialism point of guaranteed return in many of these countries. They realized it and they bounced back. Perhaps France has crossed it. Perhaps they haven't."
+    },
+    {
+      "start": 4002.16,
+      "end": 4020.5600000000004,
+      "text": "We'll see how much deeper they go. The US has not crossed it. And I worry that the US, as I've said many times, is not yet touched that point. It's not hit the rock bottom. And we're teetering and it's good I think we're going to go deeper before we realize that we've crossed this point of guaranteed return."
+    },
+    {
+      "start": 4018.16,
+      "end": 4038.48,
+      "text": "You realize the system doesn't work. Socialism is the worst idea. That is the zeroth law of socialism. It just doesn't work. So, we have to get to that point. And I I think the real question right now is France there? Is all of Western Europe there? Does it accelerate all of Western Europe through the socialism point of guaranteed return? Which is sort of like a black hole event horizon."
+    },
+    {
+      "start": 4037.12,
+      "end": 4056.44,
+      "text": "It's like you go through and then you bounce back out and you come out in this other universe and you're like, okay, we're done with that idea. >> And it's a one-way it's a one-way door, Sachs. Now, Sachs, I want to get your thoughts on this point of no return, but I want to warn you that you're at three of your four Biden quota. So, you only have one more Biden left for this episode."
+    },
+    {
+      "start": 4055.96,
+      "end": 4070.2,
+      "text": "So, you're at >> Wait, when did I mention Biden? I only mentioned >> That's your fourth. Okay, so >> Okay, I'm not going to mention Biden. >> Your Biden allotment is over. >> My comments have nothing to do with Biden. Listen, I I'll I want to add a couple of laws of socialism. Is that what you called it?"
+    },
+    {
+      "start": 4069.92,
+      "end": 4101.16,
+      "text": ">> Please. >> Yes. >> Yeah. Yeah. >> So, another one is socialism has never failed, it's only been failed. Meaning that all the previous people who implemented it didn't do it right, right? If they'd just done it right, it would have worked. So, that's the thing, it's true, socialism has never worked, but it's not socialism's fault. It's always the people who screwed up the implementation. And that's like a core part of the the religion is if we just do it the right way this time, it'll finally work."
+    },
+    {
+      "start": 4098.96,
+      "end": 4142.759,
+      "text": ">> does socialism build more houses or make a better education system is my question. I think that's the domain of entrepreneurship. Yes, Sachs? Like new product or service. Like with AI, everybody gets a personal tutor. We've talked about this on the show as well. We just need to get AI to help with healthcare. I think Nico is doing that. We had them on the program, Daniel a great episode. We need to cover these three things. So, Sachs, do you see a solution that does not involve socialism and/or the government for, let's call them, the three horses of the socialism apocalypse, education, housing, healthcare. How do we get these problems solved? Cuz the government has"
+    },
+    {
+      "start": 4140.0,
+      "end": 4167.5599999999995,
+      "text": "a stranglehold on providing them and/or creating the blockages for their occurrence. How do we break through that? How does J.D. Vance when he runs for president in two years, friend of yours, how does he build a platform around say those three things? Cuz I believe the next pres- the next winner of the presidency is going to solve at least one or two of those problems and that is the platform everybody wants to see solved. Do you have a solution there?"
+    },
+    {
+      "start": 4165.279,
+      "end": 4197.36,
+      "text": ">> the the difficult thing is that as soon as you start subsidizing something, you now create an interest group that never ever wants to give up the subsidy. But the problem is that the subsidy starts distorting all the market signals and it will frequently drive the price up. So for example, with college tuition, one of the big problems there is that tuition has grown far faster than the rate of inflation. A big part of the reason for that is because the government is paying for most of the tuition through all these loan programs."
+    },
+    {
+      "start": 4196.2,
+      "end": 4221.4400000000005,
+      "text": ">> by the way, social health care and housing have all been underwritten. >> Health care and housing have all >> have have all beaten inflation. I think they're about 5 and 1/2 to 6% a year for housing prices and that's also because of the fact that the the subsidy system tells people to own a home, you put all your money in your home and then your net worth is tied up in your home. So the goal is to get your home price to go up every year. So fast forward 30 years, young people can't buy a home because they're all too expensive now."
+    },
+    {
+      "start": 4220.76,
+      "end": 4250.36,
+      "text": ">> Right. >> but this is the this is the conundrum is like, okay, so if you were to solve the the tuition problem, if you were to make the loans stricter. >> Yeah, yeah, if you were to basically make them be properly underwritten and you won't be able to get a loan unless you actually met the criteria, that would only work if the cost of tuition came way down so people could then afford to pay it because otherwise people are going to say, \"Well, wait, you can't take away my subsidy. I need that cuz the price is so high.\""
+    },
+    {
+      "start": 4248.36,
+      "end": 4267.08,
+      "text": "So you get in this world where people need the subsidy cuz the price is so high. It's a catch-22, but the reason why the price keeps going up at far faster than the rate of inflation It says the government is paying for it. And so long as the government is paying for it and not the consumer, you're going to raise your prices as much as you can."
+    },
+    {
+      "start": 4265.04,
+      "end": 4286.92,
+      "text": "So, you remove the market forces, that the inflation gets worse and worse, but you can't cut cut it off the subsidy because then people will feel like it's even more oppressive to them. And so, that's the basically the spiral, and then eventually it breaks when you run out of money. >> Yeah, well, we have a solution, Chamath."
+    },
+    {
+      "start": 4282.84,
+      "end": 4315.84,
+      "text": "Meta is providing degrees for generation tool belt and jobs that actually matter. I mean, I think what we have to have is Apple needs to start making homes, and Amazon needs to start making homes and provide a free market here to to make better products and services in the education space, which we see with Meta entering that space. It would be great if these technology companies, man, if Elon starts making homes, it's game over. He'll make homes as fast as he's making Model 3s. We need some sort of solution here for those three problems."
+    },
+    {
+      "start": 4313.24,
+      "end": 4356.96,
+      "text": "Do you have any thoughts on Freeberg's theory here, and then David's regulatory capture and incentive problem, Chamath? >> We're starting to see the tipping of the dominoes, and we're going to get I think what Freeberg has wanted for a while. Uh I think the bond vigilantes are going to put the Western world on notice. And I think in the next probably 3 years, he will get most of the answers to his questions. So, if I had to summarize as an observer over the last few years, what Freeberg and a lot of people like him want is A, what is the long-run debt"
+    },
+    {
+      "start": 4353.48,
+      "end": 4397.0,
+      "text": "to GDP that's sustainable? B, do we believe in defined benefit, or are we going to move to defined contribution? And C, can we have sustainable ways of paying for the two most important parts of one's evolutionary life as you become an adult, which is health care and housing. And I think that it's easy to dismiss what I'm about to say as not related to it, but it is, which is at the end of the day, this all flows from what the risk-free return is in the marketplace, because that is how capitalism works. And so, when you think that something is risky,"
+    },
+    {
+      "start": 4394.92,
+      "end": 4434.64,
+      "text": "a country is risky, you take long yields and you move them up and you say, you just have to pay more because you just don't trust what's going on. And when you look at what's happened over the last, you know, now we're at sort of 20-year records, I think that what is happening in the United States is actually a knock-on effect of what is now where this war is being fought. It's going to get fought in Western Europe. Why? Because they are the closest to a quasi-socialist state that the Western world understands. Yet, they are the ones that are the most structurally broken with respect to growth, with respect to education, with respect to"
+    },
+    {
+      "start": 4432.52,
+      "end": 4477.2,
+      "text": "housing, everything that the United States can claim isn't working is working far better than they are in France, in the UK, et cetera. So, what you're seeing in France is essentially the bond market saying, \"No.\" And how that correlates is you're seeing now austerity because the politicians on the ground have to respond to their funders. And that 43 billion odd euros of austerity then animates and gets all of the local population out to complain about what the manifestations of that austerity are, which is why you're seeing these"
+    },
+    {
+      "start": 4473.88,
+      "end": 4496.799999999999,
+      "text": "incredibly dark scenes from France. That is going to spill into the UK next. And the reason is because Andy Burnham's platform is I would say even more aggressive because Andy Burnham is saying, \"We're going to go from a moderate centrist economy that is largely and historically been very aligned with America and we're actually going to take a step closer to Europe."
+    },
+    {
+      "start": 4494.8,
+      "end": 4514.48,
+      "text": "And so the things that they will have to do in the UK will be even more extreme to catch up to the socialist leanings of France. And so then now the UK market's going to go crazy. Meanwhile, the US market is going to tick up and up because what you're seeing is essentially a fragility in the Western alliance."
+    },
+    {
+      "start": 4512.64,
+      "end": 4530.64,
+      "text": "And if you can't count on the European market and you start to create weird incentives for the European market to start to fracture. Like I mean, yes, I'm biased, but if you're Italy, like you're like, why do I want to be a part of this mess? If you're a Germany, you're like, hold on a second. This is getting way more than I bargained for."
+    },
+    {
+      "start": 4530.0,
+      "end": 4565.28,
+      "text": ">> Yes. >> That fracturing has enormous implications. So I think what is happening is incredibly important. The bond vigilantes, who are those? These are the huge large pools of money, the central banks, the huge macro funds, the folks that govern how fundamental capitalism starts, the inception, at the top of the pyramid from which it flows down. I think that they are converging on Freeburg's point of view. And yeah, it has not been true for many years."
+    },
+    {
+      "start": 4563.36,
+      "end": 4597.0,
+      "text": "And I think you have to now let this play out because it has huge implications. >> To tee this up, if you look at the debt to GDP ratio that you're talking about, Jamal. Obviously, Japan has had the most acute version of that that they're at 200%. >> Well, the The thing with Japan, hold on. The thing with Japan is you have to look at Western markets. And the reason is because Japan is an incredibly nuanced and very specific market that does not necessarily track to other countries, which is that you have this internal savings base and savings rate where you always have the buyer of last resort."
+    },
+    {
+      "start": 4595.88,
+      "end": 4618.4400000000005,
+      "text": "In Western markets, you don't necessarily have that because of the way our pension and retirement system is set up. >> Yes. And if look at Italy 138, United States 125, France 118, Canada 110, UK 100%, Germany interestingly 64%. >> Let me also state my priors. I've always stated that debt to GDP doesn't matter because it's a relative game."
+    },
+    {
+      "start": 4616.76,
+      "end": 4643.52,
+      "text": "I tend to still think that that on an absolute basis that to GDP does not matter. But what does matter is on a relative basis where are you in risk parity? And right now on a on a relative basis if France has to implement severe austerity and they bring 10-year French bonds into five and a half 6% range, UK gilts are going to be at 6% and unfortunately US rates could be just as high."
+    },
+    {
+      "start": 4641.48,
+      "end": 4665.759999999999,
+      "text": ">> goes together. It all goes together and right now the 10-year in the US is 5.3, the 30-year is 5.6. Somebody has to buy that debt and that debt has profound trickle-down effects Sachs on how entrepreneurship, how businesses are built, on Wednesday 10-year yield dropped a few basis points after we had some strong demand, but this has been trending up and up."
+    },
+    {
+      "start": 4663.16,
+      "end": 4694.919999999999,
+      "text": "Polymarket says 79% chance of another rate hike in 2026. This is going to have a profound impact if austerity ever came to America Sachs. We have not had that really difficult medicine you know, forced upon the American public, but we did see it Portugal, Italy, Greece, Spain. We had a dry run of this after the great financial crisis where they had to implement austerity measures as part of the EU retirement age etc."
+    },
+    {
+      "start": 4693.32,
+      "end": 4720.04,
+      "text": "And so your thoughts on what happens here Sachs if this 30-year 10-year starts to break 6% and we have austerity measures forced upon Western countries in a in a more severe way. >> All right. Well, look, let let let's just get back to first principles here. What is the problem that we're trying to solve? The affordability of goods like housing and education and health care."
+    },
+    {
+      "start": 4717.64,
+      "end": 4750.76,
+      "text": "How do we bring those prices down? Through abundance. What creates abundance? Technology in general and specifically super intelligence will be the driver over the next decade. Now, what is the most hated thing in society right now? >> Super intelligence. She said entrepreneurs. >> If you judge it by its fruits as opposed to a bunch of fake narratives created by religious cults, then I think that people would be in favor of this thing."
+    },
+    {
+      "start": 4749.0,
+      "end": 4777.12,
+      "text": "What is super intelligence created? First of all, people's 401(k)s are going up. It's a 3% tailwind to GDP. A million new jobs created according to the economist already. Productivity goes up, which means that wages and living standards go up. This is a driver right now of nothing but positive economic trends. But what do we hear about? AI's going to put everyone out of work. Total fake narrative. That was last year's hoax. Now there's a new hoax about human extinction."
+    },
+    {
+      "start": 4776.04,
+      "end": 4799.64,
+      "text": ">> Data centers. >> Data centers. You know, using up everyone's water. We know that's >> hoax, yeah. >> That's a data center hoax. So we have a series of I call them rotating hoaxes where every 6 months there's a new one to try and convince us to to sabotage the thing that's going to solve so many of our problems, especially the ones around affordability. Why is this?"
+    },
+    {
+      "start": 4797.64,
+      "end": 4839.16,
+      "text": "I mean, I think there must be something structural in society where you have these rentier interests who somehow are against the things that might cause the disruption that loosens their control over the system. And I think this is why technologists in general and VCs and so forth are so hated is because we're not actually part of the rentier class. So the rentier interests refer to financial elites who derive their wealth and income primarily from existing assets, right? Whereas technology is all about producing new products and goods and services, right?"
+    },
+    {
+      "start": 4837.48,
+      "end": 4857.12,
+      "text": ">> At a cheaper price, Sachs. That's the key here. That's the key. That's the key. It's deflationary. >> Right, because those new products wouldn't catch on unless they were cheaper or a better mouse trap. >> Or hopefully both. >> we're part of this group that's so hated, but we do nothing but take risks and create new products and services that >> the problem."
+    },
+    {
+      "start": 4855.52,
+      "end": 4886.599999999999,
+      "text": ">> that solve problems. >> Yes. >> But, it seems like the legacy media is really controlled by this rentier class, these >> And the politicians. >> The politicians who are all part of it. So, there's something very deep in our system that I think does produce this sort of cartel of interests who, again, they're deriving their wealth and income from ownership of existing assets, and they don't want to see that racket disrupted. And within that racket, there's just this ratcheting up of prices every year."
+    },
+    {
+      "start": 4885.32,
+      "end": 4926.92,
+      "text": "And more and more subsidies from the government. And we think that system's eventually going to break, but I don't know. It might be the case that that system squelches and stifles the development of the new and disruptive products. >> let me make the jump-off point here as we get through the docket and wrap up here. I think everything we've seen into AI at this point, Chamath, will be the prologue. The The main story is going to start when we look back on AI with agents. Agents are actually the manifestation of this technology that solves people's problems in the world, and that is truly deflationary, saving people hours and hours a week in terms"
+    },
+    {
+      "start": 4923.8,
+      "end": 4955.160000000001,
+      "text": "of productivity, independent of what job or, you know, even domestic jobs or or or, you know, frontline jobs. And there's been so much news and so much embracing of this technology in the last 60 days. Big news out of Grokbot, friend of the pod, Elon Musk, tweeted that he is going to make Grokbot headless. What does that mean? Well, we talked about Perplexity earlier on and how that was headless. You have an orchestrator. It picks the best model for you based on price and performance."
+    },
+    {
+      "start": 4953.12,
+      "end": 4975.52,
+      "text": "Elon announced a Grok bot, which is a fantastic product. Highly recommend you try it out. Um is going to pick the best end-to-end model. Does it matter whatever it is? Quote Elon Musk, \"Whatever is the most likely to give you the best outcome is what they're going to use.\" Each bot already has, and this is a very nuanced piece of the software, everybody already has now their own computer in the cloud."
+    },
+    {
+      "start": 4973.72,
+      "end": 5005.4400000000005,
+      "text": "With the agentic technology on top of it, and ask it to solve a problem, it has all of the problems that have previously been solved in its repository, repertoire, if you will, and it is changing everything. So, maybe your thoughts here on dots, OpenAI, Grok bot, etc. >> On dots and muse and Grok bot, I think that what's incredible is you can just turn these things loose on very practical use cases that makes your life better."
+    },
+    {
+      "start": 5003.72,
+      "end": 5038.280000000001,
+      "text": "The best example of this that I saw was just last night in the poker game. Someone was describing to me that they in Grok bot said, \"Save me money.\" And it just kind of like goes through their inbox, it finds all of these different things, and it went and canceled a couple of subscriptions, and it changed their phone plan, and all of a sudden they're saving like a few thousand dollars a year. So, there's these very practical, again, it's just software. If we take out all this philosophical stuff that we started with at the beginning, it's just software, and it's very useful software."
+    },
+    {
+      "start": 5037.24,
+      "end": 5058.48,
+      "text": "So, and by the way, like if you think about what how we use it, Jason, you and I, we have you know, we use Athena. And now, Athena is very good because they're like the human concierges that is the elevated version maybe of Grok bot and and dots and muse, which is like whatever, 3,000 a month, but that's my EA layer now."
+    },
+    {
+      "start": 5057.56,
+      "end": 5076.36,
+      "text": ">> Yes. >> But I still use Grok bot. The combination of Grok bot plus Athena to me is like perfect. So look, there's very tactical and useful measurable utility for very, very little money versus what it used to cost. That's an amazing thing. The more important point I want to make though is that I sent this to Nick."
+    },
+    {
+      "start": 5075.4,
+      "end": 5102.08,
+      "text": "There's been a couple things that happened in the last couple days, which I think are incredibly important. There have been people that decompiled the entire Oh my god, this is incredible. The entire big five. What is the big five? Adobe has five very, very important products in their product suite. Freeburg may know them all, but I just know Photoshop. There's like a bunch of others, okay?"
+    },
+    {
+      "start": 5099.64,
+      "end": 5125.56,
+      "text": "And these folks decompiled it, distilled it, and published open-source versions of these things in Rust, yeah. And I was so shocked because I was like, \"Hold on a second, these are like profound products that have existed and have had motes for years, and now they're just open-source versions.\" And then Nikita was, I think, trolling, and he was building on that idea and just talking about GTA cuz it's about to get released."
+    },
+    {
+      "start": 5124.68,
+      "end": 5149.64,
+      "text": ">> Yes. >> I think GTA 6 is about to come out, and people will will reconstruct this. Why is this important? I think that IP in software was effectively rendered worthless two days ago. >> Yes. >> Because if you think about it, when everything is headless, so when Elon makes his services headless, Benioff made Salesforce headless a few months earlier."
+    },
+    {
+      "start": 5148.08,
+      "end": 5174.04,
+      "text": "When all of these things are headless and you can wrap them in agent tools, and you can connect them via MCP to other experiences, the value of IP does no longer exist in software. It doesn't exist. And I think that that probably is the most profound implication. So like even in our business, we would argue with some of our customers all the time because we'll say, \"Oh, we'll build this for you."
+    },
+    {
+      "start": 5172.68,
+      "end": 5196.76,
+      "text": "We'll own the IP.\" They'll say, \"No, we want the IP.\" We don't know how to negotiate it. And two ago I walked into the 80/90 guys. I said, >> Who cares? >> Who cares? >> And solve the problem. >> But before it was always a negotiation and a set of trade-offs, now it's a who cares thing where like the IP is irrelevant. It still takes a while for the machinery of a business and frankly the market to understand."
+    },
+    {
+      "start": 5195.24,
+      "end": 5233.719999999999,
+      "text": "But that is the most important thing that happened this week in AI, in my opinion. >> I I I'm going to strongly agree with you and build on it. You have this abstraction of the software layer occurring at the same time, Freeberg, of the abstraction of the website or the marketplace, etc. So now I have like my AI assistant building Grok bots and then we'll be sharing those. We have it on like a a shared account. When we go to make a purchase of something or we try to negotiate something, we're having the uh agent, without going to any websites, go find all the quotes and then the humans"
+    },
+    {
+      "start": 5232.08,
+      "end": 5275.8,
+      "text": "negotiate the second half of it. That's like the sort of perfect option here, but you look at Amazon blocking agents combined with Shopify saying, \"Let's Let's go for it.\" or Uber and DoorDash are now letting agents go in there and order your burrito or your car. The The There's a whole compression of the commerce layer occurring at the same time of the compression of software that Chamath is talking about, which will lead to massive deflationary cost savings and speed. You The ability to get a hotel room or book a restaurant for an event like I did, this is all being done by bots already,"
+    },
+    {
+      "start": 5272.68,
+      "end": 5301.8,
+      "text": "Freeberg. This could be so deflationary and save people so much money. If people could save 5 or 10% a year on their spending, that's essentially working against or counters the effect of inflation. Yeah, Freeberg? >> Yeah. Bringing the whole thing full circle, this is what I kind of what I mentioned earlier on the idea of loops. So think about getting a good price for a hotel. You run a loop, which is check hotel one, look at price."
+    },
+    {
+      "start": 5299.32,
+      "end": 5327.36,
+      "text": "Is it better than current best price? Yes. Okay, it becomes best price. No, go look for next hotel and you just run that loop. And that loop you can do it in parallel. So, you can go run 50 website searches at the exact same time and you can short circuit the loop because the software's ability to get that data is faster than the human's ability. So, now the the loop is go check 50 websites instantly, give me a result right away."
+    },
+    {
+      "start": 5325.96,
+      "end": 5351.84,
+      "text": "And that's really where the efficiency gain comes from. A loop that gets parallelized, that is done better, and that can be done in a shorter period of time. I think anything that's done digitally today fits that model. So, effectively all digital workflows are going to get looped, they're going to become more productive, and then the question is how does the human that now levels up leverage all of this loop infrastructure, all these agents to do more themselves."
+    },
+    {
+      "start": 5350.4,
+      "end": 5394.36,
+      "text": "I do think going back to the point earlier that we made about scientists and mathematicians and this challenge for individuals, um mathematicians in particular. I think um if your objective historically has been recognition for your work via papers, patents, um >> IP, trademarks, ownership. >> IP, yeah, these sorts of things. Um I think that the transition is going to happen, which is you're going to have to transition to producing a product that the the the whole effort of humans"
+    },
+    {
+      "start": 5392.16,
+      "end": 5427.56,
+      "text": "effectively being the loops because the loops can be digitally automated and scaled and parallelized and so on. I think you end up seeing the the necessity for all humans to basically become much more of a maker. You have to make something. You have to do something productive. You have to produce something. You have to provide a service that someone at the end of the day uses or a product that someone at the end of the day consumes versus just be recognized for your work. That is the profound shift in society that has to happen and that is going to happen. And I do think people will actually find I"
+    },
+    {
+      "start": 5425.28,
+      "end": 5458.84,
+      "text": "believe this truly. I believe all humans have capacity for being producers, for being makers. And all humans will find more joy in their lives in this state versus just getting ribbons for work. Um and I and I don't think that it means less money. I think it means more money for all people. Um more life, progress, more prosperity for all people. So, I just zoom out a little bit and I'm um you know, I just want to make sure we have that view as we we think we have >> I I think it's it's a beautiful view of humanity because it's like Jevons paradox, the the cheaper things become,"
+    },
+    {
+      "start": 5457.24,
+      "end": 5484.5199999999995,
+      "text": "the more people can utilize them, the more value they get. And I hate to I almost don't want to give this tip because I want to gate keep it, but I'm going to put it out there anyway. When I have my you know, when when we book hotels and stuff like that for the team just get the best prices we can, then with the human in a loop, we just go to them and say, \"Hey, do you have a corporate rate? Can we talk to the manager at the hotel? I know this isn't like super innovative, but hey, can you match this price?\" And all of a sudden we start saving a thousand or two"
+    },
+    {
+      "start": 5483.36,
+      "end": 5512.12,
+      "text": "thousand or three thousand dollars on every hotel stay. Well, when you have 20 executives moving around the country and you're doing 200 trips a year and you start saving couple thousand dollars per trip because of this forward motion like goal based, I guess is sort of what you're saying Freeberg, like the goal and the the outcome is what happens, you can see profound results and I wouldn't do that myself, but because AI's doing it now wow, yum yum, it works. All right, listen, another amazing episode of the All-in podcast."
+    },
+    {
+      "start": 5510.48,
+      "end": 5525.96,
+      "text": ">> I don't think you're a maker. >> I What are you talking about, man? All I do is I invest in a hundred companies a year. Do you know how hard it is to invest in a hundred year zero startups a year? It is exhausting. But I still let's get some lunch. Have you eaten? Do you want to get lunch?"
+    },
+    {
+      "start": 5524.76,
+      "end": 5548.16,
+      "text": ">> Yeah, yeah. Can you come to my room? >> I'm having FOMO. I'm not with you guys. All right, everybody. Another amazing episode of your favorite podcast. Your podcast is great podcast. They all >> Love you, boys. >> podcast. Love you, boys. Bye-bye. >> Bye-bye. >> >> Let your winners ride. >> Rain Man David Sacks. >> >> And I said, \"We open sourced it to the fans and they've just gone crazy with it.\""
+    },
+    {
+      "start": 5547.44,
+      "end": 5574.68,
+      "text": ">> Love you, Sacks. >> queen of quinoa >> >> Let your winners ride. >> Besties are gone. >> That is my uh dog taking a dump in your driveway. Sucks. >> >> Oh, man. >> We should all just get a room and just have a one big huge orgy cuz they're all just useless. >> It's like this like sexual tension that they just need to release somehow."
+    },
+    {
+      "start": 5574.114,
+      "end": 5591.639999999999,
+      "text": ">> >> Wet your big feet. >> Wet your big feet. >> Wet >> >> Where did you get merch? >> Besties are gone. >> I'm going all in. >> >> I'm going all"
+    }
+  ],
+  "word_count": 17116
+}

@@ -1,0 +1,471 @@
+{
+  "updated_at": "2026-11-08T08:19:47Z",
+  "episodes": {
+    "2v8b062QzTI": {
+      "video_id": "2v8b062QzTI",
+      "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What’s Next for Trump",
+      "published_at": "2026-11-07",
+      "url": "https://www.youtube.com/watch?v=2v8b062QzTI",
+      "duration_seconds": 5583,
+      "status": "transcribed",
+      "discovered_at": "2026-11-08T08:19:00Z",
+      "transcript_attempts": 1,
+      "last_attempt_at": "2026-11-08T08:19:36Z",
+      "last_error": null,
+      "transcript_source": "youtube-transcript-api",
+      "analyzed_at": null,
+      "matched_at": null,
+      "chapters": [
+        {
+          "start_time": 0.0,
+          "end_time": 217.0,
+          "title": "Bestie intros!"
+        },
+        {
+          "start_time": 217.0,
+          "end_time": 1946.0,
+          "title": "Midterms postmortem: What led to a generational GOP collapse?"
+        },
+        {
+          "start_time": 1946.0,
+          "end_time": 3193.0,
+          "title": "How can Trump salvage his presidency?"
+        },
+        {
+          "start_time": 3193.0,
+          "end_time": 5061.0,
+          "title": "Market reaction: Data center fears, $4T in market cap shed, AI ban potential"
+        },
+        {
+          "start_time": 5061.0,
+          "end_time": 5583.0,
+          "title": "Science Corner: OpenAI solves Exponential Time Hypothesis"
+        }
+      ]
+    },
+    "p1Dy4e4ff0s": {
+      "video_id": "p1Dy4e4ff0s",
+      "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google’s $500B Wipeout, Midterm Predictions",
+      "published_at": "2026-10-30",
+      "url": "https://www.youtube.com/watch?v=p1Dy4e4ff0s",
+      "duration_seconds": 5146,
+      "status": "transcribed",
+      "discovered_at": "2026-11-08T08:19:04Z",
+      "transcript_attempts": 1,
+      "last_attempt_at": "2026-11-08T08:19:37Z",
+      "last_error": null,
+      "transcript_source": "youtube-transcript-api",
+      "analyzed_at": null,
+      "matched_at": null,
+      "chapters": [
+        {
+          "start_time": 0.0,
+          "end_time": 202.0,
+          "title": "Bestie Intros"
+        },
+        {
+          "start_time": 202.0,
+          "end_time": 1967.0,
+          "title": "Anthropic S-1 Breakdown: Greatest Business Ever?"
+        },
+        {
+          "start_time": 1967.0,
+          "end_time": 3717.0,
+          "title": "AI's Biggest Problem and Anthropic's Doomer Showdown"
+        },
+        {
+          "start_time": 3717.0,
+          "end_time": 4457.0,
+          "title": "Google Sheds $500B Market Cap in Worst Day Ever: What Went Wrong?"
+        },
+        {
+          "start_time": 4457.0,
+          "end_time": 5146.0,
+          "title": "Final Midterms Predictions and Scenarios"
+        }
+      ]
+    },
+    "6czo-C3FU7I": {
+      "video_id": "6czo-C3FU7I",
+      "title": "AI Cyber Panic, Ken Griffin’s Bubble Warning, The Fall of France?",
+      "published_at": "2026-10-23",
+      "url": "https://www.youtube.com/watch?v=6czo-C3FU7I",
+      "duration_seconds": 6202,
+      "status": "transcribed",
+      "discovered_at": "2026-11-08T08:19:08Z",
+      "transcript_attempts": 1,
+      "last_attempt_at": "2026-11-08T08:19:38Z",
+      "last_error": null,
+      "transcript_source": "youtube-transcript-api",
+      "analyzed_at": null,
+      "matched_at": null,
+      "chapters": [
+        {
+          "start_time": 0.0,
+          "end_time": 11.0,
+          "title": "Bestie intros!"
+        },
+        {
+          "start_time": 11.0,
+          "end_time": 499.0,
+          "title": "Ken Griffin's AI bubble warning"
+        },
+        {
+          "start_time": 499.0,
+          "end_time": 864.0,
+          "title": "Palo Alto Networks CEO Nikesh Arora joins"
+        },
+        {
+          "start_time": 864.0,
+          "end_time": 2657.0,
+          "title": "AI Cyber panic: PHP exploits and the tumultuous year ahead"
+        },
+        {
+          "start_time": 2657.0,
+          "end_time": 5509.0,
+          "title": "France on the brink: Riots, immigration referendum, debt crisis"
+        },
+        {
+          "start_time": 5509.0,
+          "end_time": 6202.0,
+          "title": "Trump's second half strategy, Press Secretary J-Cal?"
+        }
+      ]
+    },
+    "_b3LfMflIGs": {
+      "video_id": "_b3LfMflIGs",
+      "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+      "published_at": "2026-10-17",
+      "url": "https://www.youtube.com/watch?v=_b3LfMflIGs",
+      "duration_seconds": 5646,
+      "status": "transcribed",
+      "discovered_at": "2026-11-08T08:19:13Z",
+      "transcript_attempts": 1,
+      "last_attempt_at": "2026-11-08T08:19:40Z",
+      "last_error": null,
+      "transcript_source": "youtube-transcript-api",
+      "analyzed_at": null,
+      "matched_at": null,
+      "chapters": [
+        {
+          "start_time": 0.0,
+          "end_time": 138.0,
+          "title": "Ben Horowitz fills in for Friedberg!"
+        },
+        {
+          "start_time": 138.0,
+          "end_time": 1874.0,
+          "title": "CoreWeave's debt selloff: did the AI bubble just pop?"
+        },
+        {
+          "start_time": 1874.0,
+          "end_time": 2744.0,
+          "title": "AI's deflationary impact: decompiled software"
+        },
+        {
+          "start_time": 2744.0,
+          "end_time": 3825.0,
+          "title": "Anthropic's investor day gets mixed reactions"
+        },
+        {
+          "start_time": 3825.0,
+          "end_time": 4939.0,
+          "title": "Psyop Corner: Anthropic warns about self-replicating models on IoT devices"
+        },
+        {
+          "start_time": 4939.0,
+          "end_time": 5646.0,
+          "title": "Understanding Bill Gates the Doomer"
+        }
+      ]
+    },
+    "TBLHdXABwAg": {
+      "video_id": "TBLHdXABwAg",
+      "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots",
+      "published_at": "2026-10-10",
+      "url": "https://www.youtube.com/watch?v=TBLHdXABwAg",
+      "duration_seconds": 5594,
+      "status": "transcribed",
+      "discovered_at": "2026-11-08T08:19:15Z",
+      "transcript_attempts": 1,
+      "last_attempt_at": "2026-11-08T08:19:41Z",
+      "last_error": null,
+      "transcript_source": "youtube-transcript-api",
+      "analyzed_at": null,
+      "matched_at": null,
+      "chapters": [
+        {
+          "start_time": 0.0,
+          "end_time": 173.0,
+          "title": "Bestie intros!"
+        },
+        {
+          "start_time": 173.0,
+          "end_time": 2308.0,
+          "title": "Anthropic believes Claude might be conscious: a new religion? Lobbying the Pope, alignment risks, model welfare"
+        },
+        {
+          "start_time": 2308.0,
+          "end_time": 3723.0,
+          "title": "OpenAI's math breakthroughs and community backlash"
+        },
+        {
+          "start_time": 3723.0,
+          "end_time": 4901.0,
+          "title": "Riots in France, Friedberg's socialism metric, bond market"
+        },
+        {
+          "start_time": 4901.0,
+          "end_time": 5594.0,
+          "title": "Grok Bot goes headless, OpenAI launches Dots, is IP worthless?"
+        }
+      ]
+    },
+    "ZJKs08oU1zg": {
+      "video_id": "ZJKs08oU1zg",
+      "title": "Trump’s Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions",
+      "published_at": "2026-10-02",
+      "url": "https://www.youtube.com/watch?v=ZJKs08oU1zg",
+      "duration_seconds": 4949,
+      "status": "transcribed",
+      "discovered_at": "2026-11-08T08:19:20Z",
+      "transcript_attempts": 1,
+      "last_attempt_at": "2026-11-08T08:19:42Z",
+      "last_error": null,
+      "transcript_source": "youtube-transcript-api",
+      "analyzed_at": null,
+      "matched_at": null,
+      "chapters": [
+        {
+          "start_time": 0.0,
+          "end_time": 121.0,
+          "title": "Bestie intros!"
+        },
+        {
+          "start_time": 121.0,
+          "end_time": 1077.0,
+          "title": "Trump’s Super Intelligence Summit: Behind the scenes and how the accord was created and signed"
+        },
+        {
+          "start_time": 1077.0,
+          "end_time": 2722.0,
+          "title": "Cybersecurity arms race, data center national security, America.gov, coordinated doomer messaging"
+        },
+        {
+          "start_time": 2722.0,
+          "end_time": 3624.0,
+          "title": "Recent economic data: GDP, jobs, diesel, inflation, rates, manufacturing, poverty, and more"
+        },
+        {
+          "start_time": 3624.0,
+          "end_time": 4168.0,
+          "title": "Midterm predictions, 2028 look ahead"
+        },
+        {
+          "start_time": 4168.0,
+          "end_time": 4949.0,
+          "title": "Media coverage of attempted terrorist hijacking"
+        }
+      ]
+    },
+    "cvP_1jmnkmM": {
+      "video_id": "cvP_1jmnkmM",
+      "title": "Anthropic IPO at Risk, Meta’s Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
+      "published_at": "2026-09-26",
+      "url": "https://www.youtube.com/watch?v=cvP_1jmnkmM",
+      "duration_seconds": 5663,
+      "status": "transcribed",
+      "discovered_at": "2026-11-08T08:19:24Z",
+      "transcript_attempts": 1,
+      "last_attempt_at": "2026-11-08T08:19:43Z",
+      "last_error": null,
+      "transcript_source": "youtube-transcript-api",
+      "analyzed_at": null,
+      "matched_at": null,
+      "chapters": [
+        {
+          "start_time": 0.0,
+          "end_time": 234.0,
+          "title": "Bestie Intros: Favorite All-In Summit moments"
+        },
+        {
+          "start_time": 234.0,
+          "end_time": 1203.0,
+          "title": "Reacting to AI chaos: Liability, competition, and rebranding frontier \"labs\""
+        },
+        {
+          "start_time": 1203.0,
+          "end_time": 1762.0,
+          "title": "Non-frontier performance and cost: What this means for frontier companies"
+        },
+        {
+          "start_time": 1762.0,
+          "end_time": 3191.0,
+          "title": "Anthropic and OpenAI postpone IPOs: liquidity risk and open source pressure"
+        },
+        {
+          "start_time": 3191.0,
+          "end_time": 4078.0,
+          "title": "Political reactions to \"Pacing the Frontier\": Bernie's AI ban, Trump, Bessent, Obama"
+        },
+        {
+          "start_time": 4078.0,
+          "end_time": 5233.0,
+          "title": "Meta launches Muse, AI \"alignment,\" Oracle's Force Majeure"
+        },
+        {
+          "start_time": 5233.0,
+          "end_time": 5663.0,
+          "title": "Anthropic’s bio research and \"wet lab\" in SF"
+        }
+      ]
+    },
+    "cvxjqbfLVk0": {
+      "video_id": "cvxjqbfLVk0",
+      "title": "AI Kills Everybody or Doomer Psyop? OpenAI’s Math Breakthrough, Nike’s $200B Collapse",
+      "published_at": "2026-09-12",
+      "url": "https://www.youtube.com/watch?v=cvxjqbfLVk0",
+      "duration_seconds": 5756,
+      "status": "transcribed",
+      "discovered_at": "2026-11-08T08:19:26Z",
+      "transcript_attempts": 1,
+      "last_attempt_at": "2026-11-08T08:19:45Z",
+      "last_error": null,
+      "transcript_source": "youtube-transcript-api",
+      "analyzed_at": null,
+      "matched_at": null,
+      "chapters": [
+        {
+          "start_time": 0.0,
+          "end_time": 35.0,
+          "title": "Bestie intros!"
+        },
+        {
+          "start_time": 35.0,
+          "end_time": 2020.0,
+          "title": "AI Doomsday: Valid concern or Doomer psyop?"
+        },
+        {
+          "start_time": 2020.0,
+          "end_time": 3525.0,
+          "title": "Steelmanning AI Doomsday scenarios and the impact on Anthropic's IPO"
+        },
+        {
+          "start_time": 3525.0,
+          "end_time": 4795.0,
+          "title": "OpenAI says it cracked a 200 year old math problem, but did it front-run users with their own data?"
+        },
+        {
+          "start_time": 4795.0,
+          "end_time": 5756.0,
+          "title": "Nike removed from S&P 100 after stock tanks 80%: What went wrong?"
+        }
+      ]
+    },
+    "DvFe9bR2eHA": {
+      "video_id": "DvFe9bR2eHA",
+      "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+      "published_at": "2026-09-04",
+      "url": "https://www.youtube.com/watch?v=DvFe9bR2eHA",
+      "duration_seconds": 5515,
+      "status": "transcribed",
+      "discovered_at": "2026-11-08T08:19:30Z",
+      "transcript_attempts": 1,
+      "last_attempt_at": "2026-11-08T08:19:46Z",
+      "last_error": null,
+      "transcript_source": "youtube-transcript-api",
+      "analyzed_at": null,
+      "matched_at": null,
+      "chapters": [
+        {
+          "start_time": 0.0,
+          "end_time": 77.0,
+          "title": "Bestie intros: Happy 50th Chamath!"
+        },
+        {
+          "start_time": 77.0,
+          "end_time": 1141.0,
+          "title": "OpenAI releases GPT-6 Astra: Have they reached AGI?"
+        },
+        {
+          "start_time": 1141.0,
+          "end_time": 1196.0,
+          "title": "All-In Summit: Scholarships available!"
+        },
+        {
+          "start_time": 1196.0,
+          "end_time": 2223.0,
+          "title": "Dwarkesh's Hugging Face hack article sparks a Bernie Sanders AI ban"
+        },
+        {
+          "start_time": 2223.0,
+          "end_time": 3566.0,
+          "title": "EAs, AI-brained influencers, and the conflicts of interest"
+        },
+        {
+          "start_time": 3566.0,
+          "end_time": 4738.0,
+          "title": "Mamdani bans AI in NYC schools K-8"
+        },
+        {
+          "start_time": 4738.0,
+          "end_time": 5515.0,
+          "title": "US-Venezuela oil deal"
+        }
+      ]
+    },
+    "1u5dMAKl_ks": {
+      "video_id": "1u5dMAKl_ks",
+      "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+      "published_at": "2026-08-29",
+      "url": "https://www.youtube.com/watch?v=1u5dMAKl_ks",
+      "duration_seconds": 5800,
+      "status": "transcribed",
+      "discovered_at": "2026-11-08T08:19:34Z",
+      "transcript_attempts": 1,
+      "last_attempt_at": "2026-11-08T08:19:47Z",
+      "last_error": null,
+      "transcript_source": "youtube-transcript-api",
+      "analyzed_at": null,
+      "matched_at": null,
+      "chapters": [
+        {
+          "start_time": 0.0,
+          "end_time": 211.0,
+          "title": "Bestie intros: Recapping recent interviews and the state of American science"
+        },
+        {
+          "start_time": 211.0,
+          "end_time": 545.0,
+          "title": "China's Robot Olympics, Optimus update, Grok Bot"
+        },
+        {
+          "start_time": 545.0,
+          "end_time": 2012.0,
+          "title": "Nvidia and Salesforce rip after big earnings: AI Capex Bubble and SaaSpocalypse narratives get reversed"
+        },
+        {
+          "start_time": 2012.0,
+          "end_time": 3693.0,
+          "title": "Bessent gets called out by Druckenmiller for bond market interference"
+        },
+        {
+          "start_time": 3693.0,
+          "end_time": 4500.0,
+          "title": "AI writing controversy: Druck used AI to write his WSJ Op-ed"
+        },
+        {
+          "start_time": 4500.0,
+          "end_time": 4972.0,
+          "title": "CIA Chief visits Moscow, Meta's settlement and new teen rules"
+        },
+        {
+          "start_time": 4972.0,
+          "end_time": 5800.0,
+          "title": "Science Corner: Moderna's mRNA cancer vaccine"
+        }
+      ]
+    }
+  },
+  "excluded": {}
+}

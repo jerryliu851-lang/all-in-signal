@@ -1,0 +1,10 @@
+resolutions:
+  - prediction_id: vid1-p01
+    outcome: correct
+    note: "Fed cut 25bp."
+    source: https://example.com/fed
+    resolved_on: 2026-12-16
+  - prediction_id: ghost-p99
+    outcome: unresolvable
+    note: "Gone."
+    source: https://example.com/x

@@ -36,6 +36,18 @@ from ..util import atomic_write_text, dump_json
 
 M = TypeVar("M", bound=BaseModel)
 
+# Keys that change on every run even when nothing meaningful did. A write whose only differences
+# are in these keys is skipped, so idle pipeline runs leave data/ byte-identical (no commit, no deploy).
+VOLATILE_KEYS = {"updated_at", "seen_at", "last_checked_at"}
+
+
+def _strip_volatile(node: Any) -> Any:
+    if isinstance(node, dict):
+        return {k: _strip_volatile(v) for k, v in node.items() if k not in VOLATILE_KEYS}
+    if isinstance(node, list):
+        return [_strip_volatile(v) for v in node]
+    return node
+
 
 class JsonFileStore:
     def __init__(self, data_dir: Path):
@@ -54,6 +66,13 @@ class JsonFileStore:
     def _write(self, path: Path, obj: Any) -> None:
         if isinstance(obj, BaseModel):
             obj = obj.model_dump(mode="json")
+        if path.exists():
+            try:
+                existing = json.loads(path.read_text(encoding="utf-8"))
+            except (OSError, json.JSONDecodeError):
+                existing = None
+            if existing is not None and _strip_volatile(existing) == _strip_volatile(obj):
+                return  # only timestamps differ: keep the file untouched
         atomic_write_text(path, dump_json(obj))
 
     def _read_model(self, path: Path, model: type[M]) -> M | None:

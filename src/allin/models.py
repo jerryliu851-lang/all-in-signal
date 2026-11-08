@@ -221,7 +221,7 @@ class LLMUsage(StrictModel):
     duration_ms: int = 0
     calls: int = 0
 
-    def add(self, other: "LLMUsage") -> "LLMUsage":
+    def add(self, other: LLMUsage) -> LLMUsage:
         return LLMUsage(
             input_tokens=self.input_tokens + other.input_tokens,
             output_tokens=self.output_tokens + other.output_tokens,
@@ -374,8 +374,9 @@ class MarketMatch(StrictModel):
     end_date: str | None = None
     outcome_prices: dict[str, float] = Field(default_factory=dict)  # outcome label -> price (0-1)
     hosts_answer: YesNo
+    polarity: Literal["same", "inverse"] = "same"  # inverse: market asks the negation of the candidate
     implied_probability: float | None = None
-    market_yes_probability: float | None = None
+    market_yes_probability: float | None = None  # in the hosts' question frame (1 - price when inverse)
     divergence_points: float | None = None  # |implied - market| * 100
     flagged_divergence: bool = False
     resolution_outcome: str | None = None  # winning outcome label for closed+resolved markets

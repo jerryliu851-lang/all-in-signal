@@ -16,7 +16,7 @@ def today_iso() -> str:
     return datetime.now(UTC).date().isoformat()
 
 
-def youtube_url(video_id: str, seconds: int | float | None = None) -> str:
+def youtube_url(video_id: str, seconds: float | None = None) -> str:
     base = f"https://www.youtube.com/watch?v={video_id}"
     if seconds is None:
         return base

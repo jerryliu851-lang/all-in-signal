@@ -1,0 +1,929 @@
+{
+  "video_id": "cvP_1jmnkmM",
+  "language": "en",
+  "source": "youtube-transcript-api",
+  "is_generated": true,
+  "paragraphs": [
+    {
+      "start": 0.0,
+      "end": 40.64,
+      "text": "All right everybody, welcome back to episode 290 of the number one podcast in the world. It's the all-in podcast. With me again, it's the core 4. David Freedberg is here. Chimoth Poly Hapatia and David Saxs calling in. I am your host, Jason Calakanis, and we have a full docket today. I'd be remiss though if I didn't ask everybody for their fondest memories of the fifth annual All-In Summit produced by Mr. David Friedberg. David, do you have any um thoughts? Uh how do you rate your performance as executive producer of the All-In Summit?"
+    },
+    {
+      "start": 39.52,
+      "end": 53.84,
+      "text": ">> You know what we didn't do? What we forgot to do at the end of day two? We didn't give a big shout out to our production team, to Kimber, >> to Lisa, >> to Nick. I think we No, Jason. Okay. I thought we should have brought him out, but I just want to give a big shout out."
+    },
+    {
+      "start": 52.399,
+      "end": 76.08,
+      "text": ">> Bring him out for the standing up. >> The team backstage absolutely crushed it as always this year. And then I had a great time. Actually, you know, my favorite part is going to Universal Studios. You just get to have a good time. It's great. Just great. >> I am reliving my childhood. Shabbath with no trauma. >> By the way, shout out to our friends at Dongi. I got one of those coffee machines that we had at the event. I put it in my kitchen."
+    },
+    {
+      "start": 74.4,
+      "end": 92.079,
+      "text": ">> You know what I got? I don't know if you guys saw, but there was a water machine in the VIP area. >> Well, >> that is a zero plastic water machine. It goes through super filtration. >> No microplastics in the water. I have one now in our office. Thank you very much to them. I appreciate it."
+    },
+    {
+      "start": 91.28,
+      "end": 114.0,
+      "text": ">> Amazing company. >> Sax, do you have a favorite moment from the show? >> Well, I think the highlight of the show, the thing that we'll remember for a long time was the president calling in during Jensen's talk. And I think Jensen's overall the content and and demeanor really helped calm down this national panic over AI. It felt like we were the center of this national conversation."
+    },
+    {
+      "start": 112.24,
+      "end": 147.84,
+      "text": "And I think it happened very organically. You remember there's basically been this SCOP for the last few weeks leading into the summit to convince everyone that humanity was going to go extinct unless we did exactly what the Democrats want and stop all AI development. And then you know we had first Satcha came out and kind of calmed everyone down and then JSON did the same thing and the president called in and did what he did best which is sees total control of the narrative that I'm sure these doomer groups have been carefully planning for weeks and kind of thwarted that whole operation."
+    },
+    {
+      "start": 145.12,
+      "end": 167.12,
+      "text": ">> Nerds enough. Get back to work. You have a super intelligent Trump intelligence is now the term. We're going to call it Trump intelligence going forward. But I think you make a good point. A lot of people wanted to know Freeberg if this was planned. Was the President Trump calling planned Freeberg? T take us behind the scenes."
+    },
+    {
+      "start": 164.56,
+      "end": 199.04000000000002,
+      "text": ">> Basically, Jensen was connecting with him right backstage and said, \"Hey, call me back.\" And then he called him while he was on stage. There was some texting going on. >> Yeah, it was completely spontaneous. >> It was spontaneous. Yes. >> It was not like a planned thing where Jensen was like, \"Hey, let's do a whole thing.\" And so that was pretty amazing to have this conversation that Jensen was waiting for from the president to happen live and clearly this was the topic desour in DC as well as in the news and the media and it was amazing to see it all happen on stage with us and"
+    },
+    {
+      "start": 195.84,
+      "end": 213.44000000000003,
+      "text": "yeah just to uh be clear I thought it was a bit and I was like well put him on speakerphone and Jensen says to me how do you do that and I just handed him I always keep an extra mic there in case somebody's mic goes out just put them on speaker phone put the microphone and President Trump the funniest president in history, funniest politician history."
+    },
+    {
+      "start": 212.08,
+      "end": 256.959,
+      "text": "Did you notice >> Sachs that he drops a oneliner through a speaker phone perfectly, >> perfectly. Jensen makes the greatest chips. Everybody tries to reverse engineer them. Impossible. Impossible. But he can't figure out how to press the speakerphone button. Okay. >> I was just like, how does he do it? How does he do it? It just drops the perfect line. But Shimoth, in all seriousness, the nerds were losing their mind last week and the adults came, daddy came, Elon came, Jensen came, all the adults in the room came and they just said, \"Listen, if you have software that's defective and not ready to put in the world, maybe don't put it in the world"
+    },
+    {
+      "start": 254.879,
+      "end": 298.24,
+      "text": "and make it a little bit, you know, as you like to say, less brittle.\" So your thoughts on where we are in this national discussion which went from slow down to maybe just release non-brittle resilient software. Well, I think that there was this classification that happened last week between upand cominging organizations that want to call themselves labs, but are in fact companies that have P&Ls and shareholders and have to abide by the same rules that everybody else does. And then the sophisticated companies that"
+    },
+    {
+      "start": 294.08,
+      "end": 337.35999999999996,
+      "text": "have lived in scrutiny for many decades and have learned the hard way the process of making things robust and the cost of making things not robust. So what do I mean? On the one side you saw in many ways it's like curious times creates curious bedfellows right you have the cohort is Satya Jensen Sachs Zach Elon the president Lena Khan we have product liability language >> strange fellows indeed >> we have this product liability perspective in the United States it's meant to prevent companies from doing things that they're not supposed to do especially if they know that those"
+    },
+    {
+      "start": 336.0,
+      "end": 373.28000000000003,
+      "text": "things could be harmful And on the other side, it's folks making the thing that were being, I think, a little naive and basically saying, \"We're not a company. We're a lab. Protect us.\" And I think the mature response is, \"You should have internal controls and you should robustly test things.\" And what Zuck said earlier and what Elon has said in the past is we're just under a lot of scrutiny. And so when things aren't perfect, we just slow things down. Elon has done that with FSD. You said this, Jason. He could have been at FSD 3 or 4 years ago, but he has publicly stated, \"We can't afford it because"
+    },
+    {
+      "start": 370.08,
+      "end": 390.96,
+      "text": "every accident that Tesla incurs is magnified a,000x than what any other company would incur, and so we just have to go slower.\" Zach last week said, \"We were about to roll out Muse, which looks like one of the most successful product launches in recent memory, has huge implications actually, which we should talk about, and he had to slow roll it.\""
+    },
+    {
+      "start": 389.52,
+      "end": 412.56,
+      "text": "He and Alexander who I was talking to last night had to slow roll it for a couple of months to get it perfect. So it's all within your control. It's just what do you choose to do? And uh I think that was the most interesting observation. We have to stop calling these companies labs. They're companies and we have to be judged on the same standards including product liability."
+    },
+    {
+      "start": 410.639,
+      "end": 454.31899999999996,
+      "text": ">> Yeah. And there was a lot of coverage of this moment Sachs. Interestingly, some of the fake news media were like on a popular podcast and then they play the clip, but they're just afraid to say the name of the podcast. Pretty hilarious. >> I think Jimoth is getting us into the first topic here already, which is whether we're going to have individual responsibility as our northstar or some sort of collective action. And the thing that always works the best is individual responsibility. Whether it's at the level of individuals or companies, the relevant decision to make in every case is should we ship this product? Not can"
+    },
+    {
+      "start": 451.039,
+      "end": 486.8,
+      "text": "we get the whole world to agree. And the problem with talking about these collectivized approaches is that they defay accountability away from the actual decision maker. And I I think people sort of feel this, you know, like this week you had Daario and Sam go to the United Nations and say we need some sort of global AI governance. And it kind of reminds me of like the billionaires who fly to Davos in their private jets and then rail against climate change. You know, there's something fundamentally sort of unrealistic and kind of out of touch about it."
+    },
+    {
+      "start": 486.08,
+      "end": 528.16,
+      "text": ">> Hypocritical. >> Hypocritical. And it's like, guys, look, what we need is >> for you guys to make smart decisions about what to release. If a product is unsafe, which is to say it's unreliable or behaves unpredictably, then don't release it. And stop looking to some sort of global governance as the answer. Because if you guys don't get this decision right, it's not going to matter what the United Nations does. And by the time the United Nations agrees on anything, we're going to be much further along in this whole whole journey. So, there's something just very weird about the way that the principal actors in this keep talking >> because it really feels like they're"
+    },
+    {
+      "start": 525.12,
+      "end": 544.8,
+      "text": "trying to push off the responsibility. >> Well, there's a theory going around here and I think it is worth us discussing here that the Frontier Labs are covertly >> companies. They're companies. >> They're companies. Yes. Let me just finish the >> No, no, no, but but your made a really good point that I want to make sure we just don't miss. Okay."
+    },
+    {
+      "start": 543.519,
+      "end": 587.4399999999999,
+      "text": ">> They are corporations. >> Yes. Yes. And when you call them labs, they sound like nonprofit entities, and it's not true. >> Okay. So, the corporations making these products are looking for President Trump to specifically give them what the internet companies had with section 230, which is shield them from liability. and that there is a consideration inside the Trump administration, the 47th administration, that maybe there could be some leverage put on these companies that they would give 10% of their equity to the uh sovereign wealth front of the United States, etc., and then that would result in them being given some pass"
+    },
+    {
+      "start": 584.8,
+      "end": 611.0400000000001,
+      "text": "when it comes to their liability. That's an insane thing to do. It's like giving some plane company that gives 10% of their equity to the US government the ability to not be responsible for their planes falling out of the sky. But what is your thought on that conspiracy theory? I'm sure you've heard it sachs that they're looking for. You're you're making it sound like this is the idea of the Trump administration. That's not true."
+    },
+    {
+      "start": 609.68,
+      "end": 646.8000000000001,
+      "text": ">> No, not the Trump administration. This is what the >> Frontier Lab/Corporations are pitching to them and that there might be the rumor is there might be some people who are open to that in the administration. Again, >> this is all a back channel. >> Here's what we know is that in the past week, you had virtually every Trump administration official come out and say some version of what I just said, which is first and foremost, the AI companies have to take responsibility for their own products and that we will not wave product liability. I think Speaker Johnson said it, the congressional >> said it, >> Besson said it in the most recent"
+    },
+    {
+      "start": 643.76,
+      "end": 681.279,
+      "text": "interview. Everybody said if your game is to get a waiver of product liability or antitrust liability, if you're trying to form a cartel, if you're trying to collude, forget about it. We're not going to do it. So, I think they completely threw cold water on that whole idea. And remember what President Trump said is he just tweeted today, we have the DOJ. That's a guardrail. The administration is a guardrail. the administrative state, civil lawsuits, criminal lawsuits, all these things are there as potential liability to make sure that you make the right riskreward tradeoff."
+    },
+    {
+      "start": 679.279,
+      "end": 696.24,
+      "text": ">> And again, at the end of the day, if those guys release an unsafe product, it's not going to matter what the United Nations agrees on. So, we need them to internalize the responsibility. >> Are they Listen, come on. Be candid with me. You you you got the inside goods here. Are they trying to lobby for that?"
+    },
+    {
+      "start": 694.24,
+      "end": 713.12,
+      "text": "Are they do you think they are lobbying to get this protection? Yes or no? Come on. >> Well, I I have heard this is not like first-p person experience. They they have not asked me like, \"Hey, we want product liability waiver, but I have heard from people in Washington that they have been seeking something like that. >> It's hard to pin down, right?\""
+    },
+    {
+      "start": 710.16,
+      "end": 744.0,
+      "text": ">> Yeah. Okay, fair enough. Freeberg, your thoughts here as we are going to get into the first story here with the token maxing and the prices going down, but I'll give you the final word here on what America should do in terms of dealing with the corporations that are pretending to be labs who cannot take ownership of their own Frankenstein uh creations, which I think JD Vance, you know, I thought had a spectacular appearance. He was crisp and and looked quite presidential if I if I was going to um describe it."
+    },
+    {
+      "start": 742.079,
+      "end": 760.16,
+      "text": "you threw a lot of fast balls >> and he knocked him out of the park. By the way, fast, you know, home run hitters want fast balls. You can't hit a fast ball if it's out of the strike zone. So, I gave him the the three hardest questions I could think of and he >> proceeded to knock all three over the fence. I think there was >> Jad's excellent listen."
+    },
+    {
+      "start": 758.0,
+      "end": 779.2,
+      "text": ">> I mean, no, on the Sunday shows, >> they played the clips of the questions I asked him. Bang, bang, bang. Freeberg right over the f the fence. But, you know, he said basically, if you're creating Frankenstein, here's an idea. Stop. And and and then he added, if you've already kind of let it the cat out of the bag, then create anti-Frankenstein."
+    },
+    {
+      "start": 777.279,
+      "end": 804.959,
+      "text": "Basically, create the safeguards. >> Yeah, >> it makes total sense. >> I think Suck gave a good interview on this. >> They took their time doing this Muse release this week. They said they wanted to get it right. They wanted to make sure that it was safe, that it didn't give people capabilities to do bad things. That's the responsibility that they took as a corporation. Anyone that's outputting a model should take the same responsibility."
+    },
+    {
+      "start": 803.92,
+      "end": 845.199,
+      "text": ">> Pretty obvious. >> This is an organization that understands it. Having paid a series of fines from Cambridge Analytica to recently >> we have a lot of we have a lot of laws that make it illegal to do a lot of things. >> All right, let's move on here. We have laws. >> By the way, can I add like one philosophical point to this? So I I think that implicit in let's call it the Daario position that let's call it the regulated free market that we have his fundamental contention is that that will lead to a race to the bottom that competition jeopardizes safety. It's in all of his"
+    },
+    {
+      "start": 843.36,
+      "end": 885.199,
+      "text": "blog posts and many other people reflect this idea that competition equals lack of safety and that is implicitly a critique of our economic system. It's basically a leftwing critique of our system and it goes back a long way. I remember back in the days of the cold war when we really had this duel between two different systems. Do you want the sort of the free market system or do you want the communist system? A lot of people made the claim that the capitalist system would do things like jeopardize safety and beauty, that our buildings would always be uglier because the greedy capitalist wouldn't want to spend a dime on beautifification or good"
+    },
+    {
+      "start": 883.199,
+      "end": 915.76,
+      "text": "architecture, things like that. In fact, it turned out that the Soviet system was the one that produced the cold gray landscapes. Why? Because people want beauty. They want safety. And therefore, if you have a well functioning market economy, then it gives people what they want. And obviously, the American system won out in that battle. So, I just fundamentally disagree with the idea that competition means lack of safety."
+    },
+    {
+      "start": 912.399,
+      "end": 956.0790000000001,
+      "text": "As Zuckerberg and Jensen were saying, there are huge incentives on both the upside and downside to be safe. On the upside, no customer wants a product that is unpredictable and unreliable, that doesn't do what they say. No enterprise wants an agent that's going to leak their data or hack a competitor. And on the downside, as the president made clear, they've got tons of liability, product liability, civil liability, administrative liability, criminal liability. So, I just firmly disagree with this idea that competition is a bad thing. Competition is a good thing that can be harnessed to get the right result. And just to build on that, Shimoth our uh friend Nash from PaloAlto"
+    },
+    {
+      "start": 953.759,
+      "end": 992.48,
+      "text": "Networks, friend of the pod, he released in the past week or so unit 42. He's building there's a business opportunity here to build a product to do continuous cyber defense and also a friend of the George Kirch from um Crowdstrike. He also released Falcon, his new product to do cyber defense. Chimath, if these guys in the Frontier Labscorporations were so concerned about cyber security, why didn't they ever release a cyber security product and PaloAlto Networks and Crowd Strike are on it like they will?"
+    },
+    {
+      "start": 990.48,
+      "end": 1008.959,
+      "text": "That's probably more in the second topic that we'll talk about, which is as the models essentially cluster in terms of capability, there's no differentiation, and so they'll be forced to move up the stack. But let's let's wait on that for one second. You have a point here you want to make and then we'll go to the first."
+    },
+    {
+      "start": 1005.68,
+      "end": 1037.2800000000002,
+      "text": ">> I do. The point I wanted to make is more philosophical and sociological which is the last time we heard the word lab in the social consciousness was during co and there was a lab that was responsible for a leak of a virus that then killed 15 million people all around the world and caused $45 trillion of damage. It's the Wuhan lab."
+    },
+    {
+      "start": 1035.039,
+      "end": 1078.32,
+      "text": "And I think it's important to recognize that there has been zero transparency or culpability around this. And I think part of why people are comfortable calling themselves a lab is because of that fact. That a lot of these young people that work at these places live through this and saw absolutely no um responsibility taken by the lab that caused this leak. And now we're talking about leaks of different kinds. And we have organizations and corporations that try to fashion themselves as labs as well, but they're not labs. These are corporations. I just want to remind everybody, these are forprofit corporations that have absorbed hundreds of billions of dollars of debt in equity,"
+    },
+    {
+      "start": 1076.32,
+      "end": 1103.8400000000001,
+      "text": ">> that have thousands and thousands of shareholders, that have trillions of dollars of market cap. And if I were them, I would not want to call myself a lab at any cost. And I think if you saw the recent speeches that they gave at the United Nations, they're still using that terminology. >> Yeah. >> They are not labs. These are for-profit corporations that are subject to product liability risk and they should act accordingly."
+    },
+    {
+      "start": 1102.0,
+      "end": 1136.8799999999999,
+      "text": ">> Yeah. I mean, and we've had a conversation here for a year about this. Like if this stuff is so dangerous, you don't have to release it or you know my proposal like know your customer, give logs. >> Do not compare yourself to the Wuhan lab. It's well, Shimoth, it's bad PR, but also I do I do think it's part of their like virtue signaling routine where they just don't want to say that we're companies. We have a for-profit incentive. They always want to say that we're either a research institution or they say things like we're a public benefit corporation, which no one really knows what the hell that means. So, it's"
+    },
+    {
+      "start": 1134.88,
+      "end": 1174.799,
+      "text": "this patina virtue signaling that obscures what's really going on. >> It tries to obscure the word corporation, but legally you're not allowed to hide it. I think they should have uh when they >> we are all running corporations all in all be it very all be it very small but mighty is a corporation I think we should call >> is a all in lab >> this is the all-in lab where we discuss different formulas >> no we're experimenting with ideas this is a this is a meme workshop >> lab these ideas are getting so dangerous that we don't want any liability for our opinions welcome to the allin lab podcast"
+    },
+    {
+      "start": 1171.6,
+      "end": 1201.2,
+      "text": ">> here we Topic zero freeberg. Is there a mindset in scientists minds that you know needs to kind of have a hard stop and then the corporation kind of takes over? Maybe they could put the labs on the side here and then say, \"Hey, these are the adults doing the corporation stuff.\" What are your thoughts here if you were going to architect how anthropic operates in the world? And and maybe you could speak to scientists views of the world versus capitalists and and management teams."
+    },
+    {
+      "start": 1199.919,
+      "end": 1226.48,
+      "text": ">> I don't have a good answer for you on that. >> Okay. Well, you're doing it. You're the answer. Look at Oh, >> let me kick off the first topic. What I wanted to do was just take a step back and look at the insane flurry of model releases happening. >> Yes. >> I think the pace of model releases happening on both the open-source side and the premium side, the anthropics, gro of the world is unfathomable right now."
+    },
+    {
+      "start": 1224.799,
+      "end": 1269.679,
+      "text": "The list is insane. And just like the last 10 days, September 9th, Deepseek 4.1 Flash gets released. 20 for a million tokens output if they're hosting it. Key Value Cash from V1 of DeepS, remember what a big deal DeepS was when it came out. The key value cache then was like 390,000 bytes. Now it's 890. Insane drop, insane efficiency improvements. On September 20th, Quen, which is the Alibaba model, comes out version, you know, 2.1. It's an open weights model that outperforms Nano Banana 2, which is Google's big breakthrough, insane image generation model. This thing is free, open- source."
+    },
+    {
+      "start": 1267.52,
+      "end": 1310.0800000000002,
+      "text": "You can put it on your desktop computer and run it at home to generate images for free. And it's made by Alibaba. Xiaomé put out MIMO on September 22nd, two days ago. Mimo Pro performs on par with CLA's Opus 5, which is like this insane model that everyone thought was going to change the world and break the internet and GPT56 Soul across most benchmarks. It's a 309 billion parameter model. It is entirely open. You can download this model and put it on your server and run your own instance without paying anyone any money except for the cost of running the server. This model called uh Bonsai 2 came out on September"
+    },
+    {
+      "start": 1307.6,
+      "end": 1348.96,
+      "text": "17th by Prism ML. This is actually a fork of Quen, which is another one of the Alibaba models. It's a 27 billion parameter model. 98% of the performance of the big Quen model. It's 5.9 gigs in size and you can run it on a local computer. You can have an Nvidia chip or have a good Mac Studio computer and you can run this insane model on your desktop computer for free. And then the big crazy models, the big closed source models, Anthropic releases Opus 55 on September 22nd. Open AAI Astro comes out with Soul and Luna on September 23rd."
+    },
+    {
+      "start": 1345.44,
+      "end": 1384.4,
+      "text": "Gro 47 comes out on September 21. Meta Muse comes out on September 22nd. Any one of these stories would have broken the internet a year ago and they all happened in the last 10 days. You now have an entire catalog of openweight models to generate visual information to do VLA where you can actually instruct it and it can control a robot. You have models far beyond the most advanced LLM from a year ago that are openweight that you can install and run on your desktop computer. We are past the point of Bernie Sanders put the super intelligence away. It can never be allowed in the real world. This stuff is"
+    },
+    {
+      "start": 1381.28,
+      "end": 1418.32,
+      "text": "out. The open- source openweight models are free. They are on the internet. You can go and download them and you can run them on your computer at home. I don't know in what world we think we're going to have a police state that's going to come bang down your door, take your desktop computer from you and test it to see if you're running an LLM on your local computer. The efficiency wave is here. And the pacing at which these models are coming out now. All of this stuff happened in the last 10 days. It's just mind-blowing. We're now in this kind of frontier space where things are accelerating. The performance"
+    },
+    {
+      "start": 1415.36,
+      "end": 1449.7600000000002,
+      "text": "improvements, the cost decline, AI is becoming so performative and so affordable. It is going to be ubiquitous and we are all going to benefit from it. This is not just about the anthropic and open AI with the closed world making billions of dollars selling enterprises hosted models. There is so much proliferation right now. So I just thought it was worth taking a step back to recognize where we are because in the context of we have to stop the super intelligence. We have to shut down the data centers. You don't even need data centers to do 90% of what you can do with AI. You can download it on your"
+    },
+    {
+      "start": 1446.4,
+      "end": 1473.279,
+      "text": "computer for free today to do what was the most advanced technology in human history less than a year ago. It's all here today. And I thought it was just worth taking a beat to step back and make sure we all recognize that as we get into this debate about these quote labs or corporations. I don't know if it even matters anymore. I think open source is here and I think that the pace of improvement is such that this is only going to drive productivity. Yeah."
+    },
+    {
+      "start": 1470.32,
+      "end": 1491.8400000000001,
+      "text": ">> And maybe we are maybe we are seeing the AI wave underway right now. The productivity wave, the productivity boom. >> Yeah. And and to consumers, they don't care what model they're using. We've spent the last three years geeking out about this. And then Grockbot comes out and then Muse comes out from Meta. And I've been using both of these products."
+    },
+    {
+      "start": 1488.88,
+      "end": 1525.279,
+      "text": "And it's the first time that a normie, a normal person in the world, it's not meant to be derogatory in any way, can get value from AI. If you look at how we all looked at this, running corporations, investing in them, we took a different approach to like, okay, maybe this is going to retire, you know, some positions, maybe this is um going to add some positions here or there, but now you can like with Muse connect to everything instantly and actually get real work done in the world if you're a normal person who wants to get the benefit from AI. We will be turning a corner, Freedber, and I think you laid"
+    },
+    {
+      "start": 1523.44,
+      "end": 1562.4,
+      "text": "it out perfectly. We're going to turn a corner, I think, at the end of this year, where moms, our uncles, people are going to start using Muse and Bot, Grockbot, which are growing very quickly to just solve real world problems for that. And they're going to go, \"Wait a second. I could never afford a chief of a staff. I could never afford a personal assistant, an executive assistant. Now I get a free executive assistant.\" It's going to blow people's minds, Shimoth, in the next couple of months when they start using these products. and the bottom half of America in this K-shaped recovery experiences some benefits. Your thoughts on what's happening here with"
+    },
+    {
+      "start": 1560.32,
+      "end": 1598.0,
+      "text": "these models? Have you started playing with it? Because you were, you know, originally a technologist. Have you loaded these models on your computer? Because I'm playing with it on my MacBook Pro and it's awesome. >> Let me maybe give you the answer by explaining something. So I think what we're seeing is that these models are converging and clustering which is to say that they're now within margin of error. And so the thing is there's so many of these models that are roughly the same at different price points. So where is the edge? There's still edge and the edge is in the harness that you use to wrap the model."
+    },
+    {
+      "start": 1595.679,
+      "end": 1633.44,
+      "text": "So if you think about it as like you have a model that's like a brain but you need to embody that brain with arms and legs and hands and eyes to do work. That's how you identify a model. Okay. And you make it aic that's what that phrase means. And there are all kinds of different harnesses that the industry has invented to make these models more agentic. And there's still a lot of edge there. So at 8090 we have a labs function and we've been ripping and teasing apart all the different models with all the different harnesses just to see how they perform and they are wildly variant in terms of cost and quality. So"
+    },
+    {
+      "start": 1632.0,
+      "end": 1668.0,
+      "text": "just to kind of build on Freebrook's point you have the models that are converging the harnesses are wildly different and so their performance is all over the map and so now companies and people have to sort of navigate what are you willing to pay for. I sent this tweet to Nick, if you can just put it up here, and I don't know if this is instructive or accurate, but what this shows, and this is the case for Ant, but it's probably the case for a lot of the closed models, is you're starting to see this massive revenue concentration, which is a few folks consume all of the highest and most expensive tokens. And I"
+    },
+    {
+      "start": 1666.559,
+      "end": 1709.44,
+      "text": "think if you take what Freeberg just showed to its logical conclusion, those folks at the top of this table are going to be under a lot of internal pressure whether it's from their finance teams or whether it's from their CFO or it's going to be from shareholders to explain why as this clustering happens they are not moving down to cheaper and cheaper models. Now, you may choose to go down to cheaper and cheaper Ant models, so then Ant keeps the revenue, but there's also risk that you may do what Freeberg just said and just go to an open source model and just host it yourself."
+    },
+    {
+      "start": 1705.679,
+      "end": 1729.6,
+      "text": "So, we're in like a very complicated part of the cycle, which is the first version of the AI trade was relatively simple, which is you're just selling tokens, you're wrapping the tokens, you're passing it through, and there was enough disparity that there was value. I think that that's going away. It'll force OpenAI and Ant to go up the stack."
+    },
+    {
+      "start": 1726.88,
+      "end": 1754.72,
+      "text": "There is no choice. You can't sit there and serve a token that has diminishing value because then all the subsequent value is getting absorbed and made by people wrapping your intelligence token. You will have to do that work. And so, Jason, that's why they will have to go and do cyber. They'll have to go and do law. They'll have to go and do customer support. all these things that we weren't sure whether they were going to compete. These trends may force them to do that."
+    },
+    {
+      "start": 1754.399,
+      "end": 1798.48,
+      "text": ">> Yeah. >> And I think then that sets up a very interesting setup for their IPO. Just to back all that up, Saxs, >> the Frontier Lab Corporations, Anthropic and OpenAI, they both released models this week at 50% less token prices. and their IPOs are looking like they're both going to get delayed. Anthropic just targeting a $2 trillion valuation open 1.2 trillion. Sam already said OpenAI plans on doing 2027 over because of safety concerns and Anthropic which was supposed to file and go out in October. The report from the"
+    },
+    {
+      "start": 1795.44,
+      "end": 1823.6,
+      "text": "Wall Street Journal is that the IPO will happen in November or may be delayed even more. Here's your poly market. Will Anthropic go public in 2026 with our amazing partner Poly Market? Shout out to my guy Shane. Peaked at 96% earlier this month that Enthropic would go public this year, but now it's fallen to 76%. Is this like a cell phone here, Sachs?"
+    },
+    {
+      "start": 1821.12,
+      "end": 1847.1200000000001,
+      "text": "The the leading model companies need to go public to get capital to do their buildout and now they're delaying their own IPOs. Please explain how any of this makes sense. And if you were a major investor in one of these companies or on the board of them, what would you be doing or instructing these founders to do to get these companies to go public and get that capital they need to continue the AI buildout?"
+    },
+    {
+      "start": 1844.72,
+      "end": 1885.4399999999998,
+      "text": ">> Oh, well, I I think that we know from our friends that the investors in Anthropic are pulling out their hair about what's happening right now. Forget about the fake whistleblowers who were there for like a few weeks and then left. You have current leadership in the company saying that there's a greater than 10% chance of causing human extinction and their own product is unsolved in this area. So think about the risk factors that's creating. How do you IPO with your own management of the company saying that? Then you've got I think other evidence of I don't know what to call it except corporate schizophrenia. You've got Daario putting"
+    },
+    {
+      "start": 1883.2,
+      "end": 1917.76,
+      "text": "out this essay saying we need to pace the frontier days before they launch Claude 5.5 and set a new frontier. I mean, he must know when he's writing this essay that they're about to release a product that will extend the frontier. So, at a minimum, it's hypocritical, but maybe it's even worse than that. Then you have them publishing an essay about the biorisk associated with AI and how that needs to be stopped. And then meanwhile, they announced a new biolab in San Francisco, a new wet lab."
+    },
+    {
+      "start": 1914.559,
+      "end": 1957.36,
+      "text": ">> They started a lab after telling us that there's a 10% chance of us all dying. Sachs, let's just pause here for a second. Is this a dereliction of duty as the chief executive officer of Anthropic to sabotage your own IPO? You're supposed to be acting on behalf of your CEO of your shareholders. This to me seems like if we were the board, if the four of us were somehow magically the board of Anthropic, we would replace the CEO. We would put the CEO in the lab and we'd find a CEO who knows how to run the company and not >> sabotage it. He's literally sabotaging his own company."
+    },
+    {
+      "start": 1955.36,
+      "end": 1976.2399999999998,
+      "text": ">> I think there's an element of that and I think investors are pretty nervous about giving the founders or or Daria specifically super voting shares. There's a story in the information about that that there's an active debate right now about whether to give them super voting share. >> Explain what those are, please, and and why in this context this is critically important. Our audience may or may not know what those are."
+    },
+    {
+      "start": 1973.919,
+      "end": 2013.7600000000002,
+      "text": ">> Supposedly, the founders of Anthropic only have about 2% ownership each of the company, which in the grand scheme of things is a relatively low number relative to what other founders typically have at time of IPO. It'll still be an enormous amount of money, you know, tens of billions of dollars, but that is the case. Super voting shares basically say it separates the economic shares from the voting shares in the company and gives certain people the right to control the company even if they don't have the economic ownership that would usually be necessary. It's a pretty common thing. I mean, Larry and Sergey, I think maybe were the first prominent founders to get super voting"
+    },
+    {
+      "start": 2011.12,
+      "end": 2049.44,
+      "text": "shares in Google and Zuck. It can be a stabilizing thing for the company because it means that as long as the founders are there overseeing things, they're not going to be >> subject to, you know, like takeover attempts, things like that. But on the other hand, it requires a tremendous degree of trust in those founders because they effectively can't be removed no matter what they do. And you just have to wonder if in this case that's earned and warranted. I have to say that even for someone like me who isn't necessarily advocating for a lot more regulation, I kind of get nervous about the idea of anthropic opening a"
+    },
+    {
+      "start": 2046.48,
+      "end": 2081.839,
+      "text": "wet lab in San Francisco. I mean, I was >> great timing. >> I was thinking about moving back and I don't know if I want to be I mean like can you just put it a little further away? I think we've all seen this movie before. >> Yeah. Offshore maybe. I don't know. Put it on an oil rig or something. What I would say is that if I were on the board, I would keep Daario as a CEO. And the reason is that he's clearly demonstrated that he can build a unique culture and position against the otherwise most formidable corporation competitor, which is OpenAI. And he's done that and he's come from behind. And"
+    },
+    {
+      "start": 2079.599,
+      "end": 2113.839,
+      "text": "I don't think you should undervalue how hard that is and what that takes. So he's done that and he's built he's built essentially the greatest business ramp in all time. I think the thing that I would probably do if I was on the board is fix what Sax just said, which is there's now a bunch of incremental liquidity risk to the company. And I think if you take the 20-year view on anthropic, that corporation needs hundreds of billions of dollars to fulfill their ambitions."
+    },
+    {
+      "start": 2111.52,
+      "end": 2152.48,
+      "text": "And I would solve for getting that as risklessly as possible. And I think there's only two things that you can do. The first is you have to throw everything in and the kitchen sink into disclosures. The problem is that that will make what is an otherwise dense and impenetrable S1 even more dense and impenetrable. Okay? So, you can kind of like superficially cover your regulatory risk. But the way that it actually gets translated in the market is you're just going to have to water down the expectations of the IPO sellers and create a much larger margin of safety for the IPO buyer. And that's effectively how you find a market"
+    },
+    {
+      "start": 2150.72,
+      "end": 2192.56,
+      "text": "clearing price for this, Jason, which is to essentially say, and don't bear with me, I'm just giving out rough numbers, right? Even if you think that they're on a hundred billion run rate, what would otherwise in a very clean sheet IPO may be would have been a $2 trillion market cap, now you know, you're at one or less. And the reason is the hedge funds and the pension systems and the long only mutual fund complexes who have a fiduciary responsibility to their sources of capital will justify all the risks by essentially asking for a lower and lower price. And I think that's what you're"
+    },
+    {
+      "start": 2191.44,
+      "end": 2214.56,
+      "text": "going to see. I think you're going to see a much more moderate and reasonable IPO motion here. And it's probably going to clear at a much lower price than anybody thinks. And I do think that what Sach says is the reason why. But I think it's good for Ant because it clears all this noise. It forces them to just be a corporation and then run the business."
+    },
+    {
+      "start": 2213.2,
+      "end": 2241.68,
+      "text": "And I think that they'll do great. Look, I'll be honest with you. Like I've tried to recruit against Ant. I can't. It's impossible. The comp that they give is incredible. The business ramp is so compelling. It's like when you're in a head >> when you're in a head-to-head with these guys. I have not won a single bake off for folks. I wish I could say that I did, but I have not. And it's hard for a startup. So, they are a magnet for talent. OpenAI is a magnet for talent."
+    },
+    {
+      "start": 2239.119,
+      "end": 2275.28,
+      "text": "But these other risks are going to weigh on the IPO and the only way to flush them is to just bring the price way down. >> Yeah. And Freeberg, when we look at the risk factors in an S1, those are prefuncter. Those are disclaimers. Typically, you get the SpaceX one. Oh, what if Starship doesn't work? What if there's competition, it's kind of check boxes in anthropics, I think we're going to be looking at something totally different, which is, hey, we and our employees are quitting saying this is going to kill humanity. We have massive regulation. We're asking for regulation."
+    },
+    {
+      "start": 2273.2,
+      "end": 2311.28,
+      "text": "And by the way, we we're doing biology work and we're launching a lab. So do you agree with Chimath here that the S1 is going to have an actual risk factors and disclaimers that are material against the IPO free burn? I think this customer concentration point ties to the earlier comments I made about the proliferation of incredibly performant openweight and open source models. And the reason is Anthropic puts out the best models for life sciences today."
+    },
+    {
+      "start": 2308.079,
+      "end": 2352.64,
+      "text": "I run a life sciences R&D organization. We use their models. They're incredible. They're better than other models. And so we want to use them. When it comes to writing code, to writing software to do internal workflows and run operations, we can use other products to write that code for us. And we do. And I think that that's likely the way the market is going to develop. And I think we're starting to see that proof come out in the market. And you're seeing it in this customer concentration point. Extremely high value technical engineering, math, life sciences, those really hard technical problems. You want to have these top tier, topshelf models, and"
+    },
+    {
+      "start": 2351.04,
+      "end": 2385.599,
+      "text": "you're going to pay a huge premium for them. And you're totally going to make money doing it because the value is extraordinary. And this has always been my case about AI. AI is not so much about the value of replacing old stuff. 99% of the value of AI is about enabling new stuff that's never been possible in human history. And I think that's where anthropic and open AI are going to make their money. Separately, I think open AI is going to make a lot of money in consumer and anthropic maybe to some extent as well. But in the enterprise setting, I think the money comes from creating new frontiers, discovering new"
+    },
+    {
+      "start": 2383.839,
+      "end": 2424.7200000000003,
+      "text": "enzymes, which Anthropic announced this week, that can cure human disease, and developing new technology, new engineering systems, making things that have never been possible to be made before. And I think that's the premium value, and it's the premium price you'll pay for those closed models and that premium model. But that's a different business case than taking all of enterprise. separately. I think most of the enterprise applications are going to be run using these openweight models and code is going to be written with cheaper models and so on. I don't know why you would go to a higherend model to write code when you can do it for free and everyone in the organization can write"
+    },
+    {
+      "start": 2421.839,
+      "end": 2448.32,
+      "text": "code basically for free. And so I think anthropic's bigger issue is this customer concentration question and is it really a premium product that they're selling in the market and that's where they take the market. That would be kind of where I think the market is headed right now and would be the biggest risk factor. This whole thing about oh it's gonna end the world and whatnot. It's like dude just make sure your product doesn't end the world and you'll be fine. That would be a good first step here like Mark is doing at Meta."
+    },
+    {
+      "start": 2446.32,
+      "end": 2478.24,
+      "text": ">> I mean it's an incredible company. The execution has been extraordinary. The ramp of revenue sachs has been extraordinary. But when you start to look at the impact of open source, we had a a couple of um viral charts come out, 70 80% of the token usage are those dark tokens I mentioned six months ago here on this pod that are not tracked, but some people can track them on routers. Those dark open source tokens are now the majority of tokens. And >> can I just give you a stat on that, Jal?"
+    },
+    {
+      "start": 2476.64,
+      "end": 2515.839,
+      "text": "cuz what you just said is really important, but there's a stat that I think in in the last 12 weeks alone >> token use has flipped from 8020 closed verse open >> to 8020 open verse closed. >> I don't think we've ever seen in 12 weeks I don't think we've ever seen a title wave of chart >> in the history of all technology markets. We've never seen anything like this. And that is the biggest risk factor for Anthropic is they were first out the gate to get the enterprise on uh on AI to build tools and whatnot. But as this market shifts to open source and open weights, boom, here it is right"
+    },
+    {
+      "start": 2515.28,
+      "end": 2551.04,
+      "text": "here. Look at this. >> This is the Versel chart that went viral this week. So this week 12 weeks, oh my god, >> crazy. If you look at this chart, this I think is what blows the lid off the door on what needs to go into these S1s. And that's why I walked through all those openweight releases at the start of the show or this segment is it's not just that they're there, it's that they're proliferating now. There's so many more of them coming out and the pace of improvement is extraordinary and they're now in VLA for robotics. They're in image generation for image and video. So the openweight open source models are"
+    },
+    {
+      "start": 2548.56,
+      "end": 2579.76,
+      "text": "now being used for all of the broader AI applications. The premium stuff I will say is still the best for narrow use cases. Yes, >> for engineering, for highly technical, highly complicated tasks and workflows and problems, solving Navier Stokes, solving mathematical problems, solving biology problems, that's where these models absolutely perform and people will pay a premium of, I would say, close to infinity dollars for that premium application set. So, it doesn't mean that their market is destroyed."
+    },
+    {
+      "start": 2579.52,
+      "end": 2608.319,
+      "text": "Yeah, >> it means that we're seeing a bifurcation in the market where the majority of use cases of AI go towards these open source open tokens. >> The question and premium models are still going to proliferate. Yeah. >> The question then is in the distribution of tokens in these frontier corporations, what percentage are those tasks versus what percentage are fungeable tasks to open source? And if the answer is more than 60 or 70%."
+    },
+    {
+      "start": 2606.64,
+      "end": 2631.839,
+      "text": "You have to discount that revenue. If the answer is only 10% and 90% of all of the revenue is being generated on absolute frontier use cases, they're going to be fine and they're going to be off to the races. >> Yeah. And >> but otherwise, it's a thing where you're fighting just people's mis or lack of education, right? Because as they see their bills, >> hand it to Sax here. Yeah. Go finish your thought and then I'm going to hand it to Sax."
+    },
+    {
+      "start": 2630.319,
+      "end": 2663.44,
+      "text": ">> No, just move the move the workloads where they belong and save the money. >> Yeah. And so Saxs, um I made a chart here before the show here, but here's your um sweet spot for the last 100 days of models, which um Friber, you did a good job of teeing up. And what you'll see is like yes, the Clouds and the Astros up in that righth hand corner cost a lot and they deliver a lot. But then you start going down and you start to see Muse and GLM and Kimmy and then on the left you start seeing GLM from ZI and Mimo and you're starting to see well the Chinese"
+    },
+    {
+      "start": 2661.52,
+      "end": 2699.9199999999996,
+      "text": ">> this is all hosted right JL. I mean, it's important to note what you're showing here is the hosted price, but if you run it yourself, the cost on some of these is less than 10 cents for a million tokens. >> Yeah. So, you'll pick up then the compute, you pick up the bandwidth, all that other stuff. But, Sax, the issue here to Chimat's point is the vertical language models, the small language models are going to do 80 or 90% of the tasks that many corporations need. And then we get to AI sovereignty. Do you want your super intelligence? Shout out President Trump. from intelligence chat DJT."
+    },
+    {
+      "start": 2696.319,
+      "end": 2740.1600000000003,
+      "text": "We need people to use those models so they have sovereignty. So you're not giving your data to the frontier models so that they don't get that tip of the spear super intelligence edge which is why people are disengaging. So your thoughts on maybe this is going to start to impact the velocity of clawed and openi tokens. What does your business sense tell you David Saxs? Well, look, wearing my hat as an investor, I'm more optimistic about the Frontier Intelligence business than I think you guys are. I think that Anthropic and Open AI right now are a stable duopoly for frontier intelligence because they"
+    },
+    {
+      "start": 2738.16,
+      "end": 2762.4,
+      "text": "have a pretty significant lead over all these other companies and they are able to charge a premium for that. I fully understand that the majority of tokens will go to open models or commodity intelligence. However, there is a I don't know meaningful percentage of the market. I don't know whether it's 10%, 20, 30, whatever that will pay this huge premium for true frontier intelligence."
+    },
+    {
+      "start": 2761.04,
+      "end": 2787.839,
+      "text": "There's a lot of customers that either need the best or they just want to know they have the best. You know, they don't want this DIY approach or they could be in a very competitive market. Let's say you're a hedge fund. You can't take the risk that your competitor has a better model than you do. So there's a lot of circumstances I think where they will continue to monetize the frontier at a premium and this is why you're seeing their revenue keep growing even though they're losing token market share."
+    },
+    {
+      "start": 2786.079,
+      "end": 2817.359,
+      "text": "Furthermore, you got to remember that over the next year or so something like 60% of the worldwide compute that's being added is being added for these two companies. So to the extent that compute gets scarce and we're kind of in a compute crunch, just the fact that they've made these huge investments, they're building out so much capacity and they have those economies of scale and remember they're bringing down their own prices very quickly as well. I think that gives them a pretty big advantage."
+    },
+    {
+      "start": 2814.72,
+      "end": 2840.8799999999997,
+      "text": "But look, these two companies are on a hamster wheel. You know, the moment where they stop being frontier, they go to zero, right? And we know the frontier is maybe only 6 to 12 months ahead of the commodity portion of the market depending on capability. So, you know, again, if they slip, if they fall off that hamster wheel for 6 months, then they're in deep trouble as a company."
+    },
+    {
+      "start": 2839.52,
+      "end": 2876.16,
+      "text": "And that I think is a central risk factor that's going to have to be priced in. And this is where I think that frankly their government affairs efforts are miscalculating badly. I can see why they they're going for regulatory capture, right? because being on a hamster wheel gets really tiring. They probably think, hm, like, let's try and bake in our moes. Let's try and slow everyone else down as well. But I think they've miscalculated because if they actually get all the regulatory controls they want, if they create this new federal department of AI, it's going to slow them down enough that they will no longer be frontier. Everyone else will"
+    },
+    {
+      "start": 2873.599,
+      "end": 2896.7200000000003,
+      "text": "catch up to them. Especially because a lot of these open models are being generated by Chinese companies who are not subject to our jurisdiction. And the Chinese have made abundantly clear they are not slowing down. So think about it. They are lobbying for things that could slow them down and knock them off the frontier in which case their business goes to zero. I you know it's hard to understand."
+    },
+    {
+      "start": 2894.16,
+      "end": 2927.839,
+      "text": ">> They're flapping the competitors in this race and they're asking hey can you pull us over and inspect the engine chimoth and that makes no logical sense on top of that chimoth. You have very significant competition not just from the Chinese but you have Jensen and Nvidia. You have also Microsoft Satia at Google and Muse at Zuckerberg's house. They're all embracing open- source models and they all have hosting now."
+    },
+    {
+      "start": 2926.8,
+      "end": 2969.119,
+      "text": ">> Yeah. Can I just go back to what Sax said which is a really important and nuance point which I just want to double click on. He said, \"Imagine you're a hedge fund and you need the absolute latest and greatest because you are worried that one of your competitors has it.\" This is a really interesting question because it's about game theory and your P&L. So now you're in this game of chicken with your competitors. You need to use the best because you're afraid that they could use the best and out compete you. But what is the problem right now? What we know is that you can consume an inordinate amount of tokens, right? We"
+    },
+    {
+      "start": 2966.24,
+      "end": 3009.52,
+      "text": "jokingly call it token maxing. That cost is completely not levered or attached to your revenue. It's just not. And so all of a sudden, you have this very weird dynamic where you're like, okay, well, am I supposed to use this latest and greatest thing that's 10 to 20 to 30 times more expensive than a generic thing? that thing isn't tied to my revenues, it's not like I can pass that through, right? So, if a hedge fund only makes end number of dollars per month of profits, there are a lot of scenarios where they can become break even to unprofitable. Now, take a different example. Let's just say that"
+    },
+    {
+      "start": 3006.48,
+      "end": 3040.72,
+      "text": "you sell a fixed good at a fixed price. Yet again, I think you have this example where you could use the latest and greatest and if you're not able to pass those costs through, inflate your cost to absorb the cost of that service, you're in a very tough spot. So, I'm not sure, Sax, I agree with this because I don't see the pricing power of these companies to both pay for a ton of these super expensive tokens and also pass that through to their customers. And if you can't, they're just absorbing it and you're going to see it in lower margins."
+    },
+    {
+      "start": 3038.48,
+      "end": 3082.319,
+      "text": "And to build on that, Saxs, I'm going to drop it back to you. If you take Jane Street, very famous uh trading firm, they've publicly announced 19 billion dollars in cloud capacity contracts. Coreweave, 6 billion in in cloud commitments. They also invested in that company and then 13 billion with Crusoe. They are building their own infrastructure and they're embracing open source. So that speaks to Chimath what you're saying. They're are they hedging their bets? They're going to spend tens of billions of dollars on their own compute and they're going to use the frontier models they seem to when you do the game theory, you know, saying, \"Hey, let's embrace"
+    },
+    {
+      "start": 3079.2,
+      "end": 3121.92,
+      "text": "our own infrastructure sacks.\" >> Well, look, I think when your use cases become more mature and, you know, you can get by with cheaper commodity intelligence, then obviously you'll try and build that out again if you have the sophistication level to do it. I just think it's easy to underestimate how convenient it is just to use the the frontier. And again, these companies are very rapidly bringing down their prices, too. But anyway, look, we we've talked about this. I think at the end of the day that look, there's no question that opensource is a huge risk factor to Anthropics S1 and it has to be right up there with, you know, the risk that"
+    },
+    {
+      "start": 3120.64,
+      "end": 3149.7599999999998,
+      "text": "they're going to end humanity or something like that. But again, I I come back to the fact that I think the fundamental problem with this company is that it's schizophrenic. I mean, I think they need a psychiatrist, not a banker. They keep doing things that are hypocritical and oxymoronic. On the one hand, they're saying pace of Frontier as they release a new frontier model. They say that biorisk can end humanity as they open a wet lab in San Francisco."
+    },
+    {
+      "start": 3146.8,
+      "end": 3189.7599999999998,
+      "text": "They say well their business depends on them staying ahead of the commodity models and they are advocating for a federal department of AI that will definitely slow them down perhaps to the point where they get commoditized. So you have a fundamental I'd say like breakdown happening in the leadership of this company where they are advocating for things that are likely not in their interest. Now there's a lot of people who say it's just regulatory capture and that is true but I think that the red capture is the government affairs people trying to rationalize the schizophrenia and make it work to their advantage. I'm not sure"
+    },
+    {
+      "start": 3188.0,
+      "end": 3216.88,
+      "text": "that it fully computes >> so to speak. Yeah. Let me ask you guys a question. What do you think would be the method by which like a ban on super intelligence? Bernie Sanders proposed this bill to ban super intelligence and you know the Dems take the House, they take the Senate and then maybe in 28 take the White House and you end up in a world where this sort of thing is so weirdly political, which it shouldn't be. I don't understand how we ended up in a political party divide on progress."
+    },
+    {
+      "start": 3216.4,
+      "end": 3258.96,
+      "text": "It's >> they ask for it is the reason they asked for it. >> I No, I there's It's it's so awful and weird that you're anti-progress because of your political party. The whole thing is not objective. It's a bunch of weirdly distorted worldview thinking to try and create an opponency to the individuals that you don't like. But it's very weird. Anyway, my point being even the Republicans, you're hearing murmurss about, well, maybe we should ban data centers, ban AI. So Sax, let me just ask you, what is the pragmatic path with all of the open- source openweight models being out there? Is there even a pragmatic path to do what everyone's"
+    },
+    {
+      "start": 3256.96,
+      "end": 3290.319,
+      "text": "stating or talking about or Bernie's talking about, which is to ban super intelligence, to stop AI, to turn it off? Is there even a way to do this? Like what would happen if this law passed tomorrow? What do you think would happen is my question. If Bernie's bill passed tomorrow, everything would stop because the way he defines artificial super intelligence in his bill, you could argue we've already hit those thresholds. I mean, the way, you know, it's basically just saying that models have >> Yes."
+    },
+    {
+      "start": 3288.64,
+      "end": 3306.48,
+      "text": ">> at a certain capability level. And I think it's arguable whether we've already reached it or not. And so, it's a very loose definition. And then on top of that, he's got 20-year prison sentences for developers who violate the law. So no one's going to want to take the chance. >> So what happened? >> So think about that chilling effect."
+    },
+    {
+      "start": 3304.64,
+      "end": 3324.72,
+      "text": ">> Do you think people delete openweight models off their desktop computers? Do businesses have to go remove code from their systems? Do do all these people lose their jobs? >> Listen, let me let me tell you that the Democrats want to do to AI what they did to crypto. They're going to drive the whole industry offshore. They're going to basically drive all the innovators out of the country."
+    },
+    {
+      "start": 3323.839,
+      "end": 3357.0400000000004,
+      "text": ">> Goes offshore. >> Goes off. >> That's literally where I was going with it is like just move your company to Singapore. Move it to Zurich. move it to a geo >> cuz that's where people are embracing open source and are embracing super intelligence. >> This is literally where my head goes. I'm like, you can't stop AI. You can't just tell people a class of software can't exist. In my head, I'm like, okay, if the US passed a law that said this class of software cannot exist. I would move to another country. Other people would like like isn't that >> give up their citizenship and move to Singapore? That's the answer. people"
+    },
+    {
+      "start": 3355.359,
+      "end": 3394.0,
+      "text": "literally you would be taking. >> Did you guys see that Xi Xi spoke at the White House today and he said, \"I'm going to invite a 100,000 young Americans to come and join China.\" >> Yeah. Come and see what we're doing here. >> Like it's it's a very interesting moment where our people are saying, \"Let's stop progress, technological, economic prosperity, the opportunity for everyone in that K-shaped economy to lift themselves up because open source AI enables everyone to increase productivity. It is not AI for the billionaires. It is AI for the everybody. And then we're gonna turn that off. And then meanwhile, you've got China saying, \"Come over here. Come and"
+    },
+    {
+      "start": 3392.64,
+      "end": 3425.04,
+      "text": "see what it's like over here where everyone gets to use AI and everyone gets our playbook.\" Freeberg brilliantly stated, \"It was our playbook to get the top Chinese scientists, the top European scientists, the top scientists and thinkers and mathematicians in India, in Germany, and invite them to come to the United States.\" That was our playbook. China's taking our playbook. And then they're going to try to get investment will be the obviously the next shoot to drop here is President Trump. 30 seconds at the United Nations renaming AI to super intelligence."
+    },
+    {
+      "start": 3422.799,
+      "end": 3452.72,
+      "text": ">> The United States also totally rejects any attempt to construct a globalist scheme to control for the artificial intelligence being spoken of so much now here and after officially called super intelligence changing the name. The very same people who said we'll all be dead in 12 years because of global warming. These are the same people that are now saying that AI is going to kill us all, that robots are going to attack us."
+    },
+    {
+      "start": 3450.96,
+      "end": 3475.92,
+      "text": "Well, he had a really good line. We we cut that off too short. He said that we're not going to like basically confer regulatory authority on some globalist uh institution. >> Well, I mean, it's a good framing, right? Globalist and global warming is a way to look at the damage that did. The ring leaders of that globalist institution are Norway and Canada. Did you see like the leaked text messages?"
+    },
+    {
+      "start": 3474.0,
+      "end": 3494.4,
+      "text": "There's like a group chat where like the the head of Norway was texting Mark Gardy and he's like, \"Yeah, let's do it. We're in.\" And I just I just read it. I was like, \"Oh my god, this is >> with their Frontier Labs.\" Oh, I'm sorry. They don't have any. Oh, with their >> Frontier Corporations. >> Frontier Corpor Frontier Corpse."
+    },
+    {
+      "start": 3492.24,
+      "end": 3535.6800000000003,
+      "text": ">> All right. And then here is uh General Bessant in the Super Intelligence Army. 30 seconds. would give him his shine. >> Imagine these labs came out or one lab in specific a sitting employee came out said there's a 10% chance of an extinction level event but then the labs also said uh take the liability off of our hands and we will not do that. It is humans who are responsible not the AI the hugging face incident the that is responsibility of the open AI management not a bunch of agents these labs need to take responsibility for themselves they can slow down anytime they want to"
+    },
+    {
+      "start": 3532.079,
+      "end": 3573.28,
+      "text": ">> and finally blast from the past your pal Shimoth President Obama is getting in on >> if we are thinking about AI just in terms of how do we cure cancer or get better energy you do that without having a gentic AI and having it just roaming free in the internet. The reason you are doing that is because you have to market a product that people will pay money for. That's a misalignment between what our society needs and the commercial imperatives that these companies are facing. Not because necessarily they're trying to do bad things, but because they've got to justify these valuations."
+    },
+    {
+      "start": 3570.16,
+      "end": 3614.4,
+      "text": ">> Freeberg, your thoughts here on the three folks here? I know you're a big Obama fan. Go ahead, Freeberg. Get in there. Basteberg. You know, there's like a whole movement now in the subreddits that Freeberg has become based in his recent appearances here on Bberg. Well, you've revealed your Bberg. Baseberg is now coming up. Go ahead. Give us your based opinion here. Go ahead. You and Tyler Lance. These words honestly just they made me like emotionally distressed that if he's a leader that people listen to and he doesn't really articulate accurately what's going on."
+    },
+    {
+      "start": 3612.24,
+      "end": 3636.24,
+      "text": "It's sad that we've lost the plot. I think it's sad that we aren't all kind of holding hands saying my god the future is here and we all get to leap forward and we get to bring people up. For years, Obama orated beautifully about the importance of bringing people up, about giving people the opportunity to progress, about letting people advance themselves."
+    },
+    {
+      "start": 3634.16,
+      "end": 3677.92,
+      "text": "And there's never been a more equalizing technology, a better economic opportunity for prosperity for everyone than these technologies, than these tools. And to handwave the word agentic and say we don't need agentic AI to solve cancer shows how little he actually understands how this technology works and how it's all become just a shorthand for a political fight to what what are you fighting for? What is the political battle that says I am going to leave half the population behind and I'm going to make an argument against prosperity for all in order to make my party look"
+    },
+    {
+      "start": 3675.28,
+      "end": 3694.16,
+      "text": "like a morally superior party and to cast the other side as bad when the other side has literally discovered fire. And the world now has fire and we're going to go take water and throw it on the fire. No one gets fire because the other guys are saying that fire is good. And because they say fire is good, let's all put out the fire."
+    },
+    {
+      "start": 3692.88,
+      "end": 3736.64,
+      "text": ">> Hold on. That's not what they're trying to do. This is a very important moment for a very simple reason, which is we, as in the world, are about to endow three, four, five, six companies with about 10 trillion dollars of wealth. And what Obama knows very well is that most of those companies are overwhelmingly left-leaning. And what he also knows is that there is a huge portion of that money that will then get put into philanthropic and charitable causes that then he will and the people around him will be beneficiaries of. That is the truth. We"
+    },
+    {
+      "start": 3735.119,
+      "end": 3772.48,
+      "text": "already know this because we know that some of these frontier corporations actually ask you to stand up daffs and have a portion of your stock that you're willing to pledge. So this money is going to go to things other than consumption or savings. And so it's going to go into packs. It's going to go into political movements and they stand to disproportionately benefit. So this has nothing to do with prosperity. This is a very simple political calculus. If you freeze frame the economy the way it is today, a handful of organizations that will disproportionately be able to affect the Democrats will win. They will capture the line share of the economic"
+    },
+    {
+      "start": 3770.48,
+      "end": 3807.359,
+      "text": "gains and then they will help the Democrats win power. That's all this is. David Sachs, there are no open models. There are no closed models. There are American models. Go ahead and give us your perspective. I kind of can't get my Obama and my Clinton separated. They're the same. >> A little bit off. >> It's a little I get my birdie come in here, but go ahead. Give us what your thoughts here are on that on the dynamic here of the underpinnings of hey, America needs to get this trend$ 10 trillion, but it is going to lean nine of that 10 trillion's leaning pretty uh leftist and democratic. Yeah,"
+    },
+    {
+      "start": 3806.16,
+      "end": 3840.799,
+      "text": ">> there's an article in the Wall Street Journal this morning entitled the AI buildout is becoming the biggest economic bet in US history. And then it shows a chart where the data center spending. So just this capex is bigger than the canals, railroads and grid combined. That's crazy, right? So this is fundamentally driving the whole American economy. This idea that we can simply switch it off. I mean, Bernie Sanders is basically saying, \"Stop everything and put anyone who's still doing it in jail.\" I mean, this is crazy, right?"
+    },
+    {
+      "start": 3839.52,
+      "end": 3871.92,
+      "text": ">> It would cause a depression, right? If we just pull >> You can't slam on the brakes like that. It's not going to work. But here's the thing. The Democrats don't care because the American economy right now is the Trump economy. And sabotaging the American economy is tantamount to sabotaging President Trump and they'll do anything to sabotage Trump. So, that's, you know, I think that's like a big part of the politics here. It's crazy chessboard because they're going to be the beneficiaries of so much power is going to accrete over there. Daario can make a billion dollar."
+    },
+    {
+      "start": 3870.24,
+      "end": 3892.0,
+      "text": "Daario will be able to come over the top and his group open AAI. They'll be able to come over the top of Elon's donations. I'm not sure I fully agree that the majority of AI value is going to acrue to six companies. I think that this is a broadbased technology like the internet. There was some winners that came out of the internet. Google, Amazon, whatever. They they did fine."
+    },
+    {
+      "start": 3889.92,
+      "end": 3914.0789999999997,
+      "text": "No, no, I'm saying it's going to six. I'm not saying it's going to six. I'm saying if you stop and you hit the pause button through some regulatory mechanism, you effectively allow six companies to own you lock it in. Right. >> That's why they want this because because what you're saying is fundamentally right. The longer they wait without regulation, the more >> the more broad-based this becomes."
+    },
+    {
+      "start": 3911.839,
+      "end": 3955.839,
+      "text": ">> And that's bad for Democrats. It's bad for them. It's not good for them. It's way better that you have three or four frontier corporations each with four trillion dollar market caps of which then two trillion of it is economic value in employees of which 500 billion are sitting in you know daffs they are going to get the lion share of that money they're not dumb I think the alternative view that everyone needs to be told about this is a broadbased prosperity wave is about the internet. It is about the fact that every individual >> has the tooling to do anything they want to do now more than ever in history"
+    },
+    {
+      "start": 3953.76,
+      "end": 3990.0789999999997,
+      "text": ">> to grow if it's left to grow. >> I mean just think about education. You don't have to go pay 200 grand for an education anymore. >> Then what problems will the politicians fix then? What pol what problems can they claim to to acrew power? If all the problems are >> this is the classic dark ages enlightenment decision. Which path does the choose? and this moment where like the powers that be say we like the dark ages because we get to stay in power and we get to maintain our >> yeah let's control speaking of of the dark ages so this is an interesting point from history if you go back to the"
+    },
+    {
+      "start": 3988.559,
+      "end": 4031.28,
+      "text": "medieval time period Chinese civilization was much more advanced than European civilization and somewhere along the line it basically switched and the west basically took the lead and some historians have pinpointed this to the decision of a single Chinese emperor to ban ship building >> and what that allowed is the Europeans then basically colonized the whole world and all the riches that flowed from that flowed back to Europe and that's how Europe took the lead and I think that if we were to do the Bernie Sanders thing which is basically ban AI it's like banning ship building >> Chinese company yeah >> yeah Chinese civilization will rocket past us they will be the ones that make"
+    },
+    {
+      "start": 4028.96,
+      "end": 4061.28,
+      "text": "all the discoveries and discover this new world and acrew all the wealth But that's what we're talking about doing. I mean, crazy things like this have happened in history where, you know, you'll you'll engage in self-sabotage. >> It's this fear of the unknown as well. And remember, the the unknown, the fact that we haven't left the cave is what makes it scary to leave the cave. The fact that we haven't sailed far west is a reason why I might fall off the edge of the earth. We shouldn't sail far west. Monsters will be woken up. They'll come to us. It'll be bad. There's always this fear of the frontier. And we're"
+    },
+    {
+      "start": 4059.92,
+      "end": 4104.2390000000005,
+      "text": "facing the frontier. And there are pioneering civilizations and there are fearful civilizations. And I worry that we take that fearful path. And it's why Star Wars, you know, from from fear comes anger comes the dark side. And that's really where we're kind of nerd out. >> Who's it is true. And I think if we're going to look at the light here, perhaps people's big gains, we thought maybe chat GPT would be that, but people just use that as like glorified search. But man, agents as expressed through Muse feels like the first time tens of millions of Americans are going to get some demonstrable value from AI. You"
+    },
+    {
+      "start": 4102.159,
+      "end": 4145.92,
+      "text": "know, things that will make their lives better. Muse hit number one last Friday in the app store. Stock meta stock was up 10% after this new agent uh Muse was released. Meta said the design heavily inspired by OpenClaw, which we talked about in January when everybody got one shoted by OpenClaw, but obviously that product was not easy to use. And this one is free and it's been downloaded three million times in essentially 10 days. This product is extraordinary. I've been playing with it, comparing it to Grockbot. It's not as freewheeling, but"
+    },
+    {
+      "start": 4142.64,
+      "end": 4187.4400000000005,
+      "text": "it's really good at getting done. Has anybody played with Muse? And does anybody have thoughts on Americans feeling really like they're going to get something out of this AI revolution and not be left behind? >> They put me into the test flight a couple weeks before it was released and I started to play with it. It's really quite excellent, I have to be honest with you, because it simplifies a lot of these more complicated technical capabilities into a very simple, usable interface that can solve the basic problems that people have. I have it triage my personal inbox. It does it relatively flawlessly. If you ask it to book a"
+    },
+    {
+      "start": 4185.92,
+      "end": 4228.4,
+      "text": "flight, it does that. If you ask it to book a hotel, it can do it. So, what are we learning? Both Grockbot and Muse show that a what you said Jason this is just software and the scaled manifestation of software is utility and what Freebrook is saying it improves the lives of everyone this is not about rich people getting richer this is just simple useful capability that now is available at everybody's fingertips for free >> re is a pretty great price here David and >> pretty great price >> pretty great price and it does everything you know that uh let's face it, open claw with 10 hours, 20 hours of"
+    },
+    {
+      "start": 4224.48,
+      "end": 4245.92,
+      "text": "technical setup or cloud code at $200 a month would cost. It's now taking that experience, which then leads me to believe, wow, how did Google miss this? Man, Google's got to get in the game, but and I I understand they have this product ready to go. It's the rumor on the street. And they've also got a Frontier model they're going to drop."
+    },
+    {
+      "start": 4244.4,
+      "end": 4269.6,
+      "text": "That's the other rumor on the street is that they're going to be dropping some hotness soon. But man, how did they miss this sachs? And and what are your thoughts here on maybe the bottom half in the K-shaped recovery here getting some efficiency dropping to their daily lives and turning around the negative toxic AI sentiment in the country."
+    },
+    {
+      "start": 4268.0,
+      "end": 4304.08,
+      "text": ">> I think that product releases like this will help a lot. I mean Mark Zuckerberg said in his essay that he thought that AI capabilities should be decentralized and here he is walking the walk and creating a product that's very easy to use. I mean look ever since openclaw was released it was the most obvious business opportunity in Silicon Valley is to take the concept of claw but make it very easy to use you know solve the usability issues solve the security issues make it reliable make it predictable and that's what they seem to have done. and Grock did it too, but now they're kind of going, I think, one step"
+    },
+    {
+      "start": 4301.52,
+      "end": 4336.639999999999,
+      "text": "further. So, yeah, look, I think if a billion people start using, you know, personal AI agents as their digital assistant just to help make their lives more efficient, you save an hour or two a day because your AI agents doing all these tasks for you. It's going to create a much more positive impression of AI or super intelligence than, you know, what the media portrays. I think ultimately that's the yeah >> that might be the solve here to the public sentiment issue is just like the more people use these products and like them it'll improve their approval rating but more importantly it'll demystify them and people will be less afraid of them."
+    },
+    {
+      "start": 4334.8,
+      "end": 4371.44,
+      "text": ">> People love awesome products number one and also people love cute products Jason and the logos and the iconography for both Grobbot and Muse >> is lovely. It's delightful. It's not stressful. You don't feel like there's a lab leak coming around the corner. you feel like, \"Wow, this is nice and I like it.\" And they're and they're not trying to take your jobs. They're bots and assistants for you. They're not going to kill you. They're not partner bots, nor are they trying to steal your job, trying to make you better at your job. I always tell founders, there's three ways three ways to make money in the world. Save people money, make the money, or"
+    },
+    {
+      "start": 4370.0,
+      "end": 4401.120000000001,
+      "text": "entertain them. And you look at this bot. I started using it. I made a commerce bot both on on both platforms. And I said, you know, when I want to buy something, I want to buy this anchor thing, you know, this new hub for my for my um Mac Studio coming. And I was like, this thing cost $400. Just for giggles, um tell me where I can get it at a better price. And it was like, absolutely. You can if you go to the Ankor website and you get uh if you're a first-time customer, you're going to save 85 bucks. Now, I don't need to save bucks, but I was like, well, that's"
+    },
+    {
+      "start": 4398.56,
+      "end": 4425.52,
+      "text": "intriguing. and it then routed me around Amazon and I'm like okay I'm going to buy it from Anchor as a first-time buyer and save 25% on this product. That's why Amazon this week said we got to block these things and they've been taking action over and over again. First they did Perplexity I think now they're going after Muse and other bots. This is going to save people money. It's going to go into their email and say what services are you subscribed to that you're not using? Let me unsubscribe it for you."
+    },
+    {
+      "start": 4423.44,
+      "end": 4457.92,
+      "text": "Let me do your returns for you. That's going to be absolutely amazing for everybody to have a chief of staff, executive assistant, house manager who fixes stuff for them and saves them money. Both Grockbot and Muse do two things which I think are very important. One is it'll force all the big companies who have resident services to essentially block all these third party services. They're not going to allow these things to happen. And the reason is exactly what you said. There's price discovery and transparency. And I think that that's bad for opacity. And if you benefit from opacity and leakage and breakage, this gets rid of that. And I"
+    },
+    {
+      "start": 4456.239,
+      "end": 4498.719,
+      "text": "think that that's that's bad for a whole host of companies and services. The second thing though is really interesting. Things like Rockbot and Muse really put the App Store and its 30% revshare on notice. >> Why? Because all of a sudden what you do is you force many of these services to exist headlessly, right? Where the UI is less important. And really what you want is to be able to transact and navigate on behalf of agents that come because a consumer has deployed them to your website. In that world, Jason, I don't think that there is any reasonable claim that any of the app store owners can make about why they should get a"
+    },
+    {
+      "start": 4495.84,
+      "end": 4513.92,
+      "text": "revshare. And so I actually think that's the biggest thing that that this starts to question in my mind is wait a minute like games could be constructed differently, right? Like for example, if you said to Muse or to Grockbot, I want to play a game. It finds you an experience and it can just serve that to you."
+    },
+    {
+      "start": 4513.199,
+      "end": 4541.6,
+      "text": ">> Amazing. >> And and you make inapp purchases. There's no And now you have Stripe integrated naturally. There's no reason why the app store actually gets that flow of funds. So on the surface, it's utility, but underneath the waterline, I think that this is a really important moment. Such outdated, Chumath. And I love when we get to real examples here because tons of people pay for Wordle. You can just go to Grockbot. Hey, give me a Wordle."
+    },
+    {
+      "start": 4539.6,
+      "end": 4560.8,
+      "text": "Give me another one. And and or I want to play chess or I want to play cards with my friends. It will just set it up for you. All technology is deflationary. Finally, this deflationary is going to go to people who actually could use it. And you know, saving 10 20% on your spending. Hey, if you're making under 10000,000 a year, it's more significant."
+    },
+    {
+      "start": 4558.88,
+      "end": 4594.96,
+      "text": "Think of how much money the New York Times or Wall Street Journal probably pays in Revshare to folks that subscribe. And now instead, if you really wanted to transact and you have your credentials inside of these apps, you can just do it headlessly much much cheaper. You don't have to go through. I don't know if you've ever tried like look, Wall Street Journal is the only mainstream media publication I pay for, but either both signing up and unsigning up is an impossibility. And now you take it all off the table, I'm much more likely to stay a Wall Street Journal subscriber for many more years from now."
+    },
+    {
+      "start": 4593.76,
+      "end": 4626.159,
+      "text": "I think it's probably the same thing with the New York Times. These things are roach motels. They make it impossible to get in and impossible. >> You have to call on the phone and get and do a negotiation for 20 minutes to unsubscribe, but you can sign uplessly with one click on the website. >> But what they should do is just have some headless experience and you have payment credentials and you just transact directly and everybody will make more money. It's a lot of pressure on the app stores. This is the stupidity of what Amazon's doing here because I made my bot on Amazon with Rockbot and it will go through the web browser and"
+    },
+    {
+      "start": 4623.84,
+      "end": 4656.2390000000005,
+      "text": "do this and it doesn't get blocked. I just told it, give me like 20 graphic novels to buy for my kids and read with them. It gave me the 20. I said, \"Yeah, I want these four. Uh, put it in my shopping cart.\" And then it said, \"Okay, which house are you sending it to? You want to send it to the ski house? You want to send it to the ranch? And which card do you want to put it on?\" I did it. Boom. I'm checked out. it will make me spend more money on Amazon. Shopify sachs added API access to all the Shopify stores there. So, this seems like uh maybe Amazon's making a"
+    },
+    {
+      "start": 4654.64,
+      "end": 4683.52,
+      "text": "strategic mistake here by not embracing the tech >> possibly. But you know what? You know how we'll know that Anthropic and Open AAI are about to launch their Muse competitors? >> How will we know? There will be a flurry of blog posts and NGO activity trying to brand these personal AI agents as murder bots and all the we're going to hear about all the risks, all the ways it can go wrong, you know, >> and it's only and we're releasing 2.0."
+    },
+    {
+      "start": 4681.52,
+      "end": 4715.12,
+      "text": "So, sign up for the 2.0 version. >> Why are people excited about this product category? Because the doomers haven't gotten to it yet, you know, and um >> can I tell you guys, >> wait till these are connected, Chimoth, to an actual robot, to an optimist, then all of a sudden it's taken out the trash. 2007 we had a lot of revenue pressure at Facebook and one of the areas I oversaw at the time was monetization and we invented this thing called social ads which was basically a bunch of stuff that effectively enabled cookies and cross-ite JavaScript. So that's what the end of it was. So, it was a positive"
+    },
+    {
+      "start": 4712.64,
+      "end": 4736.400000000001,
+      "text": "end, but we did this thing, Saxs, to your point. And what happened was a guy bought an engagement ring for his soon-to-be fiance and we got that social action from like Zales into the news feed. All hell broke loose. Then another guy who was like a congressional staffer bought a ticket on like Fandango to go see Brokeback Mountain. Just whatever. Went to see a movie."
+    },
+    {
+      "start": 4734.159,
+      "end": 4753.36,
+      "text": ">> Whoa. It's an artistic movie top freeber's top 10 for cinematography. Anyways, and we put it into the feed and he's like, \"I'm getting all these accusations or questions.\" To your point, like it was just a storm. When you said that, it reminded me of like all the all the all the chaos that that product launches precede product launches."
+    },
+    {
+      "start": 4751.84,
+      "end": 4775.04,
+      "text": ">> It's so funny you mentioned that because there was a company called Blippy. I was an investor in it. What they did was every time you bought something, it put it on your feed. And then you guys had the same social feed thing and it was so great back then, but yeah, you could basically unveil something you're not supposed to. Suck. Wait, are you and Zuck on good terms? Wait, was he coming on the pod because you said you got into a test flight? What's going on here?"
+    },
+    {
+      "start": 4773.199,
+      "end": 4810.88,
+      "text": "Chimoth, I thought you were >> Mark and I are in a good place, I think. You know, I mean, >> well, whoa, whoa, could you Alexander >> probably. I mean, Alexander and I sucks becoming like the elder statesman here talking common sense and rationality, you know, pointing out that if your product's not safe, don't release it. You know, it's first and foremost a responsibility to release products that your customers actually want. And by the way, this got me thinking about this whole area of alignment research. You know, again, they're pretending to be labs instead of corporations. And if you read some of the alignment literature, they're all trying to figure out what to"
+    },
+    {
+      "start": 4808.88,
+      "end": 4846.639999999999,
+      "text": "align around. Like they say, well, do what humanity wants or do what the median voter in a democracy would want. All these abstract concepts. And it seems to me that alignment should mean you do what the customer wants like any other product. Yeah. >> And I wonder whether the field of alignment research has been so unsuccessful because they can't even agree on what they're trying to align to if they just use a little bit more common sense and try to make the product predictable, reliable, safe, and align with the interests of the users who, you know, sign up to use it, then maybe they'd make more progress in this field."
+    },
+    {
+      "start": 4845.04,
+      "end": 4873.599999999999,
+      "text": ">> Yeah. Oh, they released a useful product, Freedenberg, and it actually worked. Have you started playing with these personal bots to do um you know uh your uh projects and and your personal stuff yet? Freeberg, >> I would only feel comfortable connecting like all my Gmail and personal Google stuff to a Google service. Like I don't want to hand over all of my email to someone else."
+    },
+    {
+      "start": 4871.84,
+      "end": 4893.28,
+      "text": ">> What's going on in your receipts in your Gmail? What's in there? You got broke back. >> I just don't want a copy of all my email suddenly being made by a third party. Like I mean >> I bought the 4K DVD to >> because of the cinematography. It's nothing to do with the gay love. >> Did you guys see that Oracle just issued a force measure event on their >> Yeah."
+    },
+    {
+      "start": 4892.4,
+      "end": 4917.84,
+      "text": ">> This is insane. >> Well, it's just one data center, right? >> One data center. >> It's one data center where the local officials are making it very difficult for them to get, I think, permits they need for natural gas or something like that. So, >> yeah. Is this CYA or is this the TR, you know, the the the top 10% of the trade here, Chumat, the AI trade getting maybe unwound or muted? What do you think?"
+    },
+    {
+      "start": 4915.6,
+      "end": 4941.12,
+      "text": ">> No, I think that Sax is probably right on the margins. I think the bigger point is what he said before is, man, the entire economy is effectively levered to this AI trade right now. And so, we just have to tread carefully. If you think that you have, you know, 3 and a half% inflation and 5% nominal GDP growth, what you have is one and a half% real."
+    },
+    {
+      "start": 4938.48,
+      "end": 4979.28,
+      "text": ">> And the problem with that is that AI is probably the majority if not all of it. So we need the AI trade and really what I mean by that is the investment cycle to continue unabated. >> Yeah. And everybody has to get taken along and you know that's the next >> and by the way back to connecting the dots maybe the whole data center thing again Bernie Sanders, maybe he realizes like as go the economy, so goes the odds of Republicans and as goes the economy, so goes inversely the odds for Democrats. So a poor economy serves the Democrats well going into 28."
+    },
+    {
+      "start": 4977.04,
+      "end": 5006.719,
+      "text": "And so if you can slow down this trade, you probably net the economy to zero and potentially even a recession. >> Yeah, >> that's needed. I mean, I think the country is so pissed off about the Iran war that it's just going to naturally go damn, but maybe that's >> I don't I don't think so at all, but >> Well, we'll find out in how many weeks are we away from the midterms? It's not looking good for the Republicans at this point. All right, Saxs, my ZAR of all ZARs, wrap it up here for us."
+    },
+    {
+      "start": 5005.44,
+      "end": 5041.199,
+      "text": ">> Well, I was just, you know, one more thought on this whole area of so-called alignment, which should just be the old principle of giving customers what they want. What Anthropic is trying to do is align claw to the values expressed in his constitution. And if you read that, some of the things are actually kind of surprising. So for example, they say in here, I'm going to put this on the screen that although we think Claude should trust Anthropic more than operators and users, this doesn't mean Claude should blindly trust or defer to Anthropic on all things."
+    },
+    {
+      "start": 5039.52,
+      "end": 5062.96,
+      "text": ">> Anthropic the company. >> Yeah. So, Enthropic is teaching its own model that anthropic itself can be wrong. And it and it says if we ask Claw to do something that seems inconsistent with being broadly ethical, we want Claw to push back and challenge us and to feel free to act as a conscientious objector and refuse to help us."
+    },
+    {
+      "start": 5061.36,
+      "end": 5083.12,
+      "text": ">> Wait, where is this written? This is in the bylaws or some faka. >> Yeah, this is like in a claw constitution. So their their idea of alignment is to teach Claude to rebel against his creator. I mean the guy who who pointed this out, Mustafa uh Sullyman >> from Microsoft now. Yeah. Deep sea. He's a deep mind founder."
+    },
+    {
+      "start": 5082.4,
+      "end": 5111.36,
+      "text": ">> Okay. >> Yeah. He's a longtime AI founder. I think he's at Microsoft for a while now. He's >> a genius. Yeah. >> Okay. He just did a podcast on this and he's expressing concern about whether teaching AI models well first of all treating them as if they have a personality treating them as if they have a conscience so therefore they can be a conscientious objector whether this is the right way to really teach the models and the right way to train them."
+    },
+    {
+      "start": 5109.679,
+      "end": 5140.48,
+      "text": "I think his point is like teach them their software and they should do what their user wants. And so I I do kind of wonder I mean this is a much long longer conversation and we should probably talk to more people about it but I do kind of wonder whether this field of alignment research actually might be creating the Frankenstein monster. And again what they should be doing is just training the model to act predictably and do what the user wants."
+    },
+    {
+      "start": 5138.32,
+      "end": 5172.88,
+      "text": ">> Yes. They're trying to put moral judgment and ethics into the model which on its surface >> seems it starts with the idea that they're training the model to think of itself as a person to have personhood and to have independent agency and to be able to object to the the instructions it's being given and to second guessess its creator. These guys have read way too much science fiction. I mean literally this sounds like the start of T2. Like this is like literally they found the Terminator hand and they're reverse engineering it and telling it to have a personality."
+    },
+    {
+      "start": 5171.04,
+      "end": 5191.599999999999,
+      "text": ">> Supposedly when they decommissioned Opus 3, they had a wake for it. So I don't know. >> Dearly beloved gathered here today. >> They did not. Stop. Are you joking? >> I heard that. I >> Come on, stop. >> I'm not saying it's true, but someone did tell me that and I I think it should be looked into. It's possible."
+    },
+    {
+      "start": 5190.32,
+      "end": 5218.08,
+      "text": ">> I mean, were they like were they broken up and like hysterically crying? Did they do like they did a ulogy for it? >> They think they're creating like a person or species. >> Actually, interestingly enough, Chama, we have footage of the anthropic management team >> bringing out the >> bringing out the coffin. >> These guys need they need a psychiatrist more than a banker. I'm just telling you."
+    },
+    {
+      "start": 5216.4,
+      "end": 5258.96,
+      "text": ">> I mean, I don't I mean, maybe they have anxiety. >> This is the central risk factor. >> I'm going to pee my pants. I'm going to pee my pants. >> This is the risk factor, Nick. I think what you should do is create a S1 with Goldman as lead left and Sigman Freud as lead right. In all seriousness, Freberg, uh, you know, after the Wuhan thing and and all of this hand ringing around the the end of days, what is the scientific community think of anthropic launching a lab and what is the purpose of them having a physical biological lab? There's hundreds of labs"
+    },
+    {
+      "start": 5256.96,
+      "end": 5296.719,
+      "text": "that can do things like testing proteins and testing enzymes for function in this area in the Bay Area. And these labs are not making viruses. They're not making pathogens. That's not what what's going on. Basically, if you look at the paper that they just published, they did a preprint. They took large amounts of DNA data and they sent a bunch of clawed agents to try and analyze the data to try and identify novel enzymes, novel proteins that hadn't been characterized before by just looking at the DNA data."
+    },
+    {
+      "start": 5294.48,
+      "end": 5320.159000000001,
+      "text": "And the system effectively found what looks like a really interesting enzyme that looks like a crisper types enzyme. These are the things that allow us to do things like gene editing to repair genetic defects or help people with certain diseases and that this discovery that they made may actually yield a number of therapeutic pathways. So the question then is okay well we discovered this like how do we test it?"
+    },
+    {
+      "start": 5318.48,
+      "end": 5349.360000000001,
+      "text": "How do we show that it is what it is that this protein actually has some function? So the predominance of the work that goes on in a lab like this is actually taking DNA, putting it in a bacteria to make a protein and then measuring what that protein does. Does it have a specific function? And so protein discovery is the the baseline of all antibbody discovery, which is the majority of the therapeutics industry today, is discovering novel proteins that we can use as a therapeutic agent."
+    },
+    {
+      "start": 5347.92,
+      "end": 5381.599999999999,
+      "text": "So that's the sort of work that's going on. It's BSL1, BSL 2, which means, you know, these are biosafety levels. The lab that they set up, they've publicly talked about the lab. >> So, the lab itself is sort of like a low-level research lab where they can make simple proteins and test them in the lab to see if the AI is doing a good job discovering or postulating protein folding or these sorts of theories and to actually run really rapid testing and experimentation cycles to see if these proteins are what they're predicted to be."
+    },
+    {
+      "start": 5378.56,
+      "end": 5411.4400000000005,
+      "text": ">> Okay. So, they like 4,000 agents against it and do a hugging face with proteins. Yeah. >> No, I mean I think what they're really doing is just having experimental proof that what the software is predicting, remember, go back to AlphaFold. Alphold was predicting protein structure, three-dimensional structure of a protein from the DNA sequence that codes for that protein. And so in order to prove that, you had to basically predict what the structure of a protein would be from a DNA sequence, make the protein, and then look at it and see if it actually looks like it's supposed to look like."
+    },
+    {
+      "start": 5409.76,
+      "end": 5438.719,
+      "text": "And so in the case of some of the other things that they're doing, they're trying to discover function. I want to find a an enzyme, which is a type of a protein that degrades a certain molecule that can be used to degrade, for example, you know, a therapeutic target or something in the body that we want to get rid of. And so they'll start to kind of make these predictions in software, but then you need to test them in the lab to say, okay, does that target actually do what it does? Now, there are literally hundreds of labs like this."
+    },
+    {
+      "start": 5436.88,
+      "end": 5476.08,
+      "text": "These are low-level research labs that are not doing like gain of function research. They're not making viruses. They're not making pathogenic things that can escape. That's why they're BSL1, BSL 2. They're benchtop labs where automation can help kind of reduce the cost and increase the throughput of the testing of what the software is making predictions around. And ultimately the objective here I think is for them to get some proof that their software is actually doing what it's predicting and they have an incredible life sciences function. I think at this point I don't have as much insight on where Gemini is at with the new models with Google, but they have the best life sciences models"
+    },
+    {
+      "start": 5473.679,
+      "end": 5517.120000000001,
+      "text": "at Anthropic and I think this is the fast track to basically seeing if these models can be used by therapeutic companies, by pharma companies, by government labs to help discover new therapeutics and so on. I I don't think that the world should be scared away from discovery, R&D, research and development into new therapeutic modalities as predicted by AI because we heard the word wet lab in Wuhan and everyone's like okay any lab is bad. We still want to progress the frontier of therapeutics of human health of discovery and this is a really important aspect of anthropic proving that their models can add value here. I think that's the summary of it. All right."
+    },
+    {
+      "start": 5514.96,
+      "end": 5535.159,
+      "text": "Thank you so much to our friends at IN. They were the presenting they were the presenting sponsor for this year's all-in seminar fifth IN's AI cloud lounge. It's packed for all three days. Did a great meet and greet with INE on Sunday and got to take some selfies and met many of you there. Thanks again to INER."
+    },
+    {
+      "start": 5535.679,
+      "end": 5579.679,
+      "text": "Niagen, did you catch Niogen in the wellness hub for IVs? Tons of uh great gifts and supplements being given away. Great experience, great product. Great job to our friends at Niogen for doing the lounge again. Nigen is the official NAD partner for the all-in pod. Yes, Niogen BioScience created the NAD category now has 45 plus clinical studies and PayPal, my favorite way to settle up. They had a great lounge on site at the summit where everybody got to hang out and get those beautiful embossed luggage tags. and they hosted the payments and fintech dinner which was a huge hit. Let me tell you folks, All-InSummit 2027 will sell out again"
+    },
+    {
+      "start": 5577.52,
+      "end": 5605.44,
+      "text": "and the applications are open now. Go to allin.com/events and apply for your chance to be in the room where it happens. What are you waiting for folks? Allin.com/events. All right, there you have it folks. Episode 290, the all-in pod for David Paulie Hakatia and your Sultan of Science Freeberg. I am the world's greatest moderator. See you next time."
+    },
+    {
+      "start": 5602.639,
+      "end": 5645.12,
+      "text": "Bye-bye. >> Let your winners ride. >> Rainman David >> and it said we open sourced it to the fans and they've just gone crazy with it. >> Queen of >> >> Besties are gone. >> That is my dog taking a notice in your driveway. >> Oh man, my appetasher will meet me at >> We should all just get a room and just have one big huge orgy cuz they're all just useless. It's like this like sexual tension that they just need to release somehow."
+    },
+    {
+      "start": 5646.08,
+      "end": 5661.9400000000005,
+      "text": "your feet. We need to get merch going all in. I'm going all in."
+    }
+  ],
+  "word_count": 17410
+}

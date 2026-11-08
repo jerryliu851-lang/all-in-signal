@@ -54,7 +54,12 @@ def cmd_ingest(args, settings: Settings) -> int:
 
     report = run_ingest(_store(settings), settings, limit=args.limit, backfill=args.backfill)
     _print_json(report)
-    write_github_output(new_episodes=len(report.new_transcribed), new_episode_ids=report.new_transcribed)
+    pending = [vid for vid, e in _store(settings).load_index().episodes.items() if e.status == "transcribed"]
+    write_github_output(
+        new_episodes=len(report.new_transcribed),
+        new_episode_ids=report.new_transcribed,
+        pending_analysis=len(pending),
+    )
     return 0
 
 
@@ -70,7 +75,7 @@ def cmd_analyze(args, settings: Settings) -> int:
     from .analyze.pipeline import run_analyze
 
     started = now_iso()
-    report = run_analyze(_store(settings), settings, _backend(settings), video_ids=args.ids or None)
+    report = run_analyze(_store(settings), settings, _backend(settings), video_ids=args.ids or None, force=args.force)
     _print_json(report)
     _store(settings).append_run(
         RunRecord(started_at=started, finished_at=now_iso(), command="analyze", analyzed=report.analyzed,
@@ -83,8 +88,14 @@ def cmd_analyze(args, settings: Settings) -> int:
 def cmd_match(args, settings: Settings) -> int:
     from .polymarket.pipeline import run_match
 
+    started = now_iso()
     report = run_match(_store(settings), settings, _backend(settings), video_ids=args.ids or None)
     _print_json(report)
+    if report.usage.calls:
+        _store(settings).append_run(
+            RunRecord(started_at=started, finished_at=now_iso(), command="match", usage=report.usage,
+                      notes=[f"matched:{len(report.matched)}", f"unmatched:{len(report.unmatched)}"])
+        )
     return 0
 
 
@@ -185,6 +196,9 @@ def build_parser() -> argparse.ArgumentParser:
 
     s = sub.add_parser("analyze", help="run the Opus analysis on transcribed, unanalyzed episodes")
     s.add_argument("--ids", nargs="*", default=None)
+    s.add_argument("--force", action="store_true",
+                   help="re-analyze episodes that already have an analysis (prediction ids may shift; "
+                        "their Polymarket matches are dropped and resolutions.yml entries may orphan)")
     s.set_defaults(func=cmd_analyze)
 
     s = sub.add_parser("match", help="match polymarket candidates against Gamma markets")

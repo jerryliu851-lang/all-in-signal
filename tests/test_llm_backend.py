@@ -75,3 +75,29 @@ def test_fake_backend_queue():
     assert r.data == {"x": 1} and len(fb.calls) == 1
     with pytest.raises(LLMError):
         fb.complete_json(system="s", user="u", schema={})
+
+
+def test_parse_tolerates_trailing_text_and_wraps_bad_json():
+    """Red-team regression: a trailing log line after the envelope raised a bare JSONDecodeError."""
+    env = ClaudeCodeCLIBackend.parse_envelope('{"type":"result","is_error":false,"result":"{}"}\nnote: update available\n')
+    assert env["type"] == "result"
+    with pytest.raises(LLMError, match="not valid JSON"):
+        ClaudeCodeCLIBackend.parse_envelope("log line\n{ truncated")
+
+
+def test_budget_exceeded_is_a_clear_error(monkeypatch, tmp_path):
+    backend = ClaudeCodeCLIBackend(Settings(data_dir=tmp_path), check_credentials=False)
+
+    def fake_run(cmd, **kw):
+        envelope = {"type": "result", "subtype": "error_max_budget_usd", "is_error": False, "result": ""}
+        return subprocess.CompletedProcess(cmd, 1, stdout=json.dumps(envelope), stderr="")
+
+    monkeypatch.setattr(subprocess, "run", fake_run)
+    with pytest.raises(LLMError, match="error_max_budget_usd"):
+        backend.complete_json(system="s", user="u", schema={"type": "object"}, label="analyze:x")
+
+
+def test_tools_flag_is_an_empty_argv_element(tmp_path):
+    cmd = ClaudeCodeCLIBackend(Settings(data_dir=tmp_path), check_credentials=False).build_command(
+        schema={"type": "object"}, system="s", effort="high")
+    assert cmd[cmd.index("--tools") + 1] == ""
