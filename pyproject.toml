@@ -18,6 +18,7 @@ dependencies = [
 [project.optional-dependencies]
 whisper = [
   "faster-whisper>=1.1,<2",
+  "av<19",  # PyAV 19+ removed the metadata_errors kwarg faster-whisper 1.2 still passes
 ]
 
 # Installed by `uv sync` by default, so `uv run pytest` / `uv run ruff` always work.
