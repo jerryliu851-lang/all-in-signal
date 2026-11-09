@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "updated_at": "2026-11-08T22:06:21Z",
+  "updated_at": "2026-11-09T06:30:22Z",
   "count": 272,
   "predictions": [
     {
@@ -509,8 +509,8 @@
       "episode_published_at": "2026-11-07",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=2v8b062QzTI&t=3231s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.869,
-      "polymarket_divergence_points": 15.9,
+      "polymarket_yes_probability": 0.8645,
+      "polymarket_divergence_points": 15.45,
       "timeframe_passed": false
     },
     {
@@ -2855,8 +2855,8 @@
       "episode_published_at": "2026-10-23",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=6czo-C3FU7I&t=2754s",
       "polymarket_question": "France declares state of emergency by December 31, 2026?",
-      "polymarket_yes_probability": 0.032,
-      "polymarket_divergence_points": 14.8,
+      "polymarket_yes_probability": 0.0355,
+      "polymarket_divergence_points": 14.45,
       "timeframe_passed": false
     },
     {
@@ -3773,8 +3773,8 @@
       "episode_published_at": "2026-10-17",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=_b3LfMflIGs&t=2741s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.869,
-      "polymarket_divergence_points": 12.9,
+      "polymarket_yes_probability": 0.8645,
+      "polymarket_divergence_points": 12.45,
       "timeframe_passed": false
     },
     {
@@ -3807,8 +3807,8 @@
       "episode_published_at": "2026-10-17",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=_b3LfMflIGs&t=3135s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.869,
-      "polymarket_divergence_points": 16.9,
+      "polymarket_yes_probability": 0.8645,
+      "polymarket_divergence_points": 16.45,
       "timeframe_passed": false
     },
     {
@@ -4555,8 +4555,8 @@
       "episode_published_at": "2026-10-10",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=TBLHdXABwAg&t=3811s",
       "polymarket_question": "Will Marine Le Pen win the 2027 French presidential election?",
-      "polymarket_yes_probability": 0.4555,
-      "polymarket_divergence_points": 2.55,
+      "polymarket_yes_probability": 0.4575,
+      "polymarket_divergence_points": 2.75,
       "timeframe_passed": false
     },
     {
@@ -4623,8 +4623,8 @@
       "episode_published_at": "2026-10-10",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=TBLHdXABwAg&t=4140s",
       "polymarket_question": "Will J.D. Vance announce a presidential run before 2028?",
-      "polymarket_yes_probability": 0.7105,
-      "polymarket_divergence_points": 8.95,
+      "polymarket_yes_probability": 0.72,
+      "polymarket_divergence_points": 8.0,
       "timeframe_passed": false
     },
     {
@@ -6221,8 +6221,8 @@
       "episode_published_at": "2026-09-26",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=cvP_1jmnkmM&t=1795s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.869,
-      "polymarket_divergence_points": 10.9,
+      "polymarket_yes_probability": 0.8645,
+      "polymarket_divergence_points": 10.45,
       "timeframe_passed": false
     },
     {
@@ -7071,8 +7071,8 @@
       "episode_published_at": "2026-09-12",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=cvxjqbfLVk0&t=2828s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.869,
-      "polymarket_divergence_points": 1.1,
+      "polymarket_yes_probability": 0.8645,
+      "polymarket_divergence_points": 1.55,
       "timeframe_passed": false
     },
     {
@@ -7513,8 +7513,8 @@
       "episode_published_at": "2026-09-04",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=DvFe9bR2eHA&t=417s",
       "polymarket_question": "Will OpenAI have the best AI model at the end of December 2026?",
-      "polymarket_yes_probability": 0.0415,
-      "polymarket_divergence_points": 15.85,
+      "polymarket_yes_probability": 0.043,
+      "polymarket_divergence_points": 15.7,
       "timeframe_passed": false
     },
     {
@@ -8737,8 +8737,8 @@
       "episode_published_at": "2026-08-29",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=1u5dMAKl_ks&t=634s",
       "polymarket_question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "polymarket_yes_probability": 0.325,
-      "polymarket_divergence_points": 46.5,
+      "polymarket_yes_probability": 0.26,
+      "polymarket_divergence_points": 53.0,
       "timeframe_passed": false
     },
     {
@@ -9179,8 +9179,8 @@
       "episode_published_at": "2026-08-29",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=1u5dMAKl_ks&t=4509s",
       "polymarket_question": "Russia x Ukraine ceasefire by December 31, 2026?",
-      "polymarket_yes_probability": 0.1,
-      "polymarket_divergence_points": 11.0,
+      "polymarket_yes_probability": 0.095,
+      "polymarket_divergence_points": 11.5,
       "timeframe_passed": false
     },
     {
