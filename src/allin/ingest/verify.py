@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import json
 import os
 import shutil
 import subprocess
@@ -24,6 +25,23 @@ def _check(fn) -> dict[str, Any]:
         return {"ok": bool(ok), "detail": detail}
     except Exception as exc:  # noqa: BLE001
         return {"ok": False, "detail": f"{type(exc).__name__}: {str(exc)[:300]}"}
+
+
+def token_ping(claude_bin: str) -> tuple[bool, str]:
+    """Ask the CLI for one word with the credentials in the environment. Never echoes the token."""
+    env = os.environ.copy()
+    env.pop("CLAUDECODE", None)
+    out = subprocess.run(
+        [claude_bin, "-p", "Reply with the single word ok.", "--model", "haiku", "--output-format", "json",
+         "--tools", "", "--strict-mcp-config", "--no-session-persistence", "--max-budget-usd", "0.05"],
+        capture_output=True, text=True, timeout=120, check=False, env=env,
+    )
+    try:
+        envelope = json.loads(out.stdout)
+    except json.JSONDecodeError:
+        return False, f"no JSON from claude -p (exit {out.returncode}): {(out.stdout or out.stderr).strip()[:160]}"
+    ok = out.returncode == 0 and not envelope.get("is_error") and envelope.get("subtype") == "success"
+    return ok, "model call succeeded" if ok else f"rejected: {str(envelope.get('result'))[:160]}"
 
 
 def verify_runner(settings: Settings) -> dict:
@@ -129,6 +147,10 @@ def verify_runner(settings: Settings) -> dict:
     results["claude_cli"] = _check(cli)
     has_token = bool(os.environ.get("CLAUDE_CODE_OAUTH_TOKEN"))
     results["oauth_token_present"] = {"ok": has_token, "detail": str(has_token).lower()}
+    if has_token and results["claude_cli"]["ok"]:
+        # Present is not the same as accepted: a mistyped or expired token would otherwise only show up when
+        # the next episode's analysis fails. One-word Haiku call (about a tenth of a cent API-equivalent).
+        results["oauth_token_accepted"] = _check(lambda: token_ping(settings.claude_bin))
     deno = shutil.which("deno")
     results["deno_present"] = {"ok": bool(deno), "detail": deno or "not found"}
     results["python_version"] = {"ok": True, "detail": sys.version.split()[0]}
@@ -141,6 +163,6 @@ def verify_runner(settings: Settings) -> dict:
         results["transcript_api"]["ok"] or results["transcript_ytdlp_fallback"]["ok"] or podcast_path
     )
     if hard:
-        print(__import__("json").dumps(results, indent=2), file=sys.stdout)
+        print(json.dumps(results, indent=2), file=sys.stdout)
         raise SystemExit(1)
     return results
