@@ -189,6 +189,25 @@ def _scope(store: Store, video_ids: list[str] | None, force: bool = False) -> li
     return [vid for vid, e in store.load_index().episodes.items() if e.status == "transcribed"]
 
 
+def forget_market_bookkeeping(store: Store, video_id: str) -> tuple[int, int]:
+    """Drop every Polymarket match and unmatched record of one episode; returns the two counts.
+
+    Bookkeeping is keyed by prediction id and a re-analysis renumbers the ids. A record kept across a
+    re-analysis would attach to whichever different prediction inherited its id, and a closed market
+    would then resolve the wrong claim. Dropping them makes the next ``allin match`` judge the new
+    candidates from scratch. Nothing is written when the episode has no records.
+    """
+    state = store.load_polymarket()
+    matches = [m for m in state.matches if m.episode_id != video_id]
+    unmatched = [u for u in state.unmatched if u.episode_id != video_id]
+    dropped = len(state.matches) - len(matches), len(state.unmatched) - len(unmatched)
+    if any(dropped):
+        state.matches, state.unmatched = matches, unmatched
+        state.updated_at = now_iso()
+        store.save_polymarket(state)
+    return dropped
+
+
 def analyze_one(
     store: Store, settings: Settings, backend: LLMBackend, video_id: str, schema: dict[str, Any]
 ) -> EpisodeAnalysis:
@@ -220,7 +239,14 @@ def analyze_one(
     )
     for n in notes:
         log(f"{video_id}: {n}")
+    reanalysis = store.load_analysis(video_id) is not None
     store.save_analysis(analysis)
+    if reanalysis:
+        dropped_matches, dropped_unmatched = forget_market_bookkeeping(store, video_id)
+        log(
+            f"{video_id}: re-analysis renumbered the predictions; dropped {dropped_matches} market match(es) and "
+            f"{dropped_unmatched} unmatched record(s) so the next match run judges the new candidates"
+        )
     index = store.load_index()
     current = index.episodes.get(video_id, entry)
     index.episodes[video_id] = current.model_copy(update={"status": "analyzed", "analyzed_at": analysis.analyzed_at})
@@ -239,8 +265,8 @@ def run_analyze(
     """Analyze ``video_ids`` (or every index entry with status "transcribed").
 
     Episodes that already have an analysis are skipped unless ``force`` is set, because prediction
-    ids follow the model's output order and a re-run can move ids out from under Polymarket matches
-    and ``resolutions.yml`` entries.
+    ids follow the model's output order. A forced re-run therefore drops that episode's Polymarket
+    bookkeeping (``forget_market_bookkeeping``) and can orphan ``resolutions.yml`` entries.
     """
     report = AnalyzeReport()
     scope = _scope(store, video_ids, force)

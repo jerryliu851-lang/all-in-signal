@@ -11,7 +11,15 @@ from allin.analyze.pipeline import make_ids, normalize_speaker, run_analyze
 from allin.analyze.prompts import render_analysis_prompt
 from allin.config import PRICE_PER_MTOK, Settings
 from allin.llm.fake import FakeBackend
-from allin.models import Chapter, IndexEntry, NormalizedTranscript, TranscriptParagraph
+from allin.models import (
+    Chapter,
+    IndexEntry,
+    MarketMatch,
+    NormalizedTranscript,
+    PolymarketState,
+    TranscriptParagraph,
+    UnmatchedCandidate,
+)
 from allin.util import estimate_tokens
 
 FIXTURE = Path(__file__).parent / "fixtures" / "youtube" / "transcript_2v8b062QzTI_head300.json"
@@ -135,6 +143,36 @@ def test_run_analyze_end_to_end(tmp_store, settings):
 
     idx = tmp_store.load_index()
     assert idx.episodes[VID].status == "analyzed" and idx.episodes[VID].analyzed_at == a.analyzed_at
+
+
+def _closed_match(prediction_id: str, episode_id: str) -> MarketMatch:
+    return MarketMatch(
+        prediction_id=prediction_id, episode_id=episode_id, candidate_question="q", market_id="m1",
+        market_question="Will X happen?", closed=True, active=False, hosts_answer="yes", match_confidence="high",
+        match_rationale="r", matched_at="2026-11-08T00:00:00Z", last_checked_at="2026-11-08T00:00:00Z",
+        resolution_outcome="Yes",
+    )
+
+
+def test_forced_reanalysis_forgets_that_episodes_market_bookkeeping(tmp_store, settings):
+    """Ids are renumbered by a re-run, so an old match must not survive to resolve a different claim."""
+    other = "otherVid0001"
+    seed(tmp_store, entry(), entry(other))
+    run_analyze(tmp_store, settings, FakeBackend(handler=lambda call: model_output()))
+    assert not tmp_store.polymarket_path.exists()  # a first analysis has nothing to forget and writes nothing
+
+    tmp_store.save_polymarket(PolymarketState(
+        matches=[_closed_match(f"{VID}-p01", VID), _closed_match(f"{other}-p01", other)],
+        unmatched=[UnmatchedCandidate(prediction_id=f"{VID}-p02", episode_id=VID, question="q", hosts_answer="no")],
+    ))
+    skipped = run_analyze(tmp_store, settings, FakeBackend(handler=lambda call: model_output()), video_ids=[VID])
+    assert skipped.analyzed == [] and len(tmp_store.load_polymarket().matches) == 2  # no force: nothing touched
+
+    report = run_analyze(tmp_store, settings, FakeBackend(handler=lambda call: model_output()), video_ids=[VID], force=True)
+    assert report.analyzed == [VID]
+    after = tmp_store.load_polymarket()
+    assert [m.prediction_id for m in after.matches] == [f"{other}-p01"]  # the other episode keeps its match
+    assert after.unmatched == []
 
 
 def test_run_analyze_failure_does_not_stop_batch(tmp_store, settings):
