@@ -5,6 +5,11 @@ __pycache__/
 .ruff_cache/
 _site/
 .env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.key
 .DS_Store
 data/tmp/
 *.egg-info/
