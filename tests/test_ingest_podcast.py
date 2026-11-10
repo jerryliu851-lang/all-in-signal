@@ -130,6 +130,34 @@ def test_transcribe_file(monkeypatch, tmp_path):
     assert len(logs) == 1  # one 10-minute progress mark
 
 
+def test_hotwords_env_and_passthrough(monkeypatch, tmp_path):
+    monkeypatch.delenv("ALLIN_WHISPER_HOTWORDS", raising=False)
+    assert W.whisper_hotwords() is None
+    monkeypatch.setenv("ALLIN_WHISPER_HOTWORDS", "   ")
+    assert W.whisper_hotwords() is None
+    monkeypatch.setenv("ALLIN_WHISPER_HOTWORDS", " Chamath Palihapitiya, David Sacks ")
+    assert W.whisper_hotwords() == "Chamath Palihapitiya, David Sacks"
+
+    monkeypatch.setattr(W, "_decode_audio", lambda path: [0.0])
+    calls = []
+
+    class FakeModel:
+        def __init__(self, name, device=None, compute_type=None):
+            pass
+
+        def transcribe(self, audio, **kw):
+            calls.append(kw)
+            return iter(()), types.SimpleNamespace(duration=10.0)
+
+    mod = types.ModuleType("faster_whisper")
+    mod.WhisperModel = FakeModel
+    monkeypatch.setitem(sys.modules, "faster_whisper", mod)
+    _, plain = W.transcribe_file(tmp_path / "a.mp3", model_name="tiny.en")
+    _, hot = W.transcribe_file(tmp_path / "a.mp3", model_name="tiny.en", hotwords="Chamath, Sacks")
+    assert "hotwords" not in calls[0] and plain["hotwords"] is False  # the kwarg is only sent when set
+    assert calls[1]["hotwords"] == "Chamath, Sacks" and hot["hotwords"] is True
+
+
 def test_transcribe_unavailable(monkeypatch, tmp_path):
     monkeypatch.setitem(sys.modules, "faster_whisper", None)
     with pytest.raises(W.WhisperUnavailable):
@@ -155,6 +183,7 @@ def test_chain_reaches_podcast(monkeypatch, settings, items, tmp_path):
     monkeypatch.setattr(PC, "download_enclosure", dl)
     monkeypatch.setattr(W, "transcribe_file", lambda path, **k: (sn, {"model": k["model_name"], "duration": 10.0, "elapsed_seconds": 2.1, "rtf": 0.21}))
     monkeypatch.delenv("ALLIN_WHISPER_MODEL", raising=False)
+    monkeypatch.delenv("ALLIN_WHISPER_HOTWORDS", raising=False)
     res = T.fetch_transcript("v", settings, title="Midterm Blood Bath", duration_seconds=5583)
     assert res.snippets == sn and res.source == "podcast-whisper:small.en" and res.is_generated
     assert res.source_detail and "podcast 5584s vs youtube 5583s" in res.source_detail

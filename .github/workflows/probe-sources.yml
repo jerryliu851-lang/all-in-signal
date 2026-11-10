@@ -10,6 +10,14 @@ on:
         description: "Also time faster-whisper base.en on 5 minutes of podcast audio"
         type: boolean
         default: true
+      whisper_model:
+        description: "faster-whisper model for the end-to-end ingest (small.en, medium.en, ...)"
+        type: string
+        default: "small.en"
+      whisper_hotwords:
+        description: "Optional comma-separated glossary for the end-to-end ingest (ALLIN_WHISPER_HOTWORDS)"
+        type: string
+        default: ""
 
 permissions:
   contents: read
@@ -36,6 +44,8 @@ jobs:
         # Proves the whole runner path: playlist listing -> podcast metadata -> podcast mp3 -> whisper -> normalize.
         env:
           ALLIN_DATA_DIR: /tmp/allin-probe-data
+          ALLIN_WHISPER_MODEL: ${{ inputs.whisper_model }}
+          ALLIN_WHISPER_HOTWORDS: ${{ inputs.whisper_hotwords }}
         run: |
           set -o pipefail
           uv run allin ingest --limit 1 | tee ingest.json
@@ -53,3 +63,11 @@ jobs:
                   print("  (no normalized transcript)")
           PY
           { echo "## End-to-end ingest"; echo '```'; cat e2e.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+      - name: Keep the probe transcript (to compare models offline)
+        if: ${{ !cancelled() }}
+        uses: actions/upload-artifact@v7
+        with:
+          name: probe-transcript-${{ inputs.whisper_model }}${{ inputs.whisper_hotwords != '' && '-hotwords' || '' }}
+          path: /tmp/allin-probe-data/transcripts/*.normalized.json
+          if-no-files-found: warn
+          retention-days: 7

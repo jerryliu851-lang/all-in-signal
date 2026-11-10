@@ -4,6 +4,8 @@ Env knobs:
   ALLIN_WHISPER_MODEL    model name (default "small.en")
   ALLIN_WHISPER_COMPUTE  ctranslate2 compute type (default "int8")
   ALLIN_WHISPER_BEAM     beam size (default "1", greedy)
+  ALLIN_WHISPER_HOTWORDS optional comma-separated glossary (e.g. host names) that faster-whisper puts in
+                         front of every decoding window; unset by default
 """
 
 from __future__ import annotations
@@ -33,6 +35,10 @@ def whisper_compute_type() -> str:
 
 def whisper_beam_size() -> int:
     return int(os.environ.get("ALLIN_WHISPER_BEAM") or "1")
+
+
+def whisper_hotwords() -> str | None:
+    return (os.environ.get("ALLIN_WHISPER_HOTWORDS") or "").strip() or None
 
 
 def _stderr(msg: str) -> None:
@@ -76,9 +82,10 @@ def transcribe_file(
     compute_type: str = "int8",
     beam_size: int = 1,
     vad_filter: bool = True,
+    hotwords: str | None = None,
     log: Callable[[str], None] = _stderr,
 ) -> tuple[list[TranscriptSnippet], dict]:
-    """Transcribe an audio file; returns (snippets, info{model, duration, elapsed_seconds, rtf})."""
+    """Transcribe an audio file; returns (snippets, info{model, duration, elapsed_seconds, rtf, hotwords})."""
     try:
         from faster_whisper import WhisperModel
     except ImportError as exc:
@@ -87,7 +94,10 @@ def transcribe_file(
     t0 = time.time()
     audio = _decode_audio(path)
     model = WhisperModel(model_name, device="cpu", compute_type=compute_type)
-    segments, tinfo = model.transcribe(audio, language="en", beam_size=beam_size, vad_filter=vad_filter)
+    options: dict = {"language": "en", "beam_size": beam_size, "vad_filter": vad_filter}
+    if hotwords:
+        options["hotwords"] = hotwords  # only passed when set, so older faster-whisper builds are unaffected
+    segments, tinfo = model.transcribe(audio, **options)
     duration = float(getattr(tinfo, "duration", 0.0) or 0.0)
     snippets: list[TranscriptSnippet] = []
     next_mark = PROGRESS_EVERY_S
@@ -107,5 +117,6 @@ def transcribe_file(
         "duration": audio,
         "elapsed_seconds": elapsed,
         "rtf": (elapsed / audio) if audio else 0.0,
+        "hotwords": bool(hotwords),
     }
     return snippets, info

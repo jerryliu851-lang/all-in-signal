@@ -127,14 +127,14 @@ def _fetch_via_podcast(
         dest = podcast.download_enclosure(item.enclosure_url, Path(tmp) / fname)
         _log(f"podcast: downloaded {fname} ({dest.stat().st_size // 1_000_000} MB), transcribing with {model}")
         snippets, info = W.transcribe_file(
-            dest, model_name=model, compute_type=compute, beam_size=W.whisper_beam_size()
+            dest, model_name=model, compute_type=compute, beam_size=W.whisper_beam_size(), hotwords=W.whisper_hotwords()
         )
     if not snippets:
         raise RuntimeError("whisper produced no text")
     yt = f"{duration_seconds}s" if duration_seconds is not None else "unknown"
     detail = (
         f"libsyn {fname}; podcast {item.duration_seconds}s vs youtube {yt}; "
-        f"{model} {compute} rtf={info['rtf']:.2f}"
+        f"{model} {compute} rtf={info['rtf']:.2f}" + (" hotwords" if info.get("hotwords") else "")
     )
     return snippets, f"podcast-whisper:{model}", detail
 
