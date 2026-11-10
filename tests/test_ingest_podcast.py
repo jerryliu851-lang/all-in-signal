@@ -7,6 +7,7 @@ from pathlib import Path
 
 import pytest
 
+from allin.config import Settings
 from allin.ingest import pipeline as P
 from allin.ingest import podcast as PC
 from allin.ingest import transcripts as T
@@ -131,10 +132,15 @@ def test_transcribe_file(monkeypatch, tmp_path):
 
 
 def test_hotwords_env_and_passthrough(monkeypatch, tmp_path):
-    monkeypatch.delenv("ALLIN_WHISPER_HOTWORDS", raising=False)
-    assert W.whisper_hotwords() is None
-    monkeypatch.setenv("ALLIN_WHISPER_HOTWORDS", "   ")
-    assert W.whisper_hotwords() is None
+    for unset in (None, "", "   "):  # default glossary: every host by full name
+        monkeypatch.delenv("ALLIN_WHISPER_HOTWORDS", raising=False)
+        if unset is not None:
+            monkeypatch.setenv("ALLIN_WHISPER_HOTWORDS", unset)
+        assert W.whisper_hotwords() == W.DEFAULT_HOTWORDS
+    assert all(host in W.DEFAULT_HOTWORDS for host in Settings().hosts)
+    for off in ("off", "OFF", "none"):
+        monkeypatch.setenv("ALLIN_WHISPER_HOTWORDS", off)
+        assert W.whisper_hotwords() is None
     monkeypatch.setenv("ALLIN_WHISPER_HOTWORDS", " Chamath Palihapitiya, David Sacks ")
     assert W.whisper_hotwords() == "Chamath Palihapitiya, David Sacks"
 

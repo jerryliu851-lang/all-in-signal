@@ -15,7 +15,7 @@ on:
         type: string
         default: "small.en"
       whisper_hotwords:
-        description: "Optional comma-separated glossary for the end-to-end ingest (ALLIN_WHISPER_HOTWORDS)"
+        description: "Glossary for the end-to-end ingest (ALLIN_WHISPER_HOTWORDS): empty = built-in default, 'off' = none"
         type: string
         default: ""
 
@@ -67,7 +67,7 @@ jobs:
         if: ${{ !cancelled() }}
         uses: actions/upload-artifact@v7
         with:
-          name: probe-transcript-${{ inputs.whisper_model }}${{ inputs.whisper_hotwords != '' && '-hotwords' || '' }}
+          name: probe-transcript-${{ inputs.whisper_model }}-${{ inputs.whisper_hotwords == 'off' && 'plain' || 'glossary' }}
           path: /tmp/allin-probe-data/transcripts/*.normalized.json
           if-no-files-found: warn
           retention-days: 7

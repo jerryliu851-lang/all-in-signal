@@ -4,8 +4,13 @@ Env knobs:
   ALLIN_WHISPER_MODEL    model name (default "small.en")
   ALLIN_WHISPER_COMPUTE  ctranslate2 compute type (default "int8")
   ALLIN_WHISPER_BEAM     beam size (default "1", greedy)
-  ALLIN_WHISPER_HOTWORDS optional comma-separated glossary (e.g. host names) that faster-whisper puts in
-                         front of every decoding window; unset by default
+  ALLIN_WHISPER_HOTWORDS comma-separated glossary that faster-whisper puts in front of every decoding
+                         window (default: the hosts and the show name, DEFAULT_HOTWORDS); "off" disables it
+
+Why the glossary is on by default (measured on a GitHub-hosted runner, 2026-11-07 episode, small.en int8,
+greedy): without it the decoder drifted into lowercase, unpunctuated text with numbers spelled out a few
+minutes in and stayed there, and misspelled the hosts; with it the text stays punctuated and the names
+come out right, at the same speed. See DECISIONS.md (2026-11-09).
 """
 
 from __future__ import annotations
@@ -19,6 +24,11 @@ from pathlib import Path
 from ..models import TranscriptSnippet
 
 PROGRESS_EVERY_S = 600.0
+# The exact glossary that was measured. Keep it short: every word here is a word the decoder is nudged toward.
+DEFAULT_HOTWORDS = (
+    "Chamath Palihapitiya, David Sacks, David Friedberg, Jason Calacanis, J-Cal, All-In Podcast, Polymarket"
+)
+_HOTWORDS_OFF = frozenset({"off", "none", "false", "0"})
 
 
 class WhisperUnavailable(RuntimeError):
@@ -38,7 +48,11 @@ def whisper_beam_size() -> int:
 
 
 def whisper_hotwords() -> str | None:
-    return (os.environ.get("ALLIN_WHISPER_HOTWORDS") or "").strip() or None
+    """The glossary to use: ALLIN_WHISPER_HOTWORDS if set, None when it says "off", else DEFAULT_HOTWORDS."""
+    value = (os.environ.get("ALLIN_WHISPER_HOTWORDS") or "").strip()
+    if not value:
+        return DEFAULT_HOTWORDS
+    return None if value.lower() in _HOTWORDS_OFF else value
 
 
 def _stderr(msg: str) -> None:
