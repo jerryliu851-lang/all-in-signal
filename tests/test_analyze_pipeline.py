@@ -49,12 +49,14 @@ def seed(store, *entries: IndexEntry) -> None:
 
 
 def take(quote: str, ts: int, speaker: str = "Jason Calacanis") -> dict:
-    return {"speaker": speaker, "attribution_confidence": "high", "stance_type": "own_view",
+    return {"speaker": speaker, "attribution_basis": "segment_role", "attribution_evidence": "Welcome back to the number one podcast in the world", 
+            "attribution_confidence": "high", "stance_type": "own_view",
             "summary": "s", "quote": quote, "timestamp_seconds": ts}
 
 
 def pred(claim: str, quote: str | None, ts: int, speaker: str = "David Sacks") -> dict:
-    return {"speaker": speaker, "attribution_confidence": "medium", "stance_type": "own_view",
+    return {"speaker": speaker, "attribution_basis": "indirect", "attribution_evidence": None, 
+            "attribution_confidence": "medium", "stance_type": "own_view",
             "claim": claim, "category": "politics", "direction": "up",
             "timeframe": {"text": "2026 count", "date": None, "inferred": True},
             "resolution_criteria": "r", "stated_confidence": None, "confidence_bucket": "unstated",
@@ -64,7 +66,8 @@ def pred(claim: str, quote: str | None, ts: int, speaker: str = "David Sacks") -
 def stock(tickers: list[str], ts: int) -> dict:
     return {"claim": "c", "tickers": tickers, "company": None, "is_private": not tickers, "sector": None,
             "direction": "bearish", "timeframe": "12 months", "rationale": "r", "speaker": "Chamath",
-            "attribution_confidence": "low", "timestamp_seconds": ts,
+            "attribution_basis": "topic_or_style", "attribution_evidence": None, "attribution_confidence": "low",
+            "timestamp_seconds": ts,
             "note": None if tickers else "private company"}
 
 
@@ -115,6 +118,15 @@ def test_run_analyze_end_to_end(tmp_store, settings):
     assert a.predictions[2].quote_verified == "dropped" and a.predictions[2].quote is None
     assert a.quote_verification.checked == 11
     assert a.quote_verification.dropped == 2
+    # attribution cues checked against the transcript; confidence capped at what the evidence supports
+    assert a.key_takes[0].attribution_evidence_verified == "verified" and a.key_takes[0].attribution_confidence == "high"
+    assert a.key_takes[1].attribution_evidence_verified == "flagged"  # the cited cue is 8+ minutes before the item
+    assert a.key_takes[1].attribution_confidence == "medium"
+    assert a.predictions[0].attribution_basis == "indirect" and a.predictions[0].attribution_confidence == "medium"
+    assert a.attribution_check is not None
+    assert (a.attribution_check.items, a.attribution_check.downgraded) == (13, 6)
+    assert a.attribution_check.claimed == {"high": 8, "low": 2, "medium": 3}
+    assert a.attribution_check.final == {"high": 2, "low": 2, "medium": 9}
     # light normalisation
     assert a.hosts_present == ["Jason Calacanis", "David Sacks"]
     assert a.predictions[2].speaker == "Guest: Jane Doe"

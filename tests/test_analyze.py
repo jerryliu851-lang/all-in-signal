@@ -70,11 +70,11 @@ META = EpisodeMeta(
 
 def valid_output(n_preds: int = 2, quote: str = "Over a million views so far") -> dict:
     take = {
-        "speaker": "Jason Calacanis", "attribution_confidence": "high", "stance_type": "own_view",
+        "speaker": "Jason Calacanis", "attribution_basis": "segment_role", "attribution_evidence": "Welcome back to the number one podcast in the world", "attribution_confidence": "high", "stance_type": "own_view",
         "summary": "The livestream was big.", "quote": quote, "timestamp_seconds": 101,
     }
     pred = {
-        "speaker": "David Sacks", "attribution_confidence": "medium", "stance_type": "own_view",
+        "speaker": "David Sacks", "attribution_basis": "indirect", "attribution_evidence": None, "attribution_confidence": "medium", "stance_type": "own_view",
         "claim": "Dems will have at least 250 House seats.", "category": "politics", "direction": "up",
         "timeframe": {"text": "when counting finishes", "date": None, "inferred": True},
         "resolution_criteria": "Final House seat count >= 250.", "stated_confidence": "at least",
@@ -89,7 +89,8 @@ def valid_output(n_preds: int = 2, quote: str = "Over a million views so far") -
             {
                 "claim": "AI capex freeze", "tickers": ["NVDA"], "company": "Nvidia", "is_private": False,
                 "sector": "semiconductors", "direction": "bearish", "timeframe": "next 12 months",
-                "rationale": "r", "speaker": "Unknown", "attribution_confidence": "low",
+                "rationale": "r", "speaker": "Unknown", "attribution_basis": "none", "attribution_evidence": None,
+                "attribution_confidence": "low",
                 "timestamp_seconds": 211, "note": None,
             }
         ],

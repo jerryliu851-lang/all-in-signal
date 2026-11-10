@@ -34,7 +34,7 @@ function takesBlock(ctx, ep, takes) {
         ? `<blockquote>“${esc(t.quote)}”${t.quote_verified === "flagged" ? tag("quote not verbatim-checked", "tag-soft") : ""}</blockquote>`
         : "";
       return `<article class="take${stanceCls}">
-        <div class="row-top">${hostChip(ctx, t.speaker, t.attribution_confidence)}${stanceTag(t.stance_type)}</div>
+        <div class="row-top">${hostChip(ctx, t.speaker, t.attribution_confidence, t)}${stanceTag(t.stance_type)}</div>
         <p class="take-summary">${esc(t.summary)}</p>${q}
         <div class="row-foot">${tsLink(ytUrl(ep.video_id, t.timestamp_seconds), t.timestamp_seconds, t.summary)}</div>
       </article>`;
@@ -53,7 +53,7 @@ function stockBoard(ctx, ep, implications) {
         <div class="tile-head"><span class="ticker">${esc(label)}</span>${directionPill(s.direction)}</div>
         ${sub ? `<div class="muted small">${esc(sub)}</div>` : ""}
         <p>${esc(s.rationale)}</p>
-        <div class="row-foot">${hostChip(ctx, s.speaker, s.attribution_confidence)}
+        <div class="row-foot">${hostChip(ctx, s.speaker, s.attribution_confidence, s)}
           <span class="muted small">${esc(s.timeframe)}</span>
           ${tsLink(ytUrl(ep.video_id, s.timestamp_seconds), s.timestamp_seconds, label)}</div>
       </article>`;

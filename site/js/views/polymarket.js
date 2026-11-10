@@ -13,7 +13,7 @@ function outcomeLine(m) {
 
 function matchCard(ctx, m, entry) {
   const flagged = m.flagged_divergence || (m.divergence_points ?? 0) > ctx.flagPoints;
-  const speaker = entry ? hostChip(ctx, entry.speaker, entry.attribution_confidence) : "";
+  const speaker = entry ? hostChip(ctx, entry.speaker, entry.attribution_confidence, entry) : "";
   const link = m.slug
     ? `<a class="btn btn-ghost" href="https://polymarket.com/event/${encodeURIComponent(m.slug)}" target="_blank" rel="noopener">Polymarket <span aria-hidden="true">↗</span></a>`
     : "";
@@ -58,7 +58,7 @@ export async function render(root, ctx) {
   const um = unmatched
     .map((u) => {
       const e = byId.get(u.prediction_id);
-      return `<li>${e ? hostChip(ctx, e.speaker, e.attribution_confidence) : ""}<span class="um-q">${esc(u.question)}</span>
+      return `<li>${e ? hostChip(ctx, e.speaker, e.attribution_confidence, e) : ""}<span class="um-q">${esc(u.question)}</span>
         <span class="muted small">says ${esc(u.hosts_answer)} · implied ${fmtProb(u.implied_probability)} · ${fmtCount(u.attempts, "search", "searches")}</span></li>`;
     })
     .join("");

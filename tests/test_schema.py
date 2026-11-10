@@ -53,6 +53,8 @@ SAMPLE = {
     "key_takes": [
         {
             "speaker": "Chamath Palihapitiya",
+            "attribution_basis": "named_handoff",
+            "attribution_evidence": "Chamath, where do you land on capex",
             "attribution_confidence": "high",
             "stance_type": "own_view",
             "summary": "AI capex is front-loaded and will slow.",
@@ -63,6 +65,8 @@ SAMPLE = {
     "predictions": [
         {
             "speaker": "David Sacks",
+            "attribution_basis": "indirect",
+            "attribution_evidence": None,
             "attribution_confidence": "medium",
             "stance_type": "own_view",
             "claim": "The Fed cuts rates at the December meeting.",
@@ -87,6 +91,8 @@ SAMPLE = {
             "timeframe": "next 12 months",
             "rationale": "Slower capex hits accelerator demand.",
             "speaker": "Chamath Palihapitiya",
+            "attribution_basis": "self_reference",
+            "attribution_evidence": "when I was building Social Capital",
             "attribution_confidence": "high",
             "timestamp_seconds": 1300,
             "note": None,

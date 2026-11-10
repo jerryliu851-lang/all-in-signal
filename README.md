@@ -27,7 +27,22 @@ Idle runs (no new episode) make no analysis calls, write no data and trigger no 
 
 ## Hosts and attribution
 
-Four hosts: Chamath Palihapitiya, David Sacks, David Friedberg, Jason Calacanis. Guests are recorded as `Guest: <name>`, otherwise `Unknown`. The captions have no speaker labels, so attribution is inferred from context, and every item carries an `attribution_confidence` of high, medium or low. Each prediction also has a `stance_type`: `own_view`, `reported_view` or `devils_advocate`. Only `own_view` counts toward accuracy; the rest stay in the ledger.
+Four hosts: Chamath Palihapitiya, David Sacks, David Friedberg, Jason Calacanis. Guests are recorded as `Guest: <name>`, otherwise `Unknown`. The transcripts have no speaker labels, so attribution is inferred from context, and every item carries an `attribution_confidence` of high, medium or low. Each prediction also has a `stance_type`: `own_view`, `reported_view` or `devils_advocate`. Only `own_view` counts toward accuracy; the rest stay in the ledger.
+
+Attribution is evidence-backed, the same way quotes are. For every key take, prediction and stock implication the model returns:
+
+| Field | Meaning |
+|---|---|
+| `attribution_basis` | Why this speaker: `named_handoff`, `addressed_by_name`, `self_reference`, `segment_role`, `guest_intro` (strong); `indirect`; `topic_or_style`; `none` |
+| `attribution_evidence` | The cue itself, copied verbatim from the transcript (the handoff, the reply that names them, the self-reference), or null |
+| `attribution_confidence` | The model's label, then capped in code by `allin.analyze.attribution` |
+
+After the model answers, each cue is string-matched against the transcript (same matcher as quotes) and must sit within 8 minutes before or 2 minutes after the item (`attribution_window_*_seconds` in `config.py`; the longest uninterrupted turn in the backfill is 443 s). The check only ever lowers a label:
+
+- `high` survives only with a strong basis and a cue found verbatim inside that window. A cue that is missing, a near match, too far away, or merely the claim's own quote caps the item at `medium`; a cue that is not in the transcript at all is deleted.
+- `indirect` is capped at `medium`; `topic_or_style`, `none` and speaker `Unknown` at `low`.
+
+Stored items add `attribution_evidence_verified` (`verified`, `flagged` = found but not counted, `dropped`, `none`), and each episode file has an `attribution_check` summary with the model's claimed labels next to the final ones. The dashboard shows the basis and cue in the tooltip of every speaker chip. The check proves that a `high` points at real words near the claim; it cannot prove the cue was read correctly. Episodes analyzed before this existed keep their original labels, carry null in the new fields, and show "Not cue-checked" in the tooltip until they are re-analyzed (`uv run allin analyze --ids <video_id> --force`).
 
 ## Setup
 
@@ -125,7 +140,7 @@ Everything else in the pipeline runs on the runner unchanged.
 ## Known limitations
 - **Scheduled workflows pause after 60 days of repository inactivity.** GitHub disables cron triggers on repos with no activity for 60 days; commits made by the pipeline itself may not count. If the dashboard stops updating, open the Actions tab and re-enable the `pipeline` workflow or push any commit.
 
-- No speaker labels in captions, so attribution is inferred and can be wrong.
+- No speaker labels in the transcripts, so attribution is inferred and can be wrong. A cue check caps unsupported confidence (see "Hosts and attribution"), but there is no ground truth to score attribution against; Whisper transcripts also lack the `>>` speaker-change markers YouTube captions have. Real speaker labels would need diarization of the podcast audio (not built).
 - YouTube blocks cloud IPs; ingestion then falls back to podcast audio + faster-whisper (see remedy 0), whose text differs slightly from YouTube captions and costs runner minutes. `ALLIN_YT_PROXY` restores real captions. Run verify-runner to see which paths work. Failed episodes are marked `transcript_unavailable` with a retry counter, never silently skipped.
 - The YouTube RSS feed is dead (404), so polling uses yt-dlp.
 - Implied probabilities are model estimates, not market data.

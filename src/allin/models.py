@@ -21,6 +21,16 @@ from pydantic import BaseModel, ConfigDict, Field
 # --------------------------------------------------------------------------------------
 
 AttributionConfidence = Literal["high", "medium", "low"]
+AttributionBasis = Literal[
+    "named_handoff",
+    "addressed_by_name",
+    "self_reference",
+    "segment_role",
+    "guest_intro",
+    "indirect",
+    "topic_or_style",
+    "none",
+]
 StanceType = Literal["own_view", "reported_view", "devils_advocate"]
 Category = Literal["macro", "markets", "politics", "tech", "AI", "crypto", "company-specific", "other"]
 StockDirection = Literal["bullish", "bearish", "neutral"]
@@ -34,8 +44,27 @@ ManualOutcome = Literal["correct", "incorrect", "unresolvable"]
 SPEAKER_DESC = (
     "Who said it: one of the four hosts' full names ('Chamath Palihapitiya', 'David Sacks', "
     "'David Friedberg', 'Jason Calacanis'), 'Guest: <name>' when a guest is identifiable, "
-    "otherwise 'Unknown'. Captions carry no speaker labels, so infer from context and set "
-    "attribution_confidence honestly."
+    "otherwise 'Unknown'. The transcript carries no speaker labels, so infer from context and set "
+    "attribution_basis, attribution_evidence and attribution_confidence honestly."
+)
+BASIS_DESC = (
+    "The single strongest reason for the speaker attribution: named_handoff (handed the floor by name just "
+    "before this turn), addressed_by_name (someone replies to this turn using their name), self_reference "
+    "(says something only that person could say about themselves), segment_role (the segment fixes the "
+    "speaker: Jason moderates, Science Corner is Friedberg's), guest_intro (a guest just introduced by "
+    "name), indirect (weaker but real cues), topic_or_style (topic or manner of speaking only), none "
+    "(no cue; speaker must be 'Unknown')."
+)
+EVIDENCE_DESC = (
+    "The transcript words that carry the attribution cue (the handoff, the reply naming them, the "
+    "self-reference, the segment line), copied verbatim, under 15 words, from a single line. Not the claim "
+    "itself. null when attribution_basis is topic_or_style or none. It is string-matched against the "
+    "transcript near this item; a high confidence without a matching cue is downgraded."
+)
+CONFIDENCE_DESC = (
+    "high only when attribution_basis is named_handoff, addressed_by_name, self_reference, segment_role or "
+    "guest_intro AND attribution_evidence cites the cue; medium for indirect or an unclear turn boundary; "
+    "low for topic_or_style or none."
 )
 
 
@@ -66,7 +95,9 @@ class Timeframe(StrictModel):
 
 class KeyTakeOut(StrictModel):
     speaker: str = Field(description=SPEAKER_DESC)
-    attribution_confidence: AttributionConfidence
+    attribution_basis: AttributionBasis = Field(description=BASIS_DESC)
+    attribution_evidence: str | None = Field(description=EVIDENCE_DESC)
+    attribution_confidence: AttributionConfidence = Field(description=CONFIDENCE_DESC)
     stance_type: StanceType = Field(
         description=(
             "own_view = the speaker's own position; reported_view = the speaker summarizing someone "
@@ -85,7 +116,9 @@ class KeyTakeOut(StrictModel):
 
 class PredictionOut(StrictModel):
     speaker: str = Field(description=SPEAKER_DESC)
-    attribution_confidence: AttributionConfidence
+    attribution_basis: AttributionBasis = Field(description=BASIS_DESC)
+    attribution_evidence: str | None = Field(description=EVIDENCE_DESC)
+    attribution_confidence: AttributionConfidence = Field(description=CONFIDENCE_DESC)
     stance_type: StanceType = Field(
         description="own_view, reported_view (summarizing someone else's forecast) or devils_advocate."
     )
@@ -139,7 +172,9 @@ class StockImplicationOut(StrictModel):
     timeframe: str = Field(description="Horizon in words, e.g. 'next 12 months', 'this earnings cycle', 'multi-year'.")
     rationale: str = Field(description="One or two sentences on why the claim implies this direction.")
     speaker: str = Field(description=SPEAKER_DESC)
-    attribution_confidence: AttributionConfidence
+    attribution_basis: AttributionBasis = Field(description=BASIS_DESC)
+    attribution_evidence: str | None = Field(description=EVIDENCE_DESC)
+    attribution_confidence: AttributionConfidence = Field(description=CONFIDENCE_DESC)
     timestamp_seconds: int
     note: str | None = Field(
         description="Required when tickers is empty: why no ticker (private company, no liquid proxy, etc.); else null."
@@ -248,11 +283,32 @@ class QuoteVerificationSummary(StrictModel):
     dropped: int = 0
 
 
-class KeyTake(KeyTakeOut):
+class AttributionCheckSummary(StrictModel):
+    """Outcome of checking every cited attribution cue against the transcript (allin.analyze.attribution)."""
+
+    items: int = 0  # key takes + predictions + stock implications
+    cited: int = 0  # items that came with an attribution_evidence cue
+    verified: int = 0  # cue found verbatim inside the window around the item
+    out_of_window: int = 0  # cue found in the transcript but too far from the item
+    dropped: int = 0  # cue not found in the transcript at all (removed)
+    downgraded: int = 0  # items whose attribution_confidence was lowered by the check
+    claimed: dict[str, int] = Field(default_factory=dict)  # the model's own confidence labels
+    final: dict[str, int] = Field(default_factory=dict)  # labels after the check
+
+
+class StoredAttribution(StrictModel):
+    """Attribution fields as stored. Analyses made before the evidence fields existed carry None."""
+
+    attribution_basis: AttributionBasis | None = None
+    attribution_evidence: str | None = None
+    attribution_evidence_verified: QuoteVerificationStatus = "none"
+
+
+class KeyTake(StoredAttribution, KeyTakeOut):
     quote_verified: QuoteVerificationStatus = "none"
 
 
-class Prediction(PredictionOut):
+class Prediction(StoredAttribution, PredictionOut):
     id: str  # "<video_id>-p<nn>"
     episode_id: str
     status: PredictionStatus = "pending"
@@ -263,7 +319,7 @@ class Prediction(PredictionOut):
     quote_verified: QuoteVerificationStatus = "none"
 
 
-class StockImplication(StockImplicationOut):
+class StockImplication(StoredAttribution, StockImplicationOut):
     id: str  # "<video_id>-s<nn>"
 
 
@@ -295,6 +351,7 @@ class EpisodeAnalysis(StrictModel):
     chunked: bool = False
     usage: LLMUsage = Field(default_factory=LLMUsage)
     quote_verification: QuoteVerificationSummary = Field(default_factory=QuoteVerificationSummary)
+    attribution_check: AttributionCheckSummary | None = None  # None: analyzed before cues were cited
 
 
 # --------------------------------------------------------------------------------------

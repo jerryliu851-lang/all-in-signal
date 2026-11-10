@@ -34,7 +34,7 @@ export function stepChart(series, label) {
 
 function callItem(ctx, c) {
   return `<li class="call">
-    <div class="row-top">${directionPill(c.direction)}${hostChip(ctx, c.speaker, c.attribution_confidence)}
+    <div class="row-top">${directionPill(c.direction)}${hostChip(ctx, c.speaker, c.attribution_confidence, c)}
       <span class="muted small">${fmtDate(c.published_at)}</span></div>
     <p>${esc(c.rationale)}</p>
     <div class="row-foot"><span class="muted small">${esc(c.timeframe)}</span>${tsLink(c.timestamp_url, c.timestamp_seconds, c.claim)}</div>
@@ -68,7 +68,7 @@ function privateBucket(ctx, items) {
     .reverse()
     .map(
       (c) => `<li class="call">
-      <div class="row-top"><b>${esc(c.company || "Unnamed")}</b>${directionPill(c.direction)}${hostChip(ctx, c.speaker, c.attribution_confidence)}</div>
+      <div class="row-top"><b>${esc(c.company || "Unnamed")}</b>${directionPill(c.direction)}${hostChip(ctx, c.speaker, c.attribution_confidence, c)}</div>
       <p>${esc(c.rationale)}</p>
       ${c.note ? `<p class="muted small">${esc(c.note)}</p>` : ""}
       <div class="row-foot"><span class="muted small">${fmtDate(c.published_at)} · ${esc(c.timeframe)}</span>${tsLink(c.timestamp_url, c.timestamp_seconds, c.company || "")}</div>

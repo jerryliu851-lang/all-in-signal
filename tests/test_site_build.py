@@ -17,6 +17,7 @@ from allin.models import (
     StockImplication,
 )
 from allin.site.build import PRIVATE_BUCKET, build_site, derive_stocks, derive_themes
+from allin.store.json_store import _strip_volatile
 
 SITE_SRC = Settings().site_src_dir
 
@@ -107,8 +108,10 @@ def test_sample_data_covers_every_bucket(sample_out):
 def test_sample_build_is_deterministic(tmp_path, settings):
     a = build_site(None, settings, tmp_path / "a", sample_data=True)
     b = build_site(None, settings, tmp_path / "b", sample_data=True)
+    # Compare content, not bytes: `updated_at` is wall-clock, so two builds that straddle a second
+    # boundary differ in that one stamp (this failed on a loaded machine before the stamps were ignored).
     for rel in ("predictions.json", "stocks.json", "themes.json", "latest.json", "polymarket.json"):
-        assert (a / "data" / rel).read_text() == (b / "data" / rel).read_text(), rel
+        assert _strip_volatile(_read(a / "data" / rel)) == _strip_volatile(_read(b / "data" / rel)), rel
 
 
 def test_stocks_grouping_and_net_score():

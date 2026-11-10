@@ -4,11 +4,39 @@
       "additionalProperties": false,
       "properties": {
         "speaker": {
-          "description": "Who said it: one of the four hosts' full names ('Chamath Palihapitiya', 'David Sacks', 'David Friedberg', 'Jason Calacanis'), 'Guest: <name>' when a guest is identifiable, otherwise 'Unknown'. Captions carry no speaker labels, so infer from context and set attribution_confidence honestly.",
+          "description": "Who said it: one of the four hosts' full names ('Chamath Palihapitiya', 'David Sacks', 'David Friedberg', 'Jason Calacanis'), 'Guest: <name>' when a guest is identifiable, otherwise 'Unknown'. The transcript carries no speaker labels, so infer from context and set attribution_basis, attribution_evidence and attribution_confidence honestly.",
           "title": "Speaker",
           "type": "string"
         },
+        "attribution_basis": {
+          "description": "The single strongest reason for the speaker attribution: named_handoff (handed the floor by name just before this turn), addressed_by_name (someone replies to this turn using their name), self_reference (says something only that person could say about themselves), segment_role (the segment fixes the speaker: Jason moderates, Science Corner is Friedberg's), guest_intro (a guest just introduced by name), indirect (weaker but real cues), topic_or_style (topic or manner of speaking only), none (no cue; speaker must be 'Unknown').",
+          "enum": [
+            "named_handoff",
+            "addressed_by_name",
+            "self_reference",
+            "segment_role",
+            "guest_intro",
+            "indirect",
+            "topic_or_style",
+            "none"
+          ],
+          "title": "Attribution Basis",
+          "type": "string"
+        },
+        "attribution_evidence": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "The transcript words that carry the attribution cue (the handoff, the reply naming them, the self-reference, the segment line), copied verbatim, under 15 words, from a single line. Not the claim itself. null when attribution_basis is topic_or_style or none. It is string-matched against the transcript near this item; a high confidence without a matching cue is downgraded.",
+          "title": "Attribution Evidence"
+        },
         "attribution_confidence": {
+          "description": "high only when attribution_basis is named_handoff, addressed_by_name, self_reference, segment_role or guest_intro AND attribution_evidence cites the cue; medium for indirect or an unclear turn boundary; low for topic_or_style or none.",
           "enum": [
             "high",
             "medium",
@@ -45,6 +73,8 @@
       },
       "required": [
         "speaker",
+        "attribution_basis",
+        "attribution_evidence",
         "attribution_confidence",
         "stance_type",
         "summary",
@@ -147,11 +177,39 @@
       "additionalProperties": false,
       "properties": {
         "speaker": {
-          "description": "Who said it: one of the four hosts' full names ('Chamath Palihapitiya', 'David Sacks', 'David Friedberg', 'Jason Calacanis'), 'Guest: <name>' when a guest is identifiable, otherwise 'Unknown'. Captions carry no speaker labels, so infer from context and set attribution_confidence honestly.",
+          "description": "Who said it: one of the four hosts' full names ('Chamath Palihapitiya', 'David Sacks', 'David Friedberg', 'Jason Calacanis'), 'Guest: <name>' when a guest is identifiable, otherwise 'Unknown'. The transcript carries no speaker labels, so infer from context and set attribution_basis, attribution_evidence and attribution_confidence honestly.",
           "title": "Speaker",
           "type": "string"
         },
+        "attribution_basis": {
+          "description": "The single strongest reason for the speaker attribution: named_handoff (handed the floor by name just before this turn), addressed_by_name (someone replies to this turn using their name), self_reference (says something only that person could say about themselves), segment_role (the segment fixes the speaker: Jason moderates, Science Corner is Friedberg's), guest_intro (a guest just introduced by name), indirect (weaker but real cues), topic_or_style (topic or manner of speaking only), none (no cue; speaker must be 'Unknown').",
+          "enum": [
+            "named_handoff",
+            "addressed_by_name",
+            "self_reference",
+            "segment_role",
+            "guest_intro",
+            "indirect",
+            "topic_or_style",
+            "none"
+          ],
+          "title": "Attribution Basis",
+          "type": "string"
+        },
+        "attribution_evidence": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "The transcript words that carry the attribution cue (the handoff, the reply naming them, the self-reference, the segment line), copied verbatim, under 15 words, from a single line. Not the claim itself. null when attribution_basis is topic_or_style or none. It is string-matched against the transcript near this item; a high confidence without a matching cue is downgraded.",
+          "title": "Attribution Evidence"
+        },
         "attribution_confidence": {
+          "description": "high only when attribution_basis is named_handoff, addressed_by_name, self_reference, segment_role or guest_intro AND attribution_evidence cites the cue; medium for indirect or an unclear turn boundary; low for topic_or_style or none.",
           "enum": [
             "high",
             "medium",
@@ -252,6 +310,8 @@
       },
       "required": [
         "speaker",
+        "attribution_basis",
+        "attribution_evidence",
         "attribution_confidence",
         "stance_type",
         "claim",
@@ -332,11 +392,39 @@
           "type": "string"
         },
         "speaker": {
-          "description": "Who said it: one of the four hosts' full names ('Chamath Palihapitiya', 'David Sacks', 'David Friedberg', 'Jason Calacanis'), 'Guest: <name>' when a guest is identifiable, otherwise 'Unknown'. Captions carry no speaker labels, so infer from context and set attribution_confidence honestly.",
+          "description": "Who said it: one of the four hosts' full names ('Chamath Palihapitiya', 'David Sacks', 'David Friedberg', 'Jason Calacanis'), 'Guest: <name>' when a guest is identifiable, otherwise 'Unknown'. The transcript carries no speaker labels, so infer from context and set attribution_basis, attribution_evidence and attribution_confidence honestly.",
           "title": "Speaker",
           "type": "string"
         },
+        "attribution_basis": {
+          "description": "The single strongest reason for the speaker attribution: named_handoff (handed the floor by name just before this turn), addressed_by_name (someone replies to this turn using their name), self_reference (says something only that person could say about themselves), segment_role (the segment fixes the speaker: Jason moderates, Science Corner is Friedberg's), guest_intro (a guest just introduced by name), indirect (weaker but real cues), topic_or_style (topic or manner of speaking only), none (no cue; speaker must be 'Unknown').",
+          "enum": [
+            "named_handoff",
+            "addressed_by_name",
+            "self_reference",
+            "segment_role",
+            "guest_intro",
+            "indirect",
+            "topic_or_style",
+            "none"
+          ],
+          "title": "Attribution Basis",
+          "type": "string"
+        },
+        "attribution_evidence": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "The transcript words that carry the attribution cue (the handoff, the reply naming them, the self-reference, the segment line), copied verbatim, under 15 words, from a single line. Not the claim itself. null when attribution_basis is topic_or_style or none. It is string-matched against the transcript near this item; a high confidence without a matching cue is downgraded.",
+          "title": "Attribution Evidence"
+        },
         "attribution_confidence": {
+          "description": "high only when attribution_basis is named_handoff, addressed_by_name, self_reference, segment_role or guest_intro AND attribution_evidence cites the cue; medium for indirect or an unclear turn boundary; low for topic_or_style or none.",
           "enum": [
             "high",
             "medium",
@@ -372,6 +460,8 @@
         "timeframe",
         "rationale",
         "speaker",
+        "attribution_basis",
+        "attribution_evidence",
         "attribution_confidence",
         "timestamp_seconds",
         "note"

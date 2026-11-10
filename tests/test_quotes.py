@@ -85,14 +85,16 @@ def test_snap_timestamp():
 
 def _take(quote: str, ts: int) -> dict:
     return {
-        "speaker": "David Sacks", "attribution_confidence": "medium", "stance_type": "own_view",
+        "speaker": "David Sacks", "attribution_basis": "indirect", "attribution_evidence": None, 
+        "attribution_confidence": "medium", "stance_type": "own_view",
         "summary": "s", "quote": quote, "timestamp_seconds": ts,
     }
 
 
 def _pred(quote: str | None, ts: int) -> dict:
     return {
-        "speaker": "David Sacks", "attribution_confidence": "medium", "stance_type": "own_view",
+        "speaker": "David Sacks", "attribution_basis": "indirect", "attribution_evidence": None, 
+        "attribution_confidence": "medium", "stance_type": "own_view",
         "claim": "c", "category": "politics", "direction": None,
         "timeframe": {"text": "12 months", "date": None, "inferred": True},
         "resolution_criteria": "r", "stated_confidence": None, "confidence_bucket": "unstated",

@@ -77,6 +77,10 @@ class Settings:
     chars_per_token: float = 3.6
     est_output_tokens_per_episode: int = 12_000
     est_match_tokens_per_candidate: int = 2_500
+    # A cited attribution cue must sit this close to its item to support "high". Measured over the
+    # 10-episode backfill: 99% of speaker turns last under 200 s and the longest is 443 s.
+    attribution_window_before_seconds: int = 480
+    attribution_window_after_seconds: int = 120
 
     # --- Polymarket ---
     gamma_base_url: str = "https://gamma-api.polymarket.com"

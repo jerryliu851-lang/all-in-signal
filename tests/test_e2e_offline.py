@@ -26,7 +26,8 @@ def _transcript():
 
 def _pred(speaker, stance, claim, quote, ts, date):
     return {
-        "speaker": speaker, "attribution_confidence": "medium", "stance_type": stance, "claim": claim,
+        "speaker": speaker, "attribution_basis": "indirect", "attribution_evidence": None, 
+        "attribution_confidence": "medium", "stance_type": stance, "claim": claim,
         "category": "politics", "direction": "yes",
         "timeframe": {"text": "by the date", "date": date, "inferred": False},
         "resolution_criteria": "Official result.", "stated_confidence": None, "confidence_bucket": "high",
@@ -39,10 +40,13 @@ def _analysis_output():
         "hosts_present": ["Jason", "David Sacks"],
         "guests": [],
         "key_takes": [
-            {"speaker": "Sacks", "attribution_confidence": "high", "stance_type": "own_view",
+            {"speaker": "Sacks", "attribution_basis": "named_handoff",
+             "attribution_evidence": "Sax people want to hear from you most of all",
+             "attribution_confidence": "high", "stance_type": "own_view",
              "summary": "Dems gain Senate seats.", "quote": "Dems will wind up with 54, 55 or 56 seats",
              "timestamp_seconds": 231},
-            {"speaker": "Jason Calacanis", "attribution_confidence": "low", "stance_type": "own_view",
+            {"speaker": "Jason Calacanis", "attribution_basis": "topic_or_style", "attribution_evidence": None, 
+             "attribution_confidence": "low", "stance_type": "own_view",
              "summary": "Fabricated.", "quote": "the moon is made of green cheese and always was",
              "timestamp_seconds": 10},
         ],

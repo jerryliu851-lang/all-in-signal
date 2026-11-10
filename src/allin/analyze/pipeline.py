@@ -1,8 +1,8 @@
 """``allin analyze``: run the model over transcribed episodes and persist ``EpisodeAnalysis``.
 
-Per episode: load transcript + index entry -> EpisodeMeta -> analyze -> verify quotes -> assign
-stable ids -> save analysis -> mark the index entry "analyzed". A failure on one episode is
-recorded in ``AnalyzeReport.failed`` and does not stop the batch.
+Per episode: load transcript + index entry -> EpisodeMeta -> analyze -> verify quotes -> check
+attribution cues -> assign stable ids -> save analysis -> mark the index entry "analyzed". A failure on
+one episode is recorded in ``AnalyzeReport.failed`` and does not stop the batch.
 """
 
 from __future__ import annotations
@@ -14,6 +14,7 @@ from ..llm import LLMBackend
 from ..models import (
     AnalysisOutput,
     AnalyzeReport,
+    AttributionCheckSummary,
     EpisodeAnalysis,
     EpisodeMeta,
     IndexEntry,
@@ -31,6 +32,7 @@ from ..schema import load_schema
 from ..store import Store
 from ..util import now_iso
 from .analyzer import analyze_episode, log
+from .attribution import check_attributions
 from .quotes import verify_quotes
 
 
@@ -85,16 +87,23 @@ def build_analysis(
     backend_name: str,
     chunked: bool,
     usage: LLMUsage,
+    cue_statuses: dict[tuple[str, int], QuoteVerificationStatus] | None = None,
+    attribution_check: AttributionCheckSummary | None = None,
 ) -> tuple[EpisodeAnalysis, list[str]]:
     """Assemble the stored EpisodeAnalysis. Returns it with a list of notes (e.g. dropped candidates)."""
     vid = meta.video_id
     notes: list[str] = []
+    cues = cue_statuses or {}
 
     def sp(name: str) -> str:
         return normalize_speaker(name, settings)
 
     key_takes = [
-        KeyTake(**{**t.model_dump(), "speaker": sp(t.speaker)}, quote_verified=statuses.get(("key_takes", i), "none"))
+        KeyTake(
+            **{**t.model_dump(), "speaker": sp(t.speaker)},
+            quote_verified=statuses.get(("key_takes", i), "none"),
+            attribution_evidence_verified=cues.get(("key_takes", i), "none"),
+        )
         for i, t in enumerate(output.key_takes)
     ]
     pred_ids = make_ids(vid, "p", len(output.predictions))
@@ -104,6 +113,7 @@ def build_analysis(
             id=pred_ids[i],
             episode_id=vid,
             quote_verified=statuses.get(("predictions", i), "none"),
+            attribution_evidence_verified=cues.get(("predictions", i), "none"),
         )
         for i, p in enumerate(output.predictions)
     ]
@@ -112,6 +122,7 @@ def build_analysis(
         StockImplication(
             **{**s.model_dump(), "speaker": sp(s.speaker), "tickers": [t.strip().upper() for t in s.tickers if t.strip()]},
             id=stock_ids[i],
+            attribution_evidence_verified=cues.get(("stock_implications", i), "none"),
         )
         for i, s in enumerate(output.stock_implications)
     ]
@@ -151,6 +162,7 @@ def build_analysis(
         chunked=chunked,
         usage=usage,
         quote_verification=summary,
+        attribution_check=attribution_check,
     )
     return analysis, notes
 
@@ -194,9 +206,17 @@ def analyze_one(
         f"{video_id}: quotes checked={summary.checked} verified={summary.verified} "
         f"flagged={summary.flagged} dropped={summary.dropped}"
     )
+    # After quote verification, so cues are measured against the snapped (corrected) timestamps.
+    cue_statuses, attribution = check_attributions(output, transcript, settings)
+    log(
+        f"{video_id}: attribution cues cited={attribution.cited}/{attribution.items} verified={attribution.verified} "
+        f"out_of_window={attribution.out_of_window} dropped={attribution.dropped} downgraded={attribution.downgraded} "
+        f"claimed={attribution.claimed} final={attribution.final}"
+    )
     analysis, notes = build_analysis(
         meta, output, statuses, summary,
         settings=settings, backend_name=getattr(backend, "name", "unknown"), chunked=chunked, usage=usage,
+        cue_statuses=cue_statuses, attribution_check=attribution,
     )
     for n in notes:
         log(f"{video_id}: {n}")

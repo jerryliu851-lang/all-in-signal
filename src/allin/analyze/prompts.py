@@ -27,6 +27,20 @@ _WS = re.compile(r"\s+")
 
 FULL_EPISODE_NOTE = "Scope: this is the complete episode transcript."
 
+CAPTION_NOTES = (
+    "- Auto-generated YouTube captions with NO speaker labels.\n"
+    "- `>>` inside a line usually marks a change of speaker (the marker is sometimes missing). "
+    "Caption tags such as `[laughter]` are not speech."
+)
+WHISPER_NOTES = (
+    "- Machine transcription of the podcast audio (Whisper) with NO speaker labels and NO speaker-change "
+    "markers.\n"
+    "- A new line does not mean a new speaker, and one line can hold several speakers back to back. Find "
+    "turn changes from the words themselves: a question and its answer, a name being addressed, short "
+    "interjections (\"Yeah.\", \"Right.\"), a switch in first-person details. Where you cannot tell that the "
+    "floor stayed with one person, say so through a lower attribution_confidence."
+)
+
 
 @dataclass(frozen=True)
 class PromptTemplate:
@@ -98,6 +112,11 @@ def render_transcript(transcript: NormalizedTranscript) -> str:
     return "\n".join(lines)
 
 
+def transcript_notes(transcript: NormalizedTranscript) -> str:
+    """Prompt bullets describing this transcript's source (captions carry ``>>`` turn markers, Whisper none)."""
+    return WHISPER_NOTES if transcript.source.startswith("podcast-whisper") else CAPTION_NOTES
+
+
 def render_chapters(chapters: list[Chapter]) -> str:
     """One ``mm:ss title`` per line, or a short marker when the video has no chapters."""
     if not chapters:
@@ -152,6 +171,7 @@ def render_analysis_prompt(
     tpl = load_prompt(Path(settings.prompts_dir) / ANALYZE_PROMPT_FILE)
     values = episode_values(meta, settings, transcript)
     values["scope_note"] = scope_note
+    values["transcript_notes"] = transcript_notes(transcript)
     values["transcript"] = render_transcript(transcript)
     return fill(tpl.system, values), fill(tpl.user, values)
 

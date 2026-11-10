@@ -7,11 +7,33 @@ const ATTR_TITLE = {
   low: "Attribution confidence: low (speaker uncertain)",
 };
 
-export function hostChip(ctx, speaker, attribution = "high") {
+const BASIS_LABEL = {
+  named_handoff: "handed the floor by name",
+  addressed_by_name: "addressed by name",
+  self_reference: "self-reference",
+  segment_role: "segment role",
+  guest_intro: "introduced as guest",
+  indirect: "indirect cues",
+  topic_or_style: "topic or style only",
+  none: "no cue",
+};
+
+/** Why the speaker was attributed: the basis and, when it was found in the transcript, the cited cue. */
+export function attributionWhy(item) {
+  if (!item) return "";
+  if (!item.attribution_basis) return "Not cue-checked (analyzed before cited cues existed).";
+  const basis = BASIS_LABEL[item.attribution_basis] || item.attribution_basis;
+  const cue = item.attribution_evidence;
+  if (!cue) return `Basis: ${basis}.`;
+  const checked = item.attribution_evidence_verified === "verified" ? "" : " (cue not counted: far from the claim or not exact)";
+  return `Basis: ${basis}: “${cue}”${checked}`;
+}
+
+export function hostChip(ctx, speaker, attribution = "high", item = null) {
   const h = ctx.host(speaker);
   const att = attribution && attribution !== "high" ? ` att-${esc(attribution)}` : "";
   const label = h.key === "guest" ? `${h.short} (guest)` : h.short;
-  const title = `${h.name}. ${ATTR_TITLE[attribution] || ""}`;
+  const title = `${h.name}. ${ATTR_TITLE[attribution] || ""}. ${attributionWhy(item)}`.replace(/\. \./g, ".").trim();
   return `<span class="chip h-${esc(h.key)}${att}" title="${esc(title)}"><span class="dot" aria-hidden="true"></span>${esc(label)}${
     attribution === "low" ? '<span class="sr-only"> (attribution uncertain)</span><span class="att-mark" aria-hidden="true">?</span>' : ""
   }</span>`;
@@ -64,7 +86,7 @@ export function predictionRow(ctx, e, { showEpisode = true } = {}) {
   const stanceCls = e.stance_type && e.stance_type !== "own_view" ? ` stance-${e.stance_type}` : "";
   const tf = e.timeframe || {};
   return `<article class="row${stanceCls}">
-    <div class="row-top">${hostChip(ctx, e.speaker, e.attribution_confidence)}${stanceTag(e.stance_type)}
+    <div class="row-top">${hostChip(ctx, e.speaker, e.attribution_confidence, e)}${stanceTag(e.stance_type)}
       ${tag(e.category, "tag-cat")}${statusPill(e.status)}</div>
     <p class="claim">${esc(e.claim)}</p>
     <div class="row-meta">
