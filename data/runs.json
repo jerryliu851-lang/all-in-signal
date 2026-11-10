@@ -111,5 +111,84 @@
       "matched:21",
       "resolved:0"
     ]
+  },
+  {
+    "started_at": "2026-11-10T05:25:23Z",
+    "finished_at": "2026-11-10T05:31:18Z",
+    "command": "analyze",
+    "new_episodes": [],
+    "analyzed": [
+      "2v8b062QzTI"
+    ],
+    "usage": {
+      "input_tokens": 2,
+      "output_tokens": 39094,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 42456,
+      "thinking_tokens": 24062,
+      "cost_usd_equivalent": 1.121536,
+      "duration_ms": 319336,
+      "calls": 1
+    },
+    "notes": [
+      "failed:p1Dy4e4ff0s:LLMError: claude -p reported an error (analyze:p1Dy4e4ff0s): subtype=success result=\"You've hit your 5-hour limit · rese",
+      "failed:6czo-C3FU7I:LLMError: claude -p reported an error (analyze:6czo-C3FU7I): subtype=success result=\"You've hit your 5-hour limit · rese",
+      "failed:_b3LfMflIGs:LLMError: claude -p reported an error (analyze:_b3LfMflIGs): subtype=success result=\"You've hit your 5-hour limit · rese",
+      "failed:TBLHdXABwAg:LLMError: claude -p reported an error (analyze:TBLHdXABwAg): subtype=success result=\"You've hit your 5-hour limit · rese",
+      "failed:ZJKs08oU1zg:LLMError: claude -p reported an error (analyze:ZJKs08oU1zg): subtype=success result=\"You've hit your 5-hour limit · rese",
+      "failed:cvP_1jmnkmM:LLMError: claude -p reported an error (analyze:cvP_1jmnkmM): subtype=success result=\"You've hit your 5-hour limit · rese",
+      "failed:cvxjqbfLVk0:LLMError: claude -p reported an error (analyze:cvxjqbfLVk0): subtype=success result=\"You've hit your 5-hour limit · rese",
+      "failed:DvFe9bR2eHA:LLMError: claude -p reported an error (analyze:DvFe9bR2eHA): subtype=success result=\"You've hit your 5-hour limit · rese",
+      "failed:1u5dMAKl_ks:LLMError: claude -p reported an error (analyze:1u5dMAKl_ks): subtype=success result=\"You've hit your 5-hour limit · rese"
+    ]
+  },
+  {
+    "started_at": "2026-11-10T18:52:44Z",
+    "finished_at": "2026-11-10T19:37:52Z",
+    "command": "analyze",
+    "new_episodes": [],
+    "analyzed": [
+      "p1Dy4e4ff0s",
+      "6czo-C3FU7I",
+      "_b3LfMflIGs",
+      "TBLHdXABwAg",
+      "ZJKs08oU1zg",
+      "cvP_1jmnkmM",
+      "cvxjqbfLVk0",
+      "DvFe9bR2eHA",
+      "1u5dMAKl_ks"
+    ],
+    "usage": {
+      "input_tokens": 20,
+      "output_tokens": 329205,
+      "cache_read_input_tokens": 122986,
+      "cache_creation_input_tokens": 350677,
+      "thinking_tokens": 197056,
+      "cost_usd_equivalent": 9.414192,
+      "duration_ms": 2679810,
+      "calls": 9
+    },
+    "notes": []
+  },
+  {
+    "started_at": "2026-11-10T19:38:31Z",
+    "finished_at": "2026-11-10T19:45:25Z",
+    "command": "match",
+    "new_episodes": [],
+    "analyzed": [],
+    "usage": {
+      "input_tokens": 92,
+      "output_tokens": 12180,
+      "cache_read_input_tokens": 48870,
+      "cache_creation_input_tokens": 210392,
+      "thinking_tokens": 1325,
+      "cost_usd_equivalent": 1.936869,
+      "duration_ms": 171439,
+      "calls": 46
+    },
+    "notes": [
+      "matched:26",
+      "unmatched:20"
+    ]
   }
 ]
