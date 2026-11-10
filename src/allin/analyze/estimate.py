@@ -15,9 +15,11 @@ from .prompts import chunk_scope_note, render_analysis_prompt, render_consolidat
 
 NOTE = (
     "Token counts are a chars/{cpt} heuristic (the project has no token-counting endpoint), covering "
-    "system + user prompt input and an assumed {out} output tokens per model call; extended thinking "
-    "and prompt caching are not modelled. Cost is the API-equivalent list price for {model} "
-    "(${pin}/MTok in, ${pout}/MTok out). With the Max subscription token the real cost is quota, not dollars."
+    "system + user prompt input and an assumed {out} output tokens per model call (the measured size "
+    "including thinking). Not modelled: the output schema and the CLI's own scaffolding on the input side, "
+    "and cache-write pricing, so real runs land about 20% above this (measured single-pass episodes: $1.01 "
+    "and $1.15). Cost is the API-equivalent list price for {model} (${pin}/MTok in, ${pout}/MTok out). "
+    "With the Max subscription token the real cost is quota, not dollars."
 )
 
 

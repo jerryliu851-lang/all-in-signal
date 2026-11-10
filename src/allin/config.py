@@ -75,7 +75,9 @@ class Settings:
     chunk_target_tokens: int = 60_000
     chunk_overlap_seconds: int = 120
     chars_per_token: float = 3.6
-    est_output_tokens_per_episode: int = 12_000
+    # Measured 2026-11-09 on two single-pass runs with the evidence-backed attribution fields: 36,349 and
+    # 40,879 output tokens including thinking (28,926 before those fields; the old assumption was 12,000).
+    est_output_tokens_per_episode: int = 38_000
     est_match_tokens_per_candidate: int = 2_500
     # A cited attribution cue must sit this close to its item to support "high". Measured over the
     # 10-episode backfill: 99% of speaker turns last under 200 s and the longest is 443 s.
