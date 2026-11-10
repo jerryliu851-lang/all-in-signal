@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "updated_at": "2026-11-10T04:51:35Z",
+  "updated_at": "2026-11-10T07:19:41Z",
   "count": 272,
   "predictions": [
     {
@@ -554,8 +554,8 @@
       "episode_published_at": "2026-11-07",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=2v8b062QzTI&t=3231s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.969,
-      "polymarket_divergence_points": 25.9,
+      "polymarket_yes_probability": 0.97,
+      "polymarket_divergence_points": 26.0,
       "timeframe_passed": false
     },
     {
@@ -4106,8 +4106,8 @@
       "episode_published_at": "2026-10-17",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=_b3LfMflIGs&t=2741s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.969,
-      "polymarket_divergence_points": 22.9,
+      "polymarket_yes_probability": 0.97,
+      "polymarket_divergence_points": 23.0,
       "timeframe_passed": false
     },
     {
@@ -4143,8 +4143,8 @@
       "episode_published_at": "2026-10-17",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=_b3LfMflIGs&t=3135s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.969,
-      "polymarket_divergence_points": 26.9,
+      "polymarket_yes_probability": 0.97,
+      "polymarket_divergence_points": 27.0,
       "timeframe_passed": false
     },
     {
@@ -5253,8 +5253,8 @@
       "episode_published_at": "2026-10-10",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=TBLHdXABwAg&t=4616s",
       "polymarket_question": "Another Fed rate hike in 2026?",
-      "polymarket_yes_probability": 0.825,
-      "polymarket_divergence_points": 3.5,
+      "polymarket_yes_probability": 0.805,
+      "polymarket_divergence_points": 1.5,
       "timeframe_passed": false
     },
     {
@@ -6770,8 +6770,8 @@
       "episode_published_at": "2026-09-26",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=cvP_1jmnkmM&t=1795s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.969,
-      "polymarket_divergence_points": 20.9,
+      "polymarket_yes_probability": 0.97,
+      "polymarket_divergence_points": 21.0,
       "timeframe_passed": false
     },
     {
@@ -7695,8 +7695,8 @@
       "episode_published_at": "2026-09-12",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=cvxjqbfLVk0&t=2828s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.969,
-      "polymarket_divergence_points": 8.9,
+      "polymarket_yes_probability": 0.97,
+      "polymarket_divergence_points": 9.0,
       "timeframe_passed": false
     },
     {
@@ -8176,8 +8176,8 @@
       "episode_published_at": "2026-09-04",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=DvFe9bR2eHA&t=417s",
       "polymarket_question": "Will OpenAI have the best AI model at the end of December 2026?",
-      "polymarket_yes_probability": 0.0275,
-      "polymarket_divergence_points": 17.25,
+      "polymarket_yes_probability": 0.0235,
+      "polymarket_divergence_points": 17.65,
       "timeframe_passed": false
     },
     {
@@ -9508,8 +9508,8 @@
       "episode_published_at": "2026-08-29",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=1u5dMAKl_ks&t=634s",
       "polymarket_question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "polymarket_yes_probability": 0.225,
-      "polymarket_divergence_points": 56.5,
+      "polymarket_yes_probability": 0.305,
+      "polymarket_divergence_points": 48.5,
       "timeframe_passed": false
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T04:51:34Z",
+  "updated_at": "2026-11-10T07:19:40Z",
   "matches": [
     {
       "prediction_id": "2v8b062QzTI-p15",
@@ -13,20 +13,20 @@
       "active": true,
       "end_date": "2027-01-01T04:59:00Z",
       "outcome_prices": {
-        "Yes": 0.969,
-        "No": 0.031
+        "Yes": 0.97,
+        "No": 0.03
       },
       "hosts_answer": "yes",
       "polarity": "same",
       "implied_probability": 0.71,
-      "market_yes_probability": 0.969,
-      "divergence_points": 25.9,
+      "market_yes_probability": 0.97,
+      "divergence_points": 26.0,
       "flagged_divergence": true,
       "resolution_outcome": null,
       "match_confidence": "high",
       "match_rationale": "Market 2413330 asks whether Anthropic will IPO by December 31, 2026, which matches the hosts' question, deadline and direction exactly.",
       "matched_at": "2026-11-08T08:41:38Z",
-      "last_checked_at": "2026-11-10T04:51:34Z"
+      "last_checked_at": "2026-11-10T07:19:40Z"
     },
     {
       "prediction_id": "p1Dy4e4ff0s-p36",
@@ -107,7 +107,7 @@
       "match_confidence": "high",
       "match_rationale": "Market 5880782 asks the same question as the hosts: whether France declares a state of emergency by December 31, 2026. It ends on the same date, and its Yes outcome means the hosts' question comes true.",
       "matched_at": "2026-11-08T09:24:50Z",
-      "last_checked_at": "2026-11-10T04:51:34Z"
+      "last_checked_at": "2026-11-10T07:19:40Z"
     },
     {
       "prediction_id": "6czo-C3FU7I-p18",
@@ -161,7 +161,7 @@
       "match_confidence": "high",
       "match_rationale": "The market asks the same question: will CoreWeave go bankrupt by December 31, 2027. Its deadline matches the prediction's, so a Yes means the bankruptcy question comes true and polarity is same. The market's \"announce bankruptcy\" wording differs slightly from the prediction's \"file for bankruptcy\", but it covers the same event.",
       "matched_at": "2026-11-08T09:24:50Z",
-      "last_checked_at": "2026-11-10T04:51:34Z"
+      "last_checked_at": "2026-11-10T07:19:40Z"
     },
     {
       "prediction_id": "_b3LfMflIGs-p16",
@@ -175,20 +175,20 @@
       "active": true,
       "end_date": "2027-01-01T04:59:00Z",
       "outcome_prices": {
-        "Yes": 0.969,
-        "No": 0.031
+        "Yes": 0.97,
+        "No": 0.03
       },
       "hosts_answer": "yes",
       "polarity": "same",
       "implied_probability": 0.7,
-      "market_yes_probability": 0.969,
-      "divergence_points": 26.9,
+      "market_yes_probability": 0.97,
+      "divergence_points": 27.0,
       "flagged_divergence": true,
       "resolution_outcome": null,
       "match_confidence": "medium",
       "match_rationale": "The market asks the same question as the hosts: will Anthropic IPO by December 31, 2026. Confidence is medium because the hosts' own timeframe was November 2026, and their claim that the IPO would trade well is not covered by this market.",
       "matched_at": "2026-11-08T09:24:50Z",
-      "last_checked_at": "2026-11-10T04:51:34Z"
+      "last_checked_at": "2026-11-10T07:19:40Z"
     },
     {
       "prediction_id": "_b3LfMflIGs-p15",
@@ -202,20 +202,20 @@
       "active": true,
       "end_date": "2027-01-01T04:59:00Z",
       "outcome_prices": {
-        "Yes": 0.969,
-        "No": 0.031
+        "Yes": 0.97,
+        "No": 0.03
       },
       "hosts_answer": "yes",
       "polarity": "same",
       "implied_probability": 0.74,
-      "market_yes_probability": 0.969,
-      "divergence_points": 22.9,
+      "market_yes_probability": 0.97,
+      "divergence_points": 23.0,
       "flagged_divergence": false,
       "resolution_outcome": null,
       "match_confidence": "high",
       "match_rationale": "This market asks whether Anthropic will IPO by December 31, 2026. That matches the hosts' question on the subject, the deadline and the direction.",
       "matched_at": "2026-11-08T09:24:50Z",
-      "last_checked_at": "2026-11-10T04:51:34Z"
+      "last_checked_at": "2026-11-10T07:19:40Z"
     },
     {
       "prediction_id": "TBLHdXABwAg-p14",
@@ -242,7 +242,7 @@
       "match_confidence": "high",
       "match_rationale": "Market 679018 asks the same question: whether Le Pen wins the 2027 French presidential election. Its listed end date is earlier than the runoff, but the market resolves on who wins the election, so the horizon fits the prediction's timeframe.",
       "matched_at": "2026-11-08T09:24:50Z",
-      "last_checked_at": "2026-11-10T04:51:34Z"
+      "last_checked_at": "2026-11-10T07:19:40Z"
     },
     {
       "prediction_id": "TBLHdXABwAg-p16",
@@ -269,7 +269,7 @@
       "match_confidence": "medium",
       "match_rationale": "Market 3347379 asks the same thing as the hosts: whether Vance formally announces a 2028 presidential run. It closes on 2028-01-01, about 10 months before the prediction's 2028-11-07 deadline, but a real campaign would have to be declared before the early-2028 primaries, so the two windows effectively line up.",
       "matched_at": "2026-11-08T09:24:50Z",
-      "last_checked_at": "2026-11-10T04:51:34Z"
+      "last_checked_at": "2026-11-10T07:19:40Z"
     },
     {
       "prediction_id": "TBLHdXABwAg-p22",
@@ -283,20 +283,20 @@
       "active": true,
       "end_date": "2026-12-10T04:59:00Z",
       "outcome_prices": {
-        "Yes": 0.825,
-        "No": 0.175
+        "Yes": 0.805,
+        "No": 0.195
       },
       "hosts_answer": "yes",
       "polarity": "same",
       "implied_probability": 0.79,
-      "market_yes_probability": 0.825,
-      "divergence_points": 3.5,
+      "market_yes_probability": 0.805,
+      "divergence_points": 1.5,
       "flagged_divergence": false,
       "resolution_outcome": null,
       "match_confidence": "medium",
       "match_rationale": "Market 4620900 asks the same thing as the candidate question: will the Fed raise rates again in 2026. It closes 2026-12-10. The underlying claim is about bond yields over a longer window, so I've set confidence to medium.",
       "matched_at": "2026-11-08T09:24:50Z",
-      "last_checked_at": "2026-11-10T04:51:34Z"
+      "last_checked_at": "2026-11-10T07:19:40Z"
     },
     {
       "prediction_id": "ZJKs08oU1zg-p22",
@@ -391,20 +391,20 @@
       "active": true,
       "end_date": "2027-01-01T04:59:00Z",
       "outcome_prices": {
-        "Yes": 0.969,
-        "No": 0.031
+        "Yes": 0.97,
+        "No": 0.03
       },
       "hosts_answer": "yes",
       "polarity": "same",
       "implied_probability": 0.76,
-      "market_yes_probability": 0.969,
-      "divergence_points": 20.9,
+      "market_yes_probability": 0.97,
+      "divergence_points": 21.0,
       "flagged_divergence": false,
       "resolution_outcome": null,
       "match_confidence": "high",
       "match_rationale": "This market asks the same question as the hosts' prediction: will Anthropic IPO by December 31, 2026? The subject, deadline and direction all line up exactly.",
       "matched_at": "2026-11-08T09:24:50Z",
-      "last_checked_at": "2026-11-10T04:51:34Z"
+      "last_checked_at": "2026-11-10T07:19:40Z"
     },
     {
       "prediction_id": "cvP_1jmnkmM-p04",
@@ -431,7 +431,7 @@
       "match_confidence": "high",
       "match_rationale": "Market 656312 asks the same question as the candidate, whether OpenAI will IPO by December 31, 2026, and both have the same deadline. A Yes on the market means the candidate question comes true.",
       "matched_at": "2026-11-08T09:24:50Z",
-      "last_checked_at": "2026-11-10T04:51:34Z"
+      "last_checked_at": "2026-11-10T07:19:40Z"
     },
     {
       "prediction_id": "cvP_1jmnkmM-p23",
@@ -472,20 +472,20 @@
       "active": true,
       "end_date": "2027-01-01T04:59:00Z",
       "outcome_prices": {
-        "Yes": 0.969,
-        "No": 0.031
+        "Yes": 0.97,
+        "No": 0.03
       },
       "hosts_answer": "yes",
       "polarity": "same",
       "implied_probability": 0.88,
-      "market_yes_probability": 0.969,
-      "divergence_points": 8.9,
+      "market_yes_probability": 0.97,
+      "divergence_points": 9.0,
       "flagged_divergence": false,
       "resolution_outcome": null,
       "match_confidence": "high",
       "match_rationale": "Same question, same Dec 31, 2026 deadline, and the market's yes price (0.868) is close to the 88% the hosts cited.",
       "matched_at": "2026-11-08T09:24:50Z",
-      "last_checked_at": "2026-11-10T04:51:34Z"
+      "last_checked_at": "2026-11-10T07:19:40Z"
     },
     {
       "prediction_id": "DvFe9bR2eHA-p17",
@@ -512,7 +512,7 @@
       "match_confidence": "high",
       "match_rationale": "Market 676842 asks whether the U.S. enacts an AI safety bill before 2027. That is the same event with the same Dec 31, 2026 deadline, and its yes price (0.105) is close to the 11% the hosts quoted.",
       "matched_at": "2026-11-08T09:24:50Z",
-      "last_checked_at": "2026-11-10T04:51:34Z"
+      "last_checked_at": "2026-11-10T07:19:40Z"
     },
     {
       "prediction_id": "DvFe9bR2eHA-p05",
@@ -526,20 +526,20 @@
       "active": true,
       "end_date": "2026-12-31T17:00:00Z",
       "outcome_prices": {
-        "Yes": 0.0275,
-        "No": 0.9725
+        "Yes": 0.0235,
+        "No": 0.9765
       },
       "hosts_answer": "no",
       "polarity": "same",
       "implied_probability": 0.2,
-      "market_yes_probability": 0.0275,
-      "divergence_points": 17.25,
+      "market_yes_probability": 0.0235,
+      "divergence_points": 17.65,
       "flagged_divergence": false,
       "resolution_outcome": null,
       "match_confidence": "high",
       "match_rationale": "Market 2431414 asks whether OpenAI will have the best AI model at the end of 2026. It belongs to the \"best AI model end of 2026\" event and resolves 2026-12-31, which matches the prediction's subject and deadline.",
       "matched_at": "2026-11-08T09:24:50Z",
-      "last_checked_at": "2026-11-10T04:51:34Z"
+      "last_checked_at": "2026-11-10T07:19:40Z"
     },
     {
       "prediction_id": "1u5dMAKl_ks-p10",
@@ -553,20 +553,20 @@
       "active": true,
       "end_date": "2027-01-01T04:59:00Z",
       "outcome_prices": {
-        "Yes": 0.225,
-        "No": 0.775
+        "Yes": 0.305,
+        "No": 0.695
       },
       "hosts_answer": "yes",
       "polarity": "same",
       "implied_probability": 0.79,
-      "market_yes_probability": 0.225,
-      "divergence_points": 56.5,
+      "market_yes_probability": 0.305,
+      "divergence_points": 48.5,
       "flagged_divergence": true,
       "resolution_outcome": null,
       "match_confidence": "high",
       "match_rationale": "Market 676739 asks the same question: whether NVIDIA will be the world's largest company by market cap on December 31, 2026. It resolves at the end of 2026, so the deadline matches. The current price (0.345) is different from the 79% the hosts quoted, but the question itself is the same.",
       "matched_at": "2026-11-08T09:24:50Z",
-      "last_checked_at": "2026-11-10T04:51:34Z"
+      "last_checked_at": "2026-11-10T07:19:40Z"
     },
     {
       "prediction_id": "1u5dMAKl_ks-p23",
@@ -593,7 +593,7 @@
       "match_confidence": "medium",
       "match_rationale": "Market 2264328 asks the same question, \"Russia x Ukraine ceasefire by December 31, 2026?\", with the same deadline, and it is still open. I rated it medium because the candidate list is inconsistent: two other ceasefire markets (567687, end of 2026, and 1795527, May 31) are listed as resolved Yes, while a separate May 31 \"ceasefire agreement\" market (2243894) resolved No.",
       "matched_at": "2026-11-08T09:24:50Z",
-      "last_checked_at": "2026-11-10T04:51:34Z"
+      "last_checked_at": "2026-11-10T07:19:40Z"
     }
   ],
   "unmatched": [
