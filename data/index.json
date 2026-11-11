@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T19:37:52Z",
+  "updated_at": "2026-11-11T19:36:43Z",
   "episodes": {
     "2v8b062QzTI": {
       "video_id": "2v8b062QzTI",
@@ -558,6 +558,13 @@
       "duration_seconds": null,
       "reason": "duration_unknown",
       "seen_at": "2026-11-08T20:38:30Z"
+    },
+    "8h-gfrVYyAU": {
+      "video_id": "8h-gfrVYyAU",
+      "title": "Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-11T19:36:43Z"
     }
   }
 }
