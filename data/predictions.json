@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "updated_at": "2026-11-12T07:11:27Z",
+  "updated_at": "2026-11-12T19:54:41Z",
   "count": 260,
   "predictions": [
     {
@@ -2404,8 +2404,8 @@
       "episode_published_at": "2026-10-30",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=p1Dy4e4ff0s&t=4905s",
       "polymarket_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
-      "polymarket_yes_probability": 0.309,
-      "polymarket_divergence_points": 4.1,
+      "polymarket_yes_probability": 0.3395,
+      "polymarket_divergence_points": 1.05,
       "timeframe_passed": false
     },
     {
@@ -2922,8 +2922,8 @@
       "episode_published_at": "2026-10-23",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=6czo-C3FU7I&t=2754s",
       "polymarket_question": "France declares state of emergency by December 31, 2026?",
-      "polymarket_yes_probability": 0.0115,
-      "polymarket_divergence_points": 16.85,
+      "polymarket_yes_probability": 0.021,
+      "polymarket_divergence_points": 15.9,
       "timeframe_passed": false
     },
     {
@@ -3625,8 +3625,8 @@
       "episode_published_at": "2026-10-17",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=_b3LfMflIGs&t=1099s",
       "polymarket_question": "Will CoreWeave announce bankruptcy by December 31, 2028?",
-      "polymarket_yes_probability": 0.195,
-      "polymarket_divergence_points": 9.5,
+      "polymarket_yes_probability": 0.19,
+      "polymarket_divergence_points": 9.0,
       "timeframe_passed": false
     },
     {
@@ -4032,8 +4032,8 @@
       "episode_published_at": "2026-10-17",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=_b3LfMflIGs&t=2741s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.9845,
-      "polymarket_divergence_points": 24.45,
+      "polymarket_yes_probability": 0.9885,
+      "polymarket_divergence_points": 24.85,
       "timeframe_passed": false
     },
     {
@@ -4069,8 +4069,8 @@
       "episode_published_at": "2026-10-17",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=_b3LfMflIGs&t=3165s",
       "polymarket_question": "Anthropic IPO: Closing Price above IPO Price on First Day?",
-      "polymarket_yes_probability": 0.895,
-      "polymarket_divergence_points": 24.5,
+      "polymarket_yes_probability": 0.885,
+      "polymarket_divergence_points": 23.5,
       "timeframe_passed": false
     },
     {
@@ -4698,8 +4698,8 @@
       "episode_published_at": "2026-10-10",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=TBLHdXABwAg&t=3811s",
       "polymarket_question": "Will Marine Le Pen win the 2027 French presidential election?",
-      "polymarket_yes_probability": 0.4635,
-      "polymarket_divergence_points": 3.35,
+      "polymarket_yes_probability": 0.4605,
+      "polymarket_divergence_points": 3.05,
       "timeframe_passed": false
     },
     {
@@ -5031,8 +5031,8 @@
       "episode_published_at": "2026-10-10",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=TBLHdXABwAg&t=4663s",
       "polymarket_question": "Another Fed rate hike in 2026?",
-      "polymarket_yes_probability": 0.966,
-      "polymarket_divergence_points": 17.6,
+      "polymarket_yes_probability": 0.9655,
+      "polymarket_divergence_points": 17.55,
       "timeframe_passed": false
     },
     {
@@ -6400,7 +6400,7 @@
       "episode_published_at": "2026-09-26",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=cvP_1jmnkmM&t=1754s",
       "polymarket_question": "Will OpenAI not IPO by December 31, 2027?",
-      "polymarket_yes_probability": 0.7525,
+      "polymarket_yes_probability": 0.752,
       "polymarket_divergence_points": null,
       "timeframe_passed": false
     },
@@ -6437,8 +6437,8 @@
       "episode_published_at": "2026-09-26",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=cvP_1jmnkmM&t=1795s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.9845,
-      "polymarket_divergence_points": 22.45,
+      "polymarket_yes_probability": 0.9885,
+      "polymarket_divergence_points": 22.85,
       "timeframe_passed": false
     },
     {
@@ -6881,8 +6881,8 @@
       "episode_published_at": "2026-09-26",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=cvP_1jmnkmM&t=4244s",
       "polymarket_question": "Will the next Google Gemini Pro model be released by December 31, 2026?",
-      "polymarket_yes_probability": 0.195,
-      "polymarket_divergence_points": 15.5,
+      "polymarket_yes_probability": 0.2,
+      "polymarket_divergence_points": 15.0,
       "timeframe_passed": false
     },
     {
@@ -8028,8 +8028,8 @@
       "episode_published_at": "2026-09-04",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=DvFe9bR2eHA&t=959s",
       "polymarket_question": "Will OpenAI not IPO by December 31, 2027?",
-      "polymarket_yes_probability": 0.7525,
-      "polymarket_divergence_points": 15.25,
+      "polymarket_yes_probability": 0.752,
+      "polymarket_divergence_points": 15.2,
       "timeframe_passed": false
     },
     {
@@ -8805,8 +8805,8 @@
       "episode_published_at": "2026-08-29",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=1u5dMAKl_ks&t=634s",
       "polymarket_question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "polymarket_yes_probability": 0.145,
-      "polymarket_divergence_points": 64.5,
+      "polymarket_yes_probability": 0.11,
+      "polymarket_divergence_points": 68.0,
       "timeframe_passed": false
     },
     {
@@ -9471,8 +9471,8 @@
       "episode_published_at": "2026-08-29",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=1u5dMAKl_ks&t=4509s",
       "polymarket_question": "Russia x Ukraine ceasefire by December 31, 2026?",
-      "polymarket_yes_probability": 0.0565,
-      "polymarket_divergence_points": 15.35,
+      "polymarket_yes_probability": 0.083,
+      "polymarket_divergence_points": 12.7,
       "timeframe_passed": false
     },
     {
