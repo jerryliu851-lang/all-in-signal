@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "updated_at": "2026-11-11T19:36:45Z",
+  "updated_at": "2026-11-12T07:11:27Z",
   "count": 260,
   "predictions": [
     {
@@ -2922,8 +2922,8 @@
       "episode_published_at": "2026-10-23",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=6czo-C3FU7I&t=2754s",
       "polymarket_question": "France declares state of emergency by December 31, 2026?",
-      "polymarket_yes_probability": 0.0095,
-      "polymarket_divergence_points": 17.05,
+      "polymarket_yes_probability": 0.0115,
+      "polymarket_divergence_points": 16.85,
       "timeframe_passed": false
     },
     {
@@ -4032,8 +4032,8 @@
       "episode_published_at": "2026-10-17",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=_b3LfMflIGs&t=2741s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.985,
-      "polymarket_divergence_points": 24.5,
+      "polymarket_yes_probability": 0.9845,
+      "polymarket_divergence_points": 24.45,
       "timeframe_passed": false
     },
     {
@@ -4069,8 +4069,8 @@
       "episode_published_at": "2026-10-17",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=_b3LfMflIGs&t=3165s",
       "polymarket_question": "Anthropic IPO: Closing Price above IPO Price on First Day?",
-      "polymarket_yes_probability": 0.88,
-      "polymarket_divergence_points": 23.0,
+      "polymarket_yes_probability": 0.895,
+      "polymarket_divergence_points": 24.5,
       "timeframe_passed": false
     },
     {
@@ -5031,8 +5031,8 @@
       "episode_published_at": "2026-10-10",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=TBLHdXABwAg&t=4663s",
       "polymarket_question": "Another Fed rate hike in 2026?",
-      "polymarket_yes_probability": 0.965,
-      "polymarket_divergence_points": 17.5,
+      "polymarket_yes_probability": 0.966,
+      "polymarket_divergence_points": 17.6,
       "timeframe_passed": false
     },
     {
@@ -6400,7 +6400,7 @@
       "episode_published_at": "2026-09-26",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=cvP_1jmnkmM&t=1754s",
       "polymarket_question": "Will OpenAI not IPO by December 31, 2027?",
-      "polymarket_yes_probability": 0.7455,
+      "polymarket_yes_probability": 0.7525,
       "polymarket_divergence_points": null,
       "timeframe_passed": false
     },
@@ -6437,8 +6437,8 @@
       "episode_published_at": "2026-09-26",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=cvP_1jmnkmM&t=1795s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.985,
-      "polymarket_divergence_points": 22.5,
+      "polymarket_yes_probability": 0.9845,
+      "polymarket_divergence_points": 22.45,
       "timeframe_passed": false
     },
     {
@@ -8028,8 +8028,8 @@
       "episode_published_at": "2026-09-04",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=DvFe9bR2eHA&t=959s",
       "polymarket_question": "Will OpenAI not IPO by December 31, 2027?",
-      "polymarket_yes_probability": 0.7455,
-      "polymarket_divergence_points": 14.55,
+      "polymarket_yes_probability": 0.7525,
+      "polymarket_divergence_points": 15.25,
       "timeframe_passed": false
     },
     {
@@ -8213,7 +8213,7 @@
       "episode_published_at": "2026-09-04",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=DvFe9bR2eHA&t=2023s",
       "polymarket_question": "U.S. enacts AI safety bill before 2027?",
-      "polymarket_yes_probability": 0.105,
+      "polymarket_yes_probability": 0.115,
       "polymarket_divergence_points": 0.5,
       "timeframe_passed": false
     },
@@ -8805,8 +8805,8 @@
       "episode_published_at": "2026-08-29",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=1u5dMAKl_ks&t=634s",
       "polymarket_question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "polymarket_yes_probability": 0.225,
-      "polymarket_divergence_points": 56.5,
+      "polymarket_yes_probability": 0.145,
+      "polymarket_divergence_points": 64.5,
       "timeframe_passed": false
     },
     {
@@ -9471,8 +9471,8 @@
       "episode_published_at": "2026-08-29",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=1u5dMAKl_ks&t=4509s",
       "polymarket_question": "Russia x Ukraine ceasefire by December 31, 2026?",
-      "polymarket_yes_probability": 0.085,
-      "polymarket_divergence_points": 12.5,
+      "polymarket_yes_probability": 0.0565,
+      "polymarket_divergence_points": 15.35,
       "timeframe_passed": false
     },
     {
