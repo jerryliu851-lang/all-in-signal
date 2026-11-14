@@ -1,0 +1,4651 @@
+{
+  "video_id": "Uv2w4VTU-iQ",
+  "source": "podcast-whisper:small.en",
+  "snippets": [
+    {
+      "text": "All right, everybody. We're laughing it up here. It's the All-In Podcast.",
+      "start": 0.0,
+      "duration": 4.16
+    },
+    {
+      "text": "Apparently, slow news weeks continue. Once again, we struggle to put together a docket,",
+      "start": 4.16,
+      "duration": 5.039999999999999
+    },
+    {
+      "text": "but we're going to try to get something together here, Sacks. I don't know what's in the news.",
+      "start": 9.2,
+      "duration": 4.5600000000000005
+    },
+    {
+      "text": "Maybe you have a SaaS corner for us. Any new hotness drop in the SaaS world or no?",
+      "start": 13.76,
+      "duration": 4.3199999999999985
+    },
+    {
+      "text": "Yeah, Benny L. rolled out a new reporting feature. I'm only top of docket material.",
+      "start": 19.04,
+      "duration": 4.960000000000001
+    },
+    {
+      "text": "All right, that is top of docket. You're right. You're right. And Friedberg, of course, is here",
+      "start": 24.0,
+      "duration": 4.16
+    },
+    {
+      "text": "cackling. He's in a good mood, but I understand you almost died in the last week. What were you,",
+      "start": 28.16,
+      "duration": 4.400000000000002
+    },
+    {
+      "text": "in the hospital? You had to float? I got the pneumonia. Not good. Very bad. Very bad.",
+      "start": 32.56,
+      "duration": 4.559999999999995
+    },
+    {
+      "text": "I do not wish it upon anyone. Knocked out in the hospital. Everyone, stay safe.",
+      "start": 37.12,
+      "duration": 5.280000000000001
+    },
+    {
+      "text": "All right. Well, I saw everybody with their social media well-wishing you. And of course,",
+      "start": 42.4,
+      "duration": 7.440000000000005
+    },
+    {
+      "text": "Chamath Palihapitiya is here, and it's a deep pull for Chamath today, a deep pull from the closet.",
+      "start": 49.84,
+      "duration": 5.759999999999998
+    },
+    {
+      "text": "My Lord, I haven't seen that sweater since Biden was in office.",
+      "start": 55.6,
+      "duration": 3.6000000000000014
+    },
+    {
+      "text": "It's a nice ribbed cashmere mock turtleneck. Okay, ribbed for Chamath's pleasure.",
+      "start": 60.08,
+      "duration": 5.439999999999998
+    },
+    {
+      "text": "Ribbed for Chamath's pleasure. All right, listen.",
+      "start": 65.52,
+      "duration": 3.760000000000005
+    },
+    {
+      "text": "I thought it was supposed to be ribbed for her pleasure.",
+      "start": 69.28,
+      "duration": 1.9200000000000017
+    },
+    {
+      "text": "It's for her pleasure. But it's Chamath. It's all for Chamath's pleasure.",
+      "start": 71.2,
+      "duration": 4.319999999999993
+    },
+    {
+      "text": "It's always for his pleasure.",
+      "start": 75.52,
+      "duration": 1.2800000000000011
+    },
+    {
+      "text": "Absolutely. That's who he is. All right, listen. Jensen is out as NVIDIA's CEO after an insane",
+      "start": 76.8,
+      "duration": 8.0
+    },
+    {
+      "text": "series of events that happened in the past week. All of this played out in just six days,",
+      "start": 84.8,
+      "duration": 6.159999999999997
+    },
+    {
+      "text": "starting Friday, November 6, and obviously record on Thursdays, which would be November 12.",
+      "start": 90.96,
+      "duration": 5.1200000000000045
+    },
+    {
+      "text": "Here's where things stand as of the taping of this episode.",
+      "start": 96.08,
+      "duration": 3.519999999999996
+    },
+    {
+      "text": "NVIDIA's CFO will serve as the interim CEO. The board's looking for a new chief executive.",
+      "start": 99.6,
+      "duration": 5.920000000000002
+    },
+    {
+      "text": "NVIDIA reports earnings next Tuesday, critical moment for the company,",
+      "start": 105.52,
+      "duration": 4.719999999999999
+    },
+    {
+      "text": "and the stock has been crushed down 15% in the last week, which is hundreds of billions of dollars.",
+      "start": 110.24,
+      "duration": 6.800000000000011
+    },
+    {
+      "text": "Here's the timeline that led to Jensen's ouster. Last Friday, November 6, right after the midterms,",
+      "start": 117.04,
+      "duration": 6.3999999999999915
+    },
+    {
+      "text": "interesting timing, the New York Times published a report claiming a Chinese businesswoman who had",
+      "start": 123.44,
+      "duration": 5.680000000000007
+    },
+    {
+      "text": "a close relationship with Jensen was actually a CCP spy, a Chinese Communist Party spy.",
+      "start": 129.12,
+      "duration": 7.1200000000000045
+    },
+    {
+      "text": "The woman is named Alice Wang. No relation to Jensen. They just happened to share the same",
+      "start": 136.24,
+      "duration": 5.359999999999985
+    },
+    {
+      "text": "last name. We'll call her Alice for the rest of this discussion. She's an executive at a Singapore",
+      "start": 141.6,
+      "duration": 6.0800000000000125
+    },
+    {
+      "text": "based company called Megaspie. They build data centers in Asia. They rent compute to companies,",
+      "start": 147.68,
+      "duration": 6.47999999999999
+    },
+    {
+      "text": "including Chinese ones like Alibaba. According to the information, their relationship, Jensen's",
+      "start": 154.16,
+      "duration": 5.920000000000016
+    },
+    {
+      "text": "analysis helped facilitate 7.5 billion in chips to Chinese companies since 2023. The New York Times",
+      "start": 160.08,
+      "duration": 8.159999999999997
+    },
+    {
+      "text": "article was based on a leaked intelligence memo that identified Alice as a Chinese spy. No one",
+      "start": 168.24,
+      "duration": 6.47999999999999
+    },
+    {
+      "text": "knows who leaked it. On Sunday, November 8, Jensen sent a company-wide email admitting he",
+      "start": 174.72,
+      "duration": 5.360000000000014
+    },
+    {
+      "text": "had an affair and that the board would be investigating on Wednesday. The New York Times",
+      "start": 180.08,
+      "duration": 4.559999999999974
+    },
+    {
+      "text": "reported Jensen had a second affair with a direct report. There's reports of a third",
+      "start": 184.72,
+      "duration": 5.1200000000000045
+    },
+    {
+      "text": "potential affair. Let's put all that aside and focus on his resignation, which came after 33 years",
+      "start": 190.56,
+      "duration": 7.840000000000003
+    },
+    {
+      "text": "as CEO. Important caveat. This story has been hiding in plain sight for well over a year.",
+      "start": 198.4,
+      "duration": 6.079999999999984
+    },
+    {
+      "text": "The New York Times first mentioned Alice's relationship with Jensen back in October 2025,",
+      "start": 204.48,
+      "duration": 6.560000000000002
+    },
+    {
+      "text": "not this October 2026, 13 months ago. They published a follow-up last month,",
+      "start": 211.04,
+      "duration": 6.400000000000006
+    },
+    {
+      "text": "Nvidia chief seen as target of Chinese spy plot. Culper Research, spelled C-U-L-P-E-R,",
+      "start": 217.44,
+      "duration": 7.360000000000014
+    },
+    {
+      "text": "is a hedge fund that put a short on Nvidia, according to their tweetstorm, six months ago.",
+      "start": 224.8,
+      "duration": 4.9599999999999795
+    },
+    {
+      "text": "They published their thesis, which was based on Nvidia underselling its reliance on China",
+      "start": 229.76,
+      "duration": 6.159999999999997
+    },
+    {
+      "text": "for chip sales. They even mentioned Megaspie by name in that tweetstorm, which you can see on",
+      "start": 235.92,
+      "duration": 4.880000000000024
+    },
+    {
+      "text": "the screen right here. This is a disaster for the White House. There are reports of finger",
+      "start": 240.8,
+      "duration": 5.759999999999991
+    },
+    {
+      "text": "pointing as officials try to figure out why Megaspie was left off the export control list",
+      "start": 246.56,
+      "duration": 6.159999999999997
+    },
+    {
+      "text": "after these New York Times articles. And we'll get into more export control issues later.",
+      "start": 252.72,
+      "duration": 5.52000000000001
+    },
+    {
+      "text": "Okay, Sacks, we're dealing with partial information here. This is a breaking news",
+      "start": 258.24,
+      "duration": 4.240000000000009
+    },
+    {
+      "text": "story. Caveat, caveat, disclaimer, disclaimer. But let me ask you a simple question. Given",
+      "start": 262.48,
+      "duration": 6.71999999999997
+    },
+    {
+      "text": "the New York Times reporting, what's your take on what they've released to date?",
+      "start": 269.28,
+      "duration": 4.080000000000041
+    },
+    {
+      "text": "First of all, let me just say that I think this is a tragic situation. Okay, it's tragic for",
+      "start": 273.36,
+      "duration": 5.279999999999973
+    },
+    {
+      "text": "Jensen and his family and for Nvidia and its employees. And I would say it's tragic",
+      "start": 278.64,
+      "duration": 6.240000000000009
+    },
+    {
+      "text": "for the United States of America, because Jensen is one of the key reasons why we have",
+      "start": 285.68,
+      "duration": 6.399999999999977
+    },
+    {
+      "text": "a major advantage in AI accelerator chips and GPUs. And that in turn is one of our key",
+      "start": 292.08,
+      "duration": 7.680000000000007
+    },
+    {
+      "text": "advantages in the AI or super intelligence race. In fact, Jensen made such a good chip",
+      "start": 299.76,
+      "duration": 7.519999999999982
+    },
+    {
+      "text": "that many people in Washington wanted to export control that. I think people kind of forget.",
+      "start": 307.28,
+      "duration": 5.1200000000000045
+    },
+    {
+      "text": "Jensen's been working on GPUs for over three decades. And he believed in this technology,",
+      "start": 313.28,
+      "duration": 4.640000000000043
+    },
+    {
+      "text": "in this architecture, when everyone else was making CPUs, and his company almost went out",
+      "start": 317.92,
+      "duration": 4.319999999999993
+    },
+    {
+      "text": "of business multiple times. It was his vision that created the GPU, which ended up being the key",
+      "start": 322.24,
+      "duration": 7.599999999999966
+    },
+    {
+      "text": "chip that's used in AI. And it's the fact that Nvidia is so far ahead of everybody else, that",
+      "start": 329.84,
+      "duration": 6.0
+    },
+    {
+      "text": "is what gives the United States a key advantage in this thing we call the AI or super intelligence",
+      "start": 335.84,
+      "duration": 8.160000000000025
+    },
+    {
+      "text": "race. So I think this is a tragic situation. And I think that what's happened here is, I mean,",
+      "start": 344.0,
+      "duration": 6.160000000000025
+    },
+    {
+      "text": "clearly, it's not a great situation for all the individuals involved. I don't think this",
+      "start": 350.16,
+      "duration": 5.119999999999948
+    },
+    {
+      "text": "redoubts the benefit of the United States either. And it's very unfortunate that this whole",
+      "start": 355.28,
+      "duration": 4.800000000000011
+    },
+    {
+      "text": "situation could not have been resolved in a different way. Now, let's talk about the story",
+      "start": 360.08,
+      "duration": 7.439999999999998
+    },
+    {
+      "text": "that's come out. I think it's pretty clear that there were two ops here. So one op is whatever",
+      "start": 367.52,
+      "duration": 7.1200000000000045
+    },
+    {
+      "text": "Alice Wong was doing with or without the Chinese Communist Party. There may have been smuggling",
+      "start": 374.64,
+      "duration": 5.199999999999989
+    },
+    {
+      "text": "involved. We don't know there is an investigation going on. And there should be an investigation.",
+      "start": 379.84,
+      "duration": 5.439999999999998
+    },
+    {
+      "text": "We should get all the facts there. We've talked on this podcast about how we do not believe that",
+      "start": 385.28,
+      "duration": 5.600000000000023
+    },
+    {
+      "text": "leading edge chips should go to China. And if there's any smuggling going on that that is",
+      "start": 390.88,
+      "duration": 3.680000000000007
+    },
+    {
+      "text": "wrong. And that it should be stopped. The government should crack down on that. So that",
+      "start": 394.56,
+      "duration": 4.560000000000002
+    },
+    {
+      "text": "investigation should continue. We should get all the facts there. And we should find out what",
+      "start": 399.12,
+      "duration": 3.839999999999975
+    },
+    {
+      "text": "actually happened. So that is one op is whatever Alice Wong was doing, again, with or without",
+      "start": 402.96,
+      "duration": 7.28000000000003
+    },
+    {
+      "text": "the CCP. But however, there's also a second op here. And that second op began when somebody",
+      "start": 410.24,
+      "duration": 9.439999999999998
+    },
+    {
+      "text": "or multiple people leaked a highly classified memo or the consents of it to the New York Times.",
+      "start": 419.76,
+      "duration": 6.800000000000011
+    },
+    {
+      "text": "I think it's really important to understand that that's a crime. I mean, leaking classified",
+      "start": 426.56,
+      "duration": 4.639999999999986
+    },
+    {
+      "text": "intelligence is a crime and many people have been prosecuted for it. In fact, we had",
+      "start": 431.2,
+      "duration": 5.680000000000007
+    },
+    {
+      "text": "multiple former presidents and current presidents, President Trump and President Biden, their homes",
+      "start": 437.52,
+      "duration": 5.600000000000023
+    },
+    {
+      "text": "were raided because supposedly they had classified documents in their possession.",
+      "start": 443.12,
+      "duration": 5.199999999999989
+    },
+    {
+      "text": "Remember that there was a raid on Mar-a-Lago, there was a raid on Joe Biden's garage and they",
+      "start": 448.32,
+      "duration": 3.519999999999982
+    },
+    {
+      "text": "found the box. This happens to everybody, it seems. Yeah. Well, I don't know if it",
+      "start": 451.84,
+      "duration": 4.32000000000005
+    },
+    {
+      "text": "happens to everybody, but it's a serious crime. And, you know, because of that fact,",
+      "start": 456.16,
+      "duration": 4.319999999999993
+    },
+    {
+      "text": "I don't believe that the New York Times just got this by overhearing people talking about",
+      "start": 461.04,
+      "duration": 4.159999999999968
+    },
+    {
+      "text": "it at a bar. Somebody made the calculated decision that they're willing to risk going",
+      "start": 465.2,
+      "duration": 5.759999999999991
+    },
+    {
+      "text": "to jail, they're willing to risk committing a crime to let the New York Times know about this",
+      "start": 470.96,
+      "duration": 5.920000000000016
+    },
+    {
+      "text": "story. And so I have a series of questions about that. So number one is first, who did that and",
+      "start": 476.88,
+      "duration": 6.480000000000018
+    },
+    {
+      "text": "why? What was their motivation? Why did they feel so strongly about taking Jensen down that had to",
+      "start": 483.36,
+      "duration": 6.9599999999999795
+    },
+    {
+      "text": "be at least a part of their motive that they're willing to break the law? And I do think it makes",
+      "start": 490.32,
+      "duration": 5.0400000000000205
+    },
+    {
+      "text": "sense for there to be an investigation opened into this leak as there have been with many other",
+      "start": 495.36,
+      "duration": 4.639999999999986
+    },
+    {
+      "text": "classified leaks. I don't know why there hasn't been an investigation open as far as we know",
+      "start": 500.0,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "into this. So that would be question number one is why this leak. And the New York Times has given",
+      "start": 505.52,
+      "duration": 5.0400000000000205
+    },
+    {
+      "text": "a clue there. Obviously, Rubio was leading this investigation, briefed President Trump on it,",
+      "start": 510.56,
+      "duration": 5.359999999999957
+    },
+    {
+      "text": "and the New York Times attributed the story, the spy part of the story anonymously to quote,",
+      "start": 515.92,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "people briefed on the surveillance. Yes, but just let's be very clear here. I don't,",
+      "start": 520.88,
+      "duration": 4.240000000000009
+    },
+    {
+      "text": "I don't really like you using Marco Rubio's name there, but because he's a national security",
+      "start": 525.12,
+      "duration": 3.840000000000032
+    },
+    {
+      "text": "advisor. If there was a classified memo, then obviously it would be done under his",
+      "start": 528.96,
+      "duration": 6.0
+    },
+    {
+      "text": "revision as the head of the NSC. Yeah, I'm not insinuating he's the leak, but it's somebody he may",
+      "start": 534.96,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "have briefed. Okay, when the New York Times says people briefed on the matter, that is an extremely",
+      "start": 539.04,
+      "duration": 5.2000000000000455
+    },
+    {
+      "text": "vague and broad terminology. And it could be very low level officials who did this. And when the",
+      "start": 544.24,
+      "duration": 6.240000000000009
+    },
+    {
+      "text": "New York Times even uses the word official, that doesn't mean they're a senior person in an",
+      "start": 550.48,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "administration. They could be very, very low level. And it could also be the case that their",
+      "start": 554.56,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "careers, which is to say non-political appointees, that just because they're serving in the executive",
+      "start": 559.44,
+      "duration": 5.839999999999918
+    },
+    {
+      "text": "branch of the Trump administration doesn't mean that they are Trump officials. So look,",
+      "start": 565.28,
+      "duration": 4.240000000000009
+    },
+    {
+      "text": "we don't know who committed the leak. All we know is they committed a crime. And I do think",
+      "start": 569.52,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "that we should be asking the question, who did that and why? Okay, so that's sort of bucket",
+      "start": 574.56,
+      "duration": 3.6800000000000637
+    },
+    {
+      "text": "number one of questions. Bucket number two is around the failure to give the defensive briefing.",
+      "start": 578.24,
+      "duration": 5.919999999999959
+    },
+    {
+      "text": "If the national security state is worried that Jensen is in possession of national security",
+      "start": 584.16,
+      "duration": 6.800000000000068
+    },
+    {
+      "text": "secrets and might leak them to someone who they suspect is a spy, why wouldn't you go to him right",
+      "start": 590.96,
+      "duration": 6.639999999999986
+    },
+    {
+      "text": "away and tell him, hey, you have this problem, don't talk to this person. Apparently that didn't",
+      "start": 597.6,
+      "duration": 7.279999999999973
+    },
+    {
+      "text": "happen. And it does sound like that is some sort of standard operating procedure. Let me give you",
+      "start": 604.88,
+      "duration": 4.720000000000027
+    },
+    {
+      "text": "an example. So we have the case of Eric Swalwell. Okay, so Eric Swalwell was a congressman. He was on",
+      "start": 609.6,
+      "duration": 5.439999999999941
+    },
+    {
+      "text": "the House Intelligence Committee. It eventually came out and I believe it was the finding of an",
+      "start": 615.04,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "investigation that he had a personal relationship with a Chinese spy. Fang Fang is the story.",
+      "start": 620.48,
+      "duration": 6.960000000000036
+    },
+    {
+      "text": "Yes, the New York Post memorably memorialized this with its cover called Fang Fang Bang Bang.",
+      "start": 627.44,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "You know, it was the story that came out. What was the Democrats reaction to that?",
+      "start": 633.52,
+      "duration": 5.1200000000000045
+    },
+    {
+      "text": "They gave him a defensive briefing. He said he cut off the relationship and they allowed him to stay",
+      "start": 639.76,
+      "duration": 5.919999999999959
+    },
+    {
+      "text": "in Congress. He certainly did not have to resign. And in fact, he didn't even resign",
+      "start": 645.68,
+      "duration": 4.080000000000041
+    },
+    {
+      "text": "from the Intelligence Committee. So they allowed him to keep not only a seat in Congress,",
+      "start": 649.76,
+      "duration": 4.399999999999977
+    },
+    {
+      "text": "but his seat on the Intelligence Committee. So obviously in this, I'd say very high profile",
+      "start": 654.8,
+      "duration": 5.5200000000000955
+    },
+    {
+      "text": "example, people did not think it was necessary to resign. They thought that what it was necessary",
+      "start": 660.32,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "to do is to let the person know, allow them to cut off contact, and then you'd be able to move",
+      "start": 665.92,
+      "duration": 5.280000000000086
+    },
+    {
+      "text": "on from there. So this situation was handled very differently. Okay, that brings me to",
+      "start": 671.2,
+      "duration": 4.639999999999986
+    },
+    {
+      "text": "question number three, which is what exactly were the national security secrets that Jensen",
+      "start": 676.8,
+      "duration": 6.480000000000018
+    },
+    {
+      "text": "supposedly knew? He doesn't work for the government. He's not, as far as I'm aware,",
+      "start": 683.28,
+      "duration": 7.759999999999991
+    },
+    {
+      "text": "privy to classified materials. So what is it that people say that he leaked to this suspected",
+      "start": 691.76,
+      "duration": 9.039999999999964
+    },
+    {
+      "text": "intelligence asset that's never been explained? I just have that question. What I can say is that,",
+      "start": 700.8,
+      "duration": 5.840000000000032
+    },
+    {
+      "text": "you know, as the CEO of Silicon Valley technology company, Silicon Valley tech companies are very",
+      "start": 706.64,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "open about their plans or product development plans, things like that. Is there IP that the",
+      "start": 711.68,
+      "duration": 5.1200000000000045
+    },
+    {
+      "text": "CCP would like to get a hold of? I'm sure. But to be blunt, it's not the type of IP that you're",
+      "start": 716.8,
+      "duration": 6.560000000000059
+    },
+    {
+      "text": "going to convey over pillow talk. It would be things like files that would allow you to tape",
+      "start": 723.36,
+      "duration": 4.240000000000009
+    },
+    {
+      "text": "out the next generation of chips. That's the kind of thing where frankly, if the ministry",
+      "start": 727.6,
+      "duration": 5.439999999999941
+    },
+    {
+      "text": "of state security or whoever is spying for the Chinese wanted to get ahold of that stuff,",
+      "start": 733.04,
+      "duration": 4.0
+    },
+    {
+      "text": "I think you'd much rather have a line engineer who can go into Nvidia, find the relevant files and",
+      "start": 737.6,
+      "duration": 5.600000000000023
+    },
+    {
+      "text": "extract them somehow maybe on a thumb drive, or you do a cyber attack and you get the files that",
+      "start": 743.76,
+      "duration": 4.560000000000059
+    },
+    {
+      "text": "way. That would make a lot more sense to me as the way to basically get ahold of,",
+      "start": 748.32,
+      "duration": 4.639999999999986
+    },
+    {
+      "text": "you know, let's say secrets. Now, I see some people saying that, well,",
+      "start": 753.76,
+      "duration": 5.2000000000000455
+    },
+    {
+      "text": "Nvidia makes a product that is subject to export controls, therefore, that's a national",
+      "start": 759.92,
+      "duration": 5.680000000000064
+    },
+    {
+      "text": "security product, therefore, national security secrets. Okay, that is a very broad misleading",
+      "start": 765.6,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "hand wave over the situation. I can go out and buy a Blackwell chip as an American. None of us are",
+      "start": 770.16,
+      "duration": 6.480000000000018
+    },
+    {
+      "text": "restricted from doing that. Certain foreign countries are restricted from doing that,",
+      "start": 776.64,
+      "duration": 3.840000000000032
+    },
+    {
+      "text": "but we're not. And if we buy a Blackwell chip and run it in our own little server rack,",
+      "start": 780.48,
+      "duration": 4.240000000000009
+    },
+    {
+      "text": "we are not in possession of national security secrets. You cannot reverse engineer the design of",
+      "start": 785.44,
+      "duration": 5.279999999999973
+    },
+    {
+      "text": "a chip by getting ahold of the wafer. It doesn't work that way. You have to get the files.",
+      "start": 790.72,
+      "duration": 4.159999999999968
+    },
+    {
+      "text": "Those chips can, of course, help you make cutting edge LLMs like the ones they've been delivering.",
+      "start": 794.88,
+      "duration": 5.360000000000014
+    },
+    {
+      "text": "Okay, I understand, but that's not what we're talking about right now. Okay, we're talking about",
+      "start": 800.24,
+      "duration": 2.8799999999999955
+    },
+    {
+      "text": "the question that I have is what secrets are we talking about that just supposedly compromise?",
+      "start": 803.12,
+      "duration": 5.279999999999973
+    },
+    {
+      "text": "The last question I have, and then I'll stop, is what is the evidence that this person,",
+      "start": 808.4,
+      "duration": 6.240000000000009
+    },
+    {
+      "text": "Alice Wong, was actually a Chinese spy who worked for the Ministry of State Security?",
+      "start": 814.64,
+      "duration": 4.800000000000068
+    },
+    {
+      "text": "And here's what I think is quite unusual. Just this morning, there was an article that came out",
+      "start": 820.08,
+      "duration": 7.1200000000000045
+    },
+    {
+      "text": "in Politico where the incoming chair of the House Intelligence Committee, who's a Democrat,",
+      "start": 828.0,
+      "duration": 7.039999999999964
+    },
+    {
+      "text": "he came out of a classified briefing on this subject. And in the hallway with this fresh in",
+      "start": 835.04,
+      "duration": 7.1200000000000045
+    },
+    {
+      "text": "his mind, he came out and said that he's not sure that this person is a Chinese spy. He said",
+      "start": 842.16,
+      "duration": 6.480000000000018
+    },
+    {
+      "text": "she might be a useful idiot. Okay, well, now what is a useful idiot? A useful idiot is someone who",
+      "start": 848.72,
+      "duration": 5.600000000000023
+    },
+    {
+      "text": "doesn't work for the Chinese government is not a spy. It's just that maybe somehow they're being",
+      "start": 854.32,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "taken advantage of. Okay, so look, I have a set of questions about this. So let's put this all",
+      "start": 859.84,
+      "duration": 4.639999999999986
+    },
+    {
+      "text": "together. Okay, there's two ops here. There's whatever Alice Wong was doing, that potential",
+      "start": 864.48,
+      "duration": 5.360000000000014
+    },
+    {
+      "text": "smuggling operation, it should be figured out. There's a second op that I think also needs to",
+      "start": 869.84,
+      "duration": 4.7999999999999545
+    },
+    {
+      "text": "be investigated and figured out. And the components of that are one, who leaked this",
+      "start": 874.64,
+      "duration": 6.399999999999977
+    },
+    {
+      "text": "classified material in violation of the law? That's the only crime to date that we even know about.",
+      "start": 881.04,
+      "duration": 5.360000000000014
+    },
+    {
+      "text": "Number two, why wasn't Jensen given a defensive briefing, which is standard operating procedure. It",
+      "start": 887.76,
+      "duration": 4.080000000000041
+    },
+    {
+      "text": "was done with Eric Swalwell. Number three, what secrets is Jensen accused of leaking? What",
+      "start": 891.84,
+      "duration": 7.600000000000023
+    },
+    {
+      "text": "secrets would even be in his possession? And number four, was Alice Wong even a Chinese spy,",
+      "start": 899.44,
+      "duration": 6.4799999999999045
+    },
+    {
+      "text": "because now the incoming chair of the House Intelligence Committee, who's a Democrat,",
+      "start": 905.92,
+      "duration": 5.1200000000000045
+    },
+    {
+      "text": "just threw major cold water on that. So I put all these things together. And I would say at",
+      "start": 911.04,
+      "duration": 5.680000000000064
+    },
+    {
+      "text": "this point in time, I think there's more questions than answers. Yes. And I would like,",
+      "start": 916.72,
+      "duration": 5.1200000000000045
+    },
+    {
+      "text": "I would like a full accounting of the facts to come out. There's a fifth question though,",
+      "start": 921.84,
+      "duration": 3.67999999999995
+    },
+    {
+      "text": "to your Sacks, which is why at all and why now? Meaning like, why did whoever pulled the pin on",
+      "start": 925.52,
+      "duration": 8.240000000000009
+    },
+    {
+      "text": "this grenade, what did they see where they felt this had to happen? And then why now?",
+      "start": 933.76,
+      "duration": 7.440000000000055
+    },
+    {
+      "text": "And the other discrediting affair stories coming out in a coordinated way at the same time,",
+      "start": 941.2,
+      "duration": 6.7999999999999545
+    },
+    {
+      "text": "like it all happens at once. What is the motivation?",
+      "start": 948.0,
+      "duration": 3.4400000000000546
+    },
+    {
+      "text": "Probably, and I'm just speculating here, but I'm not the only one who has looked at this.",
+      "start": 951.44,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "You had China Hawks who lost this debate about sending chip technology to China from the United",
+      "start": 956.8,
+      "duration": 7.920000000000073
+    },
+    {
+      "text": "States. And they want to reverse that and they want to have no chips sent to China. And they",
+      "start": 964.72,
+      "duration": 7.360000000000014
+    },
+    {
+      "text": "also want to put GPS and other ways of tracking these chips and back during them in order to",
+      "start": 972.08,
+      "duration": 8.0
+    },
+    {
+      "text": "turn them off. Something that Jensen has been opposed to something a number of senators have",
+      "start": 980.08,
+      "duration": 4.8799999999999955
+    },
+    {
+      "text": "been pro doing. So there could be a contingent in the White House who are very anti-China,",
+      "start": 984.96,
+      "duration": 6.319999999999936
+    },
+    {
+      "text": "who want to see the policy with China change Friedberg.",
+      "start": 991.28,
+      "duration": 3.6800000000000637
+    },
+    {
+      "text": "Yeah. So that's one. The bigger longer term picture, which I've mentioned several times,",
+      "start": 996.16,
+      "duration": 6.800000000000068
+    },
+    {
+      "text": "there's two paths for the future, I would argue. One is a path where AI technology is broadly",
+      "start": 1003.6,
+      "duration": 10.720000000000027
+    },
+    {
+      "text": "accessible, broadly used, and the value of it is not concentrated. And the power of it",
+      "start": 1014.32,
+      "duration": 7.67999999999995
+    },
+    {
+      "text": "is not concentrated in the hands of a few and controlled by a few. Where open source AI",
+      "start": 1022.8,
+      "duration": 6.7999999999999545
+    },
+    {
+      "text": "distributed data centers that are available and accessible to many, gives everyone the ability",
+      "start": 1029.76,
+      "duration": 6.880000000000109
+    },
+    {
+      "text": "to use AI to rise up, to progress, to create value, and so on. That is a scary and threatening",
+      "start": 1036.64,
+      "duration": 7.759999999999991
+    },
+    {
+      "text": "thing because of how it changes a lot of power structures, economic structures, and so on.",
+      "start": 1044.4,
+      "duration": 5.759999999999991
+    },
+    {
+      "text": "It creates a lot of instability in existing social, economic, and political systems. So the",
+      "start": 1050.16,
+      "duration": 6.399999999999864
+    },
+    {
+      "text": "alternative path for the world is one of concentrated power and influence over AI technology.",
+      "start": 1056.88,
+      "duration": 5.679999999999836
+    },
+    {
+      "text": "This is where I've had this theory that ultimately data centers will get regulated,",
+      "start": 1062.56,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "but maybe further down the stack here with chips becomes the point of control. But",
+      "start": 1067.44,
+      "duration": 5.919999999999845
+    },
+    {
+      "text": "fundamentally, there's a motivation to not lose control and to not let the power structures",
+      "start": 1073.36,
+      "duration": 8.6400000000001
+    },
+    {
+      "text": "that exist in the world today get diminished by AI. And so we could argue there's probably a broad",
+      "start": 1082.32,
+      "duration": 6.320000000000164
+    },
+    {
+      "text": "set of interests there that start to say, hey, this guy's not aligned, Jensen's not aligned with",
+      "start": 1088.64,
+      "duration": 5.919999999999845
+    },
+    {
+      "text": "our view of the world. Jensen has been a strong advocate for open source. He's been a strong",
+      "start": 1094.56,
+      "duration": 5.279999999999973
+    },
+    {
+      "text": "advocate for global access to and utilization of AI technology for the benefit of humanity,",
+      "start": 1099.84,
+      "duration": 6.880000000000109
+    },
+    {
+      "text": "not just for the benefit of American citizens. And those views are counter to perhaps a lot",
+      "start": 1107.52,
+      "duration": 7.039999999999964
+    },
+    {
+      "text": "of different interested parties. And clearly, there was knowledge about this woman, about Jensen's",
+      "start": 1114.56,
+      "duration": 6.720000000000027
+    },
+    {
+      "text": "other relationships or whatever is coming out that's being used to smear him a long time ago.",
+      "start": 1121.28,
+      "duration": 5.759999999999991
+    },
+    {
+      "text": "And to Chamath's point, this is a moment where it's all coming out at once. And in such a",
+      "start": 1127.04,
+      "duration": 7.120000000000118
+    },
+    {
+      "text": "way that it almost guaranteed that he would be ousted. And I'll just highlight Jensen being",
+      "start": 1134.72,
+      "duration": 5.759999999999991
+    },
+    {
+      "text": "ousted is you've got to ask the question, what is the fiduciary duty of the board?",
+      "start": 1140.48,
+      "duration": 6.0
+    },
+    {
+      "text": "What do they actually have a responsibility to act on? And the one thing they have a responsibility",
+      "start": 1147.44,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "to act on is if Jensen lied. Obviously, if he committed espionage or did something that's",
+      "start": 1152.0,
+      "duration": 6.160000000000082
+    },
+    {
+      "text": "criminal, and he would have been arrested, right? Yeah. So if there's something criminal,",
+      "start": 1158.16,
+      "duration": 4.0
+    },
+    {
+      "text": "violation of federal law, that is obviously, you know, they have to act on that you have",
+      "start": 1162.16,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "to terminate him. And clearly, because there wasn't an arrest or something like that,",
+      "start": 1166.24,
+      "duration": 3.2799999999999727
+    },
+    {
+      "text": "it doesn't seem like that's, I think we can take that off the table, right? So perhaps",
+      "start": 1170.48,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "the next likely thing is that he actually made a misrepresentation about something. So, you know,",
+      "start": 1174.56,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "companies have what's called a code of conduct in the code of conduct, it says you have to",
+      "start": 1179.52,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "report relationships, you have to report relationships with subordinates, you cannot",
+      "start": 1184.08,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "have a personal conflict of interest with a customer, or a partner, a key business partner",
+      "start": 1190.0,
+      "duration": 5.759999999999991
+    },
+    {
+      "text": "without reporting it. And executives or section 16 officers at public companies have to make",
+      "start": 1195.76,
+      "duration": 4.7999999999999545
+    },
+    {
+      "text": "quarterly attestations that they are in an auditable way, not in violation of the",
+      "start": 1200.56,
+      "duration": 6.559999999999945
+    },
+    {
+      "text": "code of conduct that things are auditable. And that attestation might be what gets him in",
+      "start": 1207.12,
+      "duration": 5.040000000000191
+    },
+    {
+      "text": "trouble ultimately, where he made attestations that said, I am not violating any of our code of",
+      "start": 1213.12,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "conduct, I am not in violation of any of our business practices, which would include not having",
+      "start": 1218.56,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "conflicting personal relationships with customers or partners, that may be what gets him tricked up.",
+      "start": 1224.48,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "So fundamentally, I think the board action isn't related necessarily to the",
+      "start": 1229.6,
+      "duration": 4.080000000000155
+    },
+    {
+      "text": "the personal relationships, but there's something else that's going on here,",
+      "start": 1233.68,
+      "duration": 3.439999999999827
+    },
+    {
+      "text": "that ultimately, he probably looked at and said, Hey, you know, we should probably fast track",
+      "start": 1237.12,
+      "duration": 4.0
+    },
+    {
+      "text": "through this. And it is extraordinarily sad and disappointing. This is a man who worked at Denny's.",
+      "start": 1241.12,
+      "duration": 5.2000000000000455
+    },
+    {
+      "text": "And in 1993, started a chip company that no one believed in that everyone thought was a feature,",
+      "start": 1246.88,
+      "duration": 6.479999999999791
+    },
+    {
+      "text": "not a platform, not a product, not much of a business. And the stock price was, you know,",
+      "start": 1253.36,
+      "duration": 5.520000000000209
+    },
+    {
+      "text": "pennies, compared to the price today, it was less than $2 a share 10 years ago, 100.",
+      "start": 1259.44,
+      "duration": 6.559999999999945
+    },
+    {
+      "text": "They're making video game cards and servicing the Bitcoin.",
+      "start": 1266.0,
+      "duration": 3.6800000000000637
+    },
+    {
+      "text": "From 2006 to 2016, the stock price did not move 10 years of just being a nothing company with a",
+      "start": 1270.32,
+      "duration": 6.960000000000036
+    },
+    {
+      "text": "$12 billion market cap. Think about that you start this company in 93. And in 2006, it's worth 10,",
+      "start": 1277.28,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "12 billion bucks, and it doesn't move for 10 years. And you're grinding and you're grinding.",
+      "start": 1282.8,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "And this is your whole life, your whole business, everything and you believe and you see this",
+      "start": 1286.72,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "vision and you just keep going and you compound and you build a moat and you compound and you",
+      "start": 1290.8,
+      "duration": 4.160000000000082
+    },
+    {
+      "text": "build a moat and you compound and you get an amazingly talented team. And all of a sudden,",
+      "start": 1294.96,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "four years ago, this thing starts to take off in 20Xs in the last four years and is the most valuable",
+      "start": 1298.88,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "company on earth delivering the most profitable quarter in business history, $63 billion in",
+      "start": 1304.4,
+      "duration": 5.839999999999918
+    },
+    {
+      "text": "operating profit more than any other company ever. And then all of a sudden, boom, he gets taken out.",
+      "start": 1310.24,
+      "duration": 5.3599999999999
+    },
+    {
+      "text": "I mean, you know, it is disheartening. And I think that obviously, there's something that",
+      "start": 1316.24,
+      "duration": 5.2000000000000455
+    },
+    {
+      "text": "was done wrong. And we're going to find out and I'm not going to rush to judgment. I'm not",
+      "start": 1321.44,
+      "duration": 3.599999999999909
+    },
+    {
+      "text": "going to rush to diminish whatever he did that was wrong. But there's a sad arc to this whole story.",
+      "start": 1325.12,
+      "duration": 5.8400000000001455
+    },
+    {
+      "text": "And there's something very fundamental, I think, to the power structure that is being",
+      "start": 1330.96,
+      "duration": 6.240000000000009
+    },
+    {
+      "text": "rewritten in the world today with AI to the story. Okay, Chamath, let me ask you, Qibono,",
+      "start": 1337.2,
+      "duration": 6.7999999999999545
+    },
+    {
+      "text": "Qimalo, who benefits and who is harmed by Jensen being taken out of that seat? Let's assume",
+      "start": 1344.0,
+      "duration": 7.039999999999964
+    },
+    {
+      "text": "he's not a traitor. I find that absurd and insane based on just what we've seen over these",
+      "start": 1351.04,
+      "duration": 6.880000000000109
+    },
+    {
+      "text": "past couple of decades and his effort and his character. Okay, he's got some personal things",
+      "start": 1357.92,
+      "duration": 4.0
+    },
+    {
+      "text": "going on. But who is the beneficiary of Jensen being removed as CEO? Who benefits from that?",
+      "start": 1361.92,
+      "duration": 8.240000000000009
+    },
+    {
+      "text": "Let me just pile on first before I give you my thoughts. I also think he's an incredible",
+      "start": 1370.16,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "individual and CEO. And he's built the industry that will reshape our entire lives, our children's",
+      "start": 1374.96,
+      "duration": 5.680000000000064
+    },
+    {
+      "text": "lives and our children's children's lives. I think in a decade or two, when you see solutions to",
+      "start": 1380.64,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "diseases and cancers, and we have this abundance that we were told is coming, he will have been as",
+      "start": 1385.84,
+      "duration": 5.120000000000118
+    },
+    {
+      "text": "instrumental as anyone, if not more than anybody. Okay, so that's the tragedy of what happened is",
+      "start": 1390.96,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "a person that was an architect of something this grand was defenestrated this unceremoniously.",
+      "start": 1396.88,
+      "duration": 6.639999999999873
+    },
+    {
+      "text": "Very tactically, I think Friedberg really nailed it around what probably happened at the board",
+      "start": 1403.84,
+      "duration": 5.680000000000064
+    },
+    {
+      "text": "level that led to his resignation. When you are an officer of a company, and when you file your 10",
+      "start": 1409.52,
+      "duration": 8.480000000000018
+    },
+    {
+      "text": "k's, every quarter, you have to get on the phone with your auditor. And you have to go through",
+      "start": 1418.0,
+      "duration": 6.480000000000018
+    },
+    {
+      "text": "these sets of questions that they ask you. And they ask you these exact things, you know, do you",
+      "start": 1424.48,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "have a conflict with someone? Are you in a relationship with someone, etc, etc. Now, why do",
+      "start": 1429.68,
+      "duration": 5.759999999999991
+    },
+    {
+      "text": "those things happen? The SEC requires that to make sure that you're not running afoul of any",
+      "start": 1435.44,
+      "duration": 5.759999999999991
+    },
+    {
+      "text": "conflict of interest so that your company is a reliable steward of capital on behalf of the",
+      "start": 1441.2,
+      "duration": 5.279999999999973
+    },
+    {
+      "text": "shareholders. But even more tactically, you need that for things like DNO insurance, which is",
+      "start": 1446.48,
+      "duration": 5.839999999999918
+    },
+    {
+      "text": "like the director and officer insurance, which is what gives a wrapper of liability.",
+      "start": 1452.32,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "For board members and for officers to do the job of running public companies. And there are covenants",
+      "start": 1458.08,
+      "duration": 6.560000000000173
+    },
+    {
+      "text": "associated with all of these things. And so when you get into a situation where you may have",
+      "start": 1464.64,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "misrepresented something and you start to breach covenants, those are the actual dominoes that tip",
+      "start": 1469.68,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "it may not be nearly as salacious as what people want to believe is happening at the board.",
+      "start": 1474.72,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "But those are the tactics of the boardroom discussions. They're extremely tactical,",
+      "start": 1479.36,
+      "duration": 5.759999999999991
+    },
+    {
+      "text": "sadly, which is again why it's even more tragic when you compare that to, you know, what he is,",
+      "start": 1485.12,
+      "duration": 6.240000000000009
+    },
+    {
+      "text": "which is this giant. Okay, so who benefits Jason? I think there's a lot of people that have rushed",
+      "start": 1491.36,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "to this conclusion that China wins. And I would just try to unpack that and ask the question,",
+      "start": 1496.8,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "is that true? So let's take two cases. And these are both hypothetical to sort of try to",
+      "start": 1501.2,
+      "duration": 5.279999999999973
+    },
+    {
+      "text": "answer this question. Let's say that there are no chips going to China. Well, why does China",
+      "start": 1506.48,
+      "duration": 5.839999999999918
+    },
+    {
+      "text": "win? No chips were going before. No chips are going to go now. China is stuck in the same place that",
+      "start": 1512.88,
+      "duration": 6.879999999999882
+    },
+    {
+      "text": "they were before, which is they need an endemic solution that can replace the compute capability",
+      "start": 1519.76,
+      "duration": 8.319999999999936
+    },
+    {
+      "text": "of NVIDIA. Even without Jensen there, there's still years and years and years, maybe",
+      "start": 1528.08,
+      "duration": 6.160000000000082
+    },
+    {
+      "text": "potentially decades, and hundreds of thousands of man hours of work that NVIDIA has put into",
+      "start": 1534.24,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "building the moat that they built that doesn't get overcome just because he's not there anymore.",
+      "start": 1540.72,
+      "duration": 4.0
+    },
+    {
+      "text": "So maybe China can catch up. But I still think that that's a multi year potentially multi decade",
+      "start": 1545.84,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "endeavor. Now let's assume the other side, hypothetically, let's say that the chips were",
+      "start": 1550.72,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "somehow leaking into the hands of the Chinese, maybe not into China, but into the hands of the",
+      "start": 1556.16,
+      "duration": 4.319999999999936
+    },
+    {
+      "text": "Chinese. Well, it looks like the government's going to crack down and figure out where every chip went.",
+      "start": 1560.48,
+      "duration": 4.720000000000027
+    },
+    {
+      "text": "And so presumably now they're not getting the chips. So whatever they were doing, they're now",
+      "start": 1565.36,
+      "duration": 6.080000000000155
+    },
+    {
+      "text": "going to be held back, which is to say that whatever progress they were making has gotten",
+      "start": 1571.44,
+      "duration": 4.319999999999936
+    },
+    {
+      "text": "taken away. So that's a disadvantage to China. So as I think about it, in both scenarios,",
+      "start": 1575.76,
+      "duration": 6.160000000000082
+    },
+    {
+      "text": "China is sort of where they were or worse off. So I don't think that they benefit.",
+      "start": 1581.92,
+      "duration": 5.679999999999836
+    },
+    {
+      "text": "What about NVIDIA's competitors? Does this help AMD or Google or startups,",
+      "start": 1588.08,
+      "duration": 7.630000000000109
+    },
+    {
+      "text": "Cerebrus or Etched or whomever? And my answer there is, again, not really. Why? Because",
+      "start": 1596.91,
+      "duration": 7.839999999999918
+    },
+    {
+      "text": "those companies need something very different, which is they need to spend an enormous amount",
+      "start": 1604.75,
+      "duration": 7.519999999999982
+    },
+    {
+      "text": "of time still making their chips work at scale. And then convincing folks like TSMC and",
+      "start": 1612.27,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "others, Samsung, to give them manufacturing capacity, HBM capacity, etc. And as we've",
+      "start": 1617.87,
+      "duration": 7.2800000000002
+    },
+    {
+      "text": "learned the hard way, you can't just will your way to a training run of a million GPUs",
+      "start": 1625.15,
+      "duration": 6.879999999999882
+    },
+    {
+      "text": "that just works. This has again been many, many hours of work. So they don't necessarily",
+      "start": 1632.03,
+      "duration": 5.2000000000000455
+    },
+    {
+      "text": "benefit in the short term. They still have a lot of work that they have to do.",
+      "start": 1637.23,
+      "duration": 3.4400000000000546
+    },
+    {
+      "text": "The only cohort of people that I think has the potential to win are those that want some",
+      "start": 1641.15,
+      "duration": 7.599999999999909
+    },
+    {
+      "text": "version of what Friedberg said, which is a more centralized governance infrastructure of compute",
+      "start": 1648.75,
+      "duration": 6.480000000000018
+    },
+    {
+      "text": "capacity. And very narrowly, what I would say is, right now, when you export chips,",
+      "start": 1655.23,
+      "duration": 6.7999999999999545
+    },
+    {
+      "text": "what they ask of the exporter is have telemetry, right? We need to know when and how the chips",
+      "start": 1663.23,
+      "duration": 5.279999999999973
+    },
+    {
+      "text": "are being used, and we need to have a remote kill switch. But that is a private responsibility",
+      "start": 1668.51,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "that's born through the regulatory infrastructure. Amazon has to have that, Microsoft has to have",
+      "start": 1674.59,
+      "duration": 6.75
+    },
+    {
+      "text": "that, Google has to have that. There is a version of this where now, if we think that",
+      "start": 1681.34,
+      "duration": 6.0
+    },
+    {
+      "text": "it's been leaking, and there hasn't been enough checks and balances, there is an opening for",
+      "start": 1687.34,
+      "duration": 6.080000000000155
+    },
+    {
+      "text": "certain individuals in the government to propose telemetry and a kill switch that is",
+      "start": 1693.42,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "owned by them. Now, narrowly, they would win now in this scenario, because if they were",
+      "start": 1698.06,
+      "duration": 6.080000000000155
+    },
+    {
+      "text": "looking for control before, they've now been given an opening to ask for the legislation to get it.",
+      "start": 1704.14,
+      "duration": 7.279999999999973
+    },
+    {
+      "text": "So I'm kind of at a loss. I don't think that the takes right now that I've seen on X",
+      "start": 1712.38,
+      "duration": 5.679999999999836
+    },
+    {
+      "text": "really track for me. I think this is the one narrow take that I believe where there's a clear",
+      "start": 1718.06,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "advantage, everybody else just still has an enormous amount of work to do. It has not changed",
+      "start": 1723.5,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "their homework. Jason, what's your take on all of this?",
+      "start": 1728.62,
+      "duration": 2.7200000000000273
+    },
+    {
+      "text": "Yeah, so I've been thinking about it from two vectors. The first is, you know, who should",
+      "start": 1731.34,
+      "duration": 5.279999999999973
+    },
+    {
+      "text": "make the decision that Jensen's out? Obviously, I think it's the shareholders. And if you look at",
+      "start": 1736.62,
+      "duration": 5.360000000000127
+    },
+    {
+      "text": "the investigation, it's not complete, I think they should have waited till it's complete,",
+      "start": 1742.86,
+      "duration": 3.3600000000001273
+    },
+    {
+      "text": "and the press and the mobs and all of this shouldn't make too much of an impact on that.",
+      "start": 1746.22,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "He did agree to resign himself, obviously, under a lot of pressure. There is something about",
+      "start": 1752.3,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "governance here that we need to consider, which is the people who are on the board who are making",
+      "start": 1756.86,
+      "duration": 4.320000000000164
+    },
+    {
+      "text": "this decision are doing it from a CYA position, cover their butts, and they're not doing it,",
+      "start": 1761.18,
+      "duration": 5.439999999999827
+    },
+    {
+      "text": "I think, in the best interest of the shareholders. And they don't own a meaningful",
+      "start": 1766.62,
+      "duration": 6.240000000000009
+    },
+    {
+      "text": "percentage of the share. So I think this should be put to a shareholder vote if what",
+      "start": 1772.86,
+      "duration": 4.480000000000018
+    },
+    {
+      "text": "we're seeing here is not Jensen doing something criminal. And it still hasn't been proven,",
+      "start": 1778.22,
+      "duration": 4.399999999999864
+    },
+    {
+      "text": "as you pointed out, Sacks, who this person was and what their motivation was, are they a spy,",
+      "start": 1782.62,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "or are they just somebody trying to make money? It's unclear for me, or at least from the data",
+      "start": 1787.42,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "we've seen what's going on there. Now, on the question that we've been discussing of who benefits",
+      "start": 1793.02,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "from this, and it's really who benefits from America's champion in super intelligence,",
+      "start": 1798.06,
+      "duration": 6.400000000000091
+    },
+    {
+      "text": "you know, getting angled, because this could have a lot of impact on NVIDIA and then America's lead.",
+      "start": 1804.94,
+      "duration": 8.240000000000009
+    },
+    {
+      "text": "And so the partners, the employees, the shareholders, they're all losers here. So",
+      "start": 1813.18,
+      "duration": 5.3599999999999
+    },
+    {
+      "text": "who's the leaker of this document? It can't be the competitors. It's not the shareholders,",
+      "start": 1818.54,
+      "duration": 5.2000000000000455
+    },
+    {
+      "text": "obviously, and I don't think it's China. And then that leaves, I think, maybe the people who are",
+      "start": 1823.74,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "the D cells here. And that also seems a bit farcical that entropic or the D cells would try to",
+      "start": 1828.86,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "consolidate power on this because they need the chips as well. And I think that's where I think,",
+      "start": 1834.3,
+      "duration": 6.080000000000155
+    },
+    {
+      "text": "my personal opinion, that there's something going on in the White House, in the administration,",
+      "start": 1840.94,
+      "duration": 6.0
+    },
+    {
+      "text": "between warring factions of who wants China to get no chips, the China Hawks, and maybe the",
+      "start": 1846.94,
+      "duration": 5.2000000000000455
+    },
+    {
+      "text": "people who want to maybe cool off the relationship with China and make it more productive.",
+      "start": 1852.14,
+      "duration": 5.279999999999973
+    },
+    {
+      "text": "I think at the end of the day, we're going to find the leak is coming from within the house. That's",
+      "start": 1857.5,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "my belief. There's also a chance it could be a Democrat who is a D cell and who wants to damage",
+      "start": 1862.06,
+      "duration": 6.0
+    },
+    {
+      "text": "the White House just completely. Because why did they let not inform Jensen to Hillary Clinton's",
+      "start": 1868.06,
+      "duration": 6.559999999999945
+    },
+    {
+      "text": "point? Maybe it's just somebody on the Democratic side who wants to cause chaos. I'm speculating",
+      "start": 1874.62,
+      "duration": 5.600000000000136
+    },
+    {
+      "text": "here in a massive way. Just taking a broader view on the role that NVIDIA is playing currently,",
+      "start": 1880.22,
+      "duration": 6.879999999999882
+    },
+    {
+      "text": "it may not just be about chips to China, but it may actually be about slowing down",
+      "start": 1887.82,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "the US AI economy. Because remember, NVIDIA is actually providing capital and guarantees",
+      "start": 1893.34,
+      "duration": 7.680000000000064
+    },
+    {
+      "text": "to startups, to data centers, to a lot of infrastructure. A lot of that is directed",
+      "start": 1901.02,
+      "duration": 6.7999999999999545
+    },
+    {
+      "text": "directly by Jensen. Chamath, you're pretty close to this, but if Jensen's out of the picture,",
+      "start": 1907.9,
+      "duration": 4.7199999999998
+    },
+    {
+      "text": "is there someone in NVIDIA that continues running that effort? That's potentially hundreds",
+      "start": 1913.18,
+      "duration": 4.319999999999936
+    },
+    {
+      "text": "of billions of dollars of capital that gets turned off that's flowing to the AI economy.",
+      "start": 1917.5,
+      "duration": 3.759999999999991
+    },
+    {
+      "text": "I think Collette Kress and the head of M&A and corp. Dev Vishal Bhagwani, these guys are",
+      "start": 1921.98,
+      "duration": 3.6800000000000637
+    },
+    {
+      "text": "really smart, good guys, but you are kind of right. The Bank of NVIDIA ran through Jensen.",
+      "start": 1926.22,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "It's not clear what happens now. Is the bank closed indefinitely? Is it closed for",
+      "start": 1932.22,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "some period of time and it restarts? Will the new CEO feel the latitude to invest as aggressively?",
+      "start": 1937.18,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "I think Jensen had a much more holistic view of the industry. He knew how to move",
+      "start": 1942.3,
+      "duration": 4.7999999999999545
+    },
+    {
+      "text": "the chips around on the board and he had the moral authority to make investments and to make",
+      "start": 1949.02,
+      "duration": 4.6400000000001
+    },
+    {
+      "text": "acquisitions that will probably be harder for a more traditional CEO who will have to have",
+      "start": 1953.66,
+      "duration": 5.3599999999999
+    },
+    {
+      "text": "committees and analyses and a level of diligence that will just slow things down at best.",
+      "start": 1959.02,
+      "duration": 4.6400000000001
+    },
+    {
+      "text": "Totally. And he has a sense for it. He intuits the whole thing. He knows the market. He knows",
+      "start": 1963.9,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "where things are going. He knows the people personally with him out of the picture.",
+      "start": 1969.02,
+      "duration": 3.759999999999991
+    },
+    {
+      "text": "And he's lived it, so he has mastery.",
+      "start": 1972.78,
+      "duration": 2.0
+    },
+    {
+      "text": "He's like the beating heart of the AI economy and all of a sudden...",
+      "start": 1974.78,
+      "duration": 3.2000000000000455
+    },
+    {
+      "text": "I think it's beyond obvious. You asked the question, Kweebona, who benefits? It's China.",
+      "start": 1977.98,
+      "duration": 3.839999999999918
+    },
+    {
+      "text": "China benefits from this because Jensen is a tentpole of our entire AI ecosystem.",
+      "start": 1981.82,
+      "duration": 7.600000000000136
+    },
+    {
+      "text": "I mean, that's the bottom line. Now, do I think that China leaked this and took Jensen down?",
+      "start": 1989.42,
+      "duration": 6.1599999999998545
+    },
+    {
+      "text": "Well, I think we know the answer to that is no, because the New York Times has described its",
+      "start": 1995.58,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "sources as people who got briefed on this intelligence. So they're either in the government",
+      "start": 1999.98,
+      "duration": 6.639999999999873
+    },
+    {
+      "text": "or one degree away from it. So again, the proximate cause of the leak here was this",
+      "start": 2006.62,
+      "duration": 5.120000000000118
+    },
+    {
+      "text": "classified memo. So the rational thing would be that China did take him down, but I think we",
+      "start": 2011.74,
+      "duration": 7.599999999999909
+    },
+    {
+      "text": "know that this was domestic and it comes down to the fact that Jensen made powerful enemies,",
+      "start": 2019.5,
+      "duration": 6.319999999999936
+    },
+    {
+      "text": "either as a result of his policies or because of his company's success. And some of those people",
+      "start": 2026.54,
+      "duration": 7.519999999999982
+    },
+    {
+      "text": "eventually took him down.",
+      "start": 2034.06,
+      "duration": 1.3600000000001273
+    },
+    {
+      "text": "Wait, you're saying Jensen made enemies of certain people in America?",
+      "start": 2035.42,
+      "duration": 6.0
+    },
+    {
+      "text": "Guys, this is not in doubt. The New York Times says who... They described their source very",
+      "start": 2041.42,
+      "duration": 6.7199999999998
+    },
+    {
+      "text": "broadly, but it's people who were briefed on the classified memo. That's not someone from the CCP.",
+      "start": 2048.22,
+      "duration": 6.0
+    },
+    {
+      "text": "Well, obviously not, if that's true within the New York Times.",
+      "start": 2055.1,
+      "duration": 1.599999999999909
+    },
+    {
+      "text": "But you asked the question in whose interest is this? In a narrow sense,",
+      "start": 2056.7,
+      "duration": 4.160000000000309
+    },
+    {
+      "text": "obviously, Nvidia's competitors, in a broader sense, China. They're the ones who benefit.",
+      "start": 2060.86,
+      "duration": 4.239999999999782
+    },
+    {
+      "text": "But look, I don't think we should speculate about that too much. This is one of those",
+      "start": 2065.1,
+      "duration": 4.160000000000309
+    },
+    {
+      "text": "areas where we just don't have the facts yet. I think it's an area where, frankly,",
+      "start": 2069.26,
+      "duration": 4.879999999999654
+    },
+    {
+      "text": "they should try to get the facts. I mean, again, the only crime that we know was committed for sure",
+      "start": 2074.14,
+      "duration": 5.760000000000218
+    },
+    {
+      "text": "in all of this was the leaking of that classified memo. So it would be nice if there was an",
+      "start": 2079.9,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "investigation to find out who did that. But beyond that, I don't think we should speculate.",
+      "start": 2085.1,
+      "duration": 3.8400000000001455
+    },
+    {
+      "text": "Just to give you my perspective on the economic impacts of this, I think the unfortunate",
+      "start": 2088.94,
+      "duration": 4.239999999999782
+    },
+    {
+      "text": "balance of scenarios now is that I think the risk that we lose 50 basis points to 100 to 150",
+      "start": 2094.7,
+      "duration": 7.440000000000055
+    },
+    {
+      "text": "basis points of growth now needs to be credibly considered. There's a chance here where the",
+      "start": 2102.14,
+      "duration": 5.2800000000002
+    },
+    {
+      "text": "investment slows down. I mean, if you thought that we were already going into an economically",
+      "start": 2107.42,
+      "duration": 6.559999999999945
+    },
+    {
+      "text": "questionable period because of the democratic tsunami, meaning you're going to go through",
+      "start": 2113.98,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "a whole legislative framework of slowing down data centers, of slowing down AI,",
+      "start": 2118.94,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "that was already happening. So whatever growth we had that the Trump economy had generated",
+      "start": 2123.98,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "going into the midterms, the odds were that that was already going to be slowed down because of the",
+      "start": 2128.62,
+      "duration": 5.760000000000218
+    },
+    {
+      "text": "democratic legislative headwinds that were coming. And if you layer into that the bank of",
+      "start": 2134.38,
+      "duration": 6.799999999999727
+    },
+    {
+      "text": "Nvidia slowing or stopping, and its impact as the critical anchor security around which everybody",
+      "start": 2141.18,
+      "duration": 7.8400000000001455
+    },
+    {
+      "text": "else kind of pivots, that then further accelerates what the impacts to growth could be.",
+      "start": 2149.02,
+      "duration": 6.1599999999998545
+    },
+    {
+      "text": "So if I looked at it purely technologically, Sacks, I don't see how China actually benefits",
+      "start": 2155.18,
+      "duration": 4.640000000000327
+    },
+    {
+      "text": "from this. In all scenarios, everybody's screwed. No, no, no. He'll explain this. Okay. So.",
+      "start": 2159.82,
+      "duration": 4.399999999999636
+    },
+    {
+      "text": "But economically, I agree with you. Economically, I think people in DC just,",
+      "start": 2165.02,
+      "duration": 4.480000000000018
+    },
+    {
+      "text": "or I should just say people who are outside our industry maybe, to see",
+      "start": 2169.5,
+      "duration": 2.7199999999998
+    },
+    {
+      "text": "technology in more static terms where they think, okay, the big advantage that the US has is that",
+      "start": 2173.34,
+      "duration": 5.359999999999673
+    },
+    {
+      "text": "we have a particular chip, right? But actually, the chips are being improved rapidly. There's a new",
+      "start": 2178.7,
+      "duration": 7.440000000000055
+    },
+    {
+      "text": "generation of chips that come out every year. We go from Ampere to Hopper to Blackwell to Verirubin.",
+      "start": 2186.14,
+      "duration": 6.880000000000109
+    },
+    {
+      "text": "And it's that momentum. It's the ability to take out a brand new chip that's several times more",
+      "start": 2193.58,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "powerful than last year's chip. That's the real advantage. It's Nvidia's competitive advantage.",
+      "start": 2199.66,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "And it's America's advantage. So it's the momentum. It's the dynamism. People get way too hung up on",
+      "start": 2205.74,
+      "duration": 6.480000000000018
+    },
+    {
+      "text": "some chip that was state of the art four years ago. That's not where the United States has the",
+      "start": 2212.22,
+      "duration": 4.720000000000255
+    },
+    {
+      "text": "advantage. It's that we are rapidly iterating and we keep coming up with better and better,",
+      "start": 2216.94,
+      "duration": 4.7199999999998
+    },
+    {
+      "text": "more and more powerful chips. Now, let's take into account what's just happened. Do you think",
+      "start": 2221.66,
+      "duration": 3.8400000000001455
+    },
+    {
+      "text": "that Nvidia is going to lose a tempo or two? Absolutely. I mean, again, Nvidia's success was",
+      "start": 2225.5,
+      "duration": 6.960000000000036
+    },
+    {
+      "text": "based on the ability to take out a new chip design every year. And Jensen is fundamental to that rapid",
+      "start": 2232.46,
+      "duration": 6.0
+    },
+    {
+      "text": "progress the same way that Elon is fundamental to the rapid progress at SpaceX or Tesla. And if you",
+      "start": 2238.46,
+      "duration": 6.800000000000182
+    },
+    {
+      "text": "take him out of the picture, there's just nobody comparable. There's no no, no, no, you're right",
+      "start": 2245.26,
+      "duration": 4.0
+    },
+    {
+      "text": "about that. I'm just saying that ancaling Nvidia doesn't make somebody else's chips better.",
+      "start": 2249.26,
+      "duration": 6.319999999999709
+    },
+    {
+      "text": "Does it? Of course not. But it means that Nvidia's chips will not continue to advance",
+      "start": 2255.58,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "at the same. And this is all about whether China can catch the frontier or not. So for example,",
+      "start": 2261.18,
+      "duration": 6.320000000000164
+    },
+    {
+      "text": "look, Huawei has gradually been catching up. They were nowhere in GPUs a few years ago.",
+      "start": 2267.5,
+      "duration": 6.7199999999998
+    },
+    {
+      "text": "Then they had the, the ascend, then they rolled out this thing called cloud matrix where",
+      "start": 2274.22,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "their individual chips were not as powerful as American chips, but they use their prowess",
+      "start": 2278.62,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "in networking and then more of them together. So what they did is they networked 384",
+      "start": 2284.14,
+      "duration": 5.760000000000218
+    },
+    {
+      "text": "chips together in this thing called cloud matrix to create this rack system. Nvidia network 72",
+      "start": 2289.9,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "together and the NVL 72 is better than 384 of the Huawei chips. Nonetheless, they were getting",
+      "start": 2295.98,
+      "duration": 7.199999999999818
+    },
+    {
+      "text": "closer and closer and Jason to your point, they have energy to spare. So what Huawei has been",
+      "start": 2303.18,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "doing is they create a less powerful individual chip that consumes a lot more energy. And then",
+      "start": 2308.06,
+      "duration": 6.800000000000182
+    },
+    {
+      "text": "they network more of them together to get a comparable result at the rack system. And that's",
+      "start": 2314.86,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "how they've been catching up. Now, let's just assume that like Nvidia's crippled for two or",
+      "start": 2320.06,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "three years based on this, right? You get a terminal at the company or whatever. That's",
+      "start": 2325.18,
+      "duration": 4.480000000000018
+    },
+    {
+      "text": "really good news for Huawei because they will catch up a lot faster. Obviously it's good for",
+      "start": 2329.66,
+      "duration": 4.2400000000002365
+    },
+    {
+      "text": "Nvidia's competitors too. I mean, it's going to be good for AMD and Intel maybe, but again,",
+      "start": 2333.9,
+      "duration": 6.0
+    },
+    {
+      "text": "that's a very narrow way of looking at it. I think it mostly will help Huawei if Nvidia has",
+      "start": 2339.9,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "masterly slowed down. Because obviously it's all about staying on the frontier.",
+      "start": 2345.98,
+      "duration": 3.8400000000001455
+    },
+    {
+      "text": "Sacks, I also think you need to add and view the diminishment of the flow of capital to data",
+      "start": 2349.82,
+      "duration": 8.319999999999709
+    },
+    {
+      "text": "centers and to startups that Nvidia provides in totality with the slowdown of data center",
+      "start": 2358.14,
+      "duration": 6.800000000000182
+    },
+    {
+      "text": "buildouts because of the efforts made by NGOs. And there's a lot of reporting going on on where",
+      "start": 2364.94,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "these NGOs are getting funded from to drive local community state-based and now federal legislation",
+      "start": 2370.38,
+      "duration": 8.319999999999709
+    },
+    {
+      "text": "to stop data center development. When you look at those two things together, there is a",
+      "start": 2378.7,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "consolidated effort that you could paint a picture of to slow down the development of the",
+      "start": 2384.22,
+      "duration": 5.680000000000291
+    },
+    {
+      "text": "AI economy in the US and give someone a chance to catch up. Because the velocity of capital is",
+      "start": 2389.9,
+      "duration": 15.679999999999836
+    },
+    {
+      "text": "what drives that innovation engine. So the rate at which we can improve our AI models,",
+      "start": 2405.58,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "the rate at which we can improve our AI chips is driven by how fast capital moves through the",
+      "start": 2410.38,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "system. The more quickly capital moves, the more capital moves through the system,",
+      "start": 2415.02,
+      "duration": 3.8400000000001455
+    },
+    {
+      "text": "the more we accelerate our advantage. So if an adversary can slow down capital moving through",
+      "start": 2418.86,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "the system, they are given an opportunity to catch up.",
+      "start": 2424.46,
+      "duration": 2.7199999999998
+    },
+    {
+      "text": "It doesn't have to be an adversary. It could be somebody who just wants us to be in a recession",
+      "start": 2427.18,
+      "duration": 3.600000000000364
+    },
+    {
+      "text": "because they benefit politically.",
+      "start": 2430.78,
+      "duration": 1.5199999999999818
+    },
+    {
+      "text": "Or they are a fundamentalist. They could be someone who is fundamentally anti-progress and they are",
+      "start": 2432.3,
+      "duration": 4.7199999999998
+    },
+    {
+      "text": "fundamentally against AI. And they have all these fundamental beliefs that AI is going to harm",
+      "start": 2437.02,
+      "duration": 3.8400000000001455
+    },
+    {
+      "text": "humanity and harm civilization and they want to turn it off.",
+      "start": 2440.86,
+      "duration": 2.400000000000091
+    },
+    {
+      "text": "So then that would be de-cellarists and the regulatory capture in Froppet crowd. Chamath, what you're saying, people who might benefit from a recession, I think mostly you want to be very clear.",
+      "start": 2443.26,
+      "duration": 13.279999999999745
+    },
+    {
+      "text": "But wait. Well, no, hold on. I want to clarify this, Jason. If you look at it narrowly,",
+      "start": 2456.54,
+      "duration": 4.2400000000002365
+    },
+    {
+      "text": "technologically, anchoring Nvidia does not make your chips better, doesn't make your racks better,",
+      "start": 2460.78,
+      "duration": 5.359999999999673
+    },
+    {
+      "text": "doesn't make your networking better, doesn't make your co-wass better, doesn't make your",
+      "start": 2466.14,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "HBM integration better, doesn't make you replace CUDA. None of those things are true.",
+      "start": 2470.06,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "So unfortunately, slowing down this giant for the people that assume that it helps other people,",
+      "start": 2474.94,
+      "duration": 5.679999999999836
+    },
+    {
+      "text": "it doesn't help other people in the classical sense. It's not as if demand is so elastic that",
+      "start": 2480.62,
+      "duration": 4.720000000000255
+    },
+    {
+      "text": "all of a sudden you can go to somebody else. That's not what's going to happen here.",
+      "start": 2485.34,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "It's just the entire industry gets slowed down. That doesn't benefit anybody. And I hope people",
+      "start": 2489.26,
+      "duration": 5.679999999999836
+    },
+    {
+      "text": "really internalize that. So technologically speaking, what's going to happen here to",
+      "start": 2494.94,
+      "duration": 4.799999999999727
+    },
+    {
+      "text": "Nvidia is just a tragedy for the broader AI industry. Then there's the question economically,",
+      "start": 2499.74,
+      "duration": 5.600000000000364
+    },
+    {
+      "text": "and this is where I do agree with Sacks that there are geopolitical interests at play,",
+      "start": 2505.34,
+      "duration": 4.0
+    },
+    {
+      "text": "slowing down the United States economy, which this will do, will have downstream impacts.",
+      "start": 2509.34,
+      "duration": 6.639999999999873
+    },
+    {
+      "text": "The quantum of that is yet to be determined. But it's non-trivial in my estimation because",
+      "start": 2515.98,
+      "duration": 5.679999999999836
+    },
+    {
+      "text": "so much of our economy was already levered to AI. And within AI, you know that famous picture,",
+      "start": 2521.66,
+      "duration": 5.2800000000002
+    },
+    {
+      "text": "you know, Jensen and Nvidia is that little jenga block right here. They're the ones around which",
+      "start": 2526.94,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "everything else was being set up. So I just think we have to remember that because I think",
+      "start": 2531.58,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "it's important. We have an important example here that we should consider when Steve Jobs",
+      "start": 2535.5,
+      "duration": 7.2800000000002
+    },
+    {
+      "text": "passed away and Tim Cook was put in charge of Apple. He was able to just get a massive amount",
+      "start": 2543.42,
+      "duration": 6.960000000000036
+    },
+    {
+      "text": "of share appreciation by doing stock buybacks and milking Steve Jobs roadmap. But to your point,",
+      "start": 2550.38,
+      "duration": 6.319999999999709
+    },
+    {
+      "text": "nobody's sitting here saying Apple's latest products are incredible. These are",
+      "start": 2557.74,
+      "duration": 4.5600000000004
+    },
+    {
+      "text": "groundbreaking products. So we could see Nvidia go to just extract max value, etc. It could be",
+      "start": 2562.3,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "good for shareholders in the midterm. Not sure if it's going to be good for the long term.",
+      "start": 2567.5,
+      "duration": 3.599999999999909
+    },
+    {
+      "text": "And obviously, Donnie from Queens, our favorite President Trump, has suggested Tim Cook come",
+      "start": 2571.1,
+      "duration": 6.320000000000164
+    },
+    {
+      "text": "out of retirement and take the position. So what were you left there?",
+      "start": 2577.42,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "Look, Tim Cook had a very successful run as CEO of Apple, obviously had a tough job in the shadow",
+      "start": 2582.38,
+      "duration": 6.960000000000036
+    },
+    {
+      "text": "of Steve Jobs. But the reality is that they did not release that many new products. They created",
+      "start": 2589.98,
+      "duration": 6.7199999999998
+    },
+    {
+      "text": "incremental versions of what they already had. And I think that the mobile phone space is just",
+      "start": 2596.7,
+      "duration": 6.880000000000109
+    },
+    {
+      "text": "a little different than chips. I think the chip space is more dynamic. It's more competitive.",
+      "start": 2603.58,
+      "duration": 6.0
+    },
+    {
+      "text": "Like I mentioned, new chip generation every year or so, every year and a half. And if you lose a",
+      "start": 2609.58,
+      "duration": 6.720000000000255
+    },
+    {
+      "text": "tempo or two, if you lose velocity, I think that's the key word here that Friedberg used is",
+      "start": 2616.3,
+      "duration": 4.879999999999654
+    },
+    {
+      "text": "velocity. Then you get overtaken by other people. I think that's the issue here is that that's",
+      "start": 2621.18,
+      "duration": 5.360000000000127
+    },
+    {
+      "text": "what creates the risk for Nvidia is I don't think they can just keep milking their existing",
+      "start": 2626.54,
+      "duration": 4.1599999999998545
+    },
+    {
+      "text": "product lines or making them incrementally better. I mean, the chips are getting better at a rate of",
+      "start": 2630.7,
+      "duration": 4.2400000000002365
+    },
+    {
+      "text": "several times a year, three or four times a year, maybe more. If they don't keep up that pace of",
+      "start": 2634.94,
+      "duration": 4.1599999999998545
+    },
+    {
+      "text": "development and others do, then they will no longer be frontier and then they lose their",
+      "start": 2639.1,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "business. So I just think it's a very dynamic space. And I think that's why, again, I mean,",
+      "start": 2643.02,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "I don't know how many times I can say this that Jensen was very important to",
+      "start": 2648.06,
+      "duration": 3.119999999999891
+    },
+    {
+      "text": "Nvidia and Nvidia was very important to America remaining at the frontier and having leadership",
+      "start": 2652.06,
+      "duration": 6.400000000000091
+    },
+    {
+      "text": "in chips and technology not being used to enable a totalitarian state. I do worry that there is",
+      "start": 2658.46,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "legislation coming our way with the new Congress that is going to say every AI chip and every",
+      "start": 2664.54,
+      "duration": 6.320000000000164
+    },
+    {
+      "text": "computer and every data center has a switch and has a connection back to some central system.",
+      "start": 2670.86,
+      "duration": 6.1599999999998545
+    },
+    {
+      "text": "And that central system will be a state system. And we are fundamentally looking at an Orwellian",
+      "start": 2677.02,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "state explosion if this sort of thing happens. And my guess is that people know Jensen's",
+      "start": 2681.66,
+      "duration": 4.720000000000255
+    },
+    {
+      "text": "philosophy. Jensen has talked a lot about AI being for the benefit of all of humanity,",
+      "start": 2686.38,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "regardless of your country, regardless of your standing, regardless of your wealth.",
+      "start": 2691.34,
+      "duration": 3.8399999999996908
+    },
+    {
+      "text": "He was anti oligopoly. He was the opposite of the oligarchy and the central state,",
+      "start": 2695.18,
+      "duration": 5.2800000000002
+    },
+    {
+      "text": "the totalitarian state represents everything that I believe Jensen was against. And because of that,",
+      "start": 2700.46,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "I think he had to be taken out if ultimately the goal is to have the totalitarian state",
+      "start": 2706.54,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "use this technology as a tool. I really do worry about that being the reason because at the end",
+      "start": 2712.06,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "of the day, whoever comes in next has to be cooperative with legislatures and work out a",
+      "start": 2717.02,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "bill that we all agree to head nodding, standing in front of Congress and saying,",
+      "start": 2721.58,
+      "duration": 4.320000000000164
+    },
+    {
+      "text": "you know what, I agree with these new ideas. Let's all go do this. And suddenly,",
+      "start": 2725.9,
+      "duration": 3.599999999999909
+    },
+    {
+      "text": "the US government has control of the actual physical chips that exist in free markets and",
+      "start": 2729.5,
+      "duration": 5.8400000000001455
+    },
+    {
+      "text": "exist in data centers around the world. And that's not a great place for any of us.",
+      "start": 2735.34,
+      "duration": 3.3599999999996726
+    },
+    {
+      "text": "You know, it's worse than that. It's in order to get out of the cul-de-sac that they're in,",
+      "start": 2738.78,
+      "duration": 3.6799999999998363
+    },
+    {
+      "text": "it'll be worse than just acquiescing. It'll be proactively designing these things in. Like what",
+      "start": 2742.46,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "Jason said about having, you know, it sounds insane. Even 10 days ago, if you said, oh,",
+      "start": 2747.1,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "hey, our new spin is going to have a GPS chip and a remote kill switch that's going to be",
+      "start": 2752.7,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "operated by some government entity, we would be crying bloody murder.",
+      "start": 2757.1,
+      "duration": 6.400000000000091
+    },
+    {
+      "text": "On civil liberties grounds.",
+      "start": 2763.5,
+      "duration": 1.6799999999998363
+    },
+    {
+      "text": "Yeah. And to your point, that is probably on the table because all of these folks are going to try",
+      "start": 2765.26,
+      "duration": 6.959999999999582
+    },
+    {
+      "text": "to get out of jail in that sense, which is what do we need for the government to just let go and",
+      "start": 2772.22,
+      "duration": 5.200000000000273
+    },
+    {
+      "text": "appease them? I tweeted this out. Nick, can you show it? The person,",
+      "start": 2777.42,
+      "duration": 3.119999999999891
+    },
+    {
+      "text": "Representative Molinar, who runs the House Intelligence Committee, he posted this. The part",
+      "start": 2781.18,
+      "duration": 5.360000000000127
+    },
+    {
+      "text": "that concerns me is it is in our national interest for NVIDIA and other AI champions to",
+      "start": 2787.98,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "succeed, but American companies should never jeopardize our nation's security by giving",
+      "start": 2792.38,
+      "duration": 4.239999999999782
+    },
+    {
+      "text": "Chinese companies access to their most advanced chips. NVIDIA must now change its corporate",
+      "start": 2796.62,
+      "duration": 4.0
+    },
+    {
+      "text": "practices and appoint leadership that makes national security's top priority. I mean,",
+      "start": 2800.62,
+      "duration": 4.0
+    },
+    {
+      "text": "they're telling you right now what the terms will be for this to end. And it's going to",
+      "start": 2804.62,
+      "duration": 7.119999999999891
+    },
+    {
+      "text": "require some level of control checks. And then the question is who actually will get the keys?",
+      "start": 2811.74,
+      "duration": 7.200000000000273
+    },
+    {
+      "text": "Will it be the NSA? Will it be the CIA? Will it be commerce? Will it be BIS? Will it be",
+      "start": 2818.94,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "somewhere in Treasury? Some congressional committee that will be the new polity?",
+      "start": 2823.02,
+      "duration": 3.599999999999909
+    },
+    {
+      "text": "So this is the devil's in the details here, Chamath. This has been something that's been on",
+      "start": 2826.62,
+      "duration": 4.320000000000164
+    },
+    {
+      "text": "the table. There's something called the Chip Security Act. It's bipartisan. And the Chip",
+      "start": 2830.94,
+      "duration": 4.239999999999782
+    },
+    {
+      "text": "Security Act, there's a big question with these kill switches. Is it self enforced? In other",
+      "start": 2835.18,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "words, NVIDIA puts these in, and NVIDIA pays the price if their chips are found in China,",
+      "start": 2839.98,
+      "duration": 6.639999999999873
+    },
+    {
+      "text": "via Singapore, Malaysia, wherever, and they would pay the price, but it would be up to them",
+      "start": 2846.62,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "to track them and then reassign them. So if they were resold, instead of it just being paperwork,",
+      "start": 2852.06,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "you would have to re initialize them. By the way, this is very easy to do technologically.",
+      "start": 2857.98,
+      "duration": 5.2800000000002
+    },
+    {
+      "text": "People will claim it's not it is a civil liberties issue, obviously, as you correctly",
+      "start": 2863.26,
+      "duration": 3.6799999999998363
+    },
+    {
+      "text": "point out, Sacks, but it's easy to do because if you have an iPad and you've ever had a brick,",
+      "start": 2866.94,
+      "duration": 3.8400000000001455
+    },
+    {
+      "text": "and it's like, you don't remember the password, now you got to go to the store,",
+      "start": 2870.78,
+      "duration": 3.2799999999997453
+    },
+    {
+      "text": "and they you can recover stolen iPhones and stolen iPads with this basic, basic technology.",
+      "start": 2874.06,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "So as I described it, Sacks, very easy. And there is this act and it is bipartisan. There's a lot",
+      "start": 2880.14,
+      "duration": 5.360000000000127
+    },
+    {
+      "text": "of people who want chips tracked. Now, whether it's being tracked, and it's a responsibility of",
+      "start": 2885.5,
+      "duration": 6.400000000000091
+    },
+    {
+      "text": "the company or a government organization, that's the devil in the details there. One is obviously",
+      "start": 2891.9,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "way worse for privacy and civil liberties. So what's your thought here on this regulation",
+      "start": 2895.98,
+      "duration": 5.2800000000002
+    },
+    {
+      "text": "of high end chips? Let me go back and just give you guys a little bit of context on chip regulation.",
+      "start": 2901.26,
+      "duration": 4.879999999999654
+    },
+    {
+      "text": "So this started in 2022 in the Biden administration. And the Biden administration was the first to put",
+      "start": 2906.14,
+      "duration": 7.8400000000001455
+    },
+    {
+      "text": "export control restrictions on advanced semiconductors. At the same time, they permitted",
+      "start": 2913.98,
+      "duration": 7.039999999999964
+    },
+    {
+      "text": "what they called lagging chips to be continued to be sold into China. So there was a",
+      "start": 2921.9,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "distinction made between leading edge chips and lagging chips. And leading edge chips were",
+      "start": 2926.62,
+      "duration": 7.360000000000127
+    },
+    {
+      "text": "prohibited to be sold to China, but lagging chips, like the H20, could be sold in unlimited",
+      "start": 2933.98,
+      "duration": 6.239999999999782
+    },
+    {
+      "text": "quantities to China on an unlicensed basis. Okay, so just everyone kind of keep that in mind. Now,",
+      "start": 2940.22,
+      "duration": 6.640000000000327
+    },
+    {
+      "text": "what happened in the Trump administration? The Trump administration basically stuck with that",
+      "start": 2948.06,
+      "duration": 5.2800000000002
+    },
+    {
+      "text": "framework. The idea was no leading edge chips to China. However, lagging chips could potentially",
+      "start": 2953.34,
+      "duration": 7.199999999999818
+    },
+    {
+      "text": "be sold, but the administration changed it to be limited quantities on a license basis. So again,",
+      "start": 2960.54,
+      "duration": 7.440000000000055
+    },
+    {
+      "text": "we went from unlimited quantities, unlicensed of lagging chips under Biden, to limited and licensed",
+      "start": 2967.98,
+      "duration": 8.239999999999782
+    },
+    {
+      "text": "under the Trump administration. The reason why I say this is because there's an effort right now",
+      "start": 2977.02,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "to retcon chip policy to try and create this narrative that somehow the Trump administration",
+      "start": 2982.38,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "has been soft on China. This is what all the democratic leaders are trying to do. They're",
+      "start": 2988.46,
+      "duration": 4.0
+    },
+    {
+      "text": "already trying to use this whole Jensen thing to basically spin this narrative that the Trump",
+      "start": 2992.46,
+      "duration": 5.7599999999997635
+    },
+    {
+      "text": "administration has been insufficiently tough on China. Now, this is an extremely hypocritical",
+      "start": 2998.22,
+      "duration": 6.960000000000036
+    },
+    {
+      "text": "narrative in a number of ways. First of all, many of these politicians were very much in favor",
+      "start": 3005.18,
+      "duration": 6.480000000000018
+    },
+    {
+      "text": "of an engagement policy towards China, which ended up exporting large numbers of our jobs",
+      "start": 3011.66,
+      "duration": 5.8400000000001455
+    },
+    {
+      "text": "in the industry over to China. It was Trump who in the first term really caused a revision",
+      "start": 3017.5,
+      "duration": 6.400000000000091
+    },
+    {
+      "text": "of that doctrine. We moved from engagement to a much more standoffish policy towards China.",
+      "start": 3023.9,
+      "duration": 6.799999999999727
+    },
+    {
+      "text": "So that's point number one. Point number two is these Democrats are the leading people who are",
+      "start": 3030.7,
+      "duration": 4.5600000000004
+    },
+    {
+      "text": "opposed to data centers. In fact, we just got a story about how in Maryland there was an abandoned",
+      "start": 3035.26,
+      "duration": 8.079999999999927
+    },
+    {
+      "text": "shopping mall where a data center was going to go and a local activist basically managed to kill",
+      "start": 3043.34,
+      "duration": 7.519999999999982
+    },
+    {
+      "text": "that data center, not totally surprising. However, she credited the viral success of her campaign",
+      "start": 3050.86,
+      "duration": 5.7599999999997635
+    },
+    {
+      "text": "to the party for socialism and liberation, which is a China proxy organization operating here in the",
+      "start": 3056.62,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "U.S. It's called the PSL. And according to this tweet that I'm putting on the screen, it is the",
+      "start": 3062.7,
+      "duration": 6.5600000000004
+    },
+    {
+      "text": "political arm of Shanghai based Neville Roy Singham, who is an avowed Marxist multimillionaire whose",
+      "start": 3069.26,
+      "duration": 5.839999999999691
+    },
+    {
+      "text": "bankrolled anti-American pro-CCP nonprofits to the tune of $278 million. And Neville Roy",
+      "start": 3075.1,
+      "duration": 9.11999999999989
+    },
+    {
+      "text": "Singham's political foot soldiers have been boots on the ground here in the U.S. opposing dozens",
+      "start": 3084.22,
+      "duration": 5.120000000000346
+    },
+    {
+      "text": "of data centers. And these efforts are most aligned with the Democrat party. So if the Democrats are",
+      "start": 3089.42,
+      "duration": 7.199999999999818
+    },
+    {
+      "text": "serious about opposing Chinese influence, I think we should conduct an investigation and have hearings",
+      "start": 3096.62,
+      "duration": 7.200000000000273
+    },
+    {
+      "text": "on whether the CCP is actually involved in these anti-data center efforts across the country.",
+      "start": 3104.38,
+      "duration": 6.319999999999709
+    },
+    {
+      "text": "You don't hear Democrat leaders trying to say that. So I'm pointing out basically their hypocrisy",
+      "start": 3110.7,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "on this issue. Let me go back to the issue of chips for a second here. If Congress now believes",
+      "start": 3116.14,
+      "duration": 6.880000000000109
+    },
+    {
+      "text": "that we should not sell lagging chips to China, my view on that is fine. Let's make that the",
+      "start": 3123.74,
+      "duration": 6.960000000000036
+    },
+    {
+      "text": "policy. I don't think the juice is worth the squeeze. I think there were some good policy",
+      "start": 3130.7,
+      "duration": 5.2800000000002
+    },
+    {
+      "text": "arguments for why you might want to take market share from Huawei with a deprecated chip,",
+      "start": 3135.98,
+      "duration": 6.239999999999782
+    },
+    {
+      "text": "a much less powerful chip. If you could take market share away from Huawei, those R&D dollars",
+      "start": 3142.22,
+      "duration": 6.320000000000164
+    },
+    {
+      "text": "would flow to American companies instead of to a Chinese company. And it would slow down the",
+      "start": 3148.54,
+      "duration": 5.679999999999836
+    },
+    {
+      "text": "scale up of Huawei because chips are a scale up business. So that was the original reason",
+      "start": 3154.22,
+      "duration": 6.640000000000327
+    },
+    {
+      "text": "why deprecated chips were still allowed to be sold into China. And that was a logic that",
+      "start": 3161.42,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "the Biden administration came up with. And it was continued in the Trump administration. And like",
+      "start": 3166.94,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "I said, there's now an effort to try and retcon anyone who wanted to sell deprecated chips into",
+      "start": 3171.98,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "China as somehow being soft on China and doing China's bidding. Look, that was a bipartisan policy",
+      "start": 3177.1,
+      "duration": 6.320000000000164
+    },
+    {
+      "text": "if Congress now wants to change that policy and say, we're not going to sell anything to China.",
+      "start": 3183.42,
+      "duration": 6.1599999999998545
+    },
+    {
+      "text": "Fine, do that. Again, I think that given our political climate, I think it's too hard to have",
+      "start": 3189.58,
+      "duration": 6.0
+    },
+    {
+      "text": "that nuanced policy. By the way, here's the most surprising thing about the whole thing.",
+      "start": 3195.58,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "China doesn't even want the chips. Didn't they put a ban on their company buying it?",
+      "start": 3201.18,
+      "duration": 2.880000000000109
+    },
+    {
+      "text": "Yes, they banned the H20 chip. And then when the H200 got approved, they basically have prevented",
+      "start": 3204.06,
+      "duration": 5.2800000000002
+    },
+    {
+      "text": "those chips from entering the country. And they announced other Nvidia SKUs that they're",
+      "start": 3209.34,
+      "duration": 4.1599999999998545
+    },
+    {
+      "text": "against. So China doesn't even want the chips. This is the thing that I think a lot of people",
+      "start": 3213.5,
+      "duration": 3.7600000000002183
+    },
+    {
+      "text": "in Washington haven't wrestled with is that the policy of the China Hawks is effectively the",
+      "start": 3217.26,
+      "duration": 6.959999999999582
+    },
+    {
+      "text": "policy of the CCP. Neither one wants American chips in China. Now, they want that policy for",
+      "start": 3224.22,
+      "duration": 7.2800000000002
+    },
+    {
+      "text": "different reasons. The China Hawks think it's going to help China to have American chips there.",
+      "start": 3231.5,
+      "duration": 5.360000000000127
+    },
+    {
+      "text": "And the CCP wants to keep Nvidia chips out of China because they're trying to prop up Huawei",
+      "start": 3237.42,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "as their national champion. So they want to force the Chinese market into the arms of Huawei",
+      "start": 3242.62,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "so that Huawei can scale up and then compete all over the world. So again, it's kind of crazy",
+      "start": 3248.54,
+      "duration": 5.2800000000002
+    },
+    {
+      "text": "that people think that the CCP is begging for these chips. I think that Chinese companies want",
+      "start": 3253.9,
+      "duration": 6.880000000000109
+    },
+    {
+      "text": "them. Chinese developers want them. But the Chinese government, based on all their public",
+      "start": 3260.78,
+      "duration": 4.239999999999782
+    },
+    {
+      "text": "statements and their policies, is trying to keep out those American chips.",
+      "start": 3265.02,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "Clearly, the companies making LLMs covet the latest chips right now. Chinese government",
+      "start": 3269.1,
+      "duration": 5.680000000000291
+    },
+    {
+      "text": "covets building their own chip champions internally. So two things can be true at",
+      "start": 3274.78,
+      "duration": 5.919999999999618
+    },
+    {
+      "text": "the same time. It's a very subtle point. They're trying to indigenize chip production. They think",
+      "start": 3280.7,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "it's a critical industry. And in the same way that we're trying to get rare earths out of their",
+      "start": 3285.58,
+      "duration": 5.200000000000273
+    },
+    {
+      "text": "clutches and we're trying to get our own rare earth supply. They're trying to create their own",
+      "start": 3290.78,
+      "duration": 3.199999999999818
+    },
+    {
+      "text": "chip supply. They're trying to scale up domestic chip manufacturers. And they're willing to endure",
+      "start": 3293.98,
+      "duration": 5.2800000000002
+    },
+    {
+      "text": "some short term pain in their ecosystem to prop up Huawei to force all of their local companies,",
+      "start": 3299.26,
+      "duration": 6.319999999999709
+    },
+    {
+      "text": "their developers to try and use Huawei. And if you look at recent press, the latest deep seek",
+      "start": 3305.58,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "model is being trained exclusively on Huawei chips. So in any event, there's like a big disconnect",
+      "start": 3310.38,
+      "duration": 5.7599999999997635
+    },
+    {
+      "text": "here where I think the China hawks in DC think that the Chinese government is begging for their",
+      "start": 3316.14,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "chips. And the truth is that they would love to keep the chips out too, which is why I say,",
+      "start": 3321.74,
+      "duration": 4.5600000000004
+    },
+    {
+      "text": "again, the juice isn't worth the squeeze. The China hawks don't want the chips sold.",
+      "start": 3326.3,
+      "duration": 4.319999999999709
+    },
+    {
+      "text": "The Chinese government doesn't want the chips sold. So just forget about it. Stop selling them.",
+      "start": 3330.62,
+      "duration": 4.160000000000309
+    },
+    {
+      "text": "I mean, this is the crazy thing is that if Jensen was taken out because he wanted to sell",
+      "start": 3334.78,
+      "duration": 5.7599999999997635
+    },
+    {
+      "text": "chips to China, it was the stupidest, most moot hill to die on because China is not taking those",
+      "start": 3340.54,
+      "duration": 7.760000000000218
+    },
+    {
+      "text": "chips anyway. That's what's so crazy about it. And you guys don't think that there's",
+      "start": 3348.3,
+      "duration": 3.8399999999996908
+    },
+    {
+      "text": "some pretty significant potential that Jensen knew that there was violations happening",
+      "start": 3353.42,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "of these chips making their way to China. And he was allowing it to happen through",
+      "start": 3359.1,
+      "duration": 3.4400000000000546
+    },
+    {
+      "text": "mega speed and perhaps other companies. And that's what really brought him down.",
+      "start": 3362.54,
+      "duration": 11.360000000000127
+    },
+    {
+      "text": "Yeah. It's 46% of revenue comes from China, then yes.",
+      "start": 3373.9,
+      "duration": 3.4400000000000546
+    },
+    {
+      "text": "Well, I don't think it's 46. But even still, what more do you need for him personally or for",
+      "start": 3377.34,
+      "duration": 6.1599999999998545
+    },
+    {
+      "text": "the company than being the largest company in the world ever created by humanity? And why would he",
+      "start": 3383.5,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "risk doing something that is treasonous that would result in him going to jail?",
+      "start": 3388.62,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "I will tell you why. Please. Jensen's philosophy, like I said before,",
+      "start": 3393.02,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "is that AI is a tool for humanity. I know that he's America first. We know the guy,",
+      "start": 3397.66,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "we know that he's patriotic. He is an American patriot. But I do also believe that there's a",
+      "start": 3402.7,
+      "duration": 6.400000000000091
+    },
+    {
+      "text": "philosophy that a core group of technologists hold. That is that technology progresses humanity.",
+      "start": 3409.1,
+      "duration": 6.720000000000255
+    },
+    {
+      "text": "It's not about progressing one side over the other. That technology brings us all up.",
+      "start": 3415.82,
+      "duration": 6.1599999999998545
+    },
+    {
+      "text": "And as more people in the world are brought up, there is less conflict. There's more",
+      "start": 3421.98,
+      "duration": 4.320000000000164
+    },
+    {
+      "text": "abundance. There's less reasons to hate each other. There's less resources to fight over,",
+      "start": 3426.3,
+      "duration": 4.879999999999654
+    },
+    {
+      "text": "and so on and so forth. And that's a beautiful view of the future. It's a beautiful view of",
+      "start": 3431.18,
+      "duration": 4.2400000000002365
+    },
+    {
+      "text": "what technology can enable. So if you hold that core and true in your heart, perhaps there's a",
+      "start": 3435.42,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "way that you unconsciously kind of rationalize your way into saying, hey, look, I'm following",
+      "start": 3440.46,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "the rules of the book, the rules of the book, say I consulted Vietnam and Singapore and whatever,",
+      "start": 3445.98,
+      "duration": 5.2800000000002
+    },
+    {
+      "text": "and I'm doing exactly that. But if you then find out that those things are making their way",
+      "start": 3451.26,
+      "duration": 5.279999999999745
+    },
+    {
+      "text": "over to China, but it's not violating the rules of the book, but you know that it's happening,",
+      "start": 3456.54,
+      "duration": 4.1599999999998545
+    },
+    {
+      "text": "that's where things start to get perhaps a little bit blurry, a little bit slippery.",
+      "start": 3460.7,
+      "duration": 3.200000000000273
+    },
+    {
+      "text": "Yeah, I don't know. I mean, look, I'm just speculating.",
+      "start": 3463.9,
+      "duration": 2.480000000000018
+    },
+    {
+      "text": "Yes, you're speculating there, Friedberg. And what I would say is, look, my framing at the very top",
+      "start": 3466.38,
+      "duration": 4.480000000000018
+    },
+    {
+      "text": "here was that there's two ops, right? There's whatever Alice Wong and MegaSpeed we're doing,",
+      "start": 3470.86,
+      "duration": 3.8399999999996908
+    },
+    {
+      "text": "which I said should be investigated. And then there's whatever the leakers were up to who",
+      "start": 3474.7,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "broke the law in order to leak these details about Jensen. With respect to the first op,",
+      "start": 3479.5,
+      "duration": 6.480000000000018
+    },
+    {
+      "text": "we don't know what happened. There should be a full investigation. I mean, look, if Jensen",
+      "start": 3485.98,
+      "duration": 4.320000000000164
+    },
+    {
+      "text": "and Vidya broke the law, that's really bad. And there should be consequences for that.",
+      "start": 3490.3,
+      "duration": 3.7599999999997635
+    },
+    {
+      "text": "I'm definitely not defending that at all, if that turns out to be true. But I also think that",
+      "start": 3494.62,
+      "duration": 5.8400000000001455
+    },
+    {
+      "text": "Invidia has denied it. And we should just wait to see what the facts are there.",
+      "start": 3500.46,
+      "duration": 4.320000000000164
+    },
+    {
+      "text": "Okay, so let's ask who should be the next CEO and what's going to happen?",
+      "start": 3504.78,
+      "duration": 3.599999999999909
+    },
+    {
+      "text": "I mean, look, there's some incredibly brilliant technical people, Samir, Ian Bach,",
+      "start": 3508.38,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "inside of Invidia. I think Ian's the most obvious internal candidate and the most obvious",
+      "start": 3513.5,
+      "duration": 6.1599999999998545
+    },
+    {
+      "text": "external candidate is Renee Haas from ARM and Nikesh Arora from Palo Alto Networks. Renee,",
+      "start": 3519.66,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "because he worked at Invidia for many, many years, worked directly for Jensen,",
+      "start": 3525.58,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "and has been running ARM successfully. So he's steeped in chips. And then Nikesh, because he's",
+      "start": 3530.7,
+      "duration": 6.160000000000309
+    },
+    {
+      "text": "been the best capital allocator of the last five or 10 years in the public markets, and a huge",
+      "start": 3536.86,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "surface area of AI is going to be around security. So he brings that to the table.",
+      "start": 3543.34,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "I would be pro Nikesh, pro Renee, pro Ian Bach, because I think what you get are technical,",
+      "start": 3548.94,
+      "duration": 5.7599999999997635
+    },
+    {
+      "text": "aggressive, product oriented capital allocators. I think the thing that you don't want is a steward.",
+      "start": 3554.7,
+      "duration": 5.8400000000001455
+    },
+    {
+      "text": "And the reason is I do not think that this is a business that is just going to",
+      "start": 3561.34,
+      "duration": 4.1599999999998545
+    },
+    {
+      "text": "roller coaster, it's not going to just go be milked like a fatted cow. And so I think if you",
+      "start": 3565.9,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "treat it as a business where you don't take risk, you are going to lose.",
+      "start": 3571.1,
+      "duration": 3.599999999999909
+    },
+    {
+      "text": "It's a wartime company right now, right? This is a dynamic company.",
+      "start": 3574.7,
+      "duration": 3.519999999999982
+    },
+    {
+      "text": "And you need a wartime CEO.",
+      "start": 3579.1,
+      "duration": 2.1600000000003092
+    },
+    {
+      "text": "Here's my speculation. If it is found to be the case that Jensen did not violate any laws,",
+      "start": 3581.26,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "I would argue that Jensen should return a CEO. And I think that any violation of code of conduct,",
+      "start": 3587.26,
+      "duration": 6.319999999999709
+    },
+    {
+      "text": "any failure to make disclosures or attestations to the board as he should have done,",
+      "start": 3593.58,
+      "duration": 3.8400000000001455
+    },
+    {
+      "text": "perhaps in this particular context with this particular business and this particular",
+      "start": 3597.98,
+      "duration": 3.7599999999997635
+    },
+    {
+      "text": "individual, the shareholders can make a decision to CPAFT all that and bring him back.",
+      "start": 3601.74,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "If he didn't violate the law, if he broke the company code of conduct, and so on,",
+      "start": 3606.62,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "the shareholders can make their choice about whether it's appropriate or not. But I think",
+      "start": 3612.54,
+      "duration": 3.6799999999998363
+    },
+    {
+      "text": "there's obviously the question of who's the best CEO to run NVIDIA,",
+      "start": 3616.22,
+      "duration": 3.200000000000273
+    },
+    {
+      "text": "is probably Jensen.",
+      "start": 3621.26,
+      "duration": 1.0399999999999636
+    },
+    {
+      "text": "I'm with you. I think, based on what I've seen, Jensen's going to come back",
+      "start": 3622.3,
+      "duration": 3.8399999999996908
+    },
+    {
+      "text": "as chairman or CEO. I think he's going to be exonerated. That's what I believe,",
+      "start": 3626.94,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "slash hope happens. Other two possibilities that people have discussed often. SpaceX brings",
+      "start": 3631.02,
+      "duration": 7.360000000000127
+    },
+    {
+      "text": "Jensen on as the CEO of the Terrify business, works alongside Elon, maybe even as peers in",
+      "start": 3638.38,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "the company. Or, yeah, and the cash is awesome. Why not have NVIDIA buy Palo Alto Networks?",
+      "start": 3643.9,
+      "duration": 6.960000000000036
+    },
+    {
+      "text": "They need security. Security is a key issue, cyber, in this space. And just NVIDIA can easily",
+      "start": 3650.86,
+      "duration": 6.960000000000036
+    },
+    {
+      "text": "afford to buy Palo Alto. You put in the cash in that suit? Those seem like three reasonable",
+      "start": 3657.9,
+      "duration": 4.1599999999998545
+    },
+    {
+      "text": "solutions. I don't know if you want to speculate Sacks before we move on to the entropic IPO.",
+      "start": 3662.06,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "I would just say that I hope that Jensen ultimately is treated at least as well as",
+      "start": 3666.78,
+      "duration": 5.359999999999673
+    },
+    {
+      "text": "Eric Swalwell. Okay. In this whole matter.",
+      "start": 3672.14,
+      "duration": 2.800000000000182
+    },
+    {
+      "text": "Well said, yeah.",
+      "start": 3674.94,
+      "duration": 0.9600000000000364
+    },
+    {
+      "text": "But yeah, look, I think Friedberg makes a good point, which is that what is the crime",
+      "start": 3675.9,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "here that he's been even accused of. Now, look, we don't have all the facts. Things may come out.",
+      "start": 3680.54,
+      "duration": 5.360000000000127
+    },
+    {
+      "text": "So let's see how this all plays out. By the way, just one thing I want to say, if you're asking me,",
+      "start": 3686.7,
+      "duration": 4.320000000000164
+    },
+    {
+      "text": "like, what I think about Jensen, you know, I see all this fake news where somehow",
+      "start": 3691.02,
+      "duration": 3.2800000000002
+    },
+    {
+      "text": "they think like I had a long relationship with Jensen or whatever. I never knew Jensen before",
+      "start": 3694.3,
+      "duration": 4.319999999999709
+    },
+    {
+      "text": "the administration. The first time I ever met him was in the White House. I've got all these",
+      "start": 3698.62,
+      "duration": 3.519999999999982
+    },
+    {
+      "text": "reporters thinking that somehow we had this like long standing friendship going back before I",
+      "start": 3702.14,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "was in the White House or somehow that I introduced him to Trump or stuff like that.",
+      "start": 3706.94,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "Not true. I met him when he was already in the White House for a meeting anyway.",
+      "start": 3711.02,
+      "duration": 3.7600000000002183
+    },
+    {
+      "text": "So my point is I have no special devotion or loyalty to Jensen, but I respect him as a founder",
+      "start": 3714.78,
+      "duration": 6.879999999999654
+    },
+    {
+      "text": "and I see his unique value as a founder to NVIDIA and therefore to the United States.",
+      "start": 3721.66,
+      "duration": 5.760000000000218
+    },
+    {
+      "text": "And if it's found out that he has never broken the law, then I think you guys are right that",
+      "start": 3727.98,
+      "duration": 7.039999999999964
+    },
+    {
+      "text": "like what are we doing here?",
+      "start": 3735.02,
+      "duration": 1.6799999999998363
+    },
+    {
+      "text": "It makes no sense. And we again, you know, we're sitting here.",
+      "start": 3736.7,
+      "duration": 4.080000000000382
+    },
+    {
+      "text": "And by the way, the board might have no choice, right? Because they're fiduciary duty,",
+      "start": 3740.78,
+      "duration": 3.6799999999998363
+    },
+    {
+      "text": "which means they don't want to get sued. They don't want to lose DNO insurance.",
+      "start": 3744.54,
+      "duration": 2.480000000000018
+    },
+    {
+      "text": "All the things that happened as a board mentioned it earlier.",
+      "start": 3747.02,
+      "duration": 1.9200000000000728
+    },
+    {
+      "text": "Correct.",
+      "start": 3748.94,
+      "duration": 0.40000000000009095
+    },
+    {
+      "text": "You have to take action and so on. Perhaps if Jensen comes back, he gets a founder.",
+      "start": 3749.34,
+      "duration": 5.359999999999673
+    },
+    {
+      "text": "The shareholder lawsuits here are going to be ginormous. The company has lost almost a",
+      "start": 3754.7,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "trillion dollars of value in about nine days. And so there's a lot of harm here that has",
+      "start": 3759.5,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "to be managed somehow. So this is where even if he's found to have not done anything bad,",
+      "start": 3763.9,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "the situation becomes very complicated because of all of this other traditional",
+      "start": 3769.82,
+      "duration": 4.319999999999709
+    },
+    {
+      "text": "infrastructure like the SEC is going to have a point of view.",
+      "start": 3774.14,
+      "duration": 2.800000000000182
+    },
+    {
+      "text": "The auditors will have a point of view. So it's just a lot to navigate.",
+      "start": 3778.38,
+      "duration": 4.0
+    },
+    {
+      "text": "Just on that question, you know, there is an active investigation, I believe,",
+      "start": 3782.38,
+      "duration": 4.1599999999998545
+    },
+    {
+      "text": "at the Justice Department that's been reported. So we have to see what that ends up. Like I've",
+      "start": 3786.54,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "said, I advocate full investigation. We need to get the facts here.",
+      "start": 3791.58,
+      "duration": 3.200000000000273
+    },
+    {
+      "text": "Transparency.",
+      "start": 3794.78,
+      "duration": 0.6399999999998727
+    },
+    {
+      "text": "Again, if he's done something wrong, then he's going to have to deal with the consequences. But",
+      "start": 3795.42,
+      "duration": 3.2799999999997453
+    },
+    {
+      "text": "until that point, I mean, we have in this country, a very sacrosanct principle that you're",
+      "start": 3799.26,
+      "duration": 5.7599999999997635
+    },
+    {
+      "text": "innocent until proven guilty. And I will just say that what's happened here, apparently,",
+      "start": 3805.02,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "is that people who are hostile to Jensen, who were briefed on this memo, broke the law",
+      "start": 3810.3,
+      "duration": 6.639999999999873
+    },
+    {
+      "text": "in order to leak it in order to take him down. And that is not the way we should be conducting",
+      "start": 3817.66,
+      "duration": 5.600000000000364
+    },
+    {
+      "text": "investigations in this country. The Justice Department should be investigating this matter.",
+      "start": 3823.26,
+      "duration": 4.879999999999654
+    },
+    {
+      "text": "They should be the ones determining whether he did something wrong.",
+      "start": 3828.14,
+      "duration": 3.7600000000002183
+    },
+    {
+      "text": "Totally right.",
+      "start": 3831.9,
+      "duration": 0.4800000000000182
+    },
+    {
+      "text": "This should not be tried in the court of public opinion.",
+      "start": 3832.38,
+      "duration": 2.880000000000109
+    },
+    {
+      "text": "100%.",
+      "start": 3835.26,
+      "duration": 0.23999999999978172
+    },
+    {
+      "text": "Using innuendo and learned allegations. And this is always what people go to as a weapon,",
+      "start": 3835.5,
+      "duration": 6.880000000000109
+    },
+    {
+      "text": "sex is very embarrassing to people. And in politics, it gets used as a weapon.",
+      "start": 3843.18,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "It's disgraceful, yeah.",
+      "start": 3848.14,
+      "duration": 1.0399999999999636
+    },
+    {
+      "text": "And it's so obvious that that's what has happened here.",
+      "start": 3850.14,
+      "duration": 3.1200000000003456
+    },
+    {
+      "text": "I understand what you're saying. Let me just say something slightly different.",
+      "start": 3853.26,
+      "duration": 2.9599999999995816
+    },
+    {
+      "text": "You're absolutely right that there's no shred of thought that there's been any criminality.",
+      "start": 3857.02,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "And so that needs to be thoroughly investigated. In every aspect of what's happened, the leaker",
+      "start": 3861.9,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "clearly broke the law, but there's no sense that there's been any criminality by NVIDIA or",
+      "start": 3867.42,
+      "duration": 4.1599999999998545
+    },
+    {
+      "text": "Jensen that needs to get adjudicated properly and fairly for him and for them and for the",
+      "start": 3871.58,
+      "duration": 3.8400000000001455
+    },
+    {
+      "text": "company they built. But what is unfortunately undeniable are the civil claims which are already",
+      "start": 3875.42,
+      "duration": 5.679999999999836
+    },
+    {
+      "text": "real. Which is you've seen one and a half trillion dollars of value just wiped out.",
+      "start": 3881.82,
+      "duration": 7.039999999999964
+    },
+    {
+      "text": "And at a minimum, there was some disclosure issues. There were some problematic issues.",
+      "start": 3889.98,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "There was the NVIDIA PR people that were saying that this didn't happen, then it did happen.",
+      "start": 3895.5,
+      "duration": 4.7199999999998
+    },
+    {
+      "text": "So at some point, somebody was misleading somebody. And all of that has ultimately",
+      "start": 3900.22,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "resulted in actual harm that can be measured monetarily.",
+      "start": 3905.74,
+      "duration": 3.4400000000000546
+    },
+    {
+      "text": "That's where a lot of the action is going to focus on, because that's where people will have",
+      "start": 3909.18,
+      "duration": 5.8400000000001455
+    },
+    {
+      "text": "dollar signs in their eyes, sadly, in the United States. You'll have the plaintiffs, folks of the",
+      "start": 3915.74,
+      "duration": 6.160000000000309
+    },
+    {
+      "text": "attorneys going absolutely nuts. They'll be licking their chops thinking, I'm going to sue",
+      "start": 3921.9,
+      "duration": 3.7599999999997635
+    },
+    {
+      "text": "for a trillion and a half dollars of damage. And I'm going to be willing to settle for",
+      "start": 3926.22,
+      "duration": 4.5600000000004
+    },
+    {
+      "text": "250 billion dollars. And I'm going to take half of it. That's what the trial lawyers are",
+      "start": 3930.78,
+      "duration": 5.279999999999745
+    },
+    {
+      "text": "going to be thinking here. And so there's going to be all kinds of issues around that, David,",
+      "start": 3936.06,
+      "duration": 5.200000000000273
+    },
+    {
+      "text": "where I think unfortunately, that damage has been done. Those eggs cannot be unscrambled.",
+      "start": 3941.26,
+      "duration": 5.839999999999691
+    },
+    {
+      "text": "I think there is one tiny possibility that we'll just put out there, or I'll put out there.",
+      "start": 3947.1,
+      "duration": 6.2400000000002365
+    },
+    {
+      "text": "The leak would be completely valid. It would be completely valid to break the law and to leak",
+      "start": 3954.3,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "this if this was for the betterment of society. In other words, Pentagon Papers. If you remember",
+      "start": 3960.38,
+      "duration": 7.199999999999818
+    },
+    {
+      "text": "the movie, The Inside of the Brown and Williamson's, Tobacco Documents. There are examples of virtuous",
+      "start": 3967.58,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "leaks. I don't think that's the case here. But you can say there is a small, small chance",
+      "start": 3973.02,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "that there could be a leak that would be for the benefit of society. And that would be a virtuous",
+      "start": 3979.5,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "whistle blower. All right. And Propix IPO Roadshow is underway. They've started to temper",
+      "start": 3983.9,
+      "duration": 5.7599999999997635
+    },
+    {
+      "text": "expectations a bit, according to Reuters. Propix is going to sell $825 million shares,",
+      "start": 3989.66,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "$70 to $78 a share. Who put the value of the company at $1.4 trillion? That's below reports",
+      "start": 3995.18,
+      "duration": 6.080000000000382
+    },
+    {
+      "text": "of $2 trillion and $3 trillion. There was a lot of excitement about the company a couple of",
+      "start": 4001.26,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "months ago. Total raise, $90 billion, $64 billion in share sales, and $26 billion in a private",
+      "start": 4005.82,
+      "duration": 6.639999999999873
+    },
+    {
+      "text": "placement. We've talked about that before. A lot of their existing investors and partners",
+      "start": 4012.46,
+      "duration": 4.1599999999998545
+    },
+    {
+      "text": "are investing. It gives them a giant war chest, as you pointed out in a previous episode.",
+      "start": 4016.7,
+      "duration": 3.8400000000001455
+    },
+    {
+      "text": "Seven founders plan to sell about $250 million each. That still leaves each with a stake of",
+      "start": 4021.42,
+      "duration": 6.1599999999998545
+    },
+    {
+      "text": "about $18 billion. So there's seven founders with basically $20 billion stake. They pledge to donate",
+      "start": 4027.58,
+      "duration": 6.0
+    },
+    {
+      "text": "80% of their holdings to charity. However, I don't think that that is legally binding at this",
+      "start": 4033.58,
+      "duration": 6.2400000000002365
+    },
+    {
+      "text": "point. It's a pledge. Business is booming. Run rate, $81 billion at the end of October. Q3 revenue",
+      "start": 4039.82,
+      "duration": 6.799999999999727
+    },
+    {
+      "text": "was $17 billion against $10 billion for OpenAI. So they incredibly passed OpenAI in revenue by",
+      "start": 4046.62,
+      "duration": 7.680000000000291
+    },
+    {
+      "text": "going enterprise. Obviously, OpenAI, trying to catch up with them, but they're largely",
+      "start": 4054.3,
+      "duration": 5.7599999999997635
+    },
+    {
+      "text": "consumer-driven. Great overview of Anthropics IPO here from our partner, AlphaSense. Anthropics",
+      "start": 4060.06,
+      "duration": 8.320000000000164
+    },
+    {
+      "text": "target IPO valuation, 46% premium on its last private round, but they've doubled their run rate",
+      "start": 4068.38,
+      "duration": 6.319999999999709
+    },
+    {
+      "text": "since then. So perhaps they are filling in the valuation they've had that's been pretty high for",
+      "start": 4074.7,
+      "duration": 5.680000000000291
+    },
+    {
+      "text": "a long time. As we say in the business, filling in that valuation. Analysts have Anthropics bull",
+      "start": 4080.38,
+      "duration": 5.359999999999673
+    },
+    {
+      "text": "case at $4.2 trillion valuation 15 times. It's 28 expected revenue of $281 billion. That would be",
+      "start": 4085.74,
+      "duration": 10.88000000000011
+    },
+    {
+      "text": "the second largest company in the world ahead of Nvidia. At $1.4 trillion, that's a 17x multiple",
+      "start": 4096.62,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "current run rate. Gentlemen, what are your thoughts here on the IPO? Chamath, you've,",
+      "start": 4102.54,
+      "duration": 6.800000000000182
+    },
+    {
+      "text": "I think, correctly threw a little bit of cold water on and said it might be a little bit less",
+      "start": 4110.86,
+      "duration": 4.5600000000004
+    },
+    {
+      "text": "in terms of valuation, but they're raising a lot of money and they have that work chest,",
+      "start": 4116.3,
+      "duration": 3.5999999999994543
+    },
+    {
+      "text": "as you pointed out in the previous episodes. I think it's great that they're going to have",
+      "start": 4119.9,
+      "duration": 3.600000000000364
+    },
+    {
+      "text": "somewhere between $230 and $300 billion. I think that's very important for them to weather the storm.",
+      "start": 4123.58,
+      "duration": 6.1599999999998545
+    },
+    {
+      "text": "What is the storm? The storm is whatever is going to happen over the next few weeks and months,",
+      "start": 4131.1,
+      "duration": 3.759999999999309
+    },
+    {
+      "text": "and then what the economy does in reaction to it. I think the reality is that this IPO",
+      "start": 4135.58,
+      "duration": 5.8400000000001455
+    },
+    {
+      "text": "is crucial. It has to happen. The issue that I have is that 20% of the value of Anthropic",
+      "start": 4142.3,
+      "duration": 7.199999999999818
+    },
+    {
+      "text": "will be because of Anthropic, and that's unfortunate because I think they deserve to be",
+      "start": 4150.06,
+      "duration": 3.839999999999236
+    },
+    {
+      "text": "more in control. 80% has to do with the broad-based economy. That has 100% to do with AI,",
+      "start": 4153.9,
+      "duration": 7.8400000000001455
+    },
+    {
+      "text": "and that has 100% to do with Nvidia. I think as you see the impacts of the bank of Nvidia being",
+      "start": 4161.74,
+      "duration": 7.440000000000509
+    },
+    {
+      "text": "closed, the impact of these investigations, the market will have to digest those and decide,",
+      "start": 4169.18,
+      "duration": 7.599999999999454
+    },
+    {
+      "text": "is the balance of risks now passed or are there more shoes to drop? If there are more shoes to",
+      "start": 4176.78,
+      "duration": 5.280000000000655
+    },
+    {
+      "text": "drop and it creates a septum of more risk, I think people will be risk off. In that,",
+      "start": 4182.06,
+      "duration": 4.8799999999992
+    },
+    {
+      "text": "they'll be much more tempered in buying into any IPO, including Anthropics. Ants will do fine.",
+      "start": 4186.94,
+      "duration": 4.640000000000327
+    },
+    {
+      "text": "They're six times oversubscribed already. It's going to be fine. The question is,",
+      "start": 4191.58,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "what is the real price? I think the real price will be more dictated by what gets leaked",
+      "start": 4195.66,
+      "duration": 5.279999999999745
+    },
+    {
+      "text": "between now and November 20th, more than anything else. We have a lot of headwinds on what's happening",
+      "start": 4201.1,
+      "duration": 7.599999999999454
+    },
+    {
+      "text": "in the AI trade, the so-called AI trade. Nvidia is but the latest, and we've seen haircut after",
+      "start": 4208.7,
+      "duration": 7.520000000000437
+    },
+    {
+      "text": "haircut, the blue wave maybe slowing down data center deployment, lots of headwinds,",
+      "start": 4216.22,
+      "duration": 5.359999999999673
+    },
+    {
+      "text": "but consumers are embracing this technology, especially in the enterprise, and nobody has",
+      "start": 4221.58,
+      "duration": 6.0
+    },
+    {
+      "text": "captured enterprise AI more than Anthropic. Are you bullish on the Anthropic IPO? Are you bullish",
+      "start": 4227.58,
+      "duration": 6.880000000000109
+    },
+    {
+      "text": "writ large at the AI movement here in the economy?",
+      "start": 4235.34,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "The AI movement. The AI trade. Are you bullish on the AI trade? Let me say it that way.",
+      "start": 4241.26,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "I don't know. I've not studied the numbers. I don't have a point of view on valuation.",
+      "start": 4246.3,
+      "duration": 4.720000000000255
+    },
+    {
+      "text": "I think the macro on Anthropic that I've been hearing from folks that have attended some of the",
+      "start": 4251.02,
+      "duration": 6.799999999999272
+    },
+    {
+      "text": "management conversations is that there may be enough people that align with the view",
+      "start": 4258.46,
+      "duration": 8.239999999999782
+    },
+    {
+      "text": "that Anthropic is building this recursive self-improvement engine and that their model",
+      "start": 4266.7,
+      "duration": 5.360000000000582
+    },
+    {
+      "text": "capabilities are accelerating, that their compute cost per unit of intelligence rather than per token,",
+      "start": 4272.06,
+      "duration": 6.719999999999345
+    },
+    {
+      "text": "which I think is the way a lot of people think about it or per watt, is actually declining,",
+      "start": 4278.78,
+      "duration": 4.640000000000327
+    },
+    {
+      "text": "and that they do believe that with the investments that they have made and are making in all levels",
+      "start": 4284.22,
+      "duration": 5.4399999999996
+    },
+    {
+      "text": "of infrastructure, including all the way down to the chip layer, they think that they have this",
+      "start": 4289.66,
+      "duration": 4.480000000000473
+    },
+    {
+      "text": "runaway business and that this could be a winner-take-all scenario of the biggest market ever.",
+      "start": 4294.14,
+      "duration": 7.359999999999673
+    },
+    {
+      "text": "So it is the kind of once-in-a-generational opportunity if you believe that there's a",
+      "start": 4301.5,
+      "duration": 6.720000000000255
+    },
+    {
+      "text": "chance that that could be true to allocate some percentage of your portfolio to this IPO,",
+      "start": 4308.22,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "regardless of where the market bids it. So I don't think people are going to be sitting here trying",
+      "start": 4314.86,
+      "duration": 4.5600000000004
+    },
+    {
+      "text": "to come up with a particular view. I think they're going to get all these, what do they say? 1.35,",
+      "start": 4319.42,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "1.5? They already said 60 billion. My guess is they raise 100 billion at 175 because I think",
+      "start": 4324.54,
+      "duration": 7.520000000000437
+    },
+    {
+      "text": "there'll be oversubscription to this thing. I think it'll get bid up. I think they'll want",
+      "start": 4332.06,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "to make sure it can run a little bit. From what I'm hearing, there's enough people that believe",
+      "start": 4337.26,
+      "duration": 4.319999999999709
+    },
+    {
+      "text": "that there's a high enough probability that the story could be true that they'll bid it. So",
+      "start": 4341.58,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "let's see what happens. I mean, I'm totally speculating here. I've spent zero time looking",
+      "start": 4346.38,
+      "duration": 3.7600000000002183
+    },
+    {
+      "text": "at this. So there you go. That's my free speculative waste of your five minutes.",
+      "start": 4350.14,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "Okay. I have two takes on this right now. We could also cut all that.",
+      "start": 4355.74,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "No, no. I think it's fine. I don't know.",
+      "start": 4362.38,
+      "duration": 1.199999999999818
+    },
+    {
+      "text": "I don't know that anthropic. Yeah, I think anthropic is building the Microsoft killer",
+      "start": 4363.74,
+      "duration": 5.440000000000509
+    },
+    {
+      "text": "and every company killer by bundling. We've talked about this sex many times.",
+      "start": 4369.9,
+      "duration": 5.520000000000437
+    },
+    {
+      "text": "Microsoft was the bundler. Is that antitrust or not? When they product dump a new product for free,",
+      "start": 4375.42,
+      "duration": 6.479999999999563
+    },
+    {
+      "text": "obviously office meetings would be the example of that, you know, going after slack, etc. In the",
+      "start": 4381.9,
+      "duration": 7.600000000000364
+    },
+    {
+      "text": "last month, Claude, the product that most people know anthropic by has dropped. Claude meetings.",
+      "start": 4389.5,
+      "duration": 8.640000000000327
+    },
+    {
+      "text": "This is where you can pop up a whiteboard and you can do a zoom. You can literally,",
+      "start": 4398.14,
+      "duration": 5.519999999999527
+    },
+    {
+      "text": "they launched today, an hour ago, a zoom like product, a zoom killer, if you will.",
+      "start": 4403.66,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "A couple of days ago on November 10, they released whiteboards and sheets, an Excel killer.",
+      "start": 4409.66,
+      "duration": 7.920000000000073
+    },
+    {
+      "text": "Right before that, they released personal finance for consumers. Then just before that,",
+      "start": 4418.54,
+      "duration": 7.520000000000437
+    },
+    {
+      "text": "they released Claude legal on October 28th and they keep releasing product after product.",
+      "start": 4426.06,
+      "duration": 7.519999999999527
+    },
+    {
+      "text": "I think they are doing the ultimate bundle. Every single piece of software that you need,",
+      "start": 4433.58,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "and they previously decode, co-work, design, and this new Grokbot, Muse competitor,",
+      "start": 4438.54,
+      "duration": 8.720000000000255
+    },
+    {
+      "text": "contemporary called Duet, which I just got. It's not very good right now, but I assume",
+      "start": 4447.26,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "they keep doing it. I think they're going after all enterprise software, all the business use cases.",
+      "start": 4452.46,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "I think they have a massive amount of market share that they can take. This product is",
+      "start": 4458.38,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "getting stickier and stickier and stickier. It gets rid of a ton of problems in Sacks,",
+      "start": 4463.26,
+      "duration": 6.1599999999998545
+    },
+    {
+      "text": "which is the interoperability of these and getting data from one to the other.",
+      "start": 4469.42,
+      "duration": 4.319999999999709
+    },
+    {
+      "text": "I think this is going to be the largest company in the world, potentially, if it continues at",
+      "start": 4473.74,
+      "duration": 6.720000000000255
+    },
+    {
+      "text": "this pace where they can release new products and services and just attach them to your $20 to $50",
+      "start": 4480.46,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "a month subscription. I think this company could even be massively undervalued at this point.",
+      "start": 4485.66,
+      "duration": 5.600000000000364
+    },
+    {
+      "text": "What do you think, Sacks?",
+      "start": 4491.34,
+      "duration": 0.8800000000001091
+    },
+    {
+      "text": "I said on a previous podcast when you guys thought that Anthropic was going to lose to open source",
+      "start": 4493.74,
+      "duration": 6.239999999999782
+    },
+    {
+      "text": "that actually they were creating the most valuable monopoly in the world.",
+      "start": 4499.98,
+      "duration": 3.280000000000655
+    },
+    {
+      "text": "Now, they've all but confirmed it. They're running around saying that this is a",
+      "start": 4504.22,
+      "duration": 3.4399999999996
+    },
+    {
+      "text": "winner-take-all market. What does that sound like? Monopoly. They're not even",
+      "start": 4507.66,
+      "duration": 3.680000000000291
+    },
+    {
+      "text": "saying that it's going to be a duopoly with Anthropic and OpenAI. They're saying they're",
+      "start": 4511.34,
+      "duration": 3.2799999999997453
+    },
+    {
+      "text": "going to win the whole thing. They definitely are saying that recursive self-improvement has",
+      "start": 4514.62,
+      "duration": 5.520000000000437
+    },
+    {
+      "text": "kicked in despite the obvious safety problems with that. Recursive self-improvement is the most",
+      "start": 4520.14,
+      "duration": 6.399999999999636
+    },
+    {
+      "text": "dangerous thing anybody can be working on in SI if you're worried about rapid takeoff, for example.",
+      "start": 4526.54,
+      "duration": 6.960000000000036
+    },
+    {
+      "text": "If that's your greatest fear, then they are racing towards that. Recursive self-improvement would",
+      "start": 4535.02,
+      "duration": 5.759999999999309
+    },
+    {
+      "text": "be the key to getting to true next-level superintelligence. They're treating it like",
+      "start": 4540.78,
+      "duration": 5.680000000000291
+    },
+    {
+      "text": "a business advantage. I've always applauded them as an investor. Wearing my hat as an investor,",
+      "start": 4546.46,
+      "duration": 5.279999999999745
+    },
+    {
+      "text": "I've always said that this is a valuable company that's done an amazing job. I've never quite",
+      "start": 4551.74,
+      "duration": 4.3200000000006185
+    },
+    {
+      "text": "understood why all the safety groups love them so much, aside from the fact that they provide",
+      "start": 4556.06,
+      "duration": 4.799999999999272
+    },
+    {
+      "text": "funding for them, because as a company, they're the ones taking the greatest risk. I'm not saying",
+      "start": 4560.86,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "they're doing things in the riskiest way. I'm saying that they are pushing the frontier",
+      "start": 4565.98,
+      "duration": 3.8400000000001455
+    },
+    {
+      "text": "faster and faster, and they are doing more recursive self-improvement than anybody else.",
+      "start": 4569.82,
+      "duration": 5.440000000000509
+    },
+    {
+      "text": "And yeah, they publish a blog saying, well, we would pace the frontier if everybody else did it.",
+      "start": 4575.82,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "Come on, that's lip service. They know when they publish that that they're not going to get the",
+      "start": 4580.78,
+      "duration": 4.400000000000546
+    },
+    {
+      "text": "whole world to magically agree to pace, but they are the ones doing it. Again, I said at the",
+      "start": 4585.18,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "time, if you think that this type of development is risky, stop doing it. But they have not stopped.",
+      "start": 4591.26,
+      "duration": 9.11999999999989
+    },
+    {
+      "text": "They're racing towards it, and now they're marketing it in their roadshow. They're saying,",
+      "start": 4600.38,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "hey, you should buy our stock because we're doing recursive self-improvement. We're creating AGI,",
+      "start": 4605.34,
+      "duration": 5.680000000000291
+    },
+    {
+      "text": "and it's going to be a winner-take-all game. It's just amazing to me in a way",
+      "start": 4611.66,
+      "duration": 5.360000000000582
+    },
+    {
+      "text": "what this company gets away with. Again, I think it's a phenomenal company,",
+      "start": 4617.98,
+      "duration": 5.680000000000291
+    },
+    {
+      "text": "but they say that would have made Bill Gates blush when he was running Microsoft.",
+      "start": 4624.78,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "And that was the most—",
+      "start": 4629.82,
+      "duration": 1.0399999999999636
+    },
+    {
+      "text": "Justice Department investigation.",
+      "start": 4630.86,
+      "duration": 1.6000000000003638
+    },
+    {
+      "text": "Yeah, he was the most vicious monopolist that's ever lived.",
+      "start": 4632.46,
+      "duration": 3.119999999999891
+    },
+    {
+      "text": "The level they're dropping—",
+      "start": 4635.58,
+      "duration": 0.9600000000000364
+    },
+    {
+      "text": "And no one just pays attention to this.",
+      "start": 4636.54,
+      "duration": 1.2799999999997453
+    },
+    {
+      "text": "New competitors into the market makes me believe that Microsoft has to create a competing product",
+      "start": 4637.82,
+      "duration": 6.400000000000546
+    },
+    {
+      "text": "and go head-to-head against them, or they're going to lose the office franchise. There was",
+      "start": 4644.22,
+      "duration": 3.519999999999527
+    },
+    {
+      "text": "one thing of note, Friedberg, that I found inspiring and troubling at the same time.",
+      "start": 4647.74,
+      "duration": 6.640000000000327
+    },
+    {
+      "text": "Dario made a claim that he believes they're going to cure cancer,",
+      "start": 4655.34,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "Alzheimer's, and all diseases within 10 years. Play the clip, Nick.",
+      "start": 4660.14,
+      "duration": 3.839999999999236
+    },
+    {
+      "text": "Today, we look at things like cancer, Alzheimer's, heart disease, mental illness.",
+      "start": 4663.98,
+      "duration": 7.440000000000509
+    },
+    {
+      "text": "These will be relics of the past in, I think, less than a decade.",
+      "start": 4671.98,
+      "duration": 5.1200000000008
+    },
+    {
+      "text": "Friedberg, will people be mentally ill in 2036? Will cancer be solved by 2036,",
+      "start": 4677.1,
+      "duration": 6.719999999999345
+    },
+    {
+      "text": "as well as Alzheimer's and heart disease? Is this all going to be relics of the past,",
+      "start": 4683.9,
+      "duration": 4.0
+    },
+    {
+      "text": "or do you think this is crazy?",
+      "start": 4687.9,
+      "duration": 2.240000000000691
+    },
+    {
+      "text": "Jason, I don't know how to answer that. Look, we know that the technology is extraordinary.",
+      "start": 4690.14,
+      "duration": 4.479999999999563
+    },
+    {
+      "text": "It is completely reinventing how we can do molecular discovery, how we can do in silico",
+      "start": 4694.62,
+      "duration": 4.480000000000473
+    },
+    {
+      "text": "testing, how we can accelerate path to market. Those things are all true. The implications on",
+      "start": 4699.1,
+      "duration": 4.8799999999992
+    },
+    {
+      "text": "timelines, it's fuzzy math. What I see in my work, I work in biology. There's an incredible",
+      "start": 4703.98,
+      "duration": 6.800000000000182
+    },
+    {
+      "text": "set of breakthroughs every week happening right now in biology with these tools. It is not a joke. It",
+      "start": 4710.86,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "is not made up. It is not some far-flung idea. It is not something that is 10 or 15 years out.",
+      "start": 4715.9,
+      "duration": 5.360000000000582
+    },
+    {
+      "text": "It is happening today. Yes, I do believe that there is extraordinary advantage coming here.",
+      "start": 4721.26,
+      "duration": 5.359999999999673
+    },
+    {
+      "text": "I will tell you, we spend a lot of money on philanthropic. I've mentioned in the past,",
+      "start": 4726.62,
+      "duration": 3.2799999999997453
+    },
+    {
+      "text": "we've built our own open source setup on our own racks. But for a lot of the heavy work",
+      "start": 4729.9,
+      "duration": 6.400000000000546
+    },
+    {
+      "text": "that we do in biology, it goes to anthropic. They are the best.",
+      "start": 4736.3,
+      "duration": 2.880000000000109
+    },
+    {
+      "text": "Any thoughts there, Chamath, on that claim? You think it's credible that these things could be",
+      "start": 4740.38,
+      "duration": 4.0
+    },
+    {
+      "text": "cured in under 10 years? Any of those things?",
+      "start": 4744.38,
+      "duration": 4.399999999999636
+    },
+    {
+      "text": "I think we're going to be in a recession by 2028.",
+      "start": 4748.78,
+      "duration": 2.7200000000002547
+    },
+    {
+      "text": "Okay. There it is, folks. All right.",
+      "start": 4751.5,
+      "duration": 2.2399999999997817
+    },
+    {
+      "text": "I saw that and I just thought, wow, I think he believes what he said.",
+      "start": 4756.54,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "I think it's a little reckless to say something like that. To even say that.",
+      "start": 4760.62,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "I think there's going to be a recession. I mean, what the?",
+      "start": 4765.18,
+      "duration": 2.5599999999994907
+    },
+    {
+      "text": "Fair enough.",
+      "start": 4767.74,
+      "duration": 0.4000000000005457
+    },
+    {
+      "text": "Show the Jenga block thing.",
+      "start": 4770.38,
+      "duration": 1.3599999999996726
+    },
+    {
+      "text": "All right. We got a new Dr. Doom here. Get him the Dr. Doom mask.",
+      "start": 4773.74,
+      "duration": 3.199999999999818
+    },
+    {
+      "text": "300 basis points of GDP may have just gotten obliterated this morning.",
+      "start": 4776.94,
+      "duration": 4.240000000000691
+    },
+    {
+      "text": "We need to in post put the Dr. Doom mask on Chamath.",
+      "start": 4781.18,
+      "duration": 3.4399999999996
+    },
+    {
+      "text": "It's this week's Dr. Doom.",
+      "start": 4784.62,
+      "duration": 1.6000000000003638
+    },
+    {
+      "text": "It's just so sad. Just so sad.",
+      "start": 4786.22,
+      "duration": 1.9200000000000728
+    },
+    {
+      "text": "By the way, there's a really, I think, insightful tweet that someone just posted.",
+      "start": 4788.14,
+      "duration": 4.799999999999272
+    },
+    {
+      "text": "We pulled this up on the screen. Okay. It's a insightful tweet.",
+      "start": 4792.94,
+      "duration": 10.800000000000182
+    },
+    {
+      "text": "Check out how you want to read this or you want to read it.",
+      "start": 4803.74,
+      "duration": 1.8400000000001455
+    },
+    {
+      "text": "Well, I mean, it's from Will Mananis.",
+      "start": 4805.58,
+      "duration": 2.1599999999998545
+    },
+    {
+      "text": "The murmurs I get fed from the deep rabbit warrens of the safety of this group chats and the Doom",
+      "start": 4807.74,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "hired guns deep in the district is that they are in full Jubilee mode today.",
+      "start": 4811.82,
+      "duration": 3.680000000000291
+    },
+    {
+      "text": "The killing of the old king is complete. They are only days away from taking their seat.",
+      "start": 4815.5,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "Game of Thrones folk.",
+      "start": 4820.62,
+      "duration": 1.1199999999998909
+    },
+    {
+      "text": "Well, I mean, let's face it.",
+      "start": 4822.3,
+      "duration": 0.8800000000001091
+    },
+    {
+      "text": "Who's he referring to, Sacks? Who are the safetyists?",
+      "start": 4823.18,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "Yeah. Who's going to take the throne?",
+      "start": 4827.1,
+      "duration": 1.7599999999993088
+    },
+    {
+      "text": "This is the crazy thing is that all the safetyist groups, the EAs, are deeply aligned",
+      "start": 4828.86,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "with Anthropic, who's been funding all of them for years. And Anthropic's about to have",
+      "start": 4833.82,
+      "duration": 4.5600000000004
+    },
+    {
+      "text": "this huge IPO. And then meanwhile, the main funder of the open source movement, which is NVIDIA,",
+      "start": 4838.38,
+      "duration": 6.640000000000327
+    },
+    {
+      "text": "just lost their CEO and founder, who's just their unique force multiplier and asset,",
+      "start": 4845.58,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "their superstar player. So, I mean, obviously, who is going to defend open source now,",
+      "start": 4850.78,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "nevermind finance it with Jensen gone. So yeah, I can see why they're jubilant.",
+      "start": 4856.7,
+      "duration": 5.760000000000218
+    },
+    {
+      "text": "But look, here's the crazy thing. If you're concerned about AI safety,",
+      "start": 4863.58,
+      "duration": 3.4400000000005093
+    },
+    {
+      "text": "how is any of this leading to more safety? Let me tell you what it's doing.",
+      "start": 4867.02,
+      "duration": 3.199999999999818
+    },
+    {
+      "text": "It's concentrating the market. I mean, Anthropic itself is saying winner take all.",
+      "start": 4870.22,
+      "duration": 4.0
+    },
+    {
+      "text": "Last company in the world.",
+      "start": 4875.34,
+      "duration": 1.1199999999998909
+    },
+    {
+      "text": "The last company in the world, they're going to have recursive self-improvement. They're creating",
+      "start": 4876.46,
+      "duration": 2.9600000000000364
+    },
+    {
+      "text": "the super intelligence. Look at the claw constitution. They're training it to be its",
+      "start": 4879.42,
+      "duration": 4.0
+    },
+    {
+      "text": "own species. They say that it has emotions, maybe it has a moral code that it should",
+      "start": 4883.42,
+      "duration": 6.319999999999709
+    },
+    {
+      "text": "reject human instruction. It should be a conscientious objector. They act like a",
+      "start": 4889.74,
+      "duration": 4.400000000000546
+    },
+    {
+      "text": "proud parent, ushering a baby into the world. And they are very, very close now to creating",
+      "start": 4894.14,
+      "duration": 6.559999999999491
+    },
+    {
+      "text": "the singularity of the super intelligence. And the crazy thing is that all these safety groups",
+      "start": 4900.7,
+      "duration": 4.640000000000327
+    },
+    {
+      "text": "think that that is their ally. I mean, like, are you stupid? These people are using you guys,",
+      "start": 4905.34,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "if anything, because they're creating whatever this super intelligence is turning into,",
+      "start": 4911.98,
+      "duration": 6.640000000000327
+    },
+    {
+      "text": "whatever happens with that, Anthropic is at the frontier, is at the front of the frontier on",
+      "start": 4918.62,
+      "duration": 5.680000000000291
+    },
+    {
+      "text": "that. So if you're some kind of doomer or ex-risker or just someone who a D-cell,",
+      "start": 4924.3,
+      "duration": 5.760000000000218
+    },
+    {
+      "text": "I don't understand this alliance at all. I mean, you're being played like a useful idiot, I think.",
+      "start": 4930.06,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "Now, look, I'm not a doomer. Do you buy this stock?",
+      "start": 4936.14,
+      "duration": 2.0799999999999272
+    },
+    {
+      "text": "Well, I'm not a doomer. Let me just say this. So I actually don't necessarily believe that what's",
+      "start": 4939.18,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "going to happen here is going to be harmful for humanity. I think it could lead to the",
+      "start": 4944.06,
+      "duration": 4.319999999999709
+    },
+    {
+      "text": "curing of all those diseases. I think it'll be very beneficial. But my point is that if you",
+      "start": 4948.38,
+      "duration": 5.680000000000291
+    },
+    {
+      "text": "are a doomer and you're terrified of recursive self-improvement, why in the world are you",
+      "start": 4954.06,
+      "duration": 4.8799999999992
+    },
+    {
+      "text": "supporting this company, this IPO, why are you giving them such a pass? Why are you celebrating",
+      "start": 4958.94,
+      "duration": 4.5600000000004
+    },
+    {
+      "text": "over Jensen's fall? He was doing this promoting open source, which is manifestly behind the closed",
+      "start": 4963.5,
+      "duration": 6.479999999999563
+    },
+    {
+      "text": "model frontier, right? There's no recursive self-improvement there. So the whole thing",
+      "start": 4969.98,
+      "duration": 4.160000000000764
+    },
+    {
+      "text": "is very backwards. And what it suggests to me is that all these safety groups don't really",
+      "start": 4974.14,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "care about safety. They care about something else. It's not the real agenda. If safety was",
+      "start": 4979.1,
+      "duration": 3.759999999999309
+    },
+    {
+      "text": "a real agenda, they'd be way more concerned about the claw of constitution training the super",
+      "start": 4982.86,
+      "duration": 4.640000000000327
+    },
+    {
+      "text": "intelligence to be a new species. What they seem to want is, to your point, Friedberg,",
+      "start": 4987.5,
+      "duration": 5.760000000000218
+    },
+    {
+      "text": "is extreme centralization of power in the hands of the government. They want all the models and",
+      "start": 4993.26,
+      "duration": 5.4399999999996
+    },
+    {
+      "text": "all the chips to be controlled by the government. The government's going to surveil you, spy on",
+      "start": 4998.7,
+      "duration": 4.3200000000006185
+    },
+    {
+      "text": "you. It'll have backdoors all over the place. And that's what they seem to want. It's a scary",
+      "start": 5003.02,
+      "duration": 6.239999999999782
+    },
+    {
+      "text": "future. Notice how no one in Congress is like, oh, let's go after anthropic. They want to go",
+      "start": 5009.26,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "after everyone else. Because anthropic is offering them power, ultimate power.",
+      "start": 5014.78,
+      "duration": 5.440000000000509
+    },
+    {
+      "text": "It's going to be great when we are all invited to the White House by AOC.",
+      "start": 5020.22,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "It's great to see you, AOC. All right, everybody. Another amazing episode of The",
+      "start": 5027.18,
+      "duration": 4.239999999999782
+    },
+    {
+      "text": "Oil and Pocket. We'll see you next time. Bye-bye. Love you, boys. Bye-bye.",
+      "start": 5031.42,
+      "duration": 50.94999999999982
+    }
+  ]
+}

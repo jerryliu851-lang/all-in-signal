@@ -1,0 +1,805 @@
+{
+  "video_id": "Uv2w4VTU-iQ",
+  "language": "en",
+  "source": "podcast-whisper:small.en",
+  "is_generated": true,
+  "source_detail": "libsyn ALLIN-E297_Ch.mp3; podcast 5095s vs youtube 5095s; small.en int8 rtf=0.15 hotwords",
+  "paragraphs": [
+    {
+      "start": 0.0,
+      "end": 18.08,
+      "text": "All right, everybody. We're laughing it up here. It's the All-In Podcast. Apparently, slow news weeks continue. Once again, we struggle to put together a docket, but we're going to try to get something together here, Sacks. I don't know what's in the news. Maybe you have a SaaS corner for us. Any new hotness drop in the SaaS world or no?"
+    },
+    {
+      "start": 19.04,
+      "end": 37.12,
+      "text": "Yeah, Benny L. rolled out a new reporting feature. I'm only top of docket material. All right, that is top of docket. You're right. You're right. And Friedberg, of course, is here cackling. He's in a good mood, but I understand you almost died in the last week. What were you, in the hospital? You had to float? I got the pneumonia. Not good. Very bad. Very bad."
+    },
+    {
+      "start": 37.12,
+      "end": 59.2,
+      "text": "I do not wish it upon anyone. Knocked out in the hospital. Everyone, stay safe. All right. Well, I saw everybody with their social media well-wishing you. And of course, Chamath Palihapitiya is here, and it's a deep pull for Chamath today, a deep pull from the closet. My Lord, I haven't seen that sweater since Biden was in office."
+    },
+    {
+      "start": 60.08,
+      "end": 96.08,
+      "text": "It's a nice ribbed cashmere mock turtleneck. Okay, ribbed for Chamath's pleasure. Ribbed for Chamath's pleasure. All right, listen. I thought it was supposed to be ribbed for her pleasure. It's for her pleasure. But it's Chamath. It's all for Chamath's pleasure. It's always for his pleasure. Absolutely. That's who he is. All right, listen. Jensen is out as NVIDIA's CEO after an insane series of events that happened in the past week. All of this played out in just six days, starting Friday, November 6, and obviously record on Thursdays, which would be November 12."
+    },
+    {
+      "start": 96.08,
+      "end": 136.24,
+      "text": "Here's where things stand as of the taping of this episode. NVIDIA's CFO will serve as the interim CEO. The board's looking for a new chief executive. NVIDIA reports earnings next Tuesday, critical moment for the company, and the stock has been crushed down 15% in the last week, which is hundreds of billions of dollars. Here's the timeline that led to Jensen's ouster. Last Friday, November 6, right after the midterms, interesting timing, the New York Times published a report claiming a Chinese businesswoman who had a close relationship with Jensen was actually a CCP spy, a Chinese Communist Party spy."
+    },
+    {
+      "start": 136.24,
+      "end": 180.08,
+      "text": "The woman is named Alice Wang. No relation to Jensen. They just happened to share the same last name. We'll call her Alice for the rest of this discussion. She's an executive at a Singapore based company called Megaspie. They build data centers in Asia. They rent compute to companies, including Chinese ones like Alibaba. According to the information, their relationship, Jensen's analysis helped facilitate 7.5 billion in chips to Chinese companies since 2023. The New York Times article was based on a leaked intelligence memo that identified Alice as a Chinese spy. No one knows who leaked it. On Sunday, November 8, Jensen sent a company-wide email admitting he"
+    },
+    {
+      "start": 180.08,
+      "end": 204.48,
+      "text": "had an affair and that the board would be investigating on Wednesday. The New York Times reported Jensen had a second affair with a direct report. There's reports of a third potential affair. Let's put all that aside and focus on his resignation, which came after 33 years as CEO. Important caveat. This story has been hiding in plain sight for well over a year."
+    },
+    {
+      "start": 204.48,
+      "end": 246.56,
+      "text": "The New York Times first mentioned Alice's relationship with Jensen back in October 2025, not this October 2026, 13 months ago. They published a follow-up last month, Nvidia chief seen as target of Chinese spy plot. Culper Research, spelled C-U-L-P-E-R, is a hedge fund that put a short on Nvidia, according to their tweetstorm, six months ago. They published their thesis, which was based on Nvidia underselling its reliance on China for chip sales. They even mentioned Megaspie by name in that tweetstorm, which you can see on the screen right here. This is a disaster for the White House. There are reports of finger"
+    },
+    {
+      "start": 246.56,
+      "end": 273.36,
+      "text": "pointing as officials try to figure out why Megaspie was left off the export control list after these New York Times articles. And we'll get into more export control issues later. Okay, Sacks, we're dealing with partial information here. This is a breaking news story. Caveat, caveat, disclaimer, disclaimer. But let me ask you a simple question. Given the New York Times reporting, what's your take on what they've released to date?"
+    },
+    {
+      "start": 273.36,
+      "end": 312.4,
+      "text": "First of all, let me just say that I think this is a tragic situation. Okay, it's tragic for Jensen and his family and for Nvidia and its employees. And I would say it's tragic for the United States of America, because Jensen is one of the key reasons why we have a major advantage in AI accelerator chips and GPUs. And that in turn is one of our key advantages in the AI or super intelligence race. In fact, Jensen made such a good chip that many people in Washington wanted to export control that. I think people kind of forget."
+    },
+    {
+      "start": 313.28,
+      "end": 355.28,
+      "text": "Jensen's been working on GPUs for over three decades. And he believed in this technology, in this architecture, when everyone else was making CPUs, and his company almost went out of business multiple times. It was his vision that created the GPU, which ended up being the key chip that's used in AI. And it's the fact that Nvidia is so far ahead of everybody else, that is what gives the United States a key advantage in this thing we call the AI or super intelligence race. So I think this is a tragic situation. And I think that what's happened here is, I mean, clearly, it's not a great situation for all the individuals involved. I don't think this"
+    },
+    {
+      "start": 355.28,
+      "end": 385.28,
+      "text": "redoubts the benefit of the United States either. And it's very unfortunate that this whole situation could not have been resolved in a different way. Now, let's talk about the story that's come out. I think it's pretty clear that there were two ops here. So one op is whatever Alice Wong was doing with or without the Chinese Communist Party. There may have been smuggling involved. We don't know there is an investigation going on. And there should be an investigation."
+    },
+    {
+      "start": 385.28,
+      "end": 426.56,
+      "text": "We should get all the facts there. We've talked on this podcast about how we do not believe that leading edge chips should go to China. And if there's any smuggling going on that that is wrong. And that it should be stopped. The government should crack down on that. So that investigation should continue. We should get all the facts there. And we should find out what actually happened. So that is one op is whatever Alice Wong was doing, again, with or without the CCP. But however, there's also a second op here. And that second op began when somebody or multiple people leaked a highly classified memo or the consents of it to the New York Times."
+    },
+    {
+      "start": 426.56,
+      "end": 465.2,
+      "text": "I think it's really important to understand that that's a crime. I mean, leaking classified intelligence is a crime and many people have been prosecuted for it. In fact, we had multiple former presidents and current presidents, President Trump and President Biden, their homes were raided because supposedly they had classified documents in their possession. Remember that there was a raid on Mar-a-Lago, there was a raid on Joe Biden's garage and they found the box. This happens to everybody, it seems. Yeah. Well, I don't know if it happens to everybody, but it's a serious crime. And, you know, because of that fact, I don't believe that the New York Times just got this by overhearing people talking about"
+    },
+    {
+      "start": 465.2,
+      "end": 500.0,
+      "text": "it at a bar. Somebody made the calculated decision that they're willing to risk going to jail, they're willing to risk committing a crime to let the New York Times know about this story. And so I have a series of questions about that. So number one is first, who did that and why? What was their motivation? Why did they feel so strongly about taking Jensen down that had to be at least a part of their motive that they're willing to break the law? And I do think it makes sense for there to be an investigation opened into this leak as there have been with many other"
+    },
+    {
+      "start": 500.0,
+      "end": 534.96,
+      "text": "classified leaks. I don't know why there hasn't been an investigation open as far as we know into this. So that would be question number one is why this leak. And the New York Times has given a clue there. Obviously, Rubio was leading this investigation, briefed President Trump on it, and the New York Times attributed the story, the spy part of the story anonymously to quote, people briefed on the surveillance. Yes, but just let's be very clear here. I don't, I don't really like you using Marco Rubio's name there, but because he's a national security advisor. If there was a classified memo, then obviously it would be done under his"
+    },
+    {
+      "start": 534.96,
+      "end": 569.52,
+      "text": "revision as the head of the NSC. Yeah, I'm not insinuating he's the leak, but it's somebody he may have briefed. Okay, when the New York Times says people briefed on the matter, that is an extremely vague and broad terminology. And it could be very low level officials who did this. And when the New York Times even uses the word official, that doesn't mean they're a senior person in an administration. They could be very, very low level. And it could also be the case that their careers, which is to say non-political appointees, that just because they're serving in the executive branch of the Trump administration doesn't mean that they are Trump officials. So look,"
+    },
+    {
+      "start": 569.52,
+      "end": 604.88,
+      "text": "we don't know who committed the leak. All we know is they committed a crime. And I do think that we should be asking the question, who did that and why? Okay, so that's sort of bucket number one of questions. Bucket number two is around the failure to give the defensive briefing. If the national security state is worried that Jensen is in possession of national security secrets and might leak them to someone who they suspect is a spy, why wouldn't you go to him right away and tell him, hey, you have this problem, don't talk to this person. Apparently that didn't"
+    },
+    {
+      "start": 604.88,
+      "end": 627.44,
+      "text": "happen. And it does sound like that is some sort of standard operating procedure. Let me give you an example. So we have the case of Eric Swalwell. Okay, so Eric Swalwell was a congressman. He was on the House Intelligence Committee. It eventually came out and I believe it was the finding of an investigation that he had a personal relationship with a Chinese spy. Fang Fang is the story."
+    },
+    {
+      "start": 627.44,
+      "end": 665.92,
+      "text": "Yes, the New York Post memorably memorialized this with its cover called Fang Fang Bang Bang. You know, it was the story that came out. What was the Democrats reaction to that? They gave him a defensive briefing. He said he cut off the relationship and they allowed him to stay in Congress. He certainly did not have to resign. And in fact, he didn't even resign from the Intelligence Committee. So they allowed him to keep not only a seat in Congress, but his seat on the Intelligence Committee. So obviously in this, I'd say very high profile example, people did not think it was necessary to resign. They thought that what it was necessary"
+    },
+    {
+      "start": 665.92,
+      "end": 706.64,
+      "text": "to do is to let the person know, allow them to cut off contact, and then you'd be able to move on from there. So this situation was handled very differently. Okay, that brings me to question number three, which is what exactly were the national security secrets that Jensen supposedly knew? He doesn't work for the government. He's not, as far as I'm aware, privy to classified materials. So what is it that people say that he leaked to this suspected intelligence asset that's never been explained? I just have that question. What I can say is that,"
+    },
+    {
+      "start": 706.64,
+      "end": 737.04,
+      "text": "you know, as the CEO of Silicon Valley technology company, Silicon Valley tech companies are very open about their plans or product development plans, things like that. Is there IP that the CCP would like to get a hold of? I'm sure. But to be blunt, it's not the type of IP that you're going to convey over pillow talk. It would be things like files that would allow you to tape out the next generation of chips. That's the kind of thing where frankly, if the ministry of state security or whoever is spying for the Chinese wanted to get ahold of that stuff,"
+    },
+    {
+      "start": 737.6,
+      "end": 776.64,
+      "text": "I think you'd much rather have a line engineer who can go into Nvidia, find the relevant files and extract them somehow maybe on a thumb drive, or you do a cyber attack and you get the files that way. That would make a lot more sense to me as the way to basically get ahold of, you know, let's say secrets. Now, I see some people saying that, well, Nvidia makes a product that is subject to export controls, therefore, that's a national security product, therefore, national security secrets. Okay, that is a very broad misleading hand wave over the situation. I can go out and buy a Blackwell chip as an American. None of us are"
+    },
+    {
+      "start": 776.64,
+      "end": 794.88,
+      "text": "restricted from doing that. Certain foreign countries are restricted from doing that, but we're not. And if we buy a Blackwell chip and run it in our own little server rack, we are not in possession of national security secrets. You cannot reverse engineer the design of a chip by getting ahold of the wafer. It doesn't work that way. You have to get the files."
+    },
+    {
+      "start": 794.88,
+      "end": 819.44,
+      "text": "Those chips can, of course, help you make cutting edge LLMs like the ones they've been delivering. Okay, I understand, but that's not what we're talking about right now. Okay, we're talking about the question that I have is what secrets are we talking about that just supposedly compromise? The last question I have, and then I'll stop, is what is the evidence that this person, Alice Wong, was actually a Chinese spy who worked for the Ministry of State Security?"
+    },
+    {
+      "start": 820.08,
+      "end": 859.84,
+      "text": "And here's what I think is quite unusual. Just this morning, there was an article that came out in Politico where the incoming chair of the House Intelligence Committee, who's a Democrat, he came out of a classified briefing on this subject. And in the hallway with this fresh in his mind, he came out and said that he's not sure that this person is a Chinese spy. He said she might be a useful idiot. Okay, well, now what is a useful idiot? A useful idiot is someone who doesn't work for the Chinese government is not a spy. It's just that maybe somehow they're being"
+    },
+    {
+      "start": 859.84,
+      "end": 886.4,
+      "text": "taken advantage of. Okay, so look, I have a set of questions about this. So let's put this all together. Okay, there's two ops here. There's whatever Alice Wong was doing, that potential smuggling operation, it should be figured out. There's a second op that I think also needs to be investigated and figured out. And the components of that are one, who leaked this classified material in violation of the law? That's the only crime to date that we even know about."
+    },
+    {
+      "start": 887.76,
+      "end": 925.52,
+      "text": "Number two, why wasn't Jensen given a defensive briefing, which is standard operating procedure. It was done with Eric Swalwell. Number three, what secrets is Jensen accused of leaking? What secrets would even be in his possession? And number four, was Alice Wong even a Chinese spy, because now the incoming chair of the House Intelligence Committee, who's a Democrat, just threw major cold water on that. So I put all these things together. And I would say at this point in time, I think there's more questions than answers. Yes. And I would like, I would like a full accounting of the facts to come out. There's a fifth question though,"
+    },
+    {
+      "start": 925.52,
+      "end": 951.44,
+      "text": "to your Sacks, which is why at all and why now? Meaning like, why did whoever pulled the pin on this grenade, what did they see where they felt this had to happen? And then why now? And the other discrediting affair stories coming out in a coordinated way at the same time, like it all happens at once. What is the motivation?"
+    },
+    {
+      "start": 951.44,
+      "end": 994.96,
+      "text": "Probably, and I'm just speculating here, but I'm not the only one who has looked at this. You had China Hawks who lost this debate about sending chip technology to China from the United States. And they want to reverse that and they want to have no chips sent to China. And they also want to put GPS and other ways of tracking these chips and back during them in order to turn them off. Something that Jensen has been opposed to something a number of senators have been pro doing. So there could be a contingent in the White House who are very anti-China, who want to see the policy with China change Friedberg."
+    },
+    {
+      "start": 996.16,
+      "end": 1036.64,
+      "text": "Yeah. So that's one. The bigger longer term picture, which I've mentioned several times, there's two paths for the future, I would argue. One is a path where AI technology is broadly accessible, broadly used, and the value of it is not concentrated. And the power of it is not concentrated in the hands of a few and controlled by a few. Where open source AI distributed data centers that are available and accessible to many, gives everyone the ability"
+    },
+    {
+      "start": 1036.64,
+      "end": 1062.56,
+      "text": "to use AI to rise up, to progress, to create value, and so on. That is a scary and threatening thing because of how it changes a lot of power structures, economic structures, and so on. It creates a lot of instability in existing social, economic, and political systems. So the alternative path for the world is one of concentrated power and influence over AI technology."
+    },
+    {
+      "start": 1062.56,
+      "end": 1106.72,
+      "text": "This is where I've had this theory that ultimately data centers will get regulated, but maybe further down the stack here with chips becomes the point of control. But fundamentally, there's a motivation to not lose control and to not let the power structures that exist in the world today get diminished by AI. And so we could argue there's probably a broad set of interests there that start to say, hey, this guy's not aligned, Jensen's not aligned with our view of the world. Jensen has been a strong advocate for open source. He's been a strong advocate for global access to and utilization of AI technology for the benefit of humanity,"
+    },
+    {
+      "start": 1107.52,
+      "end": 1146.48,
+      "text": "not just for the benefit of American citizens. And those views are counter to perhaps a lot of different interested parties. And clearly, there was knowledge about this woman, about Jensen's other relationships or whatever is coming out that's being used to smear him a long time ago. And to Chamath's point, this is a moment where it's all coming out at once. And in such a way that it almost guaranteed that he would be ousted. And I'll just highlight Jensen being ousted is you've got to ask the question, what is the fiduciary duty of the board?"
+    },
+    {
+      "start": 1147.44,
+      "end": 1179.52,
+      "text": "What do they actually have a responsibility to act on? And the one thing they have a responsibility to act on is if Jensen lied. Obviously, if he committed espionage or did something that's criminal, and he would have been arrested, right? Yeah. So if there's something criminal, violation of federal law, that is obviously, you know, they have to act on that you have to terminate him. And clearly, because there wasn't an arrest or something like that, it doesn't seem like that's, I think we can take that off the table, right? So perhaps the next likely thing is that he actually made a misrepresentation about something. So, you know,"
+    },
+    {
+      "start": 1179.52,
+      "end": 1218.56,
+      "text": "companies have what's called a code of conduct in the code of conduct, it says you have to report relationships, you have to report relationships with subordinates, you cannot have a personal conflict of interest with a customer, or a partner, a key business partner without reporting it. And executives or section 16 officers at public companies have to make quarterly attestations that they are in an auditable way, not in violation of the code of conduct that things are auditable. And that attestation might be what gets him in trouble ultimately, where he made attestations that said, I am not violating any of our code of"
+    },
+    {
+      "start": 1218.56,
+      "end": 1246.32,
+      "text": "conduct, I am not in violation of any of our business practices, which would include not having conflicting personal relationships with customers or partners, that may be what gets him tricked up. So fundamentally, I think the board action isn't related necessarily to the the personal relationships, but there's something else that's going on here, that ultimately, he probably looked at and said, Hey, you know, we should probably fast track through this. And it is extraordinarily sad and disappointing. This is a man who worked at Denny's."
+    },
+    {
+      "start": 1246.88,
+      "end": 1269.68,
+      "text": "And in 1993, started a chip company that no one believed in that everyone thought was a feature, not a platform, not a product, not much of a business. And the stock price was, you know, pennies, compared to the price today, it was less than $2 a share 10 years ago, 100. They're making video game cards and servicing the Bitcoin."
+    },
+    {
+      "start": 1270.32,
+      "end": 1298.88,
+      "text": "From 2006 to 2016, the stock price did not move 10 years of just being a nothing company with a $12 billion market cap. Think about that you start this company in 93. And in 2006, it's worth 10, 12 billion bucks, and it doesn't move for 10 years. And you're grinding and you're grinding. And this is your whole life, your whole business, everything and you believe and you see this vision and you just keep going and you compound and you build a moat and you compound and you build a moat and you compound and you get an amazingly talented team. And all of a sudden,"
+    },
+    {
+      "start": 1298.88,
+      "end": 1330.96,
+      "text": "four years ago, this thing starts to take off in 20Xs in the last four years and is the most valuable company on earth delivering the most profitable quarter in business history, $63 billion in operating profit more than any other company ever. And then all of a sudden, boom, he gets taken out. I mean, you know, it is disheartening. And I think that obviously, there's something that was done wrong. And we're going to find out and I'm not going to rush to judgment. I'm not going to rush to diminish whatever he did that was wrong. But there's a sad arc to this whole story."
+    },
+    {
+      "start": 1330.96,
+      "end": 1370.16,
+      "text": "And there's something very fundamental, I think, to the power structure that is being rewritten in the world today with AI to the story. Okay, Chamath, let me ask you, Qibono, Qimalo, who benefits and who is harmed by Jensen being taken out of that seat? Let's assume he's not a traitor. I find that absurd and insane based on just what we've seen over these past couple of decades and his effort and his character. Okay, he's got some personal things going on. But who is the beneficiary of Jensen being removed as CEO? Who benefits from that?"
+    },
+    {
+      "start": 1370.16,
+      "end": 1403.52,
+      "text": "Let me just pile on first before I give you my thoughts. I also think he's an incredible individual and CEO. And he's built the industry that will reshape our entire lives, our children's lives and our children's children's lives. I think in a decade or two, when you see solutions to diseases and cancers, and we have this abundance that we were told is coming, he will have been as instrumental as anyone, if not more than anybody. Okay, so that's the tragedy of what happened is a person that was an architect of something this grand was defenestrated this unceremoniously."
+    },
+    {
+      "start": 1403.84,
+      "end": 1441.2,
+      "text": "Very tactically, I think Friedberg really nailed it around what probably happened at the board level that led to his resignation. When you are an officer of a company, and when you file your 10 k's, every quarter, you have to get on the phone with your auditor. And you have to go through these sets of questions that they ask you. And they ask you these exact things, you know, do you have a conflict with someone? Are you in a relationship with someone, etc, etc. Now, why do those things happen? The SEC requires that to make sure that you're not running afoul of any"
+    },
+    {
+      "start": 1441.2,
+      "end": 1479.36,
+      "text": "conflict of interest so that your company is a reliable steward of capital on behalf of the shareholders. But even more tactically, you need that for things like DNO insurance, which is like the director and officer insurance, which is what gives a wrapper of liability. For board members and for officers to do the job of running public companies. And there are covenants associated with all of these things. And so when you get into a situation where you may have misrepresented something and you start to breach covenants, those are the actual dominoes that tip it may not be nearly as salacious as what people want to believe is happening at the board."
+    },
+    {
+      "start": 1479.36,
+      "end": 1512.32,
+      "text": "But those are the tactics of the boardroom discussions. They're extremely tactical, sadly, which is again why it's even more tragic when you compare that to, you know, what he is, which is this giant. Okay, so who benefits Jason? I think there's a lot of people that have rushed to this conclusion that China wins. And I would just try to unpack that and ask the question, is that true? So let's take two cases. And these are both hypothetical to sort of try to answer this question. Let's say that there are no chips going to China. Well, why does China"
+    },
+    {
+      "start": 1512.88,
+      "end": 1544.72,
+      "text": "win? No chips were going before. No chips are going to go now. China is stuck in the same place that they were before, which is they need an endemic solution that can replace the compute capability of NVIDIA. Even without Jensen there, there's still years and years and years, maybe potentially decades, and hundreds of thousands of man hours of work that NVIDIA has put into building the moat that they built that doesn't get overcome just because he's not there anymore."
+    },
+    {
+      "start": 1545.84,
+      "end": 1565.2,
+      "text": "So maybe China can catch up. But I still think that that's a multi year potentially multi decade endeavor. Now let's assume the other side, hypothetically, let's say that the chips were somehow leaking into the hands of the Chinese, maybe not into China, but into the hands of the Chinese. Well, it looks like the government's going to crack down and figure out where every chip went."
+    },
+    {
+      "start": 1565.36,
+      "end": 1587.6,
+      "text": "And so presumably now they're not getting the chips. So whatever they were doing, they're now going to be held back, which is to say that whatever progress they were making has gotten taken away. So that's a disadvantage to China. So as I think about it, in both scenarios, China is sort of where they were or worse off. So I don't think that they benefit."
+    },
+    {
+      "start": 1588.08,
+      "end": 1632.03,
+      "text": "What about NVIDIA's competitors? Does this help AMD or Google or startups, Cerebrus or Etched or whomever? And my answer there is, again, not really. Why? Because those companies need something very different, which is they need to spend an enormous amount of time still making their chips work at scale. And then convincing folks like TSMC and others, Samsung, to give them manufacturing capacity, HBM capacity, etc. And as we've learned the hard way, you can't just will your way to a training run of a million GPUs"
+    },
+    {
+      "start": 1632.03,
+      "end": 1674.59,
+      "text": "that just works. This has again been many, many hours of work. So they don't necessarily benefit in the short term. They still have a lot of work that they have to do. The only cohort of people that I think has the potential to win are those that want some version of what Friedberg said, which is a more centralized governance infrastructure of compute capacity. And very narrowly, what I would say is, right now, when you export chips, what they ask of the exporter is have telemetry, right? We need to know when and how the chips are being used, and we need to have a remote kill switch. But that is a private responsibility"
+    },
+    {
+      "start": 1674.59,
+      "end": 1711.42,
+      "text": "that's born through the regulatory infrastructure. Amazon has to have that, Microsoft has to have that, Google has to have that. There is a version of this where now, if we think that it's been leaking, and there hasn't been enough checks and balances, there is an opening for certain individuals in the government to propose telemetry and a kill switch that is owned by them. Now, narrowly, they would win now in this scenario, because if they were looking for control before, they've now been given an opening to ask for the legislation to get it."
+    },
+    {
+      "start": 1712.38,
+      "end": 1731.34,
+      "text": "So I'm kind of at a loss. I don't think that the takes right now that I've seen on X really track for me. I think this is the one narrow take that I believe where there's a clear advantage, everybody else just still has an enormous amount of work to do. It has not changed their homework. Jason, what's your take on all of this?"
+    },
+    {
+      "start": 1731.34,
+      "end": 1752.3,
+      "text": "Yeah, so I've been thinking about it from two vectors. The first is, you know, who should make the decision that Jensen's out? Obviously, I think it's the shareholders. And if you look at the investigation, it's not complete, I think they should have waited till it's complete, and the press and the mobs and all of this shouldn't make too much of an impact on that."
+    },
+    {
+      "start": 1752.3,
+      "end": 1787.42,
+      "text": "He did agree to resign himself, obviously, under a lot of pressure. There is something about governance here that we need to consider, which is the people who are on the board who are making this decision are doing it from a CYA position, cover their butts, and they're not doing it, I think, in the best interest of the shareholders. And they don't own a meaningful percentage of the share. So I think this should be put to a shareholder vote if what we're seeing here is not Jensen doing something criminal. And it still hasn't been proven, as you pointed out, Sacks, who this person was and what their motivation was, are they a spy,"
+    },
+    {
+      "start": 1787.42,
+      "end": 1813.18,
+      "text": "or are they just somebody trying to make money? It's unclear for me, or at least from the data we've seen what's going on there. Now, on the question that we've been discussing of who benefits from this, and it's really who benefits from America's champion in super intelligence, you know, getting angled, because this could have a lot of impact on NVIDIA and then America's lead."
+    },
+    {
+      "start": 1813.18,
+      "end": 1852.14,
+      "text": "And so the partners, the employees, the shareholders, they're all losers here. So who's the leaker of this document? It can't be the competitors. It's not the shareholders, obviously, and I don't think it's China. And then that leaves, I think, maybe the people who are the D cells here. And that also seems a bit farcical that entropic or the D cells would try to consolidate power on this because they need the chips as well. And I think that's where I think, my personal opinion, that there's something going on in the White House, in the administration, between warring factions of who wants China to get no chips, the China Hawks, and maybe the"
+    },
+    {
+      "start": 1852.14,
+      "end": 1887.1,
+      "text": "people who want to maybe cool off the relationship with China and make it more productive. I think at the end of the day, we're going to find the leak is coming from within the house. That's my belief. There's also a chance it could be a Democrat who is a D cell and who wants to damage the White House just completely. Because why did they let not inform Jensen to Hillary Clinton's point? Maybe it's just somebody on the Democratic side who wants to cause chaos. I'm speculating here in a massive way. Just taking a broader view on the role that NVIDIA is playing currently,"
+    },
+    {
+      "start": 1887.82,
+      "end": 1921.26,
+      "text": "it may not just be about chips to China, but it may actually be about slowing down the US AI economy. Because remember, NVIDIA is actually providing capital and guarantees to startups, to data centers, to a lot of infrastructure. A lot of that is directed directly by Jensen. Chamath, you're pretty close to this, but if Jensen's out of the picture, is there someone in NVIDIA that continues running that effort? That's potentially hundreds of billions of dollars of capital that gets turned off that's flowing to the AI economy."
+    },
+    {
+      "start": 1921.98,
+      "end": 1942.3,
+      "text": "I think Collette Kress and the head of M&A and corp. Dev Vishal Bhagwani, these guys are really smart, good guys, but you are kind of right. The Bank of NVIDIA ran through Jensen. It's not clear what happens now. Is the bank closed indefinitely? Is it closed for some period of time and it restarts? Will the new CEO feel the latitude to invest as aggressively?"
+    },
+    {
+      "start": 1942.3,
+      "end": 1963.66,
+      "text": "I think Jensen had a much more holistic view of the industry. He knew how to move the chips around on the board and he had the moral authority to make investments and to make acquisitions that will probably be harder for a more traditional CEO who will have to have committees and analyses and a level of diligence that will just slow things down at best."
+    },
+    {
+      "start": 1963.9,
+      "end": 1981.82,
+      "text": "Totally. And he has a sense for it. He intuits the whole thing. He knows the market. He knows where things are going. He knows the people personally with him out of the picture. And he's lived it, so he has mastery. He's like the beating heart of the AI economy and all of a sudden... I think it's beyond obvious. You asked the question, Kweebona, who benefits? It's China."
+    },
+    {
+      "start": 1981.82,
+      "end": 2025.82,
+      "text": "China benefits from this because Jensen is a tentpole of our entire AI ecosystem. I mean, that's the bottom line. Now, do I think that China leaked this and took Jensen down? Well, I think we know the answer to that is no, because the New York Times has described its sources as people who got briefed on this intelligence. So they're either in the government or one degree away from it. So again, the proximate cause of the leak here was this classified memo. So the rational thing would be that China did take him down, but I think we know that this was domestic and it comes down to the fact that Jensen made powerful enemies,"
+    },
+    {
+      "start": 2026.54,
+      "end": 2054.22,
+      "text": "either as a result of his policies or because of his company's success. And some of those people eventually took him down. Wait, you're saying Jensen made enemies of certain people in America? Guys, this is not in doubt. The New York Times says who... They described their source very broadly, but it's people who were briefed on the classified memo. That's not someone from the CCP."
+    },
+    {
+      "start": 2055.1,
+      "end": 2085.1,
+      "text": "Well, obviously not, if that's true within the New York Times. But you asked the question in whose interest is this? In a narrow sense, obviously, Nvidia's competitors, in a broader sense, China. They're the ones who benefit. But look, I don't think we should speculate about that too much. This is one of those areas where we just don't have the facts yet. I think it's an area where, frankly, they should try to get the facts. I mean, again, the only crime that we know was committed for sure in all of this was the leaking of that classified memo. So it would be nice if there was an"
+    },
+    {
+      "start": 2085.1,
+      "end": 2123.98,
+      "text": "investigation to find out who did that. But beyond that, I don't think we should speculate. Just to give you my perspective on the economic impacts of this, I think the unfortunate balance of scenarios now is that I think the risk that we lose 50 basis points to 100 to 150 basis points of growth now needs to be credibly considered. There's a chance here where the investment slows down. I mean, if you thought that we were already going into an economically questionable period because of the democratic tsunami, meaning you're going to go through a whole legislative framework of slowing down data centers, of slowing down AI,"
+    },
+    {
+      "start": 2123.98,
+      "end": 2155.18,
+      "text": "that was already happening. So whatever growth we had that the Trump economy had generated going into the midterms, the odds were that that was already going to be slowed down because of the democratic legislative headwinds that were coming. And if you layer into that the bank of Nvidia slowing or stopping, and its impact as the critical anchor security around which everybody else kind of pivots, that then further accelerates what the impacts to growth could be."
+    },
+    {
+      "start": 2155.18,
+      "end": 2193.02,
+      "text": "So if I looked at it purely technologically, Sacks, I don't see how China actually benefits from this. In all scenarios, everybody's screwed. No, no, no. He'll explain this. Okay. So. But economically, I agree with you. Economically, I think people in DC just, or I should just say people who are outside our industry maybe, to see technology in more static terms where they think, okay, the big advantage that the US has is that we have a particular chip, right? But actually, the chips are being improved rapidly. There's a new generation of chips that come out every year. We go from Ampere to Hopper to Blackwell to Verirubin."
+    },
+    {
+      "start": 2193.58,
+      "end": 2232.46,
+      "text": "And it's that momentum. It's the ability to take out a brand new chip that's several times more powerful than last year's chip. That's the real advantage. It's Nvidia's competitive advantage. And it's America's advantage. So it's the momentum. It's the dynamism. People get way too hung up on some chip that was state of the art four years ago. That's not where the United States has the advantage. It's that we are rapidly iterating and we keep coming up with better and better, more and more powerful chips. Now, let's take into account what's just happened. Do you think that Nvidia is going to lose a tempo or two? Absolutely. I mean, again, Nvidia's success was"
+    },
+    {
+      "start": 2232.46,
+      "end": 2255.58,
+      "text": "based on the ability to take out a new chip design every year. And Jensen is fundamental to that rapid progress the same way that Elon is fundamental to the rapid progress at SpaceX or Tesla. And if you take him out of the picture, there's just nobody comparable. There's no no, no, no, you're right about that. I'm just saying that ancaling Nvidia doesn't make somebody else's chips better."
+    },
+    {
+      "start": 2255.58,
+      "end": 2295.98,
+      "text": "Does it? Of course not. But it means that Nvidia's chips will not continue to advance at the same. And this is all about whether China can catch the frontier or not. So for example, look, Huawei has gradually been catching up. They were nowhere in GPUs a few years ago. Then they had the, the ascend, then they rolled out this thing called cloud matrix where their individual chips were not as powerful as American chips, but they use their prowess in networking and then more of them together. So what they did is they networked 384 chips together in this thing called cloud matrix to create this rack system. Nvidia network 72"
+    },
+    {
+      "start": 2295.98,
+      "end": 2333.9,
+      "text": "together and the NVL 72 is better than 384 of the Huawei chips. Nonetheless, they were getting closer and closer and Jason to your point, they have energy to spare. So what Huawei has been doing is they create a less powerful individual chip that consumes a lot more energy. And then they network more of them together to get a comparable result at the rack system. And that's how they've been catching up. Now, let's just assume that like Nvidia's crippled for two or three years based on this, right? You get a terminal at the company or whatever. That's really good news for Huawei because they will catch up a lot faster. Obviously it's good for"
+    },
+    {
+      "start": 2333.9,
+      "end": 2378.7,
+      "text": "Nvidia's competitors too. I mean, it's going to be good for AMD and Intel maybe, but again, that's a very narrow way of looking at it. I think it mostly will help Huawei if Nvidia has masterly slowed down. Because obviously it's all about staying on the frontier. Sacks, I also think you need to add and view the diminishment of the flow of capital to data centers and to startups that Nvidia provides in totality with the slowdown of data center buildouts because of the efforts made by NGOs. And there's a lot of reporting going on on where these NGOs are getting funded from to drive local community state-based and now federal legislation"
+    },
+    {
+      "start": 2378.7,
+      "end": 2418.86,
+      "text": "to stop data center development. When you look at those two things together, there is a consolidated effort that you could paint a picture of to slow down the development of the AI economy in the US and give someone a chance to catch up. Because the velocity of capital is what drives that innovation engine. So the rate at which we can improve our AI models, the rate at which we can improve our AI chips is driven by how fast capital moves through the system. The more quickly capital moves, the more capital moves through the system,"
+    },
+    {
+      "start": 2418.86,
+      "end": 2443.26,
+      "text": "the more we accelerate our advantage. So if an adversary can slow down capital moving through the system, they are given an opportunity to catch up. It doesn't have to be an adversary. It could be somebody who just wants us to be in a recession because they benefit politically. Or they are a fundamentalist. They could be someone who is fundamentally anti-progress and they are fundamentally against AI. And they have all these fundamental beliefs that AI is going to harm humanity and harm civilization and they want to turn it off."
+    },
+    {
+      "start": 2443.26,
+      "end": 2474.94,
+      "text": "So then that would be de-cellarists and the regulatory capture in Froppet crowd. Chamath, what you're saying, people who might benefit from a recession, I think mostly you want to be very clear. But wait. Well, no, hold on. I want to clarify this, Jason. If you look at it narrowly, technologically, anchoring Nvidia does not make your chips better, doesn't make your racks better, doesn't make your networking better, doesn't make your co-wass better, doesn't make your HBM integration better, doesn't make you replace CUDA. None of those things are true."
+    },
+    {
+      "start": 2474.94,
+      "end": 2509.34,
+      "text": "So unfortunately, slowing down this giant for the people that assume that it helps other people, it doesn't help other people in the classical sense. It's not as if demand is so elastic that all of a sudden you can go to somebody else. That's not what's going to happen here. It's just the entire industry gets slowed down. That doesn't benefit anybody. And I hope people really internalize that. So technologically speaking, what's going to happen here to Nvidia is just a tragedy for the broader AI industry. Then there's the question economically, and this is where I do agree with Sacks that there are geopolitical interests at play,"
+    },
+    {
+      "start": 2509.34,
+      "end": 2550.38,
+      "text": "slowing down the United States economy, which this will do, will have downstream impacts. The quantum of that is yet to be determined. But it's non-trivial in my estimation because so much of our economy was already levered to AI. And within AI, you know that famous picture, you know, Jensen and Nvidia is that little jenga block right here. They're the ones around which everything else was being set up. So I just think we have to remember that because I think it's important. We have an important example here that we should consider when Steve Jobs passed away and Tim Cook was put in charge of Apple. He was able to just get a massive amount"
+    },
+    {
+      "start": 2550.38,
+      "end": 2571.1,
+      "text": "of share appreciation by doing stock buybacks and milking Steve Jobs roadmap. But to your point, nobody's sitting here saying Apple's latest products are incredible. These are groundbreaking products. So we could see Nvidia go to just extract max value, etc. It could be good for shareholders in the midterm. Not sure if it's going to be good for the long term."
+    },
+    {
+      "start": 2571.1,
+      "end": 2609.58,
+      "text": "And obviously, Donnie from Queens, our favorite President Trump, has suggested Tim Cook come out of retirement and take the position. So what were you left there? Look, Tim Cook had a very successful run as CEO of Apple, obviously had a tough job in the shadow of Steve Jobs. But the reality is that they did not release that many new products. They created incremental versions of what they already had. And I think that the mobile phone space is just a little different than chips. I think the chip space is more dynamic. It's more competitive."
+    },
+    {
+      "start": 2609.58,
+      "end": 2639.1,
+      "text": "Like I mentioned, new chip generation every year or so, every year and a half. And if you lose a tempo or two, if you lose velocity, I think that's the key word here that Friedberg used is velocity. Then you get overtaken by other people. I think that's the issue here is that that's what creates the risk for Nvidia is I don't think they can just keep milking their existing product lines or making them incrementally better. I mean, the chips are getting better at a rate of several times a year, three or four times a year, maybe more. If they don't keep up that pace of"
+    },
+    {
+      "start": 2639.1,
+      "end": 2677.02,
+      "text": "development and others do, then they will no longer be frontier and then they lose their business. So I just think it's a very dynamic space. And I think that's why, again, I mean, I don't know how many times I can say this that Jensen was very important to Nvidia and Nvidia was very important to America remaining at the frontier and having leadership in chips and technology not being used to enable a totalitarian state. I do worry that there is legislation coming our way with the new Congress that is going to say every AI chip and every computer and every data center has a switch and has a connection back to some central system."
+    },
+    {
+      "start": 2677.02,
+      "end": 2695.18,
+      "text": "And that central system will be a state system. And we are fundamentally looking at an Orwellian state explosion if this sort of thing happens. And my guess is that people know Jensen's philosophy. Jensen has talked a lot about AI being for the benefit of all of humanity, regardless of your country, regardless of your standing, regardless of your wealth."
+    },
+    {
+      "start": 2695.18,
+      "end": 2729.5,
+      "text": "He was anti oligopoly. He was the opposite of the oligarchy and the central state, the totalitarian state represents everything that I believe Jensen was against. And because of that, I think he had to be taken out if ultimately the goal is to have the totalitarian state use this technology as a tool. I really do worry about that being the reason because at the end of the day, whoever comes in next has to be cooperative with legislatures and work out a bill that we all agree to head nodding, standing in front of Congress and saying, you know what, I agree with these new ideas. Let's all go do this. And suddenly,"
+    },
+    {
+      "start": 2729.5,
+      "end": 2763.5,
+      "text": "the US government has control of the actual physical chips that exist in free markets and exist in data centers around the world. And that's not a great place for any of us. You know, it's worse than that. It's in order to get out of the cul-de-sac that they're in, it'll be worse than just acquiescing. It'll be proactively designing these things in. Like what Jason said about having, you know, it sounds insane. Even 10 days ago, if you said, oh, hey, our new spin is going to have a GPS chip and a remote kill switch that's going to be operated by some government entity, we would be crying bloody murder."
+    },
+    {
+      "start": 2763.5,
+      "end": 2800.62,
+      "text": "On civil liberties grounds. Yeah. And to your point, that is probably on the table because all of these folks are going to try to get out of jail in that sense, which is what do we need for the government to just let go and appease them? I tweeted this out. Nick, can you show it? The person, Representative Molinar, who runs the House Intelligence Committee, he posted this. The part that concerns me is it is in our national interest for NVIDIA and other AI champions to succeed, but American companies should never jeopardize our nation's security by giving Chinese companies access to their most advanced chips. NVIDIA must now change its corporate"
+    },
+    {
+      "start": 2800.62,
+      "end": 2826.62,
+      "text": "practices and appoint leadership that makes national security's top priority. I mean, they're telling you right now what the terms will be for this to end. And it's going to require some level of control checks. And then the question is who actually will get the keys? Will it be the NSA? Will it be the CIA? Will it be commerce? Will it be BIS? Will it be somewhere in Treasury? Some congressional committee that will be the new polity?"
+    },
+    {
+      "start": 2826.62,
+      "end": 2863.26,
+      "text": "So this is the devil's in the details here, Chamath. This has been something that's been on the table. There's something called the Chip Security Act. It's bipartisan. And the Chip Security Act, there's a big question with these kill switches. Is it self enforced? In other words, NVIDIA puts these in, and NVIDIA pays the price if their chips are found in China, via Singapore, Malaysia, wherever, and they would pay the price, but it would be up to them to track them and then reassign them. So if they were resold, instead of it just being paperwork, you would have to re initialize them. By the way, this is very easy to do technologically."
+    },
+    {
+      "start": 2863.26,
+      "end": 2880.14,
+      "text": "People will claim it's not it is a civil liberties issue, obviously, as you correctly point out, Sacks, but it's easy to do because if you have an iPad and you've ever had a brick, and it's like, you don't remember the password, now you got to go to the store, and they you can recover stolen iPhones and stolen iPads with this basic, basic technology."
+    },
+    {
+      "start": 2880.14,
+      "end": 2906.14,
+      "text": "So as I described it, Sacks, very easy. And there is this act and it is bipartisan. There's a lot of people who want chips tracked. Now, whether it's being tracked, and it's a responsibility of the company or a government organization, that's the devil in the details there. One is obviously way worse for privacy and civil liberties. So what's your thought here on this regulation of high end chips? Let me go back and just give you guys a little bit of context on chip regulation."
+    },
+    {
+      "start": 2906.14,
+      "end": 2946.86,
+      "text": "So this started in 2022 in the Biden administration. And the Biden administration was the first to put export control restrictions on advanced semiconductors. At the same time, they permitted what they called lagging chips to be continued to be sold into China. So there was a distinction made between leading edge chips and lagging chips. And leading edge chips were prohibited to be sold to China, but lagging chips, like the H20, could be sold in unlimited quantities to China on an unlicensed basis. Okay, so just everyone kind of keep that in mind. Now,"
+    },
+    {
+      "start": 2948.06,
+      "end": 2992.46,
+      "text": "what happened in the Trump administration? The Trump administration basically stuck with that framework. The idea was no leading edge chips to China. However, lagging chips could potentially be sold, but the administration changed it to be limited quantities on a license basis. So again, we went from unlimited quantities, unlicensed of lagging chips under Biden, to limited and licensed under the Trump administration. The reason why I say this is because there's an effort right now to retcon chip policy to try and create this narrative that somehow the Trump administration has been soft on China. This is what all the democratic leaders are trying to do. They're"
+    },
+    {
+      "start": 2992.46,
+      "end": 3030.7,
+      "text": "already trying to use this whole Jensen thing to basically spin this narrative that the Trump administration has been insufficiently tough on China. Now, this is an extremely hypocritical narrative in a number of ways. First of all, many of these politicians were very much in favor of an engagement policy towards China, which ended up exporting large numbers of our jobs in the industry over to China. It was Trump who in the first term really caused a revision of that doctrine. We moved from engagement to a much more standoffish policy towards China."
+    },
+    {
+      "start": 3030.7,
+      "end": 3075.1,
+      "text": "So that's point number one. Point number two is these Democrats are the leading people who are opposed to data centers. In fact, we just got a story about how in Maryland there was an abandoned shopping mall where a data center was going to go and a local activist basically managed to kill that data center, not totally surprising. However, she credited the viral success of her campaign to the party for socialism and liberation, which is a China proxy organization operating here in the U.S. It's called the PSL. And according to this tweet that I'm putting on the screen, it is the political arm of Shanghai based Neville Roy Singham, who is an avowed Marxist multimillionaire whose"
+    },
+    {
+      "start": 3075.1,
+      "end": 3110.7,
+      "text": "bankrolled anti-American pro-CCP nonprofits to the tune of $278 million. And Neville Roy Singham's political foot soldiers have been boots on the ground here in the U.S. opposing dozens of data centers. And these efforts are most aligned with the Democrat party. So if the Democrats are serious about opposing Chinese influence, I think we should conduct an investigation and have hearings on whether the CCP is actually involved in these anti-data center efforts across the country."
+    },
+    {
+      "start": 3110.7,
+      "end": 3148.54,
+      "text": "You don't hear Democrat leaders trying to say that. So I'm pointing out basically their hypocrisy on this issue. Let me go back to the issue of chips for a second here. If Congress now believes that we should not sell lagging chips to China, my view on that is fine. Let's make that the policy. I don't think the juice is worth the squeeze. I think there were some good policy arguments for why you might want to take market share from Huawei with a deprecated chip, a much less powerful chip. If you could take market share away from Huawei, those R&D dollars"
+    },
+    {
+      "start": 3148.54,
+      "end": 3189.58,
+      "text": "would flow to American companies instead of to a Chinese company. And it would slow down the scale up of Huawei because chips are a scale up business. So that was the original reason why deprecated chips were still allowed to be sold into China. And that was a logic that the Biden administration came up with. And it was continued in the Trump administration. And like I said, there's now an effort to try and retcon anyone who wanted to sell deprecated chips into China as somehow being soft on China and doing China's bidding. Look, that was a bipartisan policy if Congress now wants to change that policy and say, we're not going to sell anything to China."
+    },
+    {
+      "start": 3189.58,
+      "end": 3224.22,
+      "text": "Fine, do that. Again, I think that given our political climate, I think it's too hard to have that nuanced policy. By the way, here's the most surprising thing about the whole thing. China doesn't even want the chips. Didn't they put a ban on their company buying it? Yes, they banned the H20 chip. And then when the H200 got approved, they basically have prevented those chips from entering the country. And they announced other Nvidia SKUs that they're against. So China doesn't even want the chips. This is the thing that I think a lot of people in Washington haven't wrestled with is that the policy of the China Hawks is effectively the"
+    },
+    {
+      "start": 3224.22,
+      "end": 3265.02,
+      "text": "policy of the CCP. Neither one wants American chips in China. Now, they want that policy for different reasons. The China Hawks think it's going to help China to have American chips there. And the CCP wants to keep Nvidia chips out of China because they're trying to prop up Huawei as their national champion. So they want to force the Chinese market into the arms of Huawei so that Huawei can scale up and then compete all over the world. So again, it's kind of crazy that people think that the CCP is begging for these chips. I think that Chinese companies want them. Chinese developers want them. But the Chinese government, based on all their public"
+    },
+    {
+      "start": 3265.02,
+      "end": 3299.26,
+      "text": "statements and their policies, is trying to keep out those American chips. Clearly, the companies making LLMs covet the latest chips right now. Chinese government covets building their own chip champions internally. So two things can be true at the same time. It's a very subtle point. They're trying to indigenize chip production. They think it's a critical industry. And in the same way that we're trying to get rare earths out of their clutches and we're trying to get our own rare earth supply. They're trying to create their own chip supply. They're trying to scale up domestic chip manufacturers. And they're willing to endure"
+    },
+    {
+      "start": 3299.26,
+      "end": 3330.62,
+      "text": "some short term pain in their ecosystem to prop up Huawei to force all of their local companies, their developers to try and use Huawei. And if you look at recent press, the latest deep seek model is being trained exclusively on Huawei chips. So in any event, there's like a big disconnect here where I think the China hawks in DC think that the Chinese government is begging for their chips. And the truth is that they would love to keep the chips out too, which is why I say, again, the juice isn't worth the squeeze. The China hawks don't want the chips sold."
+    },
+    {
+      "start": 3330.62,
+      "end": 3373.9,
+      "text": "The Chinese government doesn't want the chips sold. So just forget about it. Stop selling them. I mean, this is the crazy thing is that if Jensen was taken out because he wanted to sell chips to China, it was the stupidest, most moot hill to die on because China is not taking those chips anyway. That's what's so crazy about it. And you guys don't think that there's some pretty significant potential that Jensen knew that there was violations happening of these chips making their way to China. And he was allowing it to happen through mega speed and perhaps other companies. And that's what really brought him down."
+    },
+    {
+      "start": 3373.9,
+      "end": 3393.02,
+      "text": "Yeah. It's 46% of revenue comes from China, then yes. Well, I don't think it's 46. But even still, what more do you need for him personally or for the company than being the largest company in the world ever created by humanity? And why would he risk doing something that is treasonous that would result in him going to jail?"
+    },
+    {
+      "start": 3393.02,
+      "end": 3415.82,
+      "text": "I will tell you why. Please. Jensen's philosophy, like I said before, is that AI is a tool for humanity. I know that he's America first. We know the guy, we know that he's patriotic. He is an American patriot. But I do also believe that there's a philosophy that a core group of technologists hold. That is that technology progresses humanity."
+    },
+    {
+      "start": 3415.82,
+      "end": 3451.26,
+      "text": "It's not about progressing one side over the other. That technology brings us all up. And as more people in the world are brought up, there is less conflict. There's more abundance. There's less reasons to hate each other. There's less resources to fight over, and so on and so forth. And that's a beautiful view of the future. It's a beautiful view of what technology can enable. So if you hold that core and true in your heart, perhaps there's a way that you unconsciously kind of rationalize your way into saying, hey, look, I'm following the rules of the book, the rules of the book, say I consulted Vietnam and Singapore and whatever,"
+    },
+    {
+      "start": 3451.26,
+      "end": 3466.38,
+      "text": "and I'm doing exactly that. But if you then find out that those things are making their way over to China, but it's not violating the rules of the book, but you know that it's happening, that's where things start to get perhaps a little bit blurry, a little bit slippery. Yeah, I don't know. I mean, look, I'm just speculating."
+    },
+    {
+      "start": 3466.38,
+      "end": 3494.06,
+      "text": "Yes, you're speculating there, Friedberg. And what I would say is, look, my framing at the very top here was that there's two ops, right? There's whatever Alice Wong and MegaSpeed we're doing, which I said should be investigated. And then there's whatever the leakers were up to who broke the law in order to leak these details about Jensen. With respect to the first op, we don't know what happened. There should be a full investigation. I mean, look, if Jensen and Vidya broke the law, that's really bad. And there should be consequences for that."
+    },
+    {
+      "start": 3494.62,
+      "end": 3529.98,
+      "text": "I'm definitely not defending that at all, if that turns out to be true. But I also think that Invidia has denied it. And we should just wait to see what the facts are there. Okay, so let's ask who should be the next CEO and what's going to happen? I mean, look, there's some incredibly brilliant technical people, Samir, Ian Bach, inside of Invidia. I think Ian's the most obvious internal candidate and the most obvious external candidate is Renee Haas from ARM and Nikesh Arora from Palo Alto Networks. Renee, because he worked at Invidia for many, many years, worked directly for Jensen,"
+    },
+    {
+      "start": 3530.7,
+      "end": 3560.54,
+      "text": "and has been running ARM successfully. So he's steeped in chips. And then Nikesh, because he's been the best capital allocator of the last five or 10 years in the public markets, and a huge surface area of AI is going to be around security. So he brings that to the table. I would be pro Nikesh, pro Renee, pro Ian Bach, because I think what you get are technical, aggressive, product oriented capital allocators. I think the thing that you don't want is a steward."
+    },
+    {
+      "start": 3561.34,
+      "end": 3578.22,
+      "text": "And the reason is I do not think that this is a business that is just going to roller coaster, it's not going to just go be milked like a fatted cow. And so I think if you treat it as a business where you don't take risk, you are going to lose. It's a wartime company right now, right? This is a dynamic company."
+    },
+    {
+      "start": 3579.1,
+      "end": 3606.62,
+      "text": "And you need a wartime CEO. Here's my speculation. If it is found to be the case that Jensen did not violate any laws, I would argue that Jensen should return a CEO. And I think that any violation of code of conduct, any failure to make disclosures or attestations to the board as he should have done, perhaps in this particular context with this particular business and this particular individual, the shareholders can make a decision to CPAFT all that and bring him back."
+    },
+    {
+      "start": 3606.62,
+      "end": 3643.9,
+      "text": "If he didn't violate the law, if he broke the company code of conduct, and so on, the shareholders can make their choice about whether it's appropriate or not. But I think there's obviously the question of who's the best CEO to run NVIDIA, is probably Jensen. I'm with you. I think, based on what I've seen, Jensen's going to come back as chairman or CEO. I think he's going to be exonerated. That's what I believe, slash hope happens. Other two possibilities that people have discussed often. SpaceX brings Jensen on as the CEO of the Terrify business, works alongside Elon, maybe even as peers in"
+    },
+    {
+      "start": 3643.9,
+      "end": 3665.98,
+      "text": "the company. Or, yeah, and the cash is awesome. Why not have NVIDIA buy Palo Alto Networks? They need security. Security is a key issue, cyber, in this space. And just NVIDIA can easily afford to buy Palo Alto. You put in the cash in that suit? Those seem like three reasonable solutions. I don't know if you want to speculate Sacks before we move on to the entropic IPO."
+    },
+    {
+      "start": 3666.78,
+      "end": 3685.9,
+      "text": "I would just say that I hope that Jensen ultimately is treated at least as well as Eric Swalwell. Okay. In this whole matter. Well said, yeah. But yeah, look, I think Friedberg makes a good point, which is that what is the crime here that he's been even accused of. Now, look, we don't have all the facts. Things may come out."
+    },
+    {
+      "start": 3686.7,
+      "end": 3711.02,
+      "text": "So let's see how this all plays out. By the way, just one thing I want to say, if you're asking me, like, what I think about Jensen, you know, I see all this fake news where somehow they think like I had a long relationship with Jensen or whatever. I never knew Jensen before the administration. The first time I ever met him was in the White House. I've got all these reporters thinking that somehow we had this like long standing friendship going back before I was in the White House or somehow that I introduced him to Trump or stuff like that."
+    },
+    {
+      "start": 3711.02,
+      "end": 3736.7,
+      "text": "Not true. I met him when he was already in the White House for a meeting anyway. So my point is I have no special devotion or loyalty to Jensen, but I respect him as a founder and I see his unique value as a founder to NVIDIA and therefore to the United States. And if it's found out that he has never broken the law, then I think you guys are right that like what are we doing here?"
+    },
+    {
+      "start": 3736.7,
+      "end": 3754.7,
+      "text": "It makes no sense. And we again, you know, we're sitting here. And by the way, the board might have no choice, right? Because they're fiduciary duty, which means they don't want to get sued. They don't want to lose DNO insurance. All the things that happened as a board mentioned it earlier. Correct. You have to take action and so on. Perhaps if Jensen comes back, he gets a founder."
+    },
+    {
+      "start": 3754.7,
+      "end": 3776.94,
+      "text": "The shareholder lawsuits here are going to be ginormous. The company has lost almost a trillion dollars of value in about nine days. And so there's a lot of harm here that has to be managed somehow. So this is where even if he's found to have not done anything bad, the situation becomes very complicated because of all of this other traditional infrastructure like the SEC is going to have a point of view."
+    },
+    {
+      "start": 3778.38,
+      "end": 3809.66,
+      "text": "The auditors will have a point of view. So it's just a lot to navigate. Just on that question, you know, there is an active investigation, I believe, at the Justice Department that's been reported. So we have to see what that ends up. Like I've said, I advocate full investigation. We need to get the facts here. Transparency. Again, if he's done something wrong, then he's going to have to deal with the consequences. But until that point, I mean, we have in this country, a very sacrosanct principle that you're innocent until proven guilty. And I will just say that what's happened here, apparently,"
+    },
+    {
+      "start": 3810.3,
+      "end": 3831.9,
+      "text": "is that people who are hostile to Jensen, who were briefed on this memo, broke the law in order to leak it in order to take him down. And that is not the way we should be conducting investigations in this country. The Justice Department should be investigating this matter. They should be the ones determining whether he did something wrong."
+    },
+    {
+      "start": 3831.9,
+      "end": 3856.22,
+      "text": "Totally right. This should not be tried in the court of public opinion. 100%. Using innuendo and learned allegations. And this is always what people go to as a weapon, sex is very embarrassing to people. And in politics, it gets used as a weapon. It's disgraceful, yeah. And it's so obvious that that's what has happened here. I understand what you're saying. Let me just say something slightly different."
+    },
+    {
+      "start": 3857.02,
+      "end": 3888.86,
+      "text": "You're absolutely right that there's no shred of thought that there's been any criminality. And so that needs to be thoroughly investigated. In every aspect of what's happened, the leaker clearly broke the law, but there's no sense that there's been any criminality by NVIDIA or Jensen that needs to get adjudicated properly and fairly for him and for them and for the company they built. But what is unfortunately undeniable are the civil claims which are already real. Which is you've seen one and a half trillion dollars of value just wiped out."
+    },
+    {
+      "start": 3889.98,
+      "end": 3925.66,
+      "text": "And at a minimum, there was some disclosure issues. There were some problematic issues. There was the NVIDIA PR people that were saying that this didn't happen, then it did happen. So at some point, somebody was misleading somebody. And all of that has ultimately resulted in actual harm that can be measured monetarily. That's where a lot of the action is going to focus on, because that's where people will have dollar signs in their eyes, sadly, in the United States. You'll have the plaintiffs, folks of the attorneys going absolutely nuts. They'll be licking their chops thinking, I'm going to sue"
+    },
+    {
+      "start": 3926.22,
+      "end": 3947.1,
+      "text": "for a trillion and a half dollars of damage. And I'm going to be willing to settle for 250 billion dollars. And I'm going to take half of it. That's what the trial lawyers are going to be thinking here. And so there's going to be all kinds of issues around that, David, where I think unfortunately, that damage has been done. Those eggs cannot be unscrambled."
+    },
+    {
+      "start": 3947.1,
+      "end": 3983.9,
+      "text": "I think there is one tiny possibility that we'll just put out there, or I'll put out there. The leak would be completely valid. It would be completely valid to break the law and to leak this if this was for the betterment of society. In other words, Pentagon Papers. If you remember the movie, The Inside of the Brown and Williamson's, Tobacco Documents. There are examples of virtuous leaks. I don't think that's the case here. But you can say there is a small, small chance that there could be a leak that would be for the benefit of society. And that would be a virtuous"
+    },
+    {
+      "start": 3983.9,
+      "end": 4020.54,
+      "text": "whistle blower. All right. And Propix IPO Roadshow is underway. They've started to temper expectations a bit, according to Reuters. Propix is going to sell $825 million shares, $70 to $78 a share. Who put the value of the company at $1.4 trillion? That's below reports of $2 trillion and $3 trillion. There was a lot of excitement about the company a couple of months ago. Total raise, $90 billion, $64 billion in share sales, and $26 billion in a private placement. We've talked about that before. A lot of their existing investors and partners are investing. It gives them a giant war chest, as you pointed out in a previous episode."
+    },
+    {
+      "start": 4021.42,
+      "end": 4060.06,
+      "text": "Seven founders plan to sell about $250 million each. That still leaves each with a stake of about $18 billion. So there's seven founders with basically $20 billion stake. They pledge to donate 80% of their holdings to charity. However, I don't think that that is legally binding at this point. It's a pledge. Business is booming. Run rate, $81 billion at the end of October. Q3 revenue was $17 billion against $10 billion for OpenAI. So they incredibly passed OpenAI in revenue by going enterprise. Obviously, OpenAI, trying to catch up with them, but they're largely"
+    },
+    {
+      "start": 4060.06,
+      "end": 4102.54,
+      "text": "consumer-driven. Great overview of Anthropics IPO here from our partner, AlphaSense. Anthropics target IPO valuation, 46% premium on its last private round, but they've doubled their run rate since then. So perhaps they are filling in the valuation they've had that's been pretty high for a long time. As we say in the business, filling in that valuation. Analysts have Anthropics bull case at $4.2 trillion valuation 15 times. It's 28 expected revenue of $281 billion. That would be the second largest company in the world ahead of Nvidia. At $1.4 trillion, that's a 17x multiple"
+    },
+    {
+      "start": 4102.54,
+      "end": 4129.74,
+      "text": "current run rate. Gentlemen, what are your thoughts here on the IPO? Chamath, you've, I think, correctly threw a little bit of cold water on and said it might be a little bit less in terms of valuation, but they're raising a lot of money and they have that work chest, as you pointed out in the previous episodes. I think it's great that they're going to have somewhere between $230 and $300 billion. I think that's very important for them to weather the storm."
+    },
+    {
+      "start": 4131.1,
+      "end": 4169.18,
+      "text": "What is the storm? The storm is whatever is going to happen over the next few weeks and months, and then what the economy does in reaction to it. I think the reality is that this IPO is crucial. It has to happen. The issue that I have is that 20% of the value of Anthropic will be because of Anthropic, and that's unfortunate because I think they deserve to be more in control. 80% has to do with the broad-based economy. That has 100% to do with AI, and that has 100% to do with Nvidia. I think as you see the impacts of the bank of Nvidia being"
+    },
+    {
+      "start": 4169.18,
+      "end": 4191.58,
+      "text": "closed, the impact of these investigations, the market will have to digest those and decide, is the balance of risks now passed or are there more shoes to drop? If there are more shoes to drop and it creates a septum of more risk, I think people will be risk off. In that, they'll be much more tempered in buying into any IPO, including Anthropics. Ants will do fine."
+    },
+    {
+      "start": 4191.58,
+      "end": 4234.46,
+      "text": "They're six times oversubscribed already. It's going to be fine. The question is, what is the real price? I think the real price will be more dictated by what gets leaked between now and November 20th, more than anything else. We have a lot of headwinds on what's happening in the AI trade, the so-called AI trade. Nvidia is but the latest, and we've seen haircut after haircut, the blue wave maybe slowing down data center deployment, lots of headwinds, but consumers are embracing this technology, especially in the enterprise, and nobody has captured enterprise AI more than Anthropic. Are you bullish on the Anthropic IPO? Are you bullish"
+    },
+    {
+      "start": 4235.34,
+      "end": 4278.78,
+      "text": "writ large at the AI movement here in the economy? The AI movement. The AI trade. Are you bullish on the AI trade? Let me say it that way. I don't know. I've not studied the numbers. I don't have a point of view on valuation. I think the macro on Anthropic that I've been hearing from folks that have attended some of the management conversations is that there may be enough people that align with the view that Anthropic is building this recursive self-improvement engine and that their model capabilities are accelerating, that their compute cost per unit of intelligence rather than per token,"
+    },
+    {
+      "start": 4278.78,
+      "end": 4301.5,
+      "text": "which I think is the way a lot of people think about it or per watt, is actually declining, and that they do believe that with the investments that they have made and are making in all levels of infrastructure, including all the way down to the chip layer, they think that they have this runaway business and that this could be a winner-take-all scenario of the biggest market ever."
+    },
+    {
+      "start": 4301.5,
+      "end": 4337.26,
+      "text": "So it is the kind of once-in-a-generational opportunity if you believe that there's a chance that that could be true to allocate some percentage of your portfolio to this IPO, regardless of where the market bids it. So I don't think people are going to be sitting here trying to come up with a particular view. I think they're going to get all these, what do they say? 1.35, 1.5? They already said 60 billion. My guess is they raise 100 billion at 175 because I think there'll be oversubscription to this thing. I think it'll get bid up. I think they'll want"
+    },
+    {
+      "start": 4337.26,
+      "end": 4355.18,
+      "text": "to make sure it can run a little bit. From what I'm hearing, there's enough people that believe that there's a high enough probability that the story could be true that they'll bid it. So let's see what happens. I mean, I'm totally speculating here. I've spent zero time looking at this. So there you go. That's my free speculative waste of your five minutes."
+    },
+    {
+      "start": 4355.74,
+      "end": 4398.14,
+      "text": "Okay. I have two takes on this right now. We could also cut all that. No, no. I think it's fine. I don't know. I don't know that anthropic. Yeah, I think anthropic is building the Microsoft killer and every company killer by bundling. We've talked about this sex many times. Microsoft was the bundler. Is that antitrust or not? When they product dump a new product for free, obviously office meetings would be the example of that, you know, going after slack, etc. In the last month, Claude, the product that most people know anthropic by has dropped. Claude meetings."
+    },
+    {
+      "start": 4398.14,
+      "end": 4433.58,
+      "text": "This is where you can pop up a whiteboard and you can do a zoom. You can literally, they launched today, an hour ago, a zoom like product, a zoom killer, if you will. A couple of days ago on November 10, they released whiteboards and sheets, an Excel killer. Right before that, they released personal finance for consumers. Then just before that, they released Claude legal on October 28th and they keep releasing product after product."
+    },
+    {
+      "start": 4433.58,
+      "end": 4458.38,
+      "text": "I think they are doing the ultimate bundle. Every single piece of software that you need, and they previously decode, co-work, design, and this new Grokbot, Muse competitor, contemporary called Duet, which I just got. It's not very good right now, but I assume they keep doing it. I think they're going after all enterprise software, all the business use cases."
+    },
+    {
+      "start": 4458.38,
+      "end": 4491.26,
+      "text": "I think they have a massive amount of market share that they can take. This product is getting stickier and stickier and stickier. It gets rid of a ton of problems in Sacks, which is the interoperability of these and getting data from one to the other. I think this is going to be the largest company in the world, potentially, if it continues at this pace where they can release new products and services and just attach them to your $20 to $50 a month subscription. I think this company could even be massively undervalued at this point."
+    },
+    {
+      "start": 4491.34,
+      "end": 4526.54,
+      "text": "What do you think, Sacks? I said on a previous podcast when you guys thought that Anthropic was going to lose to open source that actually they were creating the most valuable monopoly in the world. Now, they've all but confirmed it. They're running around saying that this is a winner-take-all market. What does that sound like? Monopoly. They're not even saying that it's going to be a duopoly with Anthropic and OpenAI. They're saying they're going to win the whole thing. They definitely are saying that recursive self-improvement has kicked in despite the obvious safety problems with that. Recursive self-improvement is the most"
+    },
+    {
+      "start": 4526.54,
+      "end": 4565.98,
+      "text": "dangerous thing anybody can be working on in SI if you're worried about rapid takeoff, for example. If that's your greatest fear, then they are racing towards that. Recursive self-improvement would be the key to getting to true next-level superintelligence. They're treating it like a business advantage. I've always applauded them as an investor. Wearing my hat as an investor, I've always said that this is a valuable company that's done an amazing job. I've never quite understood why all the safety groups love them so much, aside from the fact that they provide funding for them, because as a company, they're the ones taking the greatest risk. I'm not saying"
+    },
+    {
+      "start": 4565.98,
+      "end": 4600.38,
+      "text": "they're doing things in the riskiest way. I'm saying that they are pushing the frontier faster and faster, and they are doing more recursive self-improvement than anybody else. And yeah, they publish a blog saying, well, we would pace the frontier if everybody else did it. Come on, that's lip service. They know when they publish that that they're not going to get the whole world to magically agree to pace, but they are the ones doing it. Again, I said at the time, if you think that this type of development is risky, stop doing it. But they have not stopped."
+    },
+    {
+      "start": 4600.38,
+      "end": 4629.82,
+      "text": "They're racing towards it, and now they're marketing it in their roadshow. They're saying, hey, you should buy our stock because we're doing recursive self-improvement. We're creating AGI, and it's going to be a winner-take-all game. It's just amazing to me in a way what this company gets away with. Again, I think it's a phenomenal company, but they say that would have made Bill Gates blush when he was running Microsoft."
+    },
+    {
+      "start": 4629.82,
+      "end": 4654.38,
+      "text": "And that was the most— Justice Department investigation. Yeah, he was the most vicious monopolist that's ever lived. The level they're dropping— And no one just pays attention to this. New competitors into the market makes me believe that Microsoft has to create a competing product and go head-to-head against them, or they're going to lose the office franchise. There was one thing of note, Friedberg, that I found inspiring and troubling at the same time."
+    },
+    {
+      "start": 4655.34,
+      "end": 4690.14,
+      "text": "Dario made a claim that he believes they're going to cure cancer, Alzheimer's, and all diseases within 10 years. Play the clip, Nick. Today, we look at things like cancer, Alzheimer's, heart disease, mental illness. These will be relics of the past in, I think, less than a decade. Friedberg, will people be mentally ill in 2036? Will cancer be solved by 2036, as well as Alzheimer's and heart disease? Is this all going to be relics of the past, or do you think this is crazy?"
+    },
+    {
+      "start": 4690.14,
+      "end": 4721.26,
+      "text": "Jason, I don't know how to answer that. Look, we know that the technology is extraordinary. It is completely reinventing how we can do molecular discovery, how we can do in silico testing, how we can accelerate path to market. Those things are all true. The implications on timelines, it's fuzzy math. What I see in my work, I work in biology. There's an incredible set of breakthroughs every week happening right now in biology with these tools. It is not a joke. It is not made up. It is not some far-flung idea. It is not something that is 10 or 15 years out."
+    },
+    {
+      "start": 4721.26,
+      "end": 4739.18,
+      "text": "It is happening today. Yes, I do believe that there is extraordinary advantage coming here. I will tell you, we spend a lot of money on philanthropic. I've mentioned in the past, we've built our own open source setup on our own racks. But for a lot of the heavy work that we do in biology, it goes to anthropic. They are the best."
+    },
+    {
+      "start": 4740.38,
+      "end": 4764.54,
+      "text": "Any thoughts there, Chamath, on that claim? You think it's credible that these things could be cured in under 10 years? Any of those things? I think we're going to be in a recession by 2028. Okay. There it is, folks. All right. I saw that and I just thought, wow, I think he believes what he said. I think it's a little reckless to say something like that. To even say that."
+    },
+    {
+      "start": 4765.18,
+      "end": 4786.22,
+      "text": "I think there's going to be a recession. I mean, what the? Fair enough. Show the Jenga block thing. All right. We got a new Dr. Doom here. Get him the Dr. Doom mask. 300 basis points of GDP may have just gotten obliterated this morning. We need to in post put the Dr. Doom mask on Chamath. It's this week's Dr. Doom."
+    },
+    {
+      "start": 4786.22,
+      "end": 4815.5,
+      "text": "It's just so sad. Just so sad. By the way, there's a really, I think, insightful tweet that someone just posted. We pulled this up on the screen. Okay. It's a insightful tweet. Check out how you want to read this or you want to read it. Well, I mean, it's from Will Mananis. The murmurs I get fed from the deep rabbit warrens of the safety of this group chats and the Doom hired guns deep in the district is that they are in full Jubilee mode today."
+    },
+    {
+      "start": 4815.5,
+      "end": 4856.7,
+      "text": "The killing of the old king is complete. They are only days away from taking their seat. Game of Thrones folk. Well, I mean, let's face it. Who's he referring to, Sacks? Who are the safetyists? Yeah. Who's going to take the throne? This is the crazy thing is that all the safetyist groups, the EAs, are deeply aligned with Anthropic, who's been funding all of them for years. And Anthropic's about to have this huge IPO. And then meanwhile, the main funder of the open source movement, which is NVIDIA, just lost their CEO and founder, who's just their unique force multiplier and asset, their superstar player. So, I mean, obviously, who is going to defend open source now,"
+    },
+    {
+      "start": 4856.7,
+      "end": 4876.46,
+      "text": "nevermind finance it with Jensen gone. So yeah, I can see why they're jubilant. But look, here's the crazy thing. If you're concerned about AI safety, how is any of this leading to more safety? Let me tell you what it's doing. It's concentrating the market. I mean, Anthropic itself is saying winner take all. Last company in the world."
+    },
+    {
+      "start": 4876.46,
+      "end": 4911.42,
+      "text": "The last company in the world, they're going to have recursive self-improvement. They're creating the super intelligence. Look at the claw constitution. They're training it to be its own species. They say that it has emotions, maybe it has a moral code that it should reject human instruction. It should be a conscientious objector. They act like a proud parent, ushering a baby into the world. And they are very, very close now to creating the singularity of the super intelligence. And the crazy thing is that all these safety groups think that that is their ally. I mean, like, are you stupid? These people are using you guys,"
+    },
+    {
+      "start": 4911.98,
+      "end": 4936.14,
+      "text": "if anything, because they're creating whatever this super intelligence is turning into, whatever happens with that, Anthropic is at the frontier, is at the front of the frontier on that. So if you're some kind of doomer or ex-risker or just someone who a D-cell, I don't understand this alliance at all. I mean, you're being played like a useful idiot, I think."
+    },
+    {
+      "start": 4936.14,
+      "end": 4969.98,
+      "text": "Now, look, I'm not a doomer. Do you buy this stock? Well, I'm not a doomer. Let me just say this. So I actually don't necessarily believe that what's going to happen here is going to be harmful for humanity. I think it could lead to the curing of all those diseases. I think it'll be very beneficial. But my point is that if you are a doomer and you're terrified of recursive self-improvement, why in the world are you supporting this company, this IPO, why are you giving them such a pass? Why are you celebrating over Jensen's fall? He was doing this promoting open source, which is manifestly behind the closed"
+    },
+    {
+      "start": 4969.98,
+      "end": 5003.02,
+      "text": "model frontier, right? There's no recursive self-improvement there. So the whole thing is very backwards. And what it suggests to me is that all these safety groups don't really care about safety. They care about something else. It's not the real agenda. If safety was a real agenda, they'd be way more concerned about the claw of constitution training the super intelligence to be a new species. What they seem to want is, to your point, Friedberg, is extreme centralization of power in the hands of the government. They want all the models and all the chips to be controlled by the government. The government's going to surveil you, spy on"
+    },
+    {
+      "start": 5003.02,
+      "end": 5024.3,
+      "text": "you. It'll have backdoors all over the place. And that's what they seem to want. It's a scary future. Notice how no one in Congress is like, oh, let's go after anthropic. They want to go after everyone else. Because anthropic is offering them power, ultimate power. It's going to be great when we are all invited to the White House by AOC."
+    },
+    {
+      "start": 5027.18,
+      "end": 5031.42,
+      "text": "It's great to see you, AOC. All right, everybody. Another amazing episode of The"
+    },
+    {
+      "start": 5031.42,
+      "end": 5082.37,
+      "text": "Oil and Pocket. We'll see you next time. Bye-bye. Love you, boys. Bye-bye."
+    }
+  ],
+  "word_count": 14643
+}
