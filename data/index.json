@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T06:42:07Z",
+  "updated_at": "2026-11-14T18:02:22Z",
   "episodes": {
     "2v8b062QzTI": {
       "video_id": "2v8b062QzTI",
@@ -581,6 +581,13 @@
       "duration_seconds": null,
       "reason": "duration_unknown",
       "seen_at": "2026-11-11T19:36:43Z"
+    },
+    "ONVWLa2LOzk": {
+      "video_id": "ONVWLa2LOzk",
+      "title": "David Friedberg: Was Jensen Taken Out So the Deep State Could Control AI?",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-14T18:02:22Z"
     }
   }
 }
