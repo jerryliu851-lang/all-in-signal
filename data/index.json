@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T18:02:22Z",
+  "updated_at": "2026-11-14T22:24:45Z",
   "episodes": {
     "2v8b062QzTI": {
       "video_id": "2v8b062QzTI",
@@ -588,6 +588,13 @@
       "duration_seconds": null,
       "reason": "duration_unknown",
       "seen_at": "2026-11-14T18:02:22Z"
+    },
+    "3zW2X9OXxC0": {
+      "video_id": "3zW2X9OXxC0",
+      "title": "David Sacks on Jensen’s Exit: China Wins, America Loses",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-14T22:24:45Z"
     }
   }
 }

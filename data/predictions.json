@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "updated_at": "2026-11-14T18:02:23Z",
+  "updated_at": "2026-11-14T22:24:46Z",
   "count": 281,
   "predictions": [
     {
@@ -3181,8 +3181,8 @@
       "episode_published_at": "2026-10-30",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=p1Dy4e4ff0s&t=4905s",
       "polymarket_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
-      "polymarket_yes_probability": 0.373,
-      "polymarket_divergence_points": 2.3,
+      "polymarket_yes_probability": 0.3725,
+      "polymarket_divergence_points": 2.25,
       "timeframe_passed": false
     },
     {
@@ -4809,8 +4809,8 @@
       "episode_published_at": "2026-10-17",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=_b3LfMflIGs&t=2741s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.986,
-      "polymarket_divergence_points": 24.6,
+      "polymarket_yes_probability": 0.9805,
+      "polymarket_divergence_points": 24.05,
       "timeframe_passed": false
     },
     {
@@ -5808,8 +5808,8 @@
       "episode_published_at": "2026-10-10",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=TBLHdXABwAg&t=4663s",
       "polymarket_question": "Another Fed rate hike in 2026?",
-      "polymarket_yes_probability": 0.9675,
-      "polymarket_divergence_points": 17.75,
+      "polymarket_yes_probability": 0.9665,
+      "polymarket_divergence_points": 17.65,
       "timeframe_passed": false
     },
     {
@@ -7177,7 +7177,7 @@
       "episode_published_at": "2026-09-26",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=cvP_1jmnkmM&t=1754s",
       "polymarket_question": "Will OpenAI not IPO by December 31, 2027?",
-      "polymarket_yes_probability": 0.7435,
+      "polymarket_yes_probability": 0.7495,
       "polymarket_divergence_points": null,
       "timeframe_passed": false
     },
@@ -7214,8 +7214,8 @@
       "episode_published_at": "2026-09-26",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=cvP_1jmnkmM&t=1795s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.986,
-      "polymarket_divergence_points": 22.6,
+      "polymarket_yes_probability": 0.9805,
+      "polymarket_divergence_points": 22.05,
       "timeframe_passed": false
     },
     {
@@ -8620,8 +8620,8 @@
       "episode_published_at": "2026-09-04",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=DvFe9bR2eHA&t=417s",
       "polymarket_question": "Will OpenAI have the best AI model at the end of December 2026?",
-      "polymarket_yes_probability": 0.0295,
-      "polymarket_divergence_points": 17.05,
+      "polymarket_yes_probability": 0.035,
+      "polymarket_divergence_points": 16.5,
       "timeframe_passed": false
     },
     {
@@ -8805,8 +8805,8 @@
       "episode_published_at": "2026-09-04",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=DvFe9bR2eHA&t=959s",
       "polymarket_question": "Will OpenAI not IPO by December 31, 2027?",
-      "polymarket_yes_probability": 0.7435,
-      "polymarket_divergence_points": 14.35,
+      "polymarket_yes_probability": 0.7495,
+      "polymarket_divergence_points": 14.95,
       "timeframe_passed": false
     },
     {
@@ -10248,8 +10248,8 @@
       "episode_published_at": "2026-08-29",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=1u5dMAKl_ks&t=4509s",
       "polymarket_question": "Russia x Ukraine ceasefire by December 31, 2026?",
-      "polymarket_yes_probability": 0.0715,
-      "polymarket_divergence_points": 13.85,
+      "polymarket_yes_probability": 0.0705,
+      "polymarket_divergence_points": 13.95,
       "timeframe_passed": false
     },
     {
