@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T18:51:48Z",
+  "updated_at": "2026-11-16T22:02:37Z",
   "episodes": {
     "2v8b062QzTI": {
       "video_id": "2v8b062QzTI",
@@ -602,6 +602,27 @@
       "duration_seconds": null,
       "reason": "duration_unknown",
       "seen_at": "2026-11-15T18:51:48Z"
+    },
+    "zIsl7Q6nhFs": {
+      "video_id": "zIsl7Q6nhFs",
+      "title": "“My personal assistant was leaking to short sellers.” 🤯",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-16T22:02:35Z"
+    },
+    "JF5W20NVLL4": {
+      "video_id": "JF5W20NVLL4",
+      "title": "Jason: \"The leak came from inside the White House.\"",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-16T22:02:36Z"
+    },
+    "q8miqVUyh7w": {
+      "video_id": "q8miqVUyh7w",
+      "title": "David Sacks: Who Risked Jail to Take Down Jensen Huang?",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-16T22:02:37Z"
     }
   }
 }
