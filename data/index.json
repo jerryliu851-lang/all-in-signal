@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T07:55:36Z",
+  "updated_at": "2026-11-17T20:56:16Z",
   "episodes": {
     "2v8b062QzTI": {
       "video_id": "2v8b062QzTI",
@@ -630,6 +630,13 @@
       "duration_seconds": null,
       "reason": "duration_unknown",
       "seen_at": "2026-11-17T07:55:36Z"
+    },
+    "wpRf6pd37fc": {
+      "video_id": "wpRf6pd37fc",
+      "title": "Anthropic IPO Breakdown: Most Valuable Company?",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-17T20:56:16Z"
     }
   }
 }
