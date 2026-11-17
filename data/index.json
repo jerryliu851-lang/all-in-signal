@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T22:02:37Z",
+  "updated_at": "2026-11-17T07:55:36Z",
   "episodes": {
     "2v8b062QzTI": {
       "video_id": "2v8b062QzTI",
@@ -623,6 +623,13 @@
       "duration_seconds": null,
       "reason": "duration_unknown",
       "seen_at": "2026-11-16T22:02:37Z"
+    },
+    "MUtgp2ixLyk": {
+      "video_id": "MUtgp2ixLyk",
+      "title": "\"Cops need body cams to DEFEND themselves!\"",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-17T07:55:36Z"
     }
   }
 }
