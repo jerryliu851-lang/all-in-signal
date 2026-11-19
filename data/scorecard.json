@@ -1,18 +1,18 @@
 {
   "schema_version": "1",
-  "updated_at": "2026-11-14T06:42:32Z",
+  "updated_at": "2026-11-19T20:38:25Z",
   "counting_rule": "own_view predictions only; reported views and devil's advocate excluded",
   "hosts": {
     "Chamath Palihapitiya": {
       "host": "Chamath Palihapitiya",
       "overall": {
         "total": 87,
-        "resolved": 4,
-        "correct": 2,
+        "resolved": 5,
+        "correct": 3,
         "incorrect": 2,
-        "pending": 83,
+        "pending": 82,
         "unresolvable": 0,
-        "accuracy": 0.5
+        "accuracy": 0.6
       },
       "by_category": {
         "politics": {
@@ -35,12 +35,12 @@
         },
         "company-specific": {
           "total": 19,
-          "resolved": 0,
-          "correct": 0,
+          "resolved": 1,
+          "correct": 1,
           "incorrect": 0,
-          "pending": 19,
+          "pending": 18,
           "unresolvable": 0,
-          "accuracy": null
+          "accuracy": 1.0
         },
         "macro": {
           "total": 15,
@@ -109,12 +109,12 @@
         },
         "high": {
           "total": 7,
-          "resolved": 0,
-          "correct": 0,
+          "resolved": 1,
+          "correct": 1,
           "incorrect": 0,
-          "pending": 7,
+          "pending": 6,
           "unresolvable": 0,
-          "accuracy": null
+          "accuracy": 1.0
         }
       }
     },
