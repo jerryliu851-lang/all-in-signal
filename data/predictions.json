@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "updated_at": "2026-11-18T20:32:34Z",
+  "updated_at": "2026-11-19T07:26:52Z",
   "count": 281,
   "predictions": [
     {
@@ -517,8 +517,8 @@
       "episode_published_at": "2026-11-14",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=Uv2w4VTU-iQ&t=3606s",
       "polymarket_question": "Will Jensen Huang rejoin NVIDIA by December 31, 2027?",
-      "polymarket_yes_probability": 0.325,
-      "polymarket_divergence_points": 27.5,
+      "polymarket_yes_probability": 0.32,
+      "polymarket_divergence_points": 28.0,
       "timeframe_passed": false
     },
     {
@@ -591,8 +591,8 @@
       "episode_published_at": "2026-11-14",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=Uv2w4VTU-iQ&t=4191s",
       "polymarket_question": "Will Anthropic IPO by November 30, 2026?",
-      "polymarket_yes_probability": 0.9975,
-      "polymarket_divergence_points": 14.75,
+      "polymarket_yes_probability": 0.9965,
+      "polymarket_divergence_points": 14.65,
       "timeframe_passed": false
     },
     {
@@ -3181,8 +3181,8 @@
       "episode_published_at": "2026-10-30",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=p1Dy4e4ff0s&t=4905s",
       "polymarket_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
-      "polymarket_yes_probability": 0.3475,
-      "polymarket_divergence_points": 0.25,
+      "polymarket_yes_probability": 0.3425,
+      "polymarket_divergence_points": 0.75,
       "timeframe_passed": false
     },
     {
@@ -3699,8 +3699,8 @@
       "episode_published_at": "2026-10-23",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=6czo-C3FU7I&t=2754s",
       "polymarket_question": "France declares state of emergency by December 31, 2026?",
-      "polymarket_yes_probability": 0.031,
-      "polymarket_divergence_points": 14.9,
+      "polymarket_yes_probability": 0.028,
+      "polymarket_divergence_points": 15.2,
       "timeframe_passed": false
     },
     {
@@ -4809,8 +4809,8 @@
       "episode_published_at": "2026-10-17",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=_b3LfMflIGs&t=2741s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.997,
-      "polymarket_divergence_points": 25.7,
+      "polymarket_yes_probability": 0.9985,
+      "polymarket_divergence_points": 25.85,
       "timeframe_passed": false
     },
     {
@@ -4846,8 +4846,8 @@
       "episode_published_at": "2026-10-17",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=_b3LfMflIGs&t=3165s",
       "polymarket_question": "Anthropic IPO: Closing Price above IPO Price on First Day?",
-      "polymarket_yes_probability": 0.9565,
-      "polymarket_divergence_points": 30.65,
+      "polymarket_yes_probability": 0.951,
+      "polymarket_divergence_points": 30.1,
       "timeframe_passed": false
     },
     {
@@ -5475,8 +5475,8 @@
       "episode_published_at": "2026-10-10",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=TBLHdXABwAg&t=3811s",
       "polymarket_question": "Will Marine Le Pen win the 2027 French presidential election?",
-      "polymarket_yes_probability": 0.4815,
-      "polymarket_divergence_points": 5.15,
+      "polymarket_yes_probability": 0.4575,
+      "polymarket_divergence_points": 2.75,
       "timeframe_passed": false
     },
     {
@@ -5549,8 +5549,8 @@
       "episode_published_at": "2026-10-10",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=TBLHdXABwAg&t=4140s",
       "polymarket_question": "Will J.D. Vance not announce a run for the Republican nomination before 2028?",
-      "polymarket_yes_probability": 0.645,
-      "polymarket_divergence_points": 15.5,
+      "polymarket_yes_probability": 0.675,
+      "polymarket_divergence_points": 12.5,
       "timeframe_passed": false
     },
     {
@@ -5808,8 +5808,8 @@
       "episode_published_at": "2026-10-10",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=TBLHdXABwAg&t=4663s",
       "polymarket_question": "Another Fed rate hike in 2026?",
-      "polymarket_yes_probability": 0.9715,
-      "polymarket_divergence_points": 18.15,
+      "polymarket_yes_probability": 0.978,
+      "polymarket_divergence_points": 18.8,
       "timeframe_passed": false
     },
     {
@@ -7177,7 +7177,7 @@
       "episode_published_at": "2026-09-26",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=cvP_1jmnkmM&t=1754s",
       "polymarket_question": "Will OpenAI not IPO by December 31, 2027?",
-      "polymarket_yes_probability": 0.7125,
+      "polymarket_yes_probability": 0.72,
       "polymarket_divergence_points": null,
       "timeframe_passed": false
     },
@@ -7214,8 +7214,8 @@
       "episode_published_at": "2026-09-26",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=cvP_1jmnkmM&t=1795s",
       "polymarket_question": "Will Anthropic IPO by December 31, 2026?",
-      "polymarket_yes_probability": 0.997,
-      "polymarket_divergence_points": 23.7,
+      "polymarket_yes_probability": 0.9985,
+      "polymarket_divergence_points": 23.85,
       "timeframe_passed": false
     },
     {
@@ -7658,8 +7658,8 @@
       "episode_published_at": "2026-09-26",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=cvP_1jmnkmM&t=4244s",
       "polymarket_question": "Will the next Google Gemini Pro model be released by December 31, 2026?",
-      "polymarket_yes_probability": 0.06,
-      "polymarket_divergence_points": 29.0,
+      "polymarket_yes_probability": 0.115,
+      "polymarket_divergence_points": 23.5,
       "timeframe_passed": false
     },
     {
@@ -8620,8 +8620,8 @@
       "episode_published_at": "2026-09-04",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=DvFe9bR2eHA&t=417s",
       "polymarket_question": "Will OpenAI have the best AI model at the end of December 2026?",
-      "polymarket_yes_probability": 0.027,
-      "polymarket_divergence_points": 17.3,
+      "polymarket_yes_probability": 0.029,
+      "polymarket_divergence_points": 17.1,
       "timeframe_passed": false
     },
     {
@@ -8805,8 +8805,8 @@
       "episode_published_at": "2026-09-04",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=DvFe9bR2eHA&t=959s",
       "polymarket_question": "Will OpenAI not IPO by December 31, 2027?",
-      "polymarket_yes_probability": 0.7125,
-      "polymarket_divergence_points": 11.25,
+      "polymarket_yes_probability": 0.72,
+      "polymarket_divergence_points": 12.0,
       "timeframe_passed": false
     },
     {
@@ -9582,8 +9582,8 @@
       "episode_published_at": "2026-08-29",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=1u5dMAKl_ks&t=634s",
       "polymarket_question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "polymarket_yes_probability": 0.055,
-      "polymarket_divergence_points": 73.5,
+      "polymarket_yes_probability": 0.05,
+      "polymarket_divergence_points": 74.0,
       "timeframe_passed": false
     },
     {
@@ -10248,8 +10248,8 @@
       "episode_published_at": "2026-08-29",
       "youtube_timestamp_url": "https://www.youtube.com/watch?v=1u5dMAKl_ks&t=4509s",
       "polymarket_question": "Russia x Ukraine ceasefire by December 31, 2026?",
-      "polymarket_yes_probability": 0.0675,
-      "polymarket_divergence_points": 14.25,
+      "polymarket_yes_probability": 0.0735,
+      "polymarket_divergence_points": 13.65,
       "timeframe_passed": false
     },
     {
