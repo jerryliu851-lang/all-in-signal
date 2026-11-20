@@ -294,5 +294,26 @@
       "matched:0",
       "unmatched:1"
     ]
+  },
+  {
+    "started_at": "2026-11-20T20:21:23Z",
+    "finished_at": "2026-11-20T20:21:45Z",
+    "command": "match",
+    "new_episodes": [],
+    "analyzed": [],
+    "usage": {
+      "input_tokens": 2,
+      "output_tokens": 256,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 2723,
+      "thinking_tokens": 37,
+      "cost_usd_equivalent": 0.026912,
+      "duration_ms": 2679,
+      "calls": 1
+    },
+    "notes": [
+      "matched:0",
+      "unmatched:1"
+    ]
   }
 ]
