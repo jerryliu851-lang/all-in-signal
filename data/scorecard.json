@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "updated_at": "2026-11-19T20:38:25Z",
+  "updated_at": "2026-11-20T07:17:02Z",
   "counting_rule": "own_view predictions only; reported views and devil's advocate excluded",
   "hosts": {
     "Chamath Palihapitiya": {
@@ -122,22 +122,22 @@
       "host": "David Sacks",
       "overall": {
         "total": 68,
-        "resolved": 1,
-        "correct": 0,
+        "resolved": 2,
+        "correct": 1,
         "incorrect": 1,
-        "pending": 67,
+        "pending": 66,
         "unresolvable": 0,
-        "accuracy": 0.0
+        "accuracy": 0.5
       },
       "by_category": {
         "company-specific": {
           "total": 11,
-          "resolved": 0,
-          "correct": 0,
+          "resolved": 1,
+          "correct": 1,
           "incorrect": 0,
-          "pending": 11,
+          "pending": 10,
           "unresolvable": 0,
-          "accuracy": null
+          "accuracy": 1.0
         },
         "tech": {
           "total": 2,
@@ -197,12 +197,12 @@
         },
         "medium": {
           "total": 30,
-          "resolved": 1,
-          "correct": 0,
+          "resolved": 2,
+          "correct": 1,
           "incorrect": 1,
-          "pending": 29,
+          "pending": 28,
           "unresolvable": 0,
-          "accuracy": 0.0
+          "accuracy": 0.5
         },
         "unstated": {
           "total": 24,
