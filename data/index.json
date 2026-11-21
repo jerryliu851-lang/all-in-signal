@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T07:29:16Z",
+  "updated_at": "2026-11-21T07:24:41Z",
   "episodes": {
     "2v8b062QzTI": {
       "video_id": "2v8b062QzTI",
@@ -479,6 +479,22 @@
       "last_error": null,
       "transcript_source": "podcast-whisper:small.en",
       "analyzed_at": "2026-11-14T06:42:07Z",
+      "matched_at": null,
+      "chapters": []
+    },
+    "G5w7EyF-aFQ": {
+      "video_id": "G5w7EyF-aFQ",
+      "title": "Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?",
+      "published_at": "2026-11-20",
+      "url": "https://www.youtube.com/watch?v=G5w7EyF-aFQ",
+      "duration_seconds": 4601,
+      "status": "analyzed",
+      "discovered_at": "2026-11-21T07:08:41Z",
+      "transcript_attempts": 1,
+      "last_attempt_at": "2026-11-21T07:20:39Z",
+      "last_error": null,
+      "transcript_source": "podcast-whisper:small.en",
+      "analyzed_at": "2026-11-21T07:24:41Z",
       "matched_at": null,
       "chapters": []
     }

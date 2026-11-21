@@ -1,0 +1,4096 @@
+{
+  "video_id": "G5w7EyF-aFQ",
+  "source": "podcast-whisper:small.en",
+  "snippets": [
+    {
+      "text": "All right, everybody. Welcome back to the number one podcast in the world. Seven weeks running. That's right. We manifested it. We got a crazy docket. Sacks couldn't make it this week. He's out. Chamath, you were a little on fire in the group chat. You have some theories. You have some thoughts. Please. The floor is yours.",
+      "start": 0.0,
+      "duration": 15.28
+    },
+    {
+      "text": "I have a theory.",
+      "start": 15.28,
+      "duration": 0.9599999999999991
+    },
+    {
+      "text": "You have a theory. Okay, just one, but it's a big one. Let's unpack it.",
+      "start": 16.24,
+      "duration": 4.16
+    },
+    {
+      "text": "I think that there are going to be nine to 10 mega-corps that get built over the next decade because of AI.",
+      "start": 20.4,
+      "duration": 6.48
+    },
+    {
+      "text": "Yes.",
+      "start": 26.88,
+      "duration": 0.8000000000000007
+    },
+    {
+      "text": "And I think that each mega-corp is going to go from the application layer all the way down to the dirt. Now, why do I say this? I think the deal that Palo Alto Networks did yesterday rips the band-aid off and I think was very smart.",
+      "start": 27.68,
+      "duration": 16.64
+    },
+    {
+      "text": "What did they buy? They bought these brilliant guys that made open source models.",
+      "start": 44.32,
+      "duration": 5.600000000000001
+    },
+    {
+      "text": "And you would say, well, why is a security company, which should narrowly only be allowed to be in the security lane, why were they rewarded yesterday?",
+      "start": 49.92,
+      "duration": 7.439999999999998
+    },
+    {
+      "text": "The stock was up 8% or 9% at one point for buying an AI company. And Nikesh said it in the press release.",
+      "start": 57.36,
+      "duration": 6.240000000000002
+    },
+    {
+      "text": "He's like, this is us venturing outside of security, our first big venture. And the market was like, thank God. And so what's happening?",
+      "start": 63.6,
+      "duration": 6.399999999999999
+    },
+    {
+      "text": "He's going to own the model, right? Then he's going to eventually own the dirt and the land and have the data centers vertically integrated.",
+      "start": 70.0,
+      "duration": 7.680000000000007
+    },
+    {
+      "text": "Then he's going to go up the stack applications. What does Anthropic do it? And with all their money, they're already going down to the dirt and they're going up to the application stack.",
+      "start": 77.68,
+      "duration": 8.639999999999986
+    },
+    {
+      "text": "Open AI doing the same thing. SpaceX doing the same thing. They own one of the best apps in the game. Cursor. They own all the way down to the dirt.",
+      "start": 86.32,
+      "duration": 6.400000000000006
+    },
+    {
+      "text": "So what do you see taking shape? Meta. Meta owns all the way down to the dirt, all the way up to the app stack.",
+      "start": 92.72,
+      "duration": 6.239999999999995
+    },
+    {
+      "text": "So I think what AI is creating essentially is haves and have-nots. The haves are the folks that have these critical assets that can be very tightly vertically integrated.",
+      "start": 98.96,
+      "duration": 12.64
+    },
+    {
+      "text": "And I think that there's going to be 10 of these folks. And so you're going to have this really rich app ecosystem, a lot of open source models and some closed source models.",
+      "start": 111.6,
+      "duration": 9.440000000000012
+    },
+    {
+      "text": "And then you're going to use a lot of distributed silicon. This, I think, is why NVIDIA is trading down, is this realization that the over earning era of NVIDIA may be over.",
+      "start": 121.04,
+      "duration": 9.920000000000002
+    },
+    {
+      "text": "This is independent of Jensen, where you just have a multitude of formats and ways in which you can actually compute what you need.",
+      "start": 130.96,
+      "duration": 8.400000000000006
+    },
+    {
+      "text": "And then you're going to need this really important constraint, which is the land and the power.",
+      "start": 139.36,
+      "duration": 4.319999999999993
+    },
+    {
+      "text": "So I think if you view it that way, Jason, you're going to see these 8, 9, 10 conglomerates.",
+      "start": 143.68,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "And now the market is betting who is a conglomerate and who is not. And that more than anything, I think, explains the flows over the last few weeks and probably like the last year, even.",
+      "start": 149.2,
+      "duration": 11.280000000000001
+    },
+    {
+      "text": "Interesting.",
+      "start": 160.48,
+      "duration": 0.960000000000008
+    },
+    {
+      "text": "So who's on the back heel that has to figure it out? If you are an established company with large amounts of free cash flow and you're not going to go and enter the model game or the data center game, I think the market's going to punish you not by saying your stock is not good,",
+      "start": 161.44,
+      "duration": 18.400000000000006
+    },
+    {
+      "text": "but essentially by trading out of your stock to trade into those companies that are willing to take the risk.",
+      "start": 179.84,
+      "duration": 5.1200000000000045
+    },
+    {
+      "text": "You need something that's more ambitious and Microsoft clearly is going to need to have a frontier model.",
+      "start": 185.04,
+      "duration": 6.320000000000022
+    },
+    {
+      "text": "It doesn't mean anything. What does it mean to make a product in a world where you have a trillion agents that you can spin up on demand to make anything you want? What is a product?",
+      "start": 191.36,
+      "duration": 8.0
+    },
+    {
+      "text": "I don't know what a product is. What is that?",
+      "start": 199.36,
+      "duration": 2.079999999999984
+    },
+    {
+      "text": "And it is a valid question if you can add new features at the rate Ant is doing. And speaking of mega corporations, Ant went public today.",
+      "start": 201.44,
+      "duration": 9.599999999999994
+    },
+    {
+      "text": "Antthropic Friedberg just upsized their IPO, massive demand. They hit a $2 trillion valuation, raised over $107 billion, green shoe filled, 100 other green shoes could have been filled, apparently.",
+      "start": 211.04,
+      "duration": 14.719999999999999
+    },
+    {
+      "text": "That surpassed SpaceX's $85 billion IPO. And every other corporation seems to be off a bit today as people rotate into this.",
+      "start": 225.84,
+      "duration": 9.120000000000005
+    },
+    {
+      "text": "I guess retail really wanted to get a piece of the anthropic IPO with all the hype and people understand the product, I think.",
+      "start": 234.96,
+      "duration": 7.679999999999978
+    },
+    {
+      "text": "And this is going to be, I think, Friedberg, you might agree, we've been waiting to have some sunlight on a big portion of the AI trade, of the AI revolution,",
+      "start": 242.64,
+      "duration": 12.720000000000027
+    },
+    {
+      "text": "which was tokens and token sales and frontier models. And now we're going to have all of that exposed to the light.",
+      "start": 255.36,
+      "duration": 6.560000000000002
+    },
+    {
+      "text": "And we're going to be able to figure out between SpaceX and other cloud providers, Amazon Web Services, Azure.",
+      "start": 261.92,
+      "duration": 8.240000000000009
+    },
+    {
+      "text": "Now we have this missing piece. We're going to kind of under, obviously, we have NVIDIA to discuss as well today.",
+      "start": 270.16,
+      "duration": 4.9599999999999795
+    },
+    {
+      "text": "We'll have NVIDIA's chip sales, cerebral chip sales. Now we understand the complete picture.",
+      "start": 275.12,
+      "duration": 6.560000000000002
+    },
+    {
+      "text": "But are you, what's your take on this, the largest IPO of all time? And then maybe a little bit on Chamath's new theory,",
+      "start": 282.64,
+      "duration": 8.639999999999986
+    },
+    {
+      "text": "eight mega-corps, 10 mega-corps. And you got to be in everything if you can't build software anymore,",
+      "start": 292.32,
+      "duration": 4.560000000000002
+    },
+    {
+      "text": "because AI will build it instantly. There's no value or mode around it. What's your take on this mega-corp dirt to services, I guess, theory?",
+      "start": 296.88,
+      "duration": 13.980000000000018
+    },
+    {
+      "text": "Dirt to application. Yeah. Now you wouldn't include services in there because it seems like services in these four deploy engineers.",
+      "start": 310.86,
+      "duration": 6.8799999999999955
+    },
+    {
+      "text": "You're bringing up something that's really important. This whole idea of software and services is for Luddites of the past.",
+      "start": 317.74,
+      "duration": 8.800000000000011
+    },
+    {
+      "text": "And all these people, look, I think the problem when things change is some people",
+      "start": 328.54,
+      "duration": 7.039999999999964
+    },
+    {
+      "text": "find so much anxiety and change that what they need to do is they need to glom onto the past.",
+      "start": 336.46,
+      "duration": 4.240000000000009
+    },
+    {
+      "text": "They feel better about the past, and they use that to self-soothe themselves.",
+      "start": 340.7,
+      "duration": 4.079999999999984
+    },
+    {
+      "text": "To pacify. What is a version of that in the public markets? I think it's this thing that they used to do to bucketize companies.",
+      "start": 344.78,
+      "duration": 7.1200000000000045
+    },
+    {
+      "text": "And again, I will bring up that very famous memo about what you report when you can't report free cash flow.",
+      "start": 353.1,
+      "duration": 7.039999999999964
+    },
+    {
+      "text": "Does anybody actually care whether you're a software company or a services company? You shouldn't. The people that care are morons.",
+      "start": 360.14,
+      "duration": 7.520000000000039
+    },
+    {
+      "text": "What you should care about is what is your free cash flow? Like if I could sell you a services business",
+      "start": 368.54,
+      "duration": 5.1200000000000045
+    },
+    {
+      "text": "that had 99% gross margins and 70% free cash flow margins, would you buy it? Your answer would be yes, you'd buy it.",
+      "start": 373.66,
+      "duration": 6.560000000000002
+    },
+    {
+      "text": "And you'd buy it over every product company that ever existed because it's just structurally financially better.",
+      "start": 380.22,
+      "duration": 5.359999999999957
+    },
+    {
+      "text": "And in a world where AI is going to be disrupting everything, what do you want to own? I would rather just own cash flow.",
+      "start": 386.54,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "And so I think what's going to happen, Jason, is people are going to stop caring about what kind of business you are from a business model perspective and care a lot more about what kind of business you are from a numerical perspective.",
+      "start": 393.34,
+      "duration": 10.880000000000052
+    },
+    {
+      "text": "And if you have high gross margins and high free cash flow conversion, you will be rewarded. And if you don't, it won't matter what the hell you do, you're just going to get decimated.",
+      "start": 404.86,
+      "duration": 8.71999999999997
+    },
+    {
+      "text": "So the theory is the markets are going to be confused here. AI is shaking up the snow globe, existing businesses and verticals, hard to",
+      "start": 413.66,
+      "duration": 8.879999999999995
+    },
+    {
+      "text": "for maybe people who are living in the past paradigm. They're trying to say this is a services business.",
+      "start": 423.74,
+      "duration": 5.599999999999966
+    },
+    {
+      "text": "This is a software business. This is an infrastructure business. Now it's all one giant thing.",
+      "start": 429.34,
+      "duration": 4.880000000000052
+    },
+    {
+      "text": "And SpaceX kind of drove this by putting all these pieces together. And when they put Tesla and SpaceX together, now you've got a conglomerate.",
+      "start": 434.22,
+      "duration": 6.9599999999999795
+    },
+    {
+      "text": "Google obviously in conglomerate territory with Waymo on one side and their cloud business, their advertising business.",
+      "start": 441.26,
+      "duration": 7.360000000000014
+    },
+    {
+      "text": "And Amazon as well, I guess, has a conglomerate type feel to it. Microsoft maybe less so.",
+      "start": 449.34,
+      "duration": 7.2000000000000455
+    },
+    {
+      "text": "And Apple maybe less so, right? Because they kind of stay in their lanes. Apple consumer hardware, Microsoft business software.",
+      "start": 457.74,
+      "duration": 6.8799999999999955
+    },
+    {
+      "text": "You know, they've got a little Xbox business over here that they've threatened to spin out.",
+      "start": 464.62,
+      "duration": 3.3600000000000136
+    },
+    {
+      "text": "What do you think of this theory, Friedberg? Everybody's in every business line.",
+      "start": 468.3,
+      "duration": 3.1999999999999886
+    },
+    {
+      "text": "And then all that matters is what comes out the end. You can play with the knobs all you want.",
+      "start": 471.5,
+      "duration": 5.600000000000023
+    },
+    {
+      "text": "Maybe you make less profit on your hardware, more profit on your services.",
+      "start": 477.74,
+      "duration": 3.920000000000016
+    },
+    {
+      "text": "You give the software for free. You make the money on the dirt and the infrastructure play,",
+      "start": 481.66,
+      "duration": 3.67999999999995
+    },
+    {
+      "text": "but you can kind of play with the knobs. Is that a Sim Ant background?",
+      "start": 485.34,
+      "duration": 4.640000000000043
+    },
+    {
+      "text": "Sim Ant, yeah. 1991. 1991.",
+      "start": 489.98,
+      "duration": 3.4399999999999977
+    },
+    {
+      "text": "Okay. I think there was an era when the internet kind of said to everyone, you've got to recast how",
+      "start": 493.42,
+      "duration": 8.399999999999977
+    },
+    {
+      "text": "your business operates, how you do commerce, how you create value, how you run your business,",
+      "start": 501.82,
+      "duration": 6.240000000000009
+    },
+    {
+      "text": "who's doing what, everything was digitized. And now we're kind of moving from this era of everything",
+      "start": 508.06,
+      "duration": 5.999999999999943
+    },
+    {
+      "text": "being digitized, which maybe it started in the 60s and the 70s with the computing revolution,",
+      "start": 514.06,
+      "duration": 5.2000000000000455
+    },
+    {
+      "text": "but then all of that data got connected. So everyone had to become a digitally connected business.",
+      "start": 519.26,
+      "duration": 5.600000000000023
+    },
+    {
+      "text": "And the era of AI is sort of like this digital intelligence business. And there's",
+      "start": 525.82,
+      "duration": 4.959999999999923
+    },
+    {
+      "text": "just a radical reinvention. And it's actually quite amazing how",
+      "start": 530.78,
+      "duration": 4.160000000000082
+    },
+    {
+      "text": "few businesses are actually spending money with Anthropic today, and how few people actively",
+      "start": 534.94,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "use AI tools every day. It's like, call it 1% of the population, which explains why people remain",
+      "start": 540.54,
+      "duration": 6.400000000000091
+    },
+    {
+      "text": "pretty pessimistic, because they haven't really understood it yet. But digital intelligence,",
+      "start": 547.66,
+      "duration": 6.639999999999986
+    },
+    {
+      "text": "I think, really creates a reinvention in every category of commerce. I work in agriculture,",
+      "start": 554.3,
+      "duration": 8.480000000000018
+    },
+    {
+      "text": "and every day we kind of observe ways that things have been done historically that make",
+      "start": 562.78,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "absolutely no sense from a first principles perspective in this era today. And it's almost",
+      "start": 567.74,
+      "duration": 5.600000000000023
+    },
+    {
+      "text": "like in every one of these categories, when everyone kind of rethought every business category",
+      "start": 573.34,
+      "duration": 4.480000000000018
+    },
+    {
+      "text": "from the internet, it's like everyone has to rethink every business category from a digital",
+      "start": 577.82,
+      "duration": 4.319999999999936
+    },
+    {
+      "text": "intelligence basis, you end up realizing pretty quickly that it's not just that the businesses",
+      "start": 582.14,
+      "duration": 7.1200000000000045
+    },
+    {
+      "text": "are going to have to evolve, but the industries are going to get rewritten. It's no longer going",
+      "start": 589.26,
+      "duration": 3.6000000000000227
+    },
+    {
+      "text": "to be this delineation of the way the supply chain works today. It's no longer going to be",
+      "start": 592.86,
+      "duration": 4.080000000000041
+    },
+    {
+      "text": "this delineation of where value sits in the value stack in any given industry,",
+      "start": 596.94,
+      "duration": 4.319999999999936
+    },
+    {
+      "text": "that suddenly one company can compress the value stack or one company can be multi-vertical.",
+      "start": 601.26,
+      "duration": 4.639999999999986
+    },
+    {
+      "text": "Every single one of these industries perhaps don't even exist anymore, that there's some",
+      "start": 605.9,
+      "duration": 4.159999999999968
+    },
+    {
+      "text": "recasting that happens. So yeah, I mean, I think that's probably right. It's a wild, wild west",
+      "start": 610.06,
+      "duration": 5.680000000000064
+    },
+    {
+      "text": "right now. You know, what's not going to be valuable if you take your free cash flow,",
+      "start": 615.74,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "and you spend it on buybacks, it says a lot about where you don't know where to invest.",
+      "start": 620.78,
+      "duration": 3.6800000000000637
+    },
+    {
+      "text": "I mean, that's a good point about Nvidia. That's exactly right. Yeah, that's the tell.",
+      "start": 624.46,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "When you are like, I'm going to do a buyback, what you're basically saying is, I don't have a clue.",
+      "start": 629.5,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "You either don't have the high road and the hoot spot to buy something, build something,",
+      "start": 634.06,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "which would be the other two categories to spend large amounts of money, big criticism of Apple",
+      "start": 640.78,
+      "duration": 4.560000000000059
+    },
+    {
+      "text": "over the years, Tim Cook's stewardship of that firm was based largely on taking half the shares",
+      "start": 645.34,
+      "duration": 6.159999999999968
+    },
+    {
+      "text": "off the table, massive buybacks, massive dividends. And if you look at Nvidia, the CFO, as CFOs are",
+      "start": 651.5,
+      "duration": 6.0
+    },
+    {
+      "text": "want to do, brought up stock buybacks, they authorized 150 billion in additional buybacks back in",
+      "start": 657.5,
+      "duration": 7.1200000000000045
+    },
+    {
+      "text": "September before Jensen was ousted, total buybacks 235 billion, CFO said, now's the time,",
+      "start": 664.62,
+      "duration": 7.67999999999995
+    },
+    {
+      "text": "this is a top priority. I'm not pointing directly at Nvidia, but most of the EPS gains for many",
+      "start": 672.3,
+      "duration": 8.0
+    },
+    {
+      "text": "years in the stock market was because of this game, either because rates were low,",
+      "start": 680.3,
+      "duration": 5.840000000000032
+    },
+    {
+      "text": "or because you had profitable companies, they took their free cash flow. And what did they do? They",
+      "start": 686.14,
+      "duration": 5.600000000000023
+    },
+    {
+      "text": "bought as much stock as they could. They fought back the dilution they were giving via stock",
+      "start": 691.74,
+      "duration": 5.919999999999959
+    },
+    {
+      "text": "grants to their employees. And they would increase the earnings per share, which is this game that",
+      "start": 697.66,
+      "duration": 5.600000000000023
+    },
+    {
+      "text": "everybody was playing, and they were mostly rewarded for it. And they were creating a natural",
+      "start": 703.26,
+      "duration": 4.32000000000005
+    },
+    {
+      "text": "bid to their stock, and the stock just trended up higher. And so you as a stockholder, knew that",
+      "start": 707.58,
+      "duration": 7.1200000000000045
+    },
+    {
+      "text": "if your company was going in to buy some percentage of the float every year, you were guaranteed,",
+      "start": 714.7,
+      "duration": 4.240000000000009
+    },
+    {
+      "text": "mostly, a 5 to 10% increase in the stock every year, and you can just kind of play this game,",
+      "start": 719.98,
+      "duration": 4.8799999999999955
+    },
+    {
+      "text": "that game is over. And the reason is what you said, Jason, because what it is, is a tell. And",
+      "start": 724.86,
+      "duration": 5.600000000000023
+    },
+    {
+      "text": "the tell is the following. I don't know what to buy. I don't know what to build. I don't know",
+      "start": 730.46,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "what to invest in, which is okay when disruption is low. But when disruption is high,",
+      "start": 736.14,
+      "duration": 8.56000000000006
+    },
+    {
+      "text": "you are going to be rewarded for acquisitions, because that tells the existing investor,",
+      "start": 745.98,
+      "duration": 4.399999999999977
+    },
+    {
+      "text": "you are trying to defend the moat that you have and build new moats. That is why when Nikesh does",
+      "start": 751.1,
+      "duration": 6.159999999999968
+    },
+    {
+      "text": "a four and a half billion dollar acquisition, the stock goes up, the market is voting. It doesn't",
+      "start": 757.26,
+      "duration": 4.240000000000009
+    },
+    {
+      "text": "matter what I think about it. What I saw was, wow, the market is saying do more of that.",
+      "start": 761.5,
+      "duration": 4.0
+    },
+    {
+      "text": "And there's also Friedberg, the game on the field. During certain administrations,",
+      "start": 766.14,
+      "duration": 4.0
+    },
+    {
+      "text": "we are anti-conglomerate. The feeling in America has been, and I hate that this always seems to",
+      "start": 771.34,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "go back to politics, but here we are, folks. The market wasn't allowed to do big M&A. That was",
+      "start": 776.86,
+      "duration": 7.519999999999982
+    },
+    {
+      "text": "off the table during Biden. Now it's back on the table for Trump. We got maybe a six-month",
+      "start": 784.38,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "window before it closes again, if people assume we are going to have Democrats in office in",
+      "start": 789.42,
+      "duration": 6.480000000000018
+    },
+    {
+      "text": "2028. So you got to play the game on the field, as it were. The time to buy stock back, I think,",
+      "start": 795.9,
+      "duration": 6.800000000000068
+    },
+    {
+      "text": "is when your stock is severely under-valued, Chamath. Or when you find something, you have",
+      "start": 802.7,
+      "duration": 7.919999999999959
+    },
+    {
+      "text": "to look at what you are acquiring and say, is that company accretive enough and can we",
+      "start": 810.62,
+      "duration": 4.32000000000005
+    },
+    {
+      "text": "grow it enough? Do we have a strategy post-acquisition for it to grow versus buying our",
+      "start": 814.94,
+      "duration": 4.639999999999986
+    },
+    {
+      "text": "own stock? In other words, if I buy this business, me plus that business being accelerated by whatever",
+      "start": 819.58,
+      "duration": 5.839999999999918
+    },
+    {
+      "text": "we have, is that better than buying our stock? You said a word I don't agree with. But I do",
+      "start": 825.42,
+      "duration": 5.5200000000000955
+    },
+    {
+      "text": "think that's how a lot of people think about it. And the word that you use, which I don't like,",
+      "start": 830.94,
+      "duration": 3.119999999999891
+    },
+    {
+      "text": "is accretive, which is where the spreadsheet jockeys get into a room and try to figure out",
+      "start": 834.06,
+      "duration": 6.160000000000082
+    },
+    {
+      "text": "how it just adds to the value of the company today without thinking strategically, how does",
+      "start": 840.22,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "it add to the value of the company over some number of years because it puts you into business lines",
+      "start": 844.78,
+      "duration": 4.639999999999986
+    },
+    {
+      "text": "that you're not in today. And I think you have to be in the latter category. And if you're beholden",
+      "start": 849.42,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "to an equity market that won't give you that permission, you're in a really complicated",
+      "start": 855.5,
+      "duration": 4.8799999999999955
+    },
+    {
+      "text": "position because they're also not going to reward you for buybacks and they're not going",
+      "start": 860.38,
+      "duration": 3.6000000000000227
+    },
+    {
+      "text": "to reward you for dividends. What are you to do with this money? Accept, invest your way out of it.",
+      "start": 863.98,
+      "duration": 4.7999999999999545
+    },
+    {
+      "text": "So this is the weird thing where the owners of these companies don't seem to get that there's",
+      "start": 869.42,
+      "duration": 5.680000000000064
+    },
+    {
+      "text": "a tsunami of disruption coming and that they're going to have to position themselves defensively",
+      "start": 875.1,
+      "duration": 5.919999999999959
+    },
+    {
+      "text": "and offensively by having a full stack solution. That's the only solution. There's no way around",
+      "start": 881.02,
+      "duration": 6.32000000000005
+    },
+    {
+      "text": "it. And if you look historically at what's happened in our industry, last 10 years,",
+      "start": 887.34,
+      "duration": 4.8799999999999955
+    },
+    {
+      "text": "Apple has 10, over the last 10 years, Apple has 34% less shares, Alphabet 12% less,",
+      "start": 892.22,
+      "duration": 6.480000000000018
+    },
+    {
+      "text": "Meta 11%. And Meta has done some great acquisitions, but this is what people have chosen to do with",
+      "start": 898.7,
+      "duration": 5.1200000000000045
+    },
+    {
+      "text": "their war chest. Now, the other option, which I kind of like is building out infrastructure.",
+      "start": 903.82,
+      "duration": 4.8799999999999955
+    },
+    {
+      "text": "We talked about that. If you're Meta, you're Amazon, you're obviously Alphabet. Yeah,",
+      "start": 908.7,
+      "duration": 8.240000000000009
+    },
+    {
+      "text": "building out infrastructure and having the platform to create intelligence, that seems like a pretty",
+      "start": 916.94,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "wise investment as well. Yeah, Chamath, you think? Yeah, I mean, I think the problem where these guys",
+      "start": 922.06,
+      "duration": 5.040000000000077
+    },
+    {
+      "text": "will fail is I don't think that they understand what the next generation application stack really",
+      "start": 927.1,
+      "duration": 4.0
+    },
+    {
+      "text": "needs to look like. That needs to be acquired. And the reason is it's just much more likely",
+      "start": 931.1,
+      "duration": 3.519999999999982
+    },
+    {
+      "text": "that small groups of people bleed off of these big companies or bleed off the frontier",
+      "start": 935.26,
+      "duration": 4.560000000000059
+    },
+    {
+      "text": "labs and go and build the things that are the new thing. They understand it better.",
+      "start": 939.82,
+      "duration": 3.919999999999959
+    },
+    {
+      "text": "And I think that that's okay. The point is you have to end up at the finish line",
+      "start": 943.74,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "with a solution. And I think it's actually simpler to say, I'm going to just acquire my way to it.",
+      "start": 948.3,
+      "duration": 5.280000000000086
+    },
+    {
+      "text": "And that's actually a safe harbor. Meaning if I was owning an equity, and the CEO got on an",
+      "start": 953.58,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "investor call and said, you know what, guys, disruption is coming. We're going to have 10",
+      "start": 958.14,
+      "duration": 4.480000000000018
+    },
+    {
+      "text": "mega companies, I intend to be one of them, I'm going to acquire my way aggressively, I'm going",
+      "start": 962.62,
+      "duration": 3.759999999999991
+    },
+    {
+      "text": "to use my cash flow to make sure that we don't lose, I would own more of that stock than all",
+      "start": 966.38,
+      "duration": 5.1200000000000045
+    },
+    {
+      "text": "the other stocks where everybody's just singing from the same hymn book from years ago.",
+      "start": 971.5,
+      "duration": 3.759999999999991
+    },
+    {
+      "text": "Yeah, which would be shareholder buybacks and dividends. Anybody who can see the pace of",
+      "start": 975.9,
+      "duration": 5.360000000000014
+    },
+    {
+      "text": "technology, Friedberg understands now is the time to take some swings. What's your take on the",
+      "start": 981.26,
+      "duration": 6.8799999999999955
+    },
+    {
+      "text": "anthropic IPO in the future of this company? $80 billion in revenue, $100 billion.",
+      "start": 989.02,
+      "duration": 5.680000000000064
+    },
+    {
+      "text": "They're obviously, the percentage growth is going to slow down. But if we're at $2 trillion now,",
+      "start": 994.7,
+      "duration": 4.0
+    },
+    {
+      "text": "they're trading 20 times the top line. Is this a company going to just spend a couple",
+      "start": 998.7,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "years going sideways as it fills in that valuation? And are you long shorted? I know",
+      "start": 1004.3,
+      "duration": 5.040000000000077
+    },
+    {
+      "text": "you didn't like that question last week, but I think people want to know from us,",
+      "start": 1009.34,
+      "duration": 2.7999999999999545
+    },
+    {
+      "text": "are we bullish or bearish, or kind of moderate on the future of Ant after the IPO today?",
+      "start": 1013.26,
+      "duration": 7.519999999999982
+    },
+    {
+      "text": "Obviously, it's great that they got out, especially in the turmoil going on now. So",
+      "start": 1020.78,
+      "duration": 3.839999999999918
+    },
+    {
+      "text": "points to them for getting out the door. I think that was a wise move.",
+      "start": 1024.62,
+      "duration": 2.7200000000000273
+    },
+    {
+      "text": "But what's your take on the company itself now, Friedberg?",
+      "start": 1027.9,
+      "duration": 2.3999999999998636
+    },
+    {
+      "text": "It's been growing beyond their expectations internally, from what I've heard from people.",
+      "start": 1031.02,
+      "duration": 6.960000000000036
+    },
+    {
+      "text": "So it seems like they're easily on track for getting to $100 billion in revenue.",
+      "start": 1037.98,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "And I think they've got a lot of runway. We talked about them being probably less than 1%",
+      "start": 1044.22,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "market-penetrated in terms of their addressable users that could spend over $100,000 a year.",
+      "start": 1049.18,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "So lots of runway. They definitely have the best enterprise product out there,",
+      "start": 1054.7,
+      "duration": 3.6800000000000637
+    },
+    {
+      "text": "better than Google, and better than OpenAI. And at this point, I think Google's done four model",
+      "start": 1059.26,
+      "duration": 6.319999999999936
+    },
+    {
+      "text": "releases in the last few weeks. A lot of people are murmuring that Google seems to have hit the RSI",
+      "start": 1065.58,
+      "duration": 5.759999999999991
+    },
+    {
+      "text": "runaway kind of loop. If Google's done it, then I think it's likely that Anthropic is there as well.",
+      "start": 1071.34,
+      "duration": 5.2000000000000455
+    },
+    {
+      "text": "And it's a matter of time. There's certainly a lot of hesitation around the safety concerns",
+      "start": 1077.26,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "in this moment in time. So there's probably a lot more being held back than people realize.",
+      "start": 1081.66,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "The models are probably advancing at a pace that is faster than the human evaluation that can be",
+      "start": 1086.7,
+      "duration": 6.559999999999945
+    },
+    {
+      "text": "done to ensure its safety. So Google's indication, I think, would be positive for Anthropic, having",
+      "start": 1093.26,
+      "duration": 7.039999999999964
+    },
+    {
+      "text": "also achieved some whatever the definition is of RSI, which means that the models improve",
+      "start": 1100.3,
+      "duration": 4.6400000000001
+    },
+    {
+      "text": "themselves. They get continuously better, and you end up on this effectively kind of exponential",
+      "start": 1104.94,
+      "duration": 4.720000000000027
+    },
+    {
+      "text": "curve. One way to think about this is intelligence per dollar. So if you've got this massively",
+      "start": 1109.74,
+      "duration": 7.839999999999918
+    },
+    {
+      "text": "scaling units of intelligence per dollar spent underway, this kind of system that kind of",
+      "start": 1117.58,
+      "duration": 6.160000000000082
+    },
+    {
+      "text": "improves itself and delivers more, certainly sky's the limit. The economy is the limit.",
+      "start": 1123.74,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "For a company like this, and I think, like I mentioned last week, I heard they did a great",
+      "start": 1129.34,
+      "duration": 4.080000000000155
+    },
+    {
+      "text": "job in the roadshow of convincing investors that there is almost this true natural monopolistic",
+      "start": 1133.42,
+      "duration": 8.480000000000018
+    },
+    {
+      "text": "advantage inherent in the business that the RSI and the cost that results, meaning the cost per",
+      "start": 1142.7,
+      "duration": 6.0
+    },
+    {
+      "text": "unit of intelligence goes down dramatically, makes it an insurmountable moat that other people can't",
+      "start": 1148.7,
+      "duration": 5.279999999999973
+    },
+    {
+      "text": "catch up to. The biggest risk is open source. So the argument might be that maybe open source is",
+      "start": 1153.98,
+      "duration": 7.680000000000064
+    },
+    {
+      "text": "a risk that could eat some part of the business, but I don't think it's going to eat the whole",
+      "start": 1161.66,
+      "duration": 3.199999999999818
+    },
+    {
+      "text": "business because at the end of the day, if they're going to have the greatest intelligence per unit of",
+      "start": 1164.86,
+      "duration": 4.0
+    },
+    {
+      "text": "dollars spent for the advanced applications, they're always going to be the choice. So it'll",
+      "start": 1168.86,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "probably be between them, OpenAI, Google at this point, is sort of the race. The question",
+      "start": 1173.82,
+      "duration": 4.7999999999999545
+    },
+    {
+      "text": "really is how much excess demand was there that didn't get met in the order books as they got",
+      "start": 1178.62,
+      "duration": 3.7600000000002183
+    },
+    {
+      "text": "filled out, and how many of the hundred billion dollars of share purchases that have happened today",
+      "start": 1182.38,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "are folks that would sell in a short period of time versus want to be long-term holders.",
+      "start": 1189.26,
+      "duration": 4.160000000000082
+    },
+    {
+      "text": "And let's call it 50%. So you probably got $50 billion of true float against probably some",
+      "start": 1193.42,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "multiple of a hundred billion dollars of demand at the current price. And so the question is,",
+      "start": 1199.5,
+      "duration": 6.400000000000091
+    },
+    {
+      "text": "there's obviously some elasticity to that pricing as it moves up, the demand will go down,",
+      "start": 1205.9,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "and the market will tell us where that limit is. But given the growth rate, given the potential,",
+      "start": 1209.98,
+      "duration": 6.160000000000082
+    },
+    {
+      "text": "there's an amazing story to be told here that if you're willing to buy the stock and own it for",
+      "start": 1216.14,
+      "duration": 3.3599999999999
+    },
+    {
+      "text": "five plus years, you can hold a multi-bagger from here at this entry point. And that's true for",
+      "start": 1219.5,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "them. It's true for SpaceX. It's true for potentially Google even at this moment.",
+      "start": 1225.02,
+      "duration": 5.360000000000127
+    },
+    {
+      "text": "So there's a lot of upside as the economy gets rewritten around AI.",
+      "start": 1231.42,
+      "duration": 5.279999999999973
+    },
+    {
+      "text": "Chamath, when you see it go public at $2 trillion, roughly 30 times their run rate,",
+      "start": 1236.7,
+      "duration": 5.680000000000064
+    },
+    {
+      "text": "what's your take on the future of this company specifically? You heard Friedberg talk about, well,",
+      "start": 1242.86,
+      "duration": 5.520000000000209
+    },
+    {
+      "text": "on one side of the ledger, you do have open source. And we're going to talk about",
+      "start": 1249.42,
+      "duration": 3.759999999999991
+    },
+    {
+      "text": "the administration or a contingent of the administration reportedly trying to stop",
+      "start": 1253.18,
+      "duration": 4.480000000000018
+    },
+    {
+      "text": "open source and tar and signal who is using open source. Pretty dark stuff. We'll get into it.",
+      "start": 1257.66,
+      "duration": 7.279999999999973
+    },
+    {
+      "text": "But just as we hit day one, on Thursday, we tape, you listen on Friday.",
+      "start": 1264.94,
+      "duration": 5.279999999999973
+    },
+    {
+      "text": "What's your take here on the future of this company? Do you believe it's going to beat the",
+      "start": 1271.1,
+      "duration": 4.160000000000082
+    },
+    {
+      "text": "markets? Do you believe it's a juggernaut? Do you believe it's unstoppable? Or do you leave it,",
+      "start": 1275.26,
+      "duration": 3.599999999999909
+    },
+    {
+      "text": "hey, maybe we might be sitting here in three or four years and it's still trying to fill in",
+      "start": 1278.86,
+      "duration": 3.2000000000000455
+    },
+    {
+      "text": "this valuation. I think it's definitely going to be one of these 10 mega-corps. They're doing",
+      "start": 1282.06,
+      "duration": 4.7999999999999545
+    },
+    {
+      "text": "all the right things. My biggest risk for that business, I think they've de-risk now, which is",
+      "start": 1286.86,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "balance sheet and having enough money. So I don't know about the valuation, per se.",
+      "start": 1291.74,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "If you look at it, it's had the exact opposite trading behavior of SpaceX, which doesn't mean",
+      "start": 1296.86,
+      "duration": 6.080000000000155
+    },
+    {
+      "text": "anything, meaning, but the day one behavior is the exact opposite where SpaceX traded up and then",
+      "start": 1302.94,
+      "duration": 5.679999999999836
+    },
+    {
+      "text": "kind of came off at the late day. This one kind of started up already and then has been coming down.",
+      "start": 1308.62,
+      "duration": 6.320000000000164
+    },
+    {
+      "text": "So on a day one behavior, who knows? It's hard to intuit. So it is a great business.",
+      "start": 1316.14,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "It's a great long-term business. They're doing all the right things, meaning they're going dirt",
+      "start": 1322.3,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "all the way up to application. All that makes sense. But I think the problem is that",
+      "start": 1328.3,
+      "duration": 6.080000000000155
+    },
+    {
+      "text": "the valuation of enthropic over the next three or four months has mostly nothing to do with",
+      "start": 1335.58,
+      "duration": 4.320000000000164
+    },
+    {
+      "text": "enthropic. If you look at other businesses that are making gobs of money, Nvidia is a perfect",
+      "start": 1339.9,
+      "duration": 5.839999999999918
+    },
+    {
+      "text": "example. We've never seen a quarter like this ever, and the stock is down. And it's down",
+      "start": 1345.74,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "meaningfully from the earnings date. Why is that? The market, when I look at this,",
+      "start": 1350.7,
+      "duration": 4.240000000000009
+    },
+    {
+      "text": "I could change my mind, but right now what it looks like is it's trying to will itself to go up.",
+      "start": 1355.58,
+      "duration": 5.279999999999973
+    },
+    {
+      "text": "And the problem with that is that inflation is sticky. All of these external conditions are not",
+      "start": 1362.54,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "resolved, including the war. I think people on balance feel skittish. They feel like this is",
+      "start": 1367.58,
+      "duration": 5.279999999999973
+    },
+    {
+      "text": "run for a while. And I think the balance of trade is to de-risk, not to add more risk.",
+      "start": 1372.86,
+      "duration": 7.2800000000002
+    },
+    {
+      "text": "So I think you're going to have all kinds of pockets of opportunities to buy stuff much cheaper.",
+      "start": 1380.78,
+      "duration": 7.2000000000000455
+    },
+    {
+      "text": "And then on top of that, what you're seeing, Jason, is this very weird behavior",
+      "start": 1388.62,
+      "duration": 3.520000000000209
+    },
+    {
+      "text": "where there is just these crazy, acute moments, just as we are taping. AMD is down",
+      "start": 1393.02,
+      "duration": 6.240000000000009
+    },
+    {
+      "text": "10% or 12% because somebody put out a short report that they were selling chips to China.",
+      "start": 1399.26,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "I don't know if that's true or not, but 10%, 12% trade in a trillion dollar company is ginormous",
+      "start": 1405.98,
+      "duration": 7.440000000000055
+    },
+    {
+      "text": "vol. So I guess what I do know is that the 10-year unfortunately keeps ticking up. That's bad",
+      "start": 1413.42,
+      "duration": 6.639999999999873
+    },
+    {
+      "text": "for equities. Vol is elevated. That's bad for equities. And inflation is sticky. That's bad for",
+      "start": 1420.06,
+      "duration": 10.320000000000164
+    },
+    {
+      "text": "equities. To the extent Kevin Worsch wanted to cut, I don't think he's got much room. And if",
+      "start": 1430.38,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "anything, he's going to hike. That's bad for equities. There's a new sheriff in town in the",
+      "start": 1435.58,
+      "duration": 7.279999999999973
+    },
+    {
+      "text": "Senate and in Congress. That creates uncertainty. That's bad for equities.",
+      "start": 1442.94,
+      "duration": 5.279999999999973
+    },
+    {
+      "text": "The wall of worry now is bonkers.",
+      "start": 1449.74,
+      "duration": 2.6400000000001
+    },
+    {
+      "text": "Maybe you can't be short. I don't know because things could still rip in your face.",
+      "start": 1452.94,
+      "duration": 3.759999999999991
+    },
+    {
+      "text": "But it's hard to justify how you get mega long here, what you're aiming for. What is the",
+      "start": 1457.9,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "setup where the S&P goes to 8,000 from here versus 6,500? I'll take a shot at it.",
+      "start": 1463.1,
+      "duration": 6.400000000000091
+    },
+    {
+      "text": "I don't understand it.",
+      "start": 1469.5,
+      "duration": 1.0399999999999636
+    },
+    {
+      "text": "I'll take a shot at it because I was super long.",
+      "start": 1470.54,
+      "duration": 1.9200000000000728
+    },
+    {
+      "text": "And I think we're bouncing along the bottom, independent of a crazy black swan type of",
+      "start": 1472.62,
+      "duration": 7.440000000000055
+    },
+    {
+      "text": "that, COVID, et cetera. But that wall of worry that you very accurately described, you got",
+      "start": 1480.06,
+      "duration": 5.120000000000118
+    },
+    {
+      "text": "rates, you got the debt, and you got inflation, you got wars, and you got political turnover.",
+      "start": 1486.14,
+      "duration": 7.759999999999991
+    },
+    {
+      "text": "And the people coming in hate AI, big tech, capitalism. They're going to be in the",
+      "start": 1494.7,
+      "duration": 4.399999999999864
+    },
+    {
+      "text": "break up big tech. We could be having a conversation in two or three years about,",
+      "start": 1499.1,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "let's say you're at the... If Chamath's thesis is correct, we're going into the megacorp,",
+      "start": 1504.46,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "AOC, and Bernie Sanders and that constituent might say, yeah, we're not going to allow that. And",
+      "start": 1509.58,
+      "duration": 4.720000000000027
+    },
+    {
+      "text": "we're going to go the opposite direction. We're going to make you break up these companies.",
+      "start": 1514.3,
+      "duration": 3.8400000000001455
+    },
+    {
+      "text": "But the bull case that I see is we have only 10% or 20% of workers at the major companies using",
+      "start": 1518.14,
+      "duration": 9.039999999999964
+    },
+    {
+      "text": "this technology. I invest in 100 startups a year. I see how they use it. They use it all day long.",
+      "start": 1527.18,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "They're using it the average worker five, six, seven hours a day. In other words,",
+      "start": 1531.82,
+      "duration": 3.6800000000000637
+    },
+    {
+      "text": "they're working with AI more than they're working with humans. What startups do is what",
+      "start": 1535.5,
+      "duration": 6.160000000000082
+    },
+    {
+      "text": "the big companies eventually do. It takes two or three years. Startups embrace the cloud.",
+      "start": 1541.66,
+      "duration": 4.959999999999809
+    },
+    {
+      "text": "And we work because it's more efficient. Then sure enough, the big companies will do that.",
+      "start": 1546.62,
+      "duration": 4.240000000000009
+    },
+    {
+      "text": "So I'm watching that game on the field. I think we're going to see the number of people in the",
+      "start": 1550.86,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "organizations use it. Obviously, go five, six, seven x because they're very small number of",
+      "start": 1554.78,
+      "duration": 5.839999999999918
+    },
+    {
+      "text": "people in organizations using it. But more importantly, they're going to go from using",
+      "start": 1560.62,
+      "duration": 3.6000000000001364
+    },
+    {
+      "text": "it for minutes a day or maybe an hour to using it for six, seven, eight hours a day.",
+      "start": 1564.22,
+      "duration": 4.720000000000027
+    },
+    {
+      "text": "That's going to be the primary use case at work, especially in corporate America.",
+      "start": 1568.94,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "You're going to be working with agents and you're going to be coordinating 10 virtual workers.",
+      "start": 1573.98,
+      "duration": 5.2000000000000455
+    },
+    {
+      "text": "That is the obvious thing that's going to happen. How do I know it's obvious?",
+      "start": 1579.18,
+      "duration": 3.2000000000000455
+    },
+    {
+      "text": "I see it inside my venture capital firm. I see it in my media company. I see it in 600 startups",
+      "start": 1582.38,
+      "duration": 4.7999999999999545
+    },
+    {
+      "text": "I've invested in. It's obvious. What that means is at least 500 times the token usage is what's",
+      "start": 1587.18,
+      "duration": 6.639999999999873
+    },
+    {
+      "text": "going to happen. Now, where do those tokens come from becomes the question. Does it come from",
+      "start": 1593.82,
+      "duration": 3.8400000000001455
+    },
+    {
+      "text": "anthropic? Does it come from SpaceX, open source, AWS? And I think the answer is all of those.",
+      "start": 1597.66,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "So what we're going to be sitting here in three or four years, people are going to look at this",
+      "start": 1603.26,
+      "duration": 3.1200000000001182
+    },
+    {
+      "text": "moment in time, very similar to the dotcom era, where people said, I think this whole thing",
+      "start": 1606.38,
+      "duration": 4.7199999999998
+    },
+    {
+      "text": "got overhyped. It's a bubble. People lost their objectivity for what's actually going on",
+      "start": 1611.1,
+      "duration": 6.720000000000027
+    },
+    {
+      "text": "inside of corporate America and then how the individuals are using it. Individuals,",
+      "start": 1618.46,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "once they start using bot technology, once they understand how to make loops and to get the best",
+      "start": 1624.54,
+      "duration": 6.720000000000027
+    },
+    {
+      "text": "out of these things, they don't stop. They don't stop. And their productivity goes through the roof",
+      "start": 1631.26,
+      "duration": 5.839999999999918
+    },
+    {
+      "text": "like 10X, 20X. I don't understand how you can connect that with why stocks are bought.",
+      "start": 1637.1,
+      "duration": 5.759999999999991
+    },
+    {
+      "text": "Well, the bottoming of the stocks, I think, is rates, inflation, the overall economy being this",
+      "start": 1643.74,
+      "duration": 7.279999999999973
+    },
+    {
+      "text": "headwind and the political turmoil. People think this thing is overheated. I think it's",
+      "start": 1651.02,
+      "duration": 4.6400000000001
+    },
+    {
+      "text": "underappreciated. That's just my belief. I think if you look at products, management, and market,",
+      "start": 1655.66,
+      "duration": 6.879999999999882
+    },
+    {
+      "text": "the market here is going to go 500X. The demand for this product is like a 500X lift.",
+      "start": 1662.54,
+      "duration": 5.759999999999991
+    },
+    {
+      "text": "And then the management of these companies, putting aside Jensen getting ousted,",
+      "start": 1668.86,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "is just incredible. The products these teams are making are extraordinary. The headwind is",
+      "start": 1673.66,
+      "duration": 6.1599999999998545
+    },
+    {
+      "text": "regulation, banning it, breaking up companies. Those are all real possibilities. But you're not",
+      "start": 1680.46,
+      "duration": 6.7999999999999545
+    },
+    {
+      "text": "at the product velocity now and the extent that people are embracing this technology,",
+      "start": 1687.26,
+      "duration": 4.6400000000001
+    },
+    {
+      "text": "Chamath, I've never seen in my career. And I've watched four decades of this now.",
+      "start": 1691.9,
+      "duration": 4.399999999999864
+    },
+    {
+      "text": "You've convinced me, and I agree with you, that usage is mediocre and hasn't even",
+      "start": 1696.3,
+      "duration": 7.120000000000118
+    },
+    {
+      "text": "approached what the full capability is. You've convinced me of that. But you have not convinced",
+      "start": 1703.42,
+      "duration": 3.119999999999891
+    },
+    {
+      "text": "me about the stock market has bought it. Like I said, I think that it's more likely that the",
+      "start": 1706.54,
+      "duration": 4.480000000000018
+    },
+    {
+      "text": "10-year is at 5.5% or 6% than it is at 4.5%. That just has a mathematical implication to all equities.",
+      "start": 1711.02,
+      "duration": 8.400000000000091
+    },
+    {
+      "text": "I like the pushback. Imagine you're running a company, you've got 200 knowledge workers",
+      "start": 1719.42,
+      "duration": 5.439999999999827
+    },
+    {
+      "text": "working there, and they're currently spending on a $20 a month plan to a $200 a month plan.",
+      "start": 1724.86,
+      "duration": 6.0
+    },
+    {
+      "text": "They become five times more effective at their job, 10 times more effective at their job. And",
+      "start": 1730.86,
+      "duration": 4.080000000000155
+    },
+    {
+      "text": "they say, may I go from the $200 plan to the $800 plan? And you say, absolutely. I have people",
+      "start": 1734.94,
+      "duration": 7.3599999999999
+    },
+    {
+      "text": "coming to me in my own organization or I'm watching. You're saying revenue is going to go up 50x in",
+      "start": 1742.3,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "this company? 5x? For whom? You will be able to create more products and services and deliver them",
+      "start": 1746.86,
+      "duration": 9.040000000000191
+    },
+    {
+      "text": "at a higher revenue and earnings per employee. Virtual products, you're saying. Not physical",
+      "start": 1755.9,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "products. Because physical products still have input costs and those input costs are going up.",
+      "start": 1761.5,
+      "duration": 3.519999999999982
+    },
+    {
+      "text": "So I'm talking about software services, knowledge work, all of that is going to go from $500,000",
+      "start": 1765.02,
+      "duration": 6.720000000000027
+    },
+    {
+      "text": "to $1 million in employee to $3 to $5 million, maybe even $10 million per employee. And if",
+      "start": 1771.74,
+      "duration": 5.279999999999973
+    },
+    {
+      "text": "you look at companies like Microsoft, they were at, I think, $900,000 in employee and now",
+      "start": 1777.02,
+      "duration": 6.0
+    },
+    {
+      "text": "they're trending towards $2 million per employee. That trend is going to happen every three years.",
+      "start": 1783.02,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "You're going to see the amount of revenue per employee double, which means if the revenue per",
+      "start": 1788.62,
+      "duration": 4.6400000000001
+    },
+    {
+      "text": "employee doubles, that efficiency level, that means you don't care if they spend 10x on software",
+      "start": 1793.26,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "because the software was only $10k or $5k of their overall cost, maybe $5k of their overall cost a",
+      "start": 1799.34,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "year. So if it goes to $25k, you don't care. You're like, great. You're a superhero inside this",
+      "start": 1805.26,
+      "duration": 5.2000000000000455
+    },
+    {
+      "text": "organization. I hope you're right. But I think the market is in a show me state.",
+      "start": 1810.46,
+      "duration": 4.1599999999998545
+    },
+    {
+      "text": "Sure. You have to prove it. I don't think they buy that.",
+      "start": 1814.62,
+      "duration": 1.8400000000001455
+    },
+    {
+      "text": "You have to have cojones to be buying Nvidia right now at $150, $160. I did. You got to have",
+      "start": 1816.46,
+      "duration": 5.680000000000064
+    },
+    {
+      "text": "cojones right now if you want to buy some of these stocks, I think.",
+      "start": 1822.14,
+      "duration": 3.599999999999909
+    },
+    {
+      "text": "Why do you say it's cojones? These are just mathematical risk-adjusted EV decisions.",
+      "start": 1825.74,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "It's not about like some- No, I don't know. If it was mathematical-",
+      "start": 1829.66,
+      "duration": 2.3199999999999363
+    },
+    {
+      "text": "Or just chest pumping. No. I do think you have to have conviction because",
+      "start": 1831.98,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "you have to believe, and I don't think it's a mathematical certainty, that it goes 500x in",
+      "start": 1836.06,
+      "duration": 6.080000000000155
+    },
+    {
+      "text": "consumption. That's my belief based on what I see. But I think a lot of people are doing",
+      "start": 1842.14,
+      "duration": 3.9199999999998454
+    },
+    {
+      "text": "the mathematical calculation just saying it's impossible to get there because they don't see",
+      "start": 1846.06,
+      "duration": 4.160000000000082
+    },
+    {
+      "text": "just how transformative the technology is. That's what I'm looking at. How transformative is this?",
+      "start": 1851.34,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "How much will people spend on it? I think it's being greatly underestimated. Friedberg,",
+      "start": 1856.14,
+      "duration": 4.879999999999882
+    },
+    {
+      "text": "you've been listening to this conversation. You have any input here on the bull bear case here",
+      "start": 1861.02,
+      "duration": 5.120000000000118
+    },
+    {
+      "text": "for the deployment of the technology? And what are you seeing inside of O'Hollow? Are you",
+      "start": 1867.02,
+      "duration": 3.6800000000000637
+    },
+    {
+      "text": "seeing people 10x their usage of the technology? And are you seeing the output of that?",
+      "start": 1870.7,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "That's not the question. Of course, I'm asking him.",
+      "start": 1874.86,
+      "duration": 2.0800000000001546
+    },
+    {
+      "text": "Is revenue up 10x? That was the second part. Are you seeing a multitude of consumption of tokens",
+      "start": 1877.58,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "and a multitude of efficiency and revenue? Or are you predicting that? Because it does take some",
+      "start": 1883.5,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "investment to get to there. I'll repeat what I've said in the past, which is I think the",
+      "start": 1888.54,
+      "duration": 3.6800000000000637
+    },
+    {
+      "text": "biggest opportunity for AI is on the frontier. That is where basically businesses and people can",
+      "start": 1892.22,
+      "duration": 8.0
+    },
+    {
+      "text": "do things that humans and businesses have never been able to do before. And that means crafting",
+      "start": 1900.22,
+      "duration": 5.3599999999999
+    },
+    {
+      "text": "solutions to really difficult engineering problems, to really difficult scientific problems,",
+      "start": 1905.58,
+      "duration": 4.720000000000027
+    },
+    {
+      "text": "to previously untractable problems. And that's where I think that the frontier gets expanded",
+      "start": 1910.3,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "by 100x or 1000x versus AI being some iteration on existing business processes to save money and",
+      "start": 1915.82,
+      "duration": 7.8400000000001455
+    },
+    {
+      "text": "make things more efficient, which is where people natively go because most people don't work on",
+      "start": 1923.66,
+      "duration": 4.720000000000027
+    },
+    {
+      "text": "the frontier and they're not pushing the envelope on what's possible. So their mind is always about,",
+      "start": 1928.38,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "well, how does this change my job? And then you immediately get fearful about your job getting",
+      "start": 1933.42,
+      "duration": 3.839999999999918
+    },
+    {
+      "text": "recast. And the truth is that's not the typical use case. The typical use case where we spend",
+      "start": 1937.26,
+      "duration": 6.160000000000082
+    },
+    {
+      "text": "time and spend tokens is doing things that we've never done before, figuring out how to solve",
+      "start": 1943.42,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "those really tough problems, how to do it quickly, how to do it efficiently. And that means humans",
+      "start": 1948.94,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "generally can expand our frontiers, our horizons. That's what I kind of see. And I still believe",
+      "start": 1953.9,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "that. And I do think that there's this... We all get caught up so much in the kind of",
+      "start": 1959.42,
+      "duration": 4.720000000000027
+    },
+    {
+      "text": "reinvention of existing businesses and cost savings and nonsense. The return on dollars spent on",
+      "start": 1964.14,
+      "duration": 7.279999999999973
+    },
+    {
+      "text": "tokens or whatever is some small number when you're doing it to produce the same stuff",
+      "start": 1972.3,
+      "duration": 7.279999999999973
+    },
+    {
+      "text": "versus it being a much bigger number if you use it to produce things that humans have never produced",
+      "start": 1980.22,
+      "duration": 4.7999999999999545
+    },
+    {
+      "text": "before, like some new cancer drug or some new material science. And so I don't think that's",
+      "start": 1985.02,
+      "duration": 7.519999999999982
+    },
+    {
+      "text": "really where people spend time and money or will as the capabilities are realized.",
+      "start": 1992.54,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "Yeah, there's two things there.",
+      "start": 1997.42,
+      "duration": 1.1199999999998909
+    },
+    {
+      "text": "That's a really smart way of saying it. That's absolutely true. You throw tokens at the existing",
+      "start": 1998.54,
+      "duration": 4.0
+    },
+    {
+      "text": "s***, you're just going to... What can you ROI? 50%, 60% to your point, you might as well",
+      "start": 2002.54,
+      "duration": 5.600000000000136
+    },
+    {
+      "text": "throw it at new s***. There's certainly incremental improvement. I think you stated it well there,",
+      "start": 2008.22,
+      "duration": 3.839999999999918
+    },
+    {
+      "text": "Friedberg. You can incrementally improve any job. Which is also why the job loss narrative is",
+      "start": 2012.06,
+      "duration": 4.480000000000018
+    },
+    {
+      "text": "bull s***. It's also why everyone's going to end up on welfare is bull s***. It's also like we",
+      "start": 2016.54,
+      "duration": 5.279999999999973
+    },
+    {
+      "text": "need the government to step in and provide UBI as bull s***. Because with any other kind of",
+      "start": 2021.82,
+      "duration": 5.759999999999991
+    },
+    {
+      "text": "frontier moment in human history, it's the new jobs, the new industries get created before the",
+      "start": 2027.58,
+      "duration": 6.400000000000091
+    },
+    {
+      "text": "old ones are irrelevant. And therefore there's a bridge. And the demand and the pull forward",
+      "start": 2033.98,
+      "duration": 5.2000000000000455
+    },
+    {
+      "text": "that happens, meaning like why did everyone... At one point, San Francisco was the second most",
+      "start": 2039.18,
+      "duration": 6.879999999999882
+    },
+    {
+      "text": "populous city in the United States. Because everyone pulled forward to the frontier to",
+      "start": 2046.06,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "the gold rush that was happening during that small number of years when that happened.",
+      "start": 2051.18,
+      "duration": 3.3600000000001273
+    },
+    {
+      "text": "And so everyone got on the train and they all went out there because there's so much more",
+      "start": 2055.1,
+      "duration": 3.680000000000291
+    },
+    {
+      "text": "value to be realized if you're in San Francisco than if you're working in a factory",
+      "start": 2058.78,
+      "duration": 3.8399999999996908
+    },
+    {
+      "text": "on the East Coast. And so that is why everyone kind of jumped forward. San Francisco kind of,",
+      "start": 2062.62,
+      "duration": 5.680000000000291
+    },
+    {
+      "text": "I think, has historically been this really interesting sort of place where technology",
+      "start": 2068.3,
+      "duration": 4.480000000000018
+    },
+    {
+      "text": "takes leaps forward. So people do come out here a lot as we know, as we've all experienced many times.",
+      "start": 2072.78,
+      "duration": 4.0
+    },
+    {
+      "text": "The tourist season, we call it.",
+      "start": 2076.78,
+      "duration": 1.0399999999999636
+    },
+    {
+      "text": "Yeah.",
+      "start": 2077.82,
+      "duration": 0.7999999999997272
+    },
+    {
+      "text": "The boom and bust moments here in San Francisco, everyone rushes to the next kind of frontier,",
+      "start": 2078.62,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "the next wave. And that happens before the old wave gets recast and shut down. It's why we don't",
+      "start": 2084.06,
+      "duration": 7.2800000000002
+    },
+    {
+      "text": "see rising unemployment because there's so much new stuff happening so quickly that it is happening",
+      "start": 2091.42,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "before... Because it's such a more attractive way to put time and money and people and dollars",
+      "start": 2097.5,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "is in the new stuff before you go and try and reinvent the old stuff. I'd rather",
+      "start": 2102.14,
+      "duration": 4.0
+    },
+    {
+      "text": "go and invent a cure to cancer and go after a trillion dollar market to put a capitalist hat",
+      "start": 2106.94,
+      "duration": 4.799999999999727
+    },
+    {
+      "text": "on this thing at the same time than to go and figure out how to optimize the supply chain of",
+      "start": 2111.74,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "some manufacturing business at a factory in the East Coast. And as a result, there's much more",
+      "start": 2116.54,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "demand for jobs, for capital in that new frontier than there is a loss of jobs in the old world.",
+      "start": 2121.74,
+      "duration": 8.080000000000382
+    },
+    {
+      "text": "And so I think we've got it all pretty wrong or the media has this narrative quite wrong.",
+      "start": 2129.82,
+      "duration": 4.7199999999998
+    },
+    {
+      "text": "And I think that's why we haven't seen the job apocalypse. It's why we don't see everyone",
+      "start": 2134.54,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "rushing for UBI. Now, there is still a K-shaped economy problem in the sense that not everyone",
+      "start": 2138.46,
+      "duration": 5.360000000000127
+    },
+    {
+      "text": "is coming along and benefiting and riding that frontier wave. And that is a more fundamental",
+      "start": 2143.82,
+      "duration": 5.679999999999836
+    },
+    {
+      "text": "disjointedness that's happening in this moment that may actually prevent that frontier from",
+      "start": 2149.5,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "emerging because of the negative backlash associated with what's happening. Because people",
+      "start": 2154.62,
+      "duration": 6.160000000000309
+    },
+    {
+      "text": "see that frontier happening, they're not participating, they're not a part of it,",
+      "start": 2160.78,
+      "duration": 3.599999999999909
+    },
+    {
+      "text": "they're not in it. And so... And the backlash is such a...",
+      "start": 2164.38,
+      "duration": 3.8399999999996908
+    },
+    {
+      "text": "You want me to build on this? I mean, to everyone's view, it's just,",
+      "start": 2168.86,
+      "duration": 2.7199999999998
+    },
+    {
+      "text": "I'd rather see it shut down if I'm not in it.",
+      "start": 2171.58,
+      "duration": 2.400000000000091
+    },
+    {
+      "text": "All right. I want to go to the backlash here, Chamath. We have two backlashes now,",
+      "start": 2173.98,
+      "duration": 4.7199999999998
+    },
+    {
+      "text": "both from inside of both, both emerging from the two political parties we're stuck with here in",
+      "start": 2179.26,
+      "duration": 5.919999999999618
+    },
+    {
+      "text": "America. On the left, we talked about anti-data center, which I think will soon be anti-self",
+      "start": 2185.18,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "driving and anti-capitalism, wealth tax, you put that all in one bucket. Now on the right,",
+      "start": 2190.14,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "we're having... And obviously, they have concerns, America First, on jobs and immigration.",
+      "start": 2195.18,
+      "duration": 5.680000000000291
+    },
+    {
+      "text": "But here's a new one. White House is reportedly discussing a new open source disclosure rule.",
+      "start": 2200.86,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "To name and shame, people using open source models. According to Reuters, companies could",
+      "start": 2205.9,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "soon be forced to disclose on their websites if they're using Chinese open source AI models.",
+      "start": 2211.42,
+      "duration": 5.679999999999836
+    },
+    {
+      "text": "No indication of how that would occur. Who's driving it? Apparently, Treasury Department Bessent,",
+      "start": 2217.1,
+      "duration": 6.400000000000091
+    },
+    {
+      "text": "who it seems is emerging as the leader of the China Hawk Group. This is all happening in real",
+      "start": 2223.5,
+      "duration": 8.159999999999854
+    },
+    {
+      "text": "time, this civil war inside the White House. And then you have the White House OSTP,",
+      "start": 2231.66,
+      "duration": 5.760000000000218
+    },
+    {
+      "text": "Michael Krastios, who I think you interviewed, yeah, Freiburg. I don't know if you did it with",
+      "start": 2237.42,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "Chamath. Reuters also reports that more people in DC are now calling for a tougher stance on China,",
+      "start": 2241.82,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "giving the China Hawks much more influence. Obviously, on the other side, you got",
+      "start": 2247.58,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "a Lutnik and Trump himself. This year, Airbnb, DoorDash, and Cursor have all received letters",
+      "start": 2251.66,
+      "duration": 6.880000000000109
+    },
+    {
+      "text": "from members of the House Select Committee on China. Because of their use of open models,",
+      "start": 2258.54,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "Airbnb is saying, yeah, we use some open source models for our customer support.",
+      "start": 2264.46,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "Breaking news, Chamath, I also am using MacBook Pro, so I don't know if this podcast needs to",
+      "start": 2270.46,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "have a label on it that we're producing it with Chinese hardware.",
+      "start": 2275.9,
+      "duration": 2.880000000000109
+    },
+    {
+      "text": "Nothing has been decided in this, but it does seem like a wider crackdown. What are your thoughts on",
+      "start": 2279.34,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "why now? Why now? Why is this leaking now? Jensen being ousted,",
+      "start": 2285.1,
+      "duration": 6.320000000000164
+    },
+    {
+      "text": "Anthropic going public, the D-cell movement. Is this all coordinated, or is it all just a very",
+      "start": 2291.42,
+      "duration": 7.599999999999909
+    },
+    {
+      "text": "interesting amount of timing? Can I answer your first question, which is? Sure. What will it do",
+      "start": 2299.02,
+      "duration": 6.320000000000164
+    },
+    {
+      "text": "if you put a disclaimer on your website that you use an open source model? Nothing. It'll mean that",
+      "start": 2305.34,
+      "duration": 5.359999999999673
+    },
+    {
+      "text": "you're not retarded. So it's the not retarded logo. Got it. Think about what the market wants.",
+      "start": 2310.7,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "What does the market want? The market wants you to be smart. It wants you to be budget friendly.",
+      "start": 2316.38,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "It wants you to be ROI oriented. It wants you to own your own technology. It does not want you",
+      "start": 2321.9,
+      "duration": 7.039999999999964
+    },
+    {
+      "text": "to leak your alpha. AI sovereignty is what we bundled that under here on the podcast.",
+      "start": 2329.02,
+      "duration": 6.2400000000002365
+    },
+    {
+      "text": "That's what they want. Otherwise, why would they want to own your stock? Because what is the",
+      "start": 2335.26,
+      "duration": 3.7599999999997635
+    },
+    {
+      "text": "alternative for you to say, I don't really care about cost. I'll just take whatever model is",
+      "start": 2339.02,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "available to me. I'll feed them all the traces and spans. They may learn how to compete against",
+      "start": 2344.06,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "me by me using their own product. They tell me they're not going to do it because of",
+      "start": 2348.86,
+      "duration": 3.7599999999997635
+    },
+    {
+      "text": "zero data retention policies. I trust them. It is what it is. The market will think you're an",
+      "start": 2353.5,
+      "duration": 5.2800000000002
+    },
+    {
+      "text": "idiot. And why will they think you're an idiot? Because you would actually be an idiot.",
+      "start": 2358.78,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "You would demonstrate that you have such a lack of technical awareness that there is nobody even",
+      "start": 2364.06,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "half technical on your team, that you have an inability to even recruit a consultant to help",
+      "start": 2369.18,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "you explain what happens. Call Alex Karp. He'll send all kinds of FTEs, brilliant engineers to",
+      "start": 2373.98,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "tell you what the risks are. And then you can make a decision. So if the decision is",
+      "start": 2379.42,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "disclaim a thing that nobody's going to see on your website or go out of business,",
+      "start": 2384.3,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "I would disclaim the thing, not go out of business.",
+      "start": 2389.58,
+      "duration": 3.119999999999891
+    },
+    {
+      "text": "You could do a paratrain, one of your favorite things of the companies that are smart and dumb.",
+      "start": 2392.7,
+      "duration": 4.0
+    },
+    {
+      "text": "So maybe what this actually says is, do the disclaimer. Who cares? What it really speaks to",
+      "start": 2396.7,
+      "duration": 5.680000000000291
+    },
+    {
+      "text": "is, I think Washington needs some extremely technical people on the inside that explains",
+      "start": 2402.38,
+      "duration": 7.839999999999691
+    },
+    {
+      "text": "the actual technical implications of some of these things. I think that the thing that was",
+      "start": 2410.22,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "floated there was a trial balloon. And I think if you go through the series of explanations of what",
+      "start": 2415.18,
+      "duration": 6.480000000000018
+    },
+    {
+      "text": "it means and doesn't mean to use this stuff, you would come to the conclusion, well,",
+      "start": 2421.66,
+      "duration": 3.1200000000003456
+    },
+    {
+      "text": "wait a minute, to not say that you'd be using cheaper open source alternatives to retain your",
+      "start": 2424.78,
+      "duration": 4.799999999999727
+    },
+    {
+      "text": "edge is more destructive to American companies. Is that what we actually want? The opposite",
+      "start": 2429.58,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "disclaimer or that you don't use a model at all. So I just think like these things aren't",
+      "start": 2435.1,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "well understood.",
+      "start": 2441.26,
+      "duration": 0.8799999999996544
+    },
+    {
+      "text": "Friedberg, if you look at open sources, this shows a fundamental misunderstanding of how open",
+      "start": 2442.14,
+      "duration": 5.200000000000273
+    },
+    {
+      "text": "source works. You're not buying it from the Chinese. It's on GitHub. It's on a website.",
+      "start": 2447.34,
+      "duration": 4.480000000000018
+    },
+    {
+      "text": "You take it, you fork it, you put it on your own servers, you use it, you control it.",
+      "start": 2451.82,
+      "duration": 3.7599999999997635
+    },
+    {
+      "text": "There's no back doors. And if there were, you would immediately have",
+      "start": 2455.58,
+      "duration": 3.200000000000273
+    },
+    {
+      "text": "a thousand AIs pointing at the back door in it. It's kind of ridiculous. If it was, hey,",
+      "start": 2458.78,
+      "duration": 4.7199999999998
+    },
+    {
+      "text": "I'm using Huawei technology, yeah, perhaps you could say, hey, this person's using something,",
+      "start": 2463.5,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "you know, it's hardware based. But what were your thoughts on this very strange",
+      "start": 2468.86,
+      "duration": 3.519999999999982
+    },
+    {
+      "text": "leak and why it's leaking now and why it's floated and why they're sending this to Airbnb?",
+      "start": 2473.42,
+      "duration": 4.480000000000018
+    },
+    {
+      "text": "This seems like complete utter incompetence on whoever created this concept.",
+      "start": 2477.9,
+      "duration": 4.1599999999998545
+    },
+    {
+      "text": "What did they send to Airbnb?",
+      "start": 2482.94,
+      "duration": 1.5199999999999818
+    },
+    {
+      "text": "Earlier in the year, they sent a letter. It's coming out now in this Reuters report",
+      "start": 2484.46,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "that this letter was sent. DoorDash got one and Cursor got one. So these are letters from",
+      "start": 2488.38,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "the House Select Committee on China for American companies using open source models",
+      "start": 2493.02,
+      "duration": 6.7199999999998
+    },
+    {
+      "text": "that originate in China. I would think DeepSeek and GLM52, you know, et cetera.",
+      "start": 2499.74,
+      "duration": 5.8400000000001455
+    },
+    {
+      "text": "Yeah, I think this continues to be the path of tyranny. And any effort to try and curb",
+      "start": 2506.78,
+      "duration": 7.279999999999745
+    },
+    {
+      "text": "open source, restrict open source, label open source, and give the government the tools to",
+      "start": 2514.06,
+      "duration": 6.960000000000036
+    },
+    {
+      "text": "create effectively regulated monopolies through the anti open source efforts that are being",
+      "start": 2521.02,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "undertaken, I think is going to both limit human prosperity, limit individual liberty,",
+      "start": 2526.62,
+      "duration": 7.519999999999982
+    },
+    {
+      "text": "create an Orwellian state, and I think fundamentally violates freedoms of speech.",
+      "start": 2534.94,
+      "duration": 6.639999999999873
+    },
+    {
+      "text": "And I don't think that the origin of open source software should matter. Some people might",
+      "start": 2542.22,
+      "duration": 7.2800000000002
+    },
+    {
+      "text": "disagree, but when you download open weight open source model from a repository, which means",
+      "start": 2549.5,
+      "duration": 9.199999999999818
+    },
+    {
+      "text": "a website where these things are stored and anyone can get a copy of them, you can then use",
+      "start": 2558.7,
+      "duration": 6.080000000000382
+    },
+    {
+      "text": "it on your own server, your own computer, run it in the background, you can rewrite it,",
+      "start": 2564.78,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "you can reuse it. And this was the basis of the Apache Foundation's tool that created open source",
+      "start": 2569.98,
+      "duration": 9.039999999999964
+    },
+    {
+      "text": "servers that allowed us to have the open internet, the open browsers with the Mozilla",
+      "start": 2579.02,
+      "duration": 4.320000000000164
+    },
+    {
+      "text": "Foundation and Firefox, so that Netscape and Microsoft couldn't restrict people's access to",
+      "start": 2583.34,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "the internet. And we had an open source free version that people then ended up making many",
+      "start": 2588.3,
+      "duration": 4.0
+    },
+    {
+      "text": "different forks or many different versions of. And what Google did with Android, where they created",
+      "start": 2592.3,
+      "duration": 4.7199999999998
+    },
+    {
+      "text": "open source operating software for mobile phones, and found hardware companies that would make it",
+      "start": 2597.02,
+      "duration": 6.960000000000036
+    },
+    {
+      "text": "the de facto installed software, so that 70% of phones in the world today have unfettered access",
+      "start": 2603.98,
+      "duration": 7.360000000000127
+    },
+    {
+      "text": "to the internet. Whereas before with closed source software, the companies were going to",
+      "start": 2611.34,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "try and control what apps you could put on your phone, what websites you could access,",
+      "start": 2616.78,
+      "duration": 3.7599999999997635
+    },
+    {
+      "text": "everything was monitored, everything was controlled. We're now facing the same",
+      "start": 2620.54,
+      "duration": 4.0
+    },
+    {
+      "text": "decision point in open source AI as we did with all of those other prior technologies,",
+      "start": 2624.54,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "and open source needs to be allowed, and frankly encouraged to proliferate because the absence of",
+      "start": 2629.5,
+      "duration": 5.360000000000127
+    },
+    {
+      "text": "that means that you're going to have tyrannical groups. Ultimately, they become tyrannical,",
+      "start": 2634.86,
+      "duration": 5.839999999999691
+    },
+    {
+      "text": "they don't intend to be tyrannical. But every group that has the power to control what people",
+      "start": 2640.7,
+      "duration": 6.880000000000109
+    },
+    {
+      "text": "see, what they're allowed to do, what they're allowed to access, how they're allowed to use",
+      "start": 2647.58,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "things, what those specific weights are on quote unquote facts of history, unquote unquote proven",
+      "start": 2652.62,
+      "duration": 6.559999999999945
+    },
+    {
+      "text": "science, unquote unquote the truth. That is where people become tyrannical because they",
+      "start": 2659.18,
+      "duration": 5.600000000000364
+    },
+    {
+      "text": "have an opinion where they think they're right. And if they have the power, they will act on",
+      "start": 2664.78,
+      "duration": 3.919999999999618
+    },
+    {
+      "text": "that opinion. And it will ultimately give them tyrannical force over a broader population.",
+      "start": 2668.7,
+      "duration": 7.2800000000002
+    },
+    {
+      "text": "That's what will happen if we limit the proliferation of open source software in AI.",
+      "start": 2675.98,
+      "duration": 5.679999999999836
+    },
+    {
+      "text": "And I've said it before, I'll say it again, ultimately, you can regulate, you can restrict,",
+      "start": 2682.22,
+      "duration": 4.080000000000382
+    },
+    {
+      "text": "you can control, you can litigate, you can criminally penalize people for the outputs of",
+      "start": 2686.3,
+      "duration": 6.480000000000018
+    },
+    {
+      "text": "what they use software to do. But to limit software to label software to make it a point",
+      "start": 2692.78,
+      "duration": 6.7199999999998
+    },
+    {
+      "text": "of restriction and control creates a regulated monopoly for the closed source products that",
+      "start": 2699.5,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "are out there, that ultimately, if aligned with certain government agencies, gives those government",
+      "start": 2704.62,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "agencies and those individual corporations power and control over you, the individual, what you're",
+      "start": 2709.42,
+      "duration": 4.799999999999727
+    },
+    {
+      "text": "allowed to do, what you're not allowed to do in every business on earth, no longer operates freely,",
+      "start": 2714.22,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "none of us should want that I don't care what your political affiliation is, would you support",
+      "start": 2719.18,
+      "duration": 3.7600000000002183
+    },
+    {
+      "text": "a bunch of these cash rich public companies now, standing up a bunch of open source model",
+      "start": 2723.9,
+      "duration": 6.319999999999709
+    },
+    {
+      "text": "initiatives inside of their companies would you have to do that 100% Yeah, yeah, it's great.",
+      "start": 2730.22,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "And so meta should I think it's the play for meta, you know, I know that is already doing",
+      "start": 2735.02,
+      "duration": 3.6799999999998363
+    },
+    {
+      "text": "it, Google's already doing it, but they're not doing it with frontier.",
+      "start": 2738.78,
+      "duration": 2.480000000000018
+    },
+    {
+      "text": "Metas open source models are nerfed. They've been nerfed for a while. They're not they're not good.",
+      "start": 2743.5,
+      "duration": 3.519999999999982
+    },
+    {
+      "text": "And by the way, I think that one point to note the idea that you can quote label something",
+      "start": 2747.02,
+      "duration": 4.1599999999998545
+    },
+    {
+      "text": "Chinese. So in an internet that's anonymous, where people can post on hugging face a new",
+      "start": 2751.18,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "open source model, the origin of that model may not need to be defined. So someone could",
+      "start": 2755.74,
+      "duration": 6.5600000000004
+    },
+    {
+      "text": "just post a new model on hugging face. We all see it. It's the best open source model ever.",
+      "start": 2762.3,
+      "duration": 5.919999999999618
+    },
+    {
+      "text": "And it doesn't say what quote country it comes from. It was trained somewhere, it was built",
+      "start": 2768.78,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "somewhere, some set of engineers wrote this thing posted it and now it's available to the world.",
+      "start": 2773.9,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "What do you do? How do you classify that? Why does the country of origin matter as much when",
+      "start": 2779.34,
+      "duration": 4.7199999999998
+    },
+    {
+      "text": "it comes to open weight open source when anyone, because it's open weight open source nature of",
+      "start": 2784.06,
+      "duration": 4.480000000000018
+    },
+    {
+      "text": "it, you can go in and you can go in and you can see there's no there's no a runtime",
+      "start": 2788.54,
+      "duration": 10.0
+    },
+    {
+      "text": "software in there just to be really clear about this open source open weight is not",
+      "start": 2798.62,
+      "duration": 3.7600000000002183
+    },
+    {
+      "text": "a runtime application. You don't download it and run it on your computer. You have to have an",
+      "start": 2802.38,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "environment in which you're running those open source open weights against so this isn't some",
+      "start": 2807.98,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "like there's some hidden tricks or tools inside of that software that can screw your computer over",
+      "start": 2813.02,
+      "duration": 5.8400000000001455
+    },
+    {
+      "text": "and hack you and take over. That's not the way this works. Technologically, people I think are",
+      "start": 2818.86,
+      "duration": 4.0
+    },
+    {
+      "text": "deficient in that understanding. And then they're trying to make rules and regs around like, well,",
+      "start": 2822.86,
+      "duration": 4.239999999999782
+    },
+    {
+      "text": "you don't know what the Chinese are doing. It's like, well, actually, we do. We fundamentally can see",
+      "start": 2827.18,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "in an open source open rate model, you see everything. It is not an executable. It is",
+      "start": 2832.06,
+      "duration": 7.200000000000273
+    },
+    {
+      "text": "a set of data. It is a piece of data, a chunk of data, a CSV file with a bunch of stuff in it.",
+      "start": 2839.26,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "That's all it is. And you're deciding how you will then take that data and you will use it in",
+      "start": 2844.38,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "making your own applications and your own software. And you as a builder of software can",
+      "start": 2849.58,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "decide how you're going to use that. So in fact, this misunderstanding where people say, well, we",
+      "start": 2854.7,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "don't really know is incorrect. We do know. And you can look and you can adjudicate and you can",
+      "start": 2859.1,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "audit and you can test and you can do all the things you want to do for safety and security",
+      "start": 2863.74,
+      "duration": 3.680000000000291
+    },
+    {
+      "text": "screening. In fact, everyone faces liability if they don't. Because if you then take something",
+      "start": 2867.42,
+      "duration": 4.799999999999727
+    },
+    {
+      "text": "that does something that doesn't work, your product is going to suck, you're going to",
+      "start": 2872.22,
+      "duration": 3.680000000000291
+    },
+    {
+      "text": "break the law, there's all sorts of bad things that could happen. It's your job to adjudicate",
+      "start": 2875.9,
+      "duration": 3.519999999999982
+    },
+    {
+      "text": "whether the open source software does its job. That's your job. And that's the way open source",
+      "start": 2879.42,
+      "duration": 4.480000000000018
+    },
+    {
+      "text": "works. So to have the government come in and suddenly try and create their genius patch,",
+      "start": 2883.9,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "their band-aid idea of telling people to label stuff and not label stuff is as",
+      "start": 2888.3,
+      "duration": 4.879999999999654
+    },
+    {
+      "text": "idiotic as I would expect it to be given the lack of engineering competence in the United",
+      "start": 2893.18,
+      "duration": 4.0
+    },
+    {
+      "text": "States Congress. And that's not political, by the way, that's just fact.",
+      "start": 2897.18,
+      "duration": 3.0399999999999636
+    },
+    {
+      "text": "Well, I mean, there is something political going on here, Chamath. If you look at when Jensen was",
+      "start": 2900.22,
+      "duration": 5.360000000000127
+    },
+    {
+      "text": "on or we were at Jensen's conference, and you look at the discussion we had, and we were talking",
+      "start": 2905.58,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "about NemoTron, and then he started buying some open source assets, we now have emerging",
+      "start": 2911.66,
+      "duration": 7.200000000000273
+    },
+    {
+      "text": "a series of events of the Chinese hawks, and maybe the open source pro open source movement.",
+      "start": 2918.86,
+      "duration": 8.0
+    },
+    {
+      "text": "All of this is happening in the same time period. There are no coincidences, as I think",
+      "start": 2926.86,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "a rubric many of us go by, I certainly do. I don't believe this is all a bunch of random",
+      "start": 2932.94,
+      "duration": 5.679999999999836
+    },
+    {
+      "text": "coincidences. It's pretty clear Jensen was going to become the open source champion.",
+      "start": 2938.62,
+      "duration": 6.400000000000091
+    },
+    {
+      "text": "His model, as you mentioned, conglomerates from, you know, dirt to the application layer and beyond.",
+      "start": 2945.02,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "He was building that. He was building that. He was suddenly deposed. Then you have this,",
+      "start": 2950.46,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "we're going to name and shame Airbnb and DoorDash for using open source. Okay,",
+      "start": 2955.34,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "that's happening at the same time. And Ant is going public at the same time.",
+      "start": 2961.26,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "It feels like there is a giant civil war going on and a global conflict over open source versus",
+      "start": 2965.34,
+      "duration": 6.960000000000036
+    },
+    {
+      "text": "frontier models. And who is the champion for them?",
+      "start": 2972.86,
+      "duration": 3.519999999999982
+    },
+    {
+      "text": "I don't think it's that nuanced. I think it's more about power. And I think it's about control. And I",
+      "start": 2976.38,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "think it's about ideology. Okay, unpack. Yeah, I think the ideology is whether you believe that",
+      "start": 2980.94,
+      "duration": 5.7599999999997635
+    },
+    {
+      "text": "this advantages the Chinese or not. And I think that there's a strong case to be made that it",
+      "start": 2986.7,
+      "duration": 6.320000000000164
+    },
+    {
+      "text": "does, but there's a strong case to be made that it doesn't. And I think depending on how ideologically",
+      "start": 2993.02,
+      "duration": 4.7199999999998
+    },
+    {
+      "text": "grounded you are in neoconservatism, you will bend in one way or the other.",
+      "start": 2998.3,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "I think the reality is that there are things that, in hindsight, again, hindsight is 2020,",
+      "start": 3004.3,
+      "duration": 7.119999999999891
+    },
+    {
+      "text": "that could have been done to create escape velocity for open source. It's really a shame",
+      "start": 3012.86,
+      "duration": 6.799999999999727
+    },
+    {
+      "text": "when you look back on it. With all the money that the domestic American companies have,",
+      "start": 3020.62,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "why did we not find a way to spend some of that money to get real escape velocity for a true",
+      "start": 3026.78,
+      "duration": 5.919999999999618
+    },
+    {
+      "text": "American open source alternative? I think that's an important question worth asking. Why are the",
+      "start": 3032.7,
+      "duration": 6.160000000000309
+    },
+    {
+      "text": "only open source alternatives Chinese that are any good? Why?",
+      "start": 3038.86,
+      "duration": 3.599999999999909
+    },
+    {
+      "text": "I think it might be if you look at the talent, the talent had two really good options. And in",
+      "start": 3042.46,
+      "duration": 7.119999999999891
+    },
+    {
+      "text": "third and fourth, work on proprietary models and make hundreds of millions of dollars or billions",
+      "start": 3049.9,
+      "duration": 6.0
+    },
+    {
+      "text": "of dollars personally for that talent. So the talent went to open AI, they left Google, which",
+      "start": 3055.9,
+      "duration": 5.279999999999745
+    },
+    {
+      "text": "was not paying attention to AI, maybe to the extent they should have. And then you have these",
+      "start": 3061.18,
+      "duration": 5.120000000000346
+    },
+    {
+      "text": "two major money grabs opportunity and all the talent flow to them and then obviously to X.",
+      "start": 3066.3,
+      "duration": 5.7599999999997635
+    },
+    {
+      "text": "But that's not true. That's not true, because there are some really talented people at meta.",
+      "start": 3072.06,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "There's some really talented people at Google. There's some really talented people in a video.",
+      "start": 3075.98,
+      "duration": 4.239999999999782
+    },
+    {
+      "text": "The question is, why couldn't we spend 50 or 100 billion dollars of the trillion dollars of cash",
+      "start": 3080.22,
+      "duration": 4.080000000000382
+    },
+    {
+      "text": "that we've spent? Tragedy not had a really good alternative. Friedberg, why?",
+      "start": 3084.3,
+      "duration": 4.879999999999654
+    },
+    {
+      "text": "Too much money to be made in the frontier models. It was the incentive. Show me the",
+      "start": 3089.18,
+      "duration": 4.320000000000164
+    },
+    {
+      "text": "incentive. I'll show you the outcome. It's not just money to be made, it's capital to be",
+      "start": 3093.5,
+      "duration": 3.6799999999998363
+    },
+    {
+      "text": "raised. I think it was a lot easier over the last couple of years to raise capital as a private",
+      "start": 3097.18,
+      "duration": 5.760000000000218
+    },
+    {
+      "text": "frontier model company than go out and say, I'm going to build an open source AI company.",
+      "start": 3102.94,
+      "duration": 6.1599999999998545
+    },
+    {
+      "text": "You're not going to be able to attract. So when you're like, hey, I'm going to build a model,",
+      "start": 3109.1,
+      "duration": 3.2800000000002
+    },
+    {
+      "text": "you want to be a frontier lab, you get a bunch of great geniuses together and you're like,",
+      "start": 3112.38,
+      "duration": 3.119999999999891
+    },
+    {
+      "text": "let's go build a new frontier lab. Your two business plans are open source. How are we",
+      "start": 3115.5,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "going to make money? I don't know. We'll figure it out later. For the good of humanity? I don't",
+      "start": 3120.3,
+      "duration": 3.519999999999982
+    },
+    {
+      "text": "know. Or closed source and we'll make money on the standard business model. The venture money...",
+      "start": 3123.82,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "You're saying the VC's perverted the incentives.",
+      "start": 3129.9,
+      "duration": 2.2399999999997817
+    },
+    {
+      "text": "Yeah, capitalists in general. So capitalists in general created the system where you could",
+      "start": 3132.14,
+      "duration": 4.480000000000018
+    },
+    {
+      "text": "plow lots of money. Whereas for the Chinese, it's actually a very different game theory.",
+      "start": 3136.62,
+      "duration": 4.0
+    },
+    {
+      "text": "Because for the Chinese, it's how do we disrupt American capitalism? How do we disrupt the",
+      "start": 3140.62,
+      "duration": 4.720000000000255
+    },
+    {
+      "text": "American AI ecosystem? How do we create an alternative to closed source where America",
+      "start": 3145.34,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "controls the world? Blah, blah, blah. So for the Chinese, it's very rational for them to",
+      "start": 3150.78,
+      "duration": 3.7599999999997635
+    },
+    {
+      "text": "proliferate open-wave model. Wait, hold on a second. But why isn't that the same game theory",
+      "start": 3154.54,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "if you're Nvidia or Facebook or Amazon in the sense that you're a little behind?",
+      "start": 3159.82,
+      "duration": 7.519999999999982
+    },
+    {
+      "text": "I think you're exactly right. And I think we've been on the precipice of that being the case.",
+      "start": 3167.34,
+      "duration": 3.0399999999999636
+    },
+    {
+      "text": "And I think it all got blown up in the last week.",
+      "start": 3170.38,
+      "duration": 1.9200000000000728
+    },
+    {
+      "text": "Yeah, that's why Nvidia bought all of these open source resources. So that actually tracks",
+      "start": 3172.3,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "with your original theory. When you're behind...",
+      "start": 3176.38,
+      "duration": 2.400000000000091
+    },
+    {
+      "text": "I think these guys were all about... I think everyone's been on the right.",
+      "start": 3178.78,
+      "duration": 2.2399999999997817
+    },
+    {
+      "text": "When you're behind, you go open source to try to kill the existing codified solution.",
+      "start": 3181.02,
+      "duration": 7.2800000000002
+    },
+    {
+      "text": "That's what Android did to iOS. And now that's what Nvidia was doing. They literally",
+      "start": 3188.3,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "bought all those open source products. But none of those things were about models",
+      "start": 3192.86,
+      "duration": 3.519999999999982
+    },
+    {
+      "text": "themselves. They're about hosting models. That's all fine and good. But you could have given more",
+      "start": 3196.38,
+      "duration": 3.119999999999891
+    },
+    {
+      "text": "compute to NemoTron. Which he was doing. He was starting that process.",
+      "start": 3199.5,
+      "duration": 3.4400000000000546
+    },
+    {
+      "text": "If you look at the checkpoints on NemoTron, they're unfortunately behind. So for whatever",
+      "start": 3202.94,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "reason, whether it was compute constrained or talent constrained, the models are good,",
+      "start": 3207.02,
+      "duration": 3.519999999999982
+    },
+    {
+      "text": "but they're not great. And the GLM models and the other Chinese variants are better than good,",
+      "start": 3210.54,
+      "duration": 6.559999999999945
+    },
+    {
+      "text": "also still not great. And obviously the frontier ones are great. My question is,",
+      "start": 3217.1,
+      "duration": 4.0
+    },
+    {
+      "text": "that boundary condition that both of you just talked about was true a year ago. It was true",
+      "start": 3221.1,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "a year before that. Why wasn't the money spent then? Why didn't we score it? If we, meaning...",
+      "start": 3225.98,
+      "duration": 5.8400000000001455
+    },
+    {
+      "text": "There was too much money to be made with... There's just been too much capital. Look,",
+      "start": 3231.82,
+      "duration": 3.4400000000000546
+    },
+    {
+      "text": "I mean, look what happened today. Today, the largest fundraising human history just took place.",
+      "start": 3235.26,
+      "duration": 5.279999999999745
+    },
+    {
+      "text": "Anthropic in a day raised $85 million. No, I know. I know for a private company.",
+      "start": 3240.54,
+      "duration": 4.0
+    },
+    {
+      "text": "Follow the money. If I was running AI at Meta, I would say, you know what I'm going to do?",
+      "start": 3244.94,
+      "duration": 4.799999999999727
+    },
+    {
+      "text": "I'm going to scorch the earth right now. Two years ago, I would have said this.",
+      "start": 3249.74,
+      "duration": 3.3600000000001273
+    },
+    {
+      "text": "If I'm going to spend a billion dollars on Androtaluk and...",
+      "start": 3253.1,
+      "duration": 2.3200000000001637
+    },
+    {
+      "text": "I think they did, dude. Yeah, they tried. They tried.",
+      "start": 3255.42,
+      "duration": 2.5599999999999454
+    },
+    {
+      "text": "I think you're right. And I think they did. And I think that they just didn't get there.",
+      "start": 3257.98,
+      "duration": 3.599999999999909
+    },
+    {
+      "text": "Right. And in the process... It's just in the process.",
+      "start": 3261.58,
+      "duration": 2.3200000000001637
+    },
+    {
+      "text": "That they just... The models suck?",
+      "start": 3263.9,
+      "duration": 1.9200000000000728
+    },
+    {
+      "text": "Well, no, they're getting there. It takes time. They're two years behind.",
+      "start": 3265.82,
+      "duration": 3.6799999999998363
+    },
+    {
+      "text": "You're explaining the theory perfectly, but not getting to the conclusion. Yes,",
+      "start": 3269.5,
+      "duration": 3.4400000000000546
+    },
+    {
+      "text": "people realized they were behind and there was an opportunity there. And then Jensen bought.",
+      "start": 3272.94,
+      "duration": 3.7599999999997635
+    },
+    {
+      "text": "And this might have been his downfall. He bought Hugging Face and he bought Poolside.",
+      "start": 3277.66,
+      "duration": 3.7600000000002183
+    },
+    {
+      "text": "He spent $20 billion on those two companies. So he said, yes, we're going to triple down on this.",
+      "start": 3281.42,
+      "duration": 6.1599999999998545
+    },
+    {
+      "text": "And Meta and Zuck said, yes, we're going to do it as well. And then you said they were nerfed.",
+      "start": 3287.58,
+      "duration": 3.599999999999909
+    },
+    {
+      "text": "Yeah, okay. So they didn't get it done, but the intentionality was there and it's in process.",
+      "start": 3291.18,
+      "duration": 5.120000000000346
+    },
+    {
+      "text": "And I believe that's at the core of why Jensen was...",
+      "start": 3296.3,
+      "duration": 2.480000000000018
+    },
+    {
+      "text": "Do you have a different theory, some of?",
+      "start": 3298.78,
+      "duration": 1.4399999999995998
+    },
+    {
+      "text": "I kind of have a working version of it.",
+      "start": 3300.22,
+      "duration": 3.600000000000364
+    },
+    {
+      "text": "Well, let's workshop it. Go ahead. That's why we're here. Workshop it.",
+      "start": 3303.82,
+      "duration": 2.6399999999998727
+    },
+    {
+      "text": "I...",
+      "start": 3306.46,
+      "duration": 0.7199999999997999
+    },
+    {
+      "text": "No mistakes here. No bad ideas.",
+      "start": 3307.18,
+      "duration": 1.9200000000000728
+    },
+    {
+      "text": "I'm really at a loss because if it were me, I would have stuck a... Again, hindsight's 20-20.",
+      "start": 3309.1,
+      "duration": 6.800000000000182
+    },
+    {
+      "text": "So this is where we did talk about this. But if I was an entrant at that scale with that",
+      "start": 3315.9,
+      "duration": 5.279999999999745
+    },
+    {
+      "text": "balance sheet two years ago and I was far behind, it made a lot of sense to commoditize",
+      "start": 3321.18,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "the model there. If you were a non-model native company, right? You make the money in the apps,",
+      "start": 3326.62,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "you make the money in the chips, you make the money in the LPS, you don't need to make money",
+      "start": 3331.74,
+      "duration": 3.5200000000004366
+    },
+    {
+      "text": "at the model. That seems obvious. So you pay a bunch of money and you try to spin a model,",
+      "start": 3335.26,
+      "duration": 8.239999999999782
+    },
+    {
+      "text": "and what do you learn? It's much, much harder than you think. And I guess I still struggle with,",
+      "start": 3343.5,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "isn't it just a money and a recruiting problem? Because what you guys are saying is,",
+      "start": 3349.42,
+      "duration": 3.7599999999997635
+    },
+    {
+      "text": "VC's created incentive to come and say, we're going to build a closed-front-tier model,",
+      "start": 3353.82,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "or we're going to build an app company, and you could raise lots of money. So I don't know.",
+      "start": 3359.34,
+      "duration": 4.799999999999727
+    },
+    {
+      "text": "I'm still like, the only theory I had was they took the eye off the ball and they just got",
+      "start": 3364.14,
+      "duration": 4.160000000000309
+    },
+    {
+      "text": "distracted with... Hold on, just let me finish. They just got distracted with all this other",
+      "start": 3368.3,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "bullsh**t. And it's like, just finish your breakfast.",
+      "start": 3373.34,
+      "duration": 2.480000000000018
+    },
+    {
+      "text": "You're correct, Dad. In hindsight, and if you were a great strategist, you were just carved out.",
+      "start": 3375.82,
+      "duration": 6.960000000000036
+    },
+    {
+      "text": "$25 billion and made an open source project at Microsoft, at Google, or Apple, whoever's behind,",
+      "start": 3383.66,
+      "duration": 6.400000000000091
+    },
+    {
+      "text": "Meta, and just make that your strategy for open source. I think two companies were exactly",
+      "start": 3390.06,
+      "duration": 6.720000000000255
+    },
+    {
+      "text": "pursuing that. Zuck and Jensen. Now, if you look, though, at the money and the incentives,",
+      "start": 3396.78,
+      "duration": 6.7199999999998
+    },
+    {
+      "text": "what is the average person, Friedberg, what is the average person going to work at OpenAI,",
+      "start": 3404.14,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "who's a computer scientist, or going to work at Anthropic? What is their pay package like?",
+      "start": 3409.66,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "These people got offered pay packages. I was talking to somebody whose kid out of school",
+      "start": 3414.54,
+      "duration": 3.7600000000002183
+    },
+    {
+      "text": "got offered $10 million a year in equity at Claude over four years. This is a really good",
+      "start": 3418.3,
+      "duration": 7.039999999999964
+    },
+    {
+      "text": "computer science undergraduate who got a $40 million package. This has never existed in the",
+      "start": 3425.34,
+      "duration": 6.480000000000018
+    },
+    {
+      "text": "history of our industry. And then remember that time when Zuck was trying to buy somebody for",
+      "start": 3431.82,
+      "duration": 5.839999999999691
+    },
+    {
+      "text": "a billion-dollar pay package? Remember he went crazy? And your talent came. Yeah, so they kind",
+      "start": 3437.66,
+      "duration": 5.200000000000273
+    },
+    {
+      "text": "of jumped the fence. In that environment, Friedberg is exactly right. How does an open source company",
+      "start": 3442.86,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "compete? They don't have the dollars, they don't have the market cap to buy all that talent.",
+      "start": 3447.26,
+      "duration": 4.1599999999998545
+    },
+    {
+      "text": "But I think now we're probably going to see",
+      "start": 3452.06,
+      "duration": 2.0
+    },
+    {
+      "text": "MuSpark, NemoTron, and then Reflections Beam. Those three are just behind Kimi, DeepSeek,",
+      "start": 3456.14,
+      "duration": 6.640000000000327
+    },
+    {
+      "text": "GLM53, and then you got this weird mist roll out in France, which is like interesting.",
+      "start": 3462.78,
+      "duration": 5.279999999999745
+    },
+    {
+      "text": "The French one is right between the three trailing US ones and the three leading Chinese ones.",
+      "start": 3468.06,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "We'll sit here in a year, and the US ones will be somewhere in between DeepSeek and Kimi.",
+      "start": 3472.86,
+      "duration": 5.7599999999997635
+    },
+    {
+      "text": "Let me give you a different theory. It could happen now, and it could happen now because",
+      "start": 3478.62,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "you're seeing almost this schism where these leading-edge folks are kind of splintering.",
+      "start": 3484.06,
+      "duration": 5.679999999999836
+    },
+    {
+      "text": "You guys saw that there was this thing written called misanthropic, right? Was that like a missive",
+      "start": 3489.74,
+      "duration": 6.080000000000382
+    },
+    {
+      "text": "with like a bunch of signatories? And it was a bunch of folks that are sort of like",
+      "start": 3495.82,
+      "duration": 4.319999999999709
+    },
+    {
+      "text": "EA people that had this schism. There could be a version of this where really smart folks now at",
+      "start": 3501.66,
+      "duration": 7.8400000000001455
+    },
+    {
+      "text": "these model companies who have made a lot of money now start to leave. And they're like,",
+      "start": 3509.5,
+      "duration": 6.480000000000018
+    },
+    {
+      "text": "you know, it's probably important to have some open source alternatives. And so maybe they go",
+      "start": 3515.98,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "and work on this stuff in a more nonprofit way, because they have that money, and they have this",
+      "start": 3520.06,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "predilection already to being a little bit less capitalist. So that could happen.",
+      "start": 3525.02,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "Yeah, I think it's a very interesting insight. And obviously, you might have many people in",
+      "start": 3529.98,
+      "duration": 7.360000000000127
+    },
+    {
+      "text": "the audience probably saw the New York Times story here that had Dostoy Moskovits' early",
+      "start": 3537.34,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "investments in anthropic and open AI, big profile in him being uneasy about all this stuff. And",
+      "start": 3542.46,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "I do think it's a non zero chance a lot of these people will get together and build the alternative",
+      "start": 3548.38,
+      "duration": 5.599999999999909
+    },
+    {
+      "text": "to what their proprietary models are putting out there. Let's end on Nvidia. They've shed $2",
+      "start": 3553.98,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "trillion in market cap in the last 30 days down 35%. Two weeks since Jensen got shivved,",
+      "start": 3559.5,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "it's down 20%. CFO and acting CEO Colette Kress didn't exactly inspire confidence during her first",
+      "start": 3565.42,
+      "duration": 7.279999999999745
+    },
+    {
+      "text": "earnings call. But the earnings call was extraordinary. Nvidia beat the top and bottom",
+      "start": 3572.7,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "line revenue and net profit both doubled. Yes, double. On already absurdly large numbers to",
+      "start": 3577.82,
+      "duration": 7.199999999999818
+    },
+    {
+      "text": "$116 billion and $65 billion respectively. Let that sink in $65 billion in profit. Most companies",
+      "start": 3585.02,
+      "duration": 8.0
+    },
+    {
+      "text": "trading on the stock market are not worth what Nvidia just made in profits this quarter.",
+      "start": 3593.02,
+      "duration": 4.7199999999998
+    },
+    {
+      "text": "Stock even after all that dropped. Internet's having a field day with this. Here's your viral",
+      "start": 3598.62,
+      "duration": 7.8400000000001455
+    },
+    {
+      "text": "moment of Kress on Mad Money with Jim Cramer. Jensen resigned from his position with Nvidia",
+      "start": 3606.46,
+      "duration": 8.0
+    },
+    {
+      "text": "and the board accepted his resignation. The board has determined that they will not reinstate",
+      "start": 3615.02,
+      "duration": 9.360000000000127
+    },
+    {
+      "text": "Jensen. And that is our statement and what the board has decided to do. Internet obviously",
+      "start": 3624.38,
+      "duration": 6.239999999999782
+    },
+    {
+      "text": "having a field day with this. Everybody is very pro Jensen, it seems, except for the board of",
+      "start": 3630.62,
+      "duration": 5.760000000000218
+    },
+    {
+      "text": "this company. And No More Splashy Cashy is one of the messages here. Cress said they're going to",
+      "start": 3636.38,
+      "duration": 6.799999999999727
+    },
+    {
+      "text": "be more disciplined and selective. Quote, more disciplined and selective on new Neo cloud",
+      "start": 3643.18,
+      "duration": 5.120000000000346
+    },
+    {
+      "text": "financing. Obviously Jensen loved to invest in startups and companies that were building the",
+      "start": 3648.3,
+      "duration": 6.7199999999998
+    },
+    {
+      "text": "future. So the bank of Jensen is closed. And she ended the H200 sales to China. H200 is obviously",
+      "start": 3655.02,
+      "duration": 6.800000000000182
+    },
+    {
+      "text": "more powerful version of the flagship. H100, Nvidia is allowed to sell H200s to China.",
+      "start": 3661.82,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "Commerce approved those for sale in January. I know this is all very complicated folks.",
+      "start": 3666.86,
+      "duration": 3.6799999999998363
+    },
+    {
+      "text": "But this is an elective move, according to the news. She's just saying, you know what,",
+      "start": 3671.5,
+      "duration": 4.1599999999998545
+    },
+    {
+      "text": "we don't want anything to do with this anymore. The most powerful GPUs, Ruben and Blackwell are",
+      "start": 3675.66,
+      "duration": 4.720000000000255
+    },
+    {
+      "text": "obviously banned from being sold. China and the board repeatedly is saying Jensen cannot come back.",
+      "start": 3680.38,
+      "duration": 5.359999999999673
+    },
+    {
+      "text": "Jensen said he would humbly like to come back. And there seems to be a group of people mounting",
+      "start": 3685.74,
+      "duration": 6.720000000000255
+    },
+    {
+      "text": "his comeback to a certain extent. We'll see. In related news, Nvidia is facing mounting legal",
+      "start": 3692.46,
+      "duration": 5.679999999999836
+    },
+    {
+      "text": "issues. You predicted this, Chamath, SEC probe, class action lawsuits. Both of those are focused",
+      "start": 3698.14,
+      "duration": 5.8400000000001455
+    },
+    {
+      "text": "on misleading statements, potentially, that were given to investors. DOJ is obviously continuing",
+      "start": 3703.98,
+      "duration": 7.8400000000001455
+    },
+    {
+      "text": "their investigation on the relationship with mega speed. The other big problem here is talent.",
+      "start": 3711.82,
+      "duration": 4.7199999999998
+    },
+    {
+      "text": "You got a bunch of employees signing petitions and Travis, no stranger, Travis Callen, a friend of",
+      "start": 3717.18,
+      "duration": 5.600000000000364
+    },
+    {
+      "text": "the pod. No stranger to getting ousted said the employees should do a walkout. Here's the clip",
+      "start": 3722.78,
+      "duration": 7.4399999999996
+    },
+    {
+      "text": "with other bestie, Antonio Gracias. A lot of leather jackets on that dais in support of",
+      "start": 3730.22,
+      "duration": 6.640000000000327
+    },
+    {
+      "text": "Jensen. The leather jacket protest continues. Now, I obviously experienced this. I went through",
+      "start": 3737.58,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "six months of ops before I went down. I held on as tight as I could, but eventually I just couldn't.",
+      "start": 3742.62,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "But any wisdom I can provide about that experience to Jensen or the team of people around him that",
+      "start": 3748.54,
+      "duration": 7.2800000000002
+    },
+    {
+      "text": "I think are ultimately going to lean in to fight to get him back because it matters so much,",
+      "start": 3755.82,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "that's what I'm bringing to the party. The appeal said, hey, is the petition, like, is that good?",
+      "start": 3762.54,
+      "duration": 3.519999999999982
+    },
+    {
+      "text": "I'm like, dude, I sent Jensen like the screenshot of the stories when there was a petition for me.",
+      "start": 3766.06,
+      "duration": 7.119999999999891
+    },
+    {
+      "text": "I'm like, petition good, walk out better. I didn't get a response. But I will show up",
+      "start": 3773.18,
+      "duration": 9.2800000000002
+    },
+    {
+      "text": "to NVIDIA HQ with a wafer encrusted megaphone with tons of NVIDIA employees who want to walk out,",
+      "start": 3783.1,
+      "duration": 8.480000000000018
+    },
+    {
+      "text": "tons of CEOs, founders who believe in what I just said, who are believers,",
+      "start": 3791.58,
+      "duration": 7.760000000000218
+    },
+    {
+      "text": "and don't want an AI overlord. And let's fight for what's right. And give it that shot.",
+      "start": 3799.34,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "You can't, we don't have control of the outcome. But let's fight.",
+      "start": 3804.54,
+      "duration": 4.320000000000164
+    },
+    {
+      "text": "There it is, the industry lining up behind Jensen. Leather jackets up for Jensen.",
+      "start": 3808.86,
+      "duration": 5.440000000000055
+    },
+    {
+      "text": "Jackets for Jensen. Next week, I expect everybody to show up in a leather jacket.",
+      "start": 3814.3,
+      "duration": 3.599999999999909
+    },
+    {
+      "text": "Your thoughts here, Chamath, on the NVIDIA situation and then we'll go to you, Friedberg.",
+      "start": 3818.94,
+      "duration": 3.7599999999997635
+    },
+    {
+      "text": "I think it's very complicated still to have a definitive opinion beyond the following. He was",
+      "start": 3824.3,
+      "duration": 5.7599999999997635
+    },
+    {
+      "text": "an exceptional, legendary founder and CEO. He built the most important company in the most important",
+      "start": 3830.06,
+      "duration": 7.760000000000218
+    },
+    {
+      "text": "industry in the world. He is biblically good. He also made a bunch of mistakes. The extent of",
+      "start": 3837.82,
+      "duration": 9.919999999999618
+    },
+    {
+      "text": "those are still not known. And the problem is that you can't reinstate somebody like that",
+      "start": 3847.74,
+      "duration": 6.320000000000164
+    },
+    {
+      "text": "into a public company with that much valuation that has been destroyed,",
+      "start": 3854.06,
+      "duration": 3.4400000000000546
+    },
+    {
+      "text": "because it just completely throws governance out the window and it puts everybody at risk,",
+      "start": 3858.14,
+      "duration": 4.0
+    },
+    {
+      "text": "everybody, including the company. So that's why it's not going to happen. And that's why they",
+      "start": 3862.14,
+      "duration": 4.2400000000002365
+    },
+    {
+      "text": "have to say that. And the unfortunate part is I think Collette is excellent. And she's put in",
+      "start": 3866.38,
+      "duration": 5.119999999999891
+    },
+    {
+      "text": "the awkward situation of having to be the message bearer of that. And so then you get the internet",
+      "start": 3871.5,
+      "duration": 4.7199999999998
+    },
+    {
+      "text": "trolls that run around and give her a hard time. And it's not her hard time. She's just a messenger.",
+      "start": 3876.22,
+      "duration": 4.080000000000382
+    },
+    {
+      "text": "He is exceptional. That company is exceptional, but they are in a very unique moment where you",
+      "start": 3881.74,
+      "duration": 4.480000000000018
+    },
+    {
+      "text": "cannot make any decision. I repeat, you can't make a decision until all of the congressional",
+      "start": 3886.22,
+      "duration": 6.400000000000091
+    },
+    {
+      "text": "hearings are done. I mean, I have to stress, these guys have to navigate three different",
+      "start": 3892.62,
+      "duration": 6.880000000000109
+    },
+    {
+      "text": "committees on December 1st and 2nd. The Select Committee, the House Intelligence Committee,",
+      "start": 3899.5,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "another committee. Do you think that that's easy? Does anybody think that what they're",
+      "start": 3904.06,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "going to be spending time with was the pillow talk? So everybody needs to just calm down.",
+      "start": 3908.7,
+      "duration": 4.480000000000018
+    },
+    {
+      "text": "He's going to be really focused for December the 1st. And hopefully what comes out of that",
+      "start": 3913.18,
+      "duration": 5.760000000000218
+    },
+    {
+      "text": "is there is nothing to see here. But I can guarantee you that if there's one even shred of",
+      "start": 3919.74,
+      "duration": 7.920000000000073
+    },
+    {
+      "text": "there is something to see here, it's going to get leaked. And there's going to be another wave,",
+      "start": 3927.66,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "because the stakes are too high. Right? Because you have an internet mob versus the China Hawks",
+      "start": 3933.34,
+      "duration": 6.799999999999727
+    },
+    {
+      "text": "versus who knows all of the different players that are at that play here. I don't know. That's",
+      "start": 3940.14,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "why, as I said before, this is so in the too hard bucket. And so the more people blather on about",
+      "start": 3944.54,
+      "duration": 7.199999999999818
+    },
+    {
+      "text": "superficial bullshit, the more you actually make it harder for him to come back. Okay, so I would",
+      "start": 3951.74,
+      "duration": 7.680000000000291
+    },
+    {
+      "text": "shut the up. And I would let him prepare. And I would hopefully have him nail this and prove",
+      "start": 3959.42,
+      "duration": 7.279999999999745
+    },
+    {
+      "text": "categorically that there's nothing to see here. Then you can actually start to have a structure",
+      "start": 3966.7,
+      "duration": 4.400000000000091
+    },
+    {
+      "text": "conversation. But all these ding-a-ling bottoms up protest bullshit betrays a fundamental",
+      "start": 3971.1,
+      "duration": 7.8400000000001455
+    },
+    {
+      "text": "understanding of what is happening, which is congressional closed door hearings on the record,",
+      "start": 3978.94,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "which could result in some really slippery slope stuff for him, for other people, the company.",
+      "start": 3984.46,
+      "duration": 5.279999999999745
+    },
+    {
+      "text": "And nobody should have an opinion until that's over. Okay, Friedberg, watch your opinion.",
+      "start": 3991.26,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "Given Chamath, it's just admonish everyone from not having one. I'm curious what your take here",
+      "start": 3996.7,
+      "duration": 4.640000000000327
+    },
+    {
+      "text": "and what are your feelings about the situation and the founder being ousted and et cetera.",
+      "start": 4001.34,
+      "duration": 5.199999999999818
+    },
+    {
+      "text": "Yeah, look, what's happened to happen. And can't go back and change the fact that he resigned.",
+      "start": 4006.54,
+      "duration": 6.800000000000182
+    },
+    {
+      "text": "We don't know whether he resigned over concerns about selling chips to China, whether there was",
+      "start": 4014.22,
+      "duration": 5.519999999999982
+    },
+    {
+      "text": "espionage, whether it was based on affairs and violations of codes of conduct. We just don't",
+      "start": 4019.74,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "know. The company's not put out a definitive statement. Jensen has not put out any factual",
+      "start": 4024.62,
+      "duration": 4.559999999999945
+    },
+    {
+      "text": "statements. The government has not put out any factual statements or declarations. There has been",
+      "start": 4029.18,
+      "duration": 5.680000000000291
+    },
+    {
+      "text": "no civil or criminal case that's been filed by the government against the company or by any of",
+      "start": 4034.86,
+      "duration": 6.879999999999654
+    },
+    {
+      "text": "the government regulators against the company. So we are all just reacting to media that we",
+      "start": 4041.74,
+      "duration": 7.600000000000364
+    },
+    {
+      "text": "always say all the time lies to us. So I don't know what to believe. I don't know what's true",
+      "start": 4049.34,
+      "duration": 4.639999999999873
+    },
+    {
+      "text": "or what's not true. There have been no official statements from the company,",
+      "start": 4053.98,
+      "duration": 3.519999999999982
+    },
+    {
+      "text": "from the government, from the regulators, from Jensen regarding any of the facts of the matter.",
+      "start": 4058.46,
+      "duration": 6.0
+    },
+    {
+      "text": "Well, we know there's a report. Well, there are some things we know. There was a report",
+      "start": 4064.46,
+      "duration": 5.8400000000001455
+    },
+    {
+      "text": "that Rubio rewrote. We know that there was a media report. What you were referencing is something",
+      "start": 4070.94,
+      "duration": 7.8400000000001455
+    },
+    {
+      "text": "that someone said. There's a report. I'm not going to react to media anymore.",
+      "start": 4078.78,
+      "duration": 5.839999999999691
+    },
+    {
+      "text": "I don't know what's true. All I know is that the actual people, the first parties that matter here,",
+      "start": 4086.38,
+      "duration": 6.319999999999709
+    },
+    {
+      "text": "government regulators, government agencies, Jensen and the company, none of them have provided any",
+      "start": 4092.7,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "official data or evidence or proclamation. Everything has come through media. I don't believe any of",
+      "start": 4097.5,
+      "duration": 6.319999999999709
+    },
+    {
+      "text": "it. So I don't know what to think. Exactly. I agree with Friedberg. Everybody, if you want him back,",
+      "start": 4103.82,
+      "duration": 4.480000000000473
+    },
+    {
+      "text": "to quote Dave Chappelle, you could just shut the fuck up. I will not give my opinion,",
+      "start": 4109.26,
+      "duration": 6.239999999999782
+    },
+    {
+      "text": "even though that's your best advice, Chamath. I actually think just looking at the totality",
+      "start": 4116.14,
+      "duration": 6.319999999999709
+    },
+    {
+      "text": "of the reports and triangulating on them and knowing what I know about salespeople,",
+      "start": 4122.46,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "this is a case of, and there have been reports of, these servers and cloud providers giving a",
+      "start": 4127.34,
+      "duration": 8.159999999999854
+    },
+    {
+      "text": "backdoor into some of this hardware to Chinese companies. This has always happened where sales",
+      "start": 4135.5,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "of items get flipped and then provided to people. I bet you this is what's going to come out. A",
+      "start": 4141.58,
+      "duration": 4.399999999999636
+    },
+    {
+      "text": "bunch of rogue salespeople in a gray area, resellers on resellers selling this.",
+      "start": 4145.98,
+      "duration": 6.240000000000691
+    },
+    {
+      "text": "And it will wind up. Maybe you should be called as a special witness in December the 1st.",
+      "start": 4152.46,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "Chamath, yours for Countess could come. But this is a podcast, Chamath. What is the role of podcast",
+      "start": 4158.94,
+      "duration": 8.640000000000327
+    },
+    {
+      "text": "in the world? You can look at your dirty paper brown bag of junk and see the future.",
+      "start": 4167.58,
+      "duration": 4.5600000000004
+    },
+    {
+      "text": "Awesome. I don't know jack shit. So I have chosen to shut the fuck up. That's a great choice.",
+      "start": 4172.78,
+      "duration": 5.520000000000437
+    },
+    {
+      "text": "I have chosen to speculate on a podcast, which is my right as an American. We've learned anything",
+      "start": 4178.3,
+      "duration": 6.0
+    },
+    {
+      "text": "over these years is that the goal of podcast is to specialize. You know what I've realized in the",
+      "start": 4184.3,
+      "duration": 4.800000000000182
+    },
+    {
+      "text": "last few weeks? What is an important thing to realize? Here we go. I think it's really important",
+      "start": 4189.1,
+      "duration": 6.559999999999491
+    },
+    {
+      "text": "to try to be right. And when you know, you say, and when you don't, you can guess. And when",
+      "start": 4197.18,
+      "duration": 8.319999999999709
+    },
+    {
+      "text": "there's so much on every single side, it's just what Friedberg said, where it's so clear that you",
+      "start": 4205.5,
+      "duration": 6.800000000000182
+    },
+    {
+      "text": "can't know. Sometimes it's better to just talk about that two weeks ago with the midterms. When",
+      "start": 4212.3,
+      "duration": 9.039999999999964
+    },
+    {
+      "text": "you talked about it on the midterms, and you said, Mia Copa, hey, listen, I got it all wrong.",
+      "start": 4221.34,
+      "duration": 4.0
+    },
+    {
+      "text": "People were really excited about that. I got it wrong. Yeah. But this is a thing where I have",
+      "start": 4225.34,
+      "duration": 7.119999999999891
+    },
+    {
+      "text": "no opinion because it's like the moment of truth has not come yet. It is a few weeks away. And so",
+      "start": 4232.46,
+      "duration": 6.800000000000182
+    },
+    {
+      "text": "what everybody else is persecuting is online virtue signaling nonsense. More speculation. Yeah. And",
+      "start": 4239.26,
+      "duration": 6.960000000000036
+    },
+    {
+      "text": "people are speculating. It doesn't have to be virtue signaling. What Friedberg said, it is",
+      "start": 4246.22,
+      "duration": 2.9600000000000364
+    },
+    {
+      "text": "virtue signaling. What Friedberg said is totally true. Nobody who's in the middle of it has",
+      "start": 4249.18,
+      "duration": 4.1599999999998545
+    },
+    {
+      "text": "said anything on the record. Nobody. Nobody. And so what it is is just a bunch of goofballs on",
+      "start": 4253.34,
+      "duration": 6.800000000000182
+    },
+    {
+      "text": "the sidelines with opinions. Yes. What you just described is what everybody in the industry is",
+      "start": 4260.14,
+      "duration": 6.799999999999272
+    },
+    {
+      "text": "doing. Speculating. Yes. And that is not me. I'm not speculating. I wish him the best.",
+      "start": 4266.94,
+      "duration": 5.280000000000655
+    },
+    {
+      "text": "I'll tell you what I'm speculating on. I'm speculating on the fact that there's a",
+      "start": 4273.1,
+      "duration": 3.519999999999527
+    },
+    {
+      "text": "large scale, unconscious effort to monopolize artificial intelligence, the greatest technology",
+      "start": 4276.62,
+      "duration": 4.960000000000036
+    },
+    {
+      "text": "advancement in human history. And if we don't all fight for the open source movement,",
+      "start": 4281.58,
+      "duration": 6.079999999999927
+    },
+    {
+      "text": "and we don't all fight for competition, the last thing any of us want. And I think Democrats,",
+      "start": 4287.66,
+      "duration": 5.520000000000437
+    },
+    {
+      "text": "Republicans, regardless of your political affiliation or where you sit in the K-shaped economy,",
+      "start": 4293.18,
+      "duration": 4.079999999999927
+    },
+    {
+      "text": "no one should want an oligarchy or oligopoly when it comes to AI. This technology is going",
+      "start": 4297.98,
+      "duration": 7.680000000000291
+    },
+    {
+      "text": "to evolve. It is going to move forward. You are not going to stop it. So try and keep it from",
+      "start": 4306.3,
+      "duration": 4.559999999999491
+    },
+    {
+      "text": "becoming an oligopoly by allowing the proliferation. Here's the numerical receipts.",
+      "start": 4310.86,
+      "duration": 5.200000000000728
+    },
+    {
+      "text": "Today, as we speak right now, now it's $11.42. The S&P 500 is down 1.39%. The VIX, our wall",
+      "start": 4316.86,
+      "duration": 9.11999999999989
+    },
+    {
+      "text": "index, is up 10.83%. Ant is up from the IPO price 18%. You know what the only other company",
+      "start": 4325.98,
+      "duration": 12.1200000000008
+    },
+    {
+      "text": "that's ripping right now is? Palo Alto Networks up 5.86% because they made a huge bet on open",
+      "start": 4338.1,
+      "duration": 5.519999999999527
+    },
+    {
+      "text": "source. Friedberg is right. And the market will reward you. And I think what the market is saying",
+      "start": 4343.62,
+      "duration": 5.520000000000437
+    },
+    {
+      "text": "is it is philosophically right, and it is mathematically right. And I think that that's",
+      "start": 4349.14,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "a really important signal on a day like today. Today is a bloodbath out there, folks. Here's",
+      "start": 4355.06,
+      "duration": 5.6799999999993815
+    },
+    {
+      "text": "your... Oh, go ahead, Nostra Connis. Look into your paper brown bag of soap.",
+      "start": 4360.74,
+      "duration": 4.480000000000473
+    },
+    {
+      "text": "This is more looking at the market heat map, though. This is actually a fact.",
+      "start": 4365.22,
+      "duration": 3.6799999999993815
+    },
+    {
+      "text": "I can't wait to see it, by the way. Why do you think this podcast is number one?",
+      "start": 4369.46,
+      "duration": 5.279999999999745
+    },
+    {
+      "text": "It's because we speculate. Just because you got burned because you touched the stove,",
+      "start": 4374.74,
+      "duration": 4.3200000000006185
+    },
+    {
+      "text": "and I told you that stove's hot, Chamath. Be careful. Be careful if you get so close",
+      "start": 4379.06,
+      "duration": 4.8799999999992
+    },
+    {
+      "text": "to politics. You burnt your hand on the stove, and now all of a sudden you're going to be",
+      "start": 4383.94,
+      "duration": 3.5200000000004366
+    },
+    {
+      "text": "judicious. The ratings are going to tank. That's not what I'm saying. I take speculative",
+      "start": 4387.46,
+      "duration": 3.8400000000001455
+    },
+    {
+      "text": "bets all the time. What I'm saying is I'm risk off because what I'm telling you right now is",
+      "start": 4391.3,
+      "duration": 4.399999999999636
+    },
+    {
+      "text": "the balance of motion in this market is down. It's not up. I'm also smart enough to look at a",
+      "start": 4396.66,
+      "duration": 5.520000000000437
+    },
+    {
+      "text": "market and say, what is it rewarding? It's rewarding the creation of one of 10",
+      "start": 4402.18,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "mega-corps. So we're going to have a mag 10. We know what the mag four or five.",
+      "start": 4409.3,
+      "duration": 4.0
+    },
+    {
+      "text": "These guys make it a mag six. Okay. So they rewarded that today in a market where",
+      "start": 4414.34,
+      "duration": 5.599999999999454
+    },
+    {
+      "text": "vol is up, people are scared, and they're mostly risk off, and they reward what Friedberg said,",
+      "start": 4419.94,
+      "duration": 6.800000000000182
+    },
+    {
+      "text": "which is it is very important to now make big bets, use your cash flow, use your stock,",
+      "start": 4427.46,
+      "duration": 6.800000000000182
+    },
+    {
+      "text": "get in the game, put on the pads, get on the field, hit somebody. I'm happy to observe that.",
+      "start": 4434.26,
+      "duration": 3.8400000000001455
+    },
+    {
+      "text": "I think it's wonderful for Nikesh. It's a brilliant thing that he did. He probably",
+      "start": 4438.1,
+      "duration": 3.6799999999993815
+    },
+    {
+      "text": "has a really good chance of being a trillion-dollar business and building this thing over the next",
+      "start": 4441.78,
+      "duration": 4.0
+    },
+    {
+      "text": "decade. Amazing. I wish him all the best. I am principally risk off because I think there's a lot",
+      "start": 4445.86,
+      "duration": 6.400000000000546
+    },
+    {
+      "text": "yet to come. I'll put it in three buckets. Economically, there's a lot yet to come.",
+      "start": 4453.06,
+      "duration": 4.799999999999272
+    },
+    {
+      "text": "Specifically around AI trade, we don't even know what the first-order effects are because",
+      "start": 4458.82,
+      "duration": 4.880000000000109
+    },
+    {
+      "text": "we haven't gone through these congressional hearings. Once you get past those hearings,",
+      "start": 4463.7,
+      "duration": 3.2799999999997453
+    },
+    {
+      "text": "then you're going to figure out what happens when the thread gets pulled out of the bank",
+      "start": 4466.98,
+      "duration": 2.880000000000109
+    },
+    {
+      "text": "of Nvidia. We don't know what the implications are for the bank of Nvidia being closed.",
+      "start": 4469.86,
+      "duration": 3.8400000000001455
+    },
+    {
+      "text": "I think the tenor of how closed or open it is will be more obvious after those congressional hearings.",
+      "start": 4474.42,
+      "duration": 5.8400000000001455
+    },
+    {
+      "text": "Not before and not during. Then the third thing is we're in a situation where everything seems to",
+      "start": 4480.26,
+      "duration": 5.8400000000001455
+    },
+    {
+      "text": "be going down. We're getting cyber hacked every day. Everything is shut down. We're being told to",
+      "start": 4486.1,
+      "duration": 4.0
+    },
+    {
+      "text": "prep for three days and you don't think the balance of risks are down? Your paper bag tells",
+      "start": 4490.1,
+      "duration": 3.9200000000000728
+    },
+    {
+      "text": "you it's going to go up? Oh, no, it's not a paper bag. I'm looking at the fundamentals of",
+      "start": 4494.02,
+      "duration": 4.719999999999345
+    },
+    {
+      "text": "your company. Your plastic trash bag tells you that things are going up. No, no, no, no.",
+      "start": 4498.74,
+      "duration": 4.400000000000546
+    },
+    {
+      "text": "That's a Louis Vuitton bag. What is no Strakhanis used to look at the future? I'll tell you. I'll",
+      "start": 4503.14,
+      "duration": 5.759999999999309
+    },
+    {
+      "text": "give you the three things. Products, products, management, and market. That's how I make my",
+      "start": 4508.9,
+      "duration": 5.039999999999964
+    },
+    {
+      "text": "bets. Are these... No, it's a plastic bag. No, you have a dirty brown lunch bag. You're a",
+      "start": 4513.94,
+      "duration": 6.640000000000327
+    },
+    {
+      "text": "brown bag. It's a tattered, shaken bag. No, trust me, no Strakhanis sees the future. And",
+      "start": 4520.58,
+      "duration": 5.920000000000073
+    },
+    {
+      "text": "the future is who's shipping gray products. You don't see sh**. I see it all. You don't see",
+      "start": 4526.5,
+      "duration": 4.1599999999998545
+    },
+    {
+      "text": "sh**. I buy Nvidia 150 not a investment device. I can't wait to see you. I can't wait to see",
+      "start": 4531.38,
+      "duration": 4.720000000000255
+    },
+    {
+      "text": "you in Vegas, everybody. I love you, besties. Bye-bye. Love you, boys. Bye-bye.",
+      "start": 4536.1,
+      "duration": 9.6299999999992
+    }
+  ]
+}
