@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T06:48:50Z",
+  "updated_at": "2026-11-22T19:40:47Z",
   "episodes": {
     "2v8b062QzTI": {
       "video_id": "2v8b062QzTI",
@@ -674,6 +674,20 @@
       "duration_seconds": null,
       "reason": "duration_unknown",
       "seen_at": "2026-11-22T06:48:50Z"
+    },
+    "jHOvCD1nGEQ": {
+      "video_id": "jHOvCD1nGEQ",
+      "title": "Chamath: The Market is BAD for Stocks Right Now",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-22T19:40:46Z"
+    },
+    "QjDMSL4PpPE": {
+      "video_id": "QjDMSL4PpPE",
+      "title": "Chamath Predicts the Rise of AI’s Magnificent 10: “Dirt to Application”",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-22T19:40:47Z"
     }
   }
 }
