@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T19:16:40Z",
+  "updated_at": "2026-11-22T06:48:50Z",
   "episodes": {
     "2v8b062QzTI": {
       "video_id": "2v8b062QzTI",
@@ -667,6 +667,13 @@
       "duration_seconds": null,
       "reason": "duration_unknown",
       "seen_at": "2026-11-21T19:16:40Z"
+    },
+    "QNCd8UHCpFQ": {
+      "video_id": "QNCd8UHCpFQ",
+      "title": "David Friedberg: The AI Job Loss Narrative is Bullsh*t",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-22T06:48:50Z"
     }
   }
 }
