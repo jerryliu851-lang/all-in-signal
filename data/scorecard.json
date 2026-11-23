@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "updated_at": "2026-11-21T07:25:25Z",
+  "updated_at": "2026-11-23T23:55:07Z",
   "counting_rule": "own_view predictions only; reported views and devil's advocate excluded",
   "hosts": {
     "Chamath Palihapitiya": {
@@ -352,10 +352,10 @@
       "host": "Jason Calacanis",
       "overall": {
         "total": 50,
-        "resolved": 4,
-        "correct": 4,
+        "resolved": 5,
+        "correct": 5,
         "incorrect": 0,
-        "pending": 46,
+        "pending": 45,
         "unresolvable": 0,
         "accuracy": 1.0
       },
@@ -389,12 +389,12 @@
         },
         "company-specific": {
           "total": 14,
-          "resolved": 0,
-          "correct": 0,
+          "resolved": 1,
+          "correct": 1,
           "incorrect": 0,
-          "pending": 14,
+          "pending": 13,
           "unresolvable": 0,
-          "accuracy": null
+          "accuracy": 1.0
         },
         "tech": {
           "total": 2,
@@ -436,10 +436,10 @@
         },
         "medium": {
           "total": 19,
-          "resolved": 2,
-          "correct": 2,
+          "resolved": 3,
+          "correct": 3,
           "incorrect": 0,
-          "pending": 17,
+          "pending": 16,
           "unresolvable": 0,
           "accuracy": 1.0
         },
