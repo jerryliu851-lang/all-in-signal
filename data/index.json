@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T19:40:47Z",
+  "updated_at": "2026-11-24T22:27:07Z",
   "episodes": {
     "2v8b062QzTI": {
       "video_id": "2v8b062QzTI",
@@ -688,6 +688,13 @@
       "duration_seconds": null,
       "reason": "duration_unknown",
       "seen_at": "2026-11-22T19:40:47Z"
+    },
+    "o6KIjtkRdOI": {
+      "video_id": "o6KIjtkRdOI",
+      "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
+      "duration_seconds": null,
+      "reason": "duration_unknown",
+      "seen_at": "2026-11-24T22:27:07Z"
     }
   }
 }
